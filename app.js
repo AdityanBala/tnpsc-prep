@@ -572,7 +572,7 @@
       case 'intro': go({ r: 'intro', day: day, id: id }); break;
       case 'read':
         var key = 'd' + pad(route.day, 3) + '-' + route.id;
-        if (!reads[key] && !VIEW) { reads[key] = true; LS.set('reads', reads); queue('reads/' + key + '.json', { day: route.day, subject: route.id, readAt: new Date().toISOString() }); }
+        if (!reads[key]) { reads[key] = true; if (!VIEW) LS.set('reads', reads); queue('reads/' + key + '.json', { day: route.day, subject: route.id, readAt: new Date().toISOString() }); }
         toast(t('readSaved')); history.back(); break;
       case 'start': await beginRun(route.day, route.id, null); go({ r: 'run' }, true); break;
       case 'resume': var ip = LS.get('inprog', null); if (ip) { await beginRun(ip.day, ip.tid, ip); go({ r: 'run' }); } break;
