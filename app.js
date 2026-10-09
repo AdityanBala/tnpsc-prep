@@ -101,6 +101,13 @@
     waitP: ['இதுவரை உள்ள எல்லாப் பாடங்களையும் முடித்துவிட்டீர்கள். புதிய பாடம் நாளை காலை இங்கே வரும்.', 'You have finished every lesson so far. The new lesson will appear here tomorrow morning.'],
     doneToday: ['நாள் {0} முடிந்தது ✓', 'Day {0} complete ✓'],
     older: ['முந்தைய நாள்கள்', 'Earlier days'],
+    ttTitle: ['பாடத் திட்டம்', 'Study timetable'],
+    ttHelp: ['ஒரு வாரத்தைத் தொட்டால் அதன் நாள்கள் தெரியும். முடித்த நாளைத் தொட்டு மீண்டும் படிக்கலாம்; 🔒 உள்ள நாள்கள் பின்னர் திறக்கும்.', 'Tap a week to see its days. Tap a finished day to study it again; days with 🔒 open later.'],
+    weekN: ['வாரம் {0}', 'Week {0}'],
+    dayRange: ['நாள் {0}–{1}', 'Days {0}–{1}'],
+    todayTag: ['இன்று', 'Today'],
+    locked: ['இன்னும் திறக்கவில்லை', 'Not open yet'],
+    lessonOf: ['பாட நாள் {0} / {1}', 'Lesson day {0} of {1}'],
     daysDone: ['முடித்த நாள்கள்', 'Days done'], avg: ['சராசரி', 'Average'], left: ['மீதி நாள்கள்', 'Days left'],
     bySubject: ['பாடவாரியாக', 'By subject'],
     history: ['எழுதிய தேர்வுகள்', 'Tests taken'],
@@ -234,7 +241,7 @@
   function isPending(name) { return pending.some(function (p) { return p.path === 'attempts/' + name; }); }
 
   /* ---------- content ---------- */
-  var index = null, dayCache = {};
+  var index = null, timetable = null, dayCache = {};
   async function getJSON(url) {
     try {
       var r = await fetch(url + '?t=' + Date.now(), { cache: 'no-store' });
@@ -366,10 +373,51 @@
     }
     return h;
   }
+  function olderHtml(cur) {
+    var older = index.days.filter(function (x) { return x.n < cur; }).sort(function (a, b) { return b.n - a.n; });
+    if (older.length) {
+      h += '<div class="card"><h3>' + t('older') + '</h3>';
+      older.forEach(function (x) { var a = bestOf(dailyOf(x.n)); h += '<button class="item" data-act="day" data-day="' + x.n + '"><span class="t"><b>' + t('day', x.n) + '</b><span>' + esc(tx(x.title)) + '</span></span><span class="s">' + (a ? a.correct + ' / ' + a.total : '') + ' ›</span></button>'; });
+      h += '</div>';
+    }
+    return '';
+  }
+  // The whole plan, week by week. Finished days and today open; later days show their topics but stay locked.
+  var openWeeks = {};
+  function dayRow(d, cur) {
+    var state = d.n < cur ? 'done' : d.n === cur ? 'now' : 'lock', a = bestOf(dailyOf(d.n));
+    var body = '<span class="dn">' + t('day', d.n) + '</span>';
+    if (d.kind === 'lesson') SUBJECTS.forEach(function (sub) { body += '<span class="tl"><i>' + t(sub) + '</i>' + esc(tx(d[sub])) + '</span>'; });
+    else body += '<span class="tl">' + esc(tx(d.note || d.title)) + '</span>';
+    var side = state === 'done' ? '<span class="st ok">✓' + (a ? '<small>' + a.correct + ' / ' + a.total + '</small>' : '') + '</span>'
+      : state === 'now' ? '<span class="st now">' + t('todayTag') + '</span>' : '<span class="st" aria-label="' + t('locked') + '">🔒</span>';
+    var written = index.days.some(function (x) { return x.n === d.n; });
+    if (state === 'lock' || !written) return '<div class="trow ' + (state === 'lock' ? 'lock' : state) + '"><span class="tb">' + body + '</span>' + side + '</div>';
+    return '<button class="trow ' + state + '" data-act="' + (state === 'now' ? 'home' : 'day') + '" data-day="' + d.n + '"><span class="tb">' + body + '</span>' + side + '</button>';
+  }
+  function timetableHtml(cur) {
+    var h = '<div class="card tt"><h3>' + t('ttTitle') + '</h3><p class="sub">' + t('ttHelp') + '</p>';
+    timetable.weeks.forEach(function (w) {
+      var state = w.to < cur ? 'done' : w.from <= cur ? 'now' : 'lock';
+      var open = openWeeks[w.n] != null ? openWeeks[w.n] : state === 'now';
+      h += '<div class="wk ' + state + '"><button class="wh" data-act="week" data-i="' + w.n + '" aria-expanded="' + open + '"><span class="tb"><b>' + t('weekN', w.n) + ' <small>' + t('dayRange', w.from, w.to) + '</small></b>' +
+        '<span class="wt">' + esc(tx(w.title)) + '</span></span><span class="st">' + (state === 'done' ? '<span class="ok">✓</span>' : state === 'lock' ? '🔒' : '') + '<span class="chev">' + (open ? '▲' : '▼') + '</span></span></button>';
+      if (open) h += '<div class="wd"><p class="ws">' + esc(tx(w.summary)) + '</p>' + w.days.map(function (d) { return dayRow(d, cur); }).join('') + '</div>';
+      h += '</div>';
+    });
+    var r = timetable.revision, rstate = cur >= r.from ? 'now' : 'lock', ropen = openWeeks.rev != null ? openWeeks.rev : rstate === 'now';
+    h += '<div class="wk ' + rstate + '"><button class="wh" data-act="week" data-i="rev" aria-expanded="' + ropen + '"><span class="tb"><b>' + esc(tx(r.title)) + '</b><span class="wt">' + esc(tx(r.summary)) + '</span></span><span class="st">' + (rstate === 'lock' ? '🔒' : '') + '<span class="chev">' + (ropen ? '▲' : '▼') + '</span></span></button>';
+    if (ropen) {
+      h += '<div class="wd"><ul class="rp">' + r.points.map(function (p) { return '<li>' + esc(tx(p)) + '</li>'; }).join('') + '</ul>';
+      index.days.filter(function (x) { return x.n >= r.from && x.n <= cur; }).forEach(function (x) { h += dayRow({ n: x.n, kind: 'test', title: x.title }, cur); });
+      h += '</div>';
+    }
+    return h + '</div></div>';
+  }
   async function homeScreen() {
     var cur = currentDay(), h = top(t('appTitle'), false);
     var left = daysBetween(istDate(), CFG.examDate);
-    if (left >= 0) h += '<p class="count">' + t('daysLeft', left) + '</p>';
+    if (left >= 0) h += '<p class="count">' + t('daysLeft', left) + (timetable && cur <= timetable.learningDays ? ' · ' + t('lessonOf', cur, timetable.learningDays) : '') + '</p>';
     var ip = LS.get('inprog', null);
     if (ip && !VIEW) h += '<div class="banner">' + t('resume') + '<button data-act="resume">' + t('resumeBtn') + '</button></div>';
     var prevDone = dailyOf(cur - 1);
@@ -382,12 +430,7 @@
       h += '<div class="card"><h2>' + t('waitT') + '</h2><p>' + t('waitP') + '</p></div>';
     }
     if (due.length) h += '<div class="card"><h3>' + t('revTitle') + '</h3><p class="sub">' + t('revCard', due.length) + '</p><button class="btn primary" data-act="revision">' + t('revBtn') + '</button></div>';
-    var older = index.days.filter(function (x) { return x.n < cur; }).sort(function (a, b) { return b.n - a.n; });
-    if (older.length) {
-      h += '<div class="card"><h3>' + t('older') + '</h3>';
-      older.forEach(function (x) { var a = bestOf(dailyOf(x.n)); h += '<button class="item" data-act="day" data-day="' + x.n + '"><span class="t"><b>' + t('day', x.n) + '</b><span>' + esc(tx(x.title)) + '</span></span><span class="s">' + (a ? a.correct + ' / ' + a.total : '') + ' ›</span></button>'; });
-      h += '</div>';
-    }
+    h += timetable ? timetableHtml(cur) : olderHtml(cur);
     return h + nav('home');
   }
   async function dayScreen() {
@@ -599,6 +642,7 @@
       case 'home': go({ r: 'home' }); break;
       case 'progress': go({ r: 'progress' }); break;
       case 'day': go({ r: 'day', day: day }); break;
+      case 'week': var wk = b.getAttribute('data-i'); openWeeks[wk] = b.getAttribute('aria-expanded') !== 'true'; render(true); break;
       case 'notes': go({ r: 'notes', day: day, id: id }); break;
       case 'intro': go({ r: 'intro', day: day, id: id }); break;
       case 'read':
@@ -631,6 +675,7 @@
     try { index = await getJSON('content/index.json'); } catch (e) {
       app.innerHTML = '<div class="card" style="margin-top:24px"><p>' + t('loadFail') + '</p><button class="btn primary" data-act="reload">' + t('tryAgain') + '</button></div>'; return;
     }
+    try { timetable = await getJSON('content/timetable.json'); } catch (e) { timetable = null; }
     if (VIEW) { attempts = {}; reads = {}; pending = []; }
     if (Object.keys(attempts).length || !KEY || PREVIEW) render();
     await sync();

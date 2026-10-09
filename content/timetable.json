@@ -1,0 +1,1229 @@
+{
+ "schema": 1,
+ "learningDays": 70,
+ "weeks": [
+  {
+   "n": 1,
+   "from": 1,
+   "to": 7,
+   "title": {
+    "ta": "இலக்கண அடிப்படைகள் · பண்டைத் தமிழகம்",
+    "en": "Grammar basics · Ancient Tamil Nadu"
+   },
+   "summary": {
+    "ta": "எழுத்து, சொல், புணர்ச்சி; சங்க காலம் முதல் நாயக்கர் காலம் வரை; சுருக்குதல், விழுக்காடு",
+    "en": "Letters, words, sandhi; Sangam age to the Nayak period; simplification, percentage"
+   },
+   "days": [
+    {
+     "n": 1,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "எழுத்து இலக்கணம்: எழுத்து வகைகள், மாத்திரை, குற்றியலுகரம்",
+      "en": "Letters: kinds of letters, mathirai, kutriyalugaram"
+     },
+     "gs": {
+      "ta": "சங்க காலம்: மூவேந்தர், ஐந்திணை, சங்க இலக்கியம்",
+      "en": "Sangam age: three kings, five thinais, Sangam literature"
+     },
+     "apt": {
+      "ta": "சுருக்குதல்: செயல் வரிசை, முற்றொருமைகள், வகுபடும் தன்மை",
+      "en": "Simplification: order of operations, identities, divisibility"
+     }
+    },
+    {
+     "n": 2,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "சொல் இலக்கணம்: சொல் வகைகள், பெயர்ச்சொல், திணை, பால், பகுபதம்",
+      "en": "Words: word types, nouns, thinai, gender, word parts"
+     },
+     "gs": {
+      "ta": "சங்க காலச் சமூகம், வணிகம், அகழாய்வு இடங்கள்",
+      "en": "Sangam society, trade, excavation sites"
+     },
+     "apt": {
+      "ta": "விழுக்காடு: அடிப்படை விதிகள், பின்னங்கள், குறுக்குவழிகள்",
+      "en": "Percentage: basic rules, fractions, shortcuts"
+     }
+    },
+    {
+     "n": 3,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "வினைச்சொல்: காலம், முற்று, பெயரெச்சம், வினையெச்சம்",
+      "en": "Verbs: tense, finite verbs, participles"
+     },
+     "gs": {
+      "ta": "திருக்குறள்: அமைப்பு, சிறப்புப் பெயர்கள், முக்கியக் குறள்கள்",
+      "en": "Thirukkural: structure, titles, key couplets"
+     },
+     "apt": {
+      "ta": "விழுக்காடு: பயன்பாட்டுக் கணக்குகள்",
+      "en": "Percentage: applied problems"
+     }
+    },
+    {
+     "n": 4,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "புணர்ச்சி 1: இயல்பு, விகாரம், உடம்படுமெய்",
+      "en": "Sandhi 1: natural and changed joining, glide letters"
+     },
+     "gs": {
+      "ta": "களப்பிரர், பல்லவர்: மன்னர்கள், கலை, மாமல்லபுரம்",
+      "en": "Kalabhras and Pallavas: kings, art, Mamallapuram"
+     },
+     "apt": {
+      "ta": "பின்னங்கள், தசம எண்கள்",
+      "en": "Fractions and decimals"
+     }
+    },
+    {
+     "n": 5,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "புணர்ச்சி 2: மெய்யீற்றுப் புணர்ச்சி, வல்லினம் மிகும், மிகா இடங்கள்",
+      "en": "Sandhi 2: consonant endings, where the hard consonant doubles"
+     },
+     "gs": {
+      "ta": "பிற்காலச் சோழர்: ராஜராஜன், ராஜேந்திரன், குடவோலை முறை, கோயில்கள்",
+      "en": "Later Cholas: Rajaraja, Rajendra, kudavolai system, temples"
+     },
+     "apt": {
+      "ta": "வர்க்கம், வர்க்கமூலம், கனம், கனமூலம்",
+      "en": "Squares, square roots, cubes, cube roots"
+     }
+    },
+    {
+     "n": 6,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "வேற்றுமை, தொகைநிலைத் தொடர்கள், ஆகுபெயர்",
+      "en": "Cases, compound phrases, aagupeyar"
+     },
+     "gs": {
+      "ta": "பிற்காலப் பாண்டியர், விஜயநகர–நாயக்கர் காலம், தமிழகக் கலை",
+      "en": "Later Pandyas, Vijayanagara and Nayak period, arts of Tamil Nadu"
+     },
+     "apt": {
+      "ta": "சுருக்குதல், விழுக்காடு கலப்புப் பயிற்சி",
+      "en": "Mixed practice: simplification and percentage"
+     }
+    },
+    {
+     "n": 7,
+     "kind": "test",
+     "note": {
+      "ta": "வாரத் தேர்வு: முதல் வாரப் பாடங்களில் 100 வினாக்கள்",
+      "en": "Weekly test: 100 questions on week 1"
+     }
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "from": 8,
+   "to": 14,
+   "title": {
+    "ta": "இலக்கணம் (தொடர்ச்சி), சொல்லகராதி · தமிழக இயக்கங்கள்",
+    "en": "Grammar (continued), vocabulary · Movements of Tamil Nadu"
+   },
+   "summary": {
+    "ta": "யாப்பு, அணி, சொல்லகராதி; சீர்திருத்தவாதிகள், விடுதலைப் போராட்டம்; மீ.பொ.வ, மீ.சி.ம, விகிதம்",
+    "en": "Prosody, figures of speech, vocabulary; reformers, freedom struggle; HCF, LCM, ratio"
+   },
+   "days": [
+    {
+     "n": 8,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "தொகாநிலைத் தொடர்கள், வழு, வழாநிலை, வழுவமைதி",
+      "en": "Uncompounded phrases, errors and accepted usage"
+     },
+     "gs": {
+      "ta": "தொடக்க காலக் கிளர்ச்சிகள்: கட்டபொம்மன், மருது சகோதரர்கள், வேலுநாச்சியார், வேலூர்ப் புரட்சி",
+      "en": "Early revolts: Kattabomman, Marudhu brothers, Velu Nachiyar, Vellore Mutiny"
+     },
+     "apt": {
+      "ta": "காரணிகள், மடங்குகள், பகா எண்கள்",
+      "en": "Factors, multiples, prime numbers"
+     }
+    },
+    {
+     "n": 9,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "வினா வகைகள், விடை வகைகள், பொருள்கோள்",
+      "en": "Kinds of questions and answers, porulkol"
+     },
+     "gs": {
+      "ta": "சமூக சீர்திருத்தவாதிகள்: வள்ளலார், வைகுண்ட சுவாமிகள், அயோத்திதாசர், இரட்டைமலை சீனிவாசன்",
+      "en": "Social reformers: Vallalar, Vaikunda Swamigal, Iyothee Thass, Rettamalai Srinivasan"
+     },
+     "apt": {
+      "ta": "மீப்பெரு பொது வகுத்தி (மீ.பொ.வ)",
+      "en": "Highest common factor (HCF)"
+     }
+    },
+    {
+     "n": 10,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "யாப்பு: அசை, சீர், தளை, அடி, தொடை; பா வகைகள்",
+      "en": "Prosody: asai, seer, thalai, adi, thodai; verse forms"
+     },
+     "gs": {
+      "ta": "நீதிக்கட்சி: தோற்றம், ஆட்சி, வகுப்புவாரி இடஒதுக்கீடு",
+      "en": "Justice Party: origin, rule, communal reservation"
+     },
+     "apt": {
+      "ta": "மீச்சிறு பொது மடங்கு (மீ.சி.ம)",
+      "en": "Lowest common multiple (LCM)"
+     }
+    },
+    {
+     "n": 11,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "அணி: உவமை, உருவகம், பிற முக்கிய அணிகள்",
+      "en": "Figures of speech: simile, metaphor and other main ones"
+     },
+     "gs": {
+      "ta": "பெரியார்: சுயமரியாதை இயக்கம், வைக்கம் போராட்டம், திராவிடர் கழகம்",
+      "en": "Periyar: Self-Respect Movement, Vaikom struggle, Dravidar Kazhagam"
+     },
+     "apt": {
+      "ta": "மீ.பொ.வ, மீ.சி.ம பயன்பாட்டுக் கணக்குகள்",
+      "en": "HCF and LCM: applied problems"
+     }
+    },
+    {
+     "n": 12,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "சொல்லகராதி 1: எதிர்ச்சொல், ஒத்த சொல், ஓரெழுத்து ஒருமொழி",
+      "en": "Vocabulary 1: opposites, synonyms, one-letter words"
+     },
+     "gs": {
+      "ta": "விடுதலைப் போராட்டத்தில் தமிழகம்: வ.உ.சி., பாரதியார், ராஜாஜி, காமராசர், பெண் போராளிகள்",
+      "en": "Tamil Nadu in the freedom struggle: V.O.C., Bharathiyar, Rajaji, Kamarajar, women fighters"
+     },
+     "apt": {
+      "ta": "விகிதம்",
+      "en": "Ratio"
+     }
+    },
+    {
+     "n": 13,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "சொல்லகராதி 2: ஒலி வேறுபாடு (ல, ள, ழ; ர, ற; ண, ந, ன), பிறமொழிச் சொல் நீக்கம், பிழை திருத்தம்",
+      "en": "Vocabulary 2: similar-sounding letters, replacing loan words, error correction"
+     },
+     "gs": {
+      "ta": "திராவிட இயக்கம், அண்ணா, மொழிப் போராட்டம், பெண் சீர்திருத்தவாதிகள்",
+      "en": "Dravidian movement, Anna, language struggle, women reformers"
+     },
+     "apt": {
+      "ta": "விகிதசமம், நேர் மாறல், எதிர் மாறல்",
+      "en": "Proportion, direct and inverse variation"
+     }
+    },
+    {
+     "n": 14,
+     "kind": "test",
+     "note": {
+      "ta": "வாரத் தேர்வு: தமிழ்ப் பகுதி, 100 வினாக்கள்",
+      "en": "Weekly test: Tamil part, 100 questions"
+     }
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "from": 15,
+   "to": 21,
+   "title": {
+    "ta": "தொடர் இலக்கணம், எழுதும் திறன் · அரசியலமைப்பு 1",
+    "en": "Sentence grammar, writing skills · Constitution 1"
+   },
+   "summary": {
+    "ta": "வாக்கிய வகைகள், இலக்கணக் குறிப்பு, எழுதும் திறன்; முகப்புரை முதல் நாடாளுமன்றம் வரை; தனிவட்டி, கூட்டுவட்டி",
+    "en": "Sentence types, grammatical notes, writing skills; Preamble to Parliament; simple and compound interest"
+   },
+   "days": [
+    {
+     "n": 15,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "தொடர் அமைப்பு: எழுவாய், பயனிலை, செயப்படுபொருள்; தன்வினை, பிறவினை; செய்வினை, செயப்பாட்டுவினை",
+      "en": "Sentence parts: subject, predicate, object; active and passive, causative"
+     },
+     "gs": {
+      "ta": "அரசியலமைப்பு உருவாக்கம், சிறப்புக் கூறுகள், முகப்புரை",
+      "en": "Making of the Constitution, salient features, Preamble"
+     },
+     "apt": {
+      "ta": "தனிவட்டி: அடிப்படை",
+      "en": "Simple interest: basics"
+     }
+    },
+    {
+     "n": 16,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "வாக்கிய வகைகள்: தனி, தொடர், கலவை; நேர்க்கூற்று, அயற்கூற்று",
+      "en": "Sentence types: simple, compound, complex; direct and indirect speech"
+     },
+     "gs": {
+      "ta": "ஒன்றியமும் மாநிலங்களும், குடியுரிமை, அடிப்படை உரிமைகள்",
+      "en": "Union and states, citizenship, fundamental rights"
+     },
+     "apt": {
+      "ta": "தனிவட்டி: பயன்பாட்டுக் கணக்குகள்",
+      "en": "Simple interest: applied problems"
+     }
+    },
+    {
+     "n": 17,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "இலக்கணக் குறிப்பு அறிதல், பகுபத உறுப்பிலக்கணம்",
+      "en": "Identifying grammatical notes, parts of a divisible word"
+     },
+     "gs": {
+      "ta": "வழிகாட்டு நெறிமுறைகள், அடிப்படைக் கடமைகள்",
+      "en": "Directive principles, fundamental duties"
+     },
+     "apt": {
+      "ta": "கூட்டுவட்டி: அடிப்படை",
+      "en": "Compound interest: basics"
+     }
+    },
+    {
+     "n": 18,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "எழுதும் திறன் 1: சொற்களை ஒழுங்குபடுத்துதல், பொருத்தமான சொல், இணைப்புச் சொற்கள்",
+      "en": "Writing skills 1: ordering words, right word, connectives"
+     },
+     "gs": {
+      "ta": "குடியரசுத் தலைவர், துணைக் குடியரசுத் தலைவர்",
+      "en": "President and Vice-President"
+     },
+     "apt": {
+      "ta": "கூட்டுவட்டி: அரையாண்டுக் கணக்கீடு, தனிவட்டியுடன் வேறுபாடு",
+      "en": "Compound interest: half-yearly, difference from simple interest"
+     }
+    },
+    {
+     "n": 19,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "எழுதும் திறன் 2: பிரித்தெழுதுதல், சேர்த்தெழுதுதல், நிறுத்தற்குறிகள், அகர வரிசை, வேர்ச்சொல் வடிவங்கள்",
+      "en": "Writing skills 2: splitting and joining words, punctuation, alphabetical order, root-word forms"
+     },
+     "gs": {
+      "ta": "பிரதமர், அமைச்சரவை, தலைமை வழக்குரைஞர்",
+      "en": "Prime Minister, Council of Ministers, Attorney General"
+     },
+     "apt": {
+      "ta": "வட்டிக் கணக்குகள்: கலப்புப் பயிற்சி",
+      "en": "Interest: mixed practice"
+     }
+    },
+    {
+     "n": 20,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "இலக்கணம் திருப்புதல்: அலகிடுதல், அணி, பொது வினாக்கள்",
+      "en": "Grammar revision: scansion, figures of speech, general questions"
+     },
+     "gs": {
+      "ta": "நாடாளுமன்றம்: மக்களவை, மாநிலங்களவை, சட்டம் இயற்றும் முறை",
+      "en": "Parliament: Lok Sabha, Rajya Sabha, how a law is made"
+     },
+     "apt": {
+      "ta": "விகிதம், விழுக்காடு, வட்டி கலப்புப் பயிற்சி",
+      "en": "Mixed practice: ratio, percentage, interest"
+     }
+    },
+    {
+     "n": 21,
+     "kind": "test",
+     "note": {
+      "ta": "வாரத் தேர்வு: 1–3 வாரப் பொது அறிவு, 75 வினாக்கள்",
+      "en": "Weekly test: General Studies of weeks 1–3, 75 questions"
+     }
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "from": 22,
+   "to": 28,
+   "title": {
+    "ta": "இலக்கியம், தமிழ் அறிஞர்கள் · அரசியலமைப்பு 2",
+    "en": "Literature, Tamil scholars · Constitution 2"
+   },
+   "summary": {
+    "ta": "அறநூல்கள், சங்க நூல்கள், காப்பியங்கள், அறிஞர்கள்; மாநில அரசு, நீதித்துறை, உள்ளாட்சி; பரப்பளவு, கன அளவு",
+    "en": "Ethical works, Sangam works, epics, scholars; state government, judiciary, local bodies; area, volume"
+   },
+   "days": [
+    {
+     "n": 22,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருக்குறள் பாடப்பகுதிகள், அறநூல்கள்: நாலடியார், பழமொழி நானூறு, திரிகடுகம், ஔவையார் நூல்கள்",
+      "en": "Thirukkural portions, ethical works: Naladiyar, Pazhamozhi Nanuru, Thirikadugam, Avvaiyar"
+     },
+     "gs": {
+      "ta": "மாநில அரசு: ஆளுநர், முதலமைச்சர், சட்டமன்றம்",
+      "en": "State government: Governor, Chief Minister, Legislature"
+     },
+     "apt": {
+      "ta": "பரப்பளவு: சதுரம், செவ்வகம், முக்கோணம்",
+      "en": "Area: square, rectangle, triangle"
+     }
+    },
+    {
+     "n": 23,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "எட்டுத்தொகை, பத்துப்பாட்டு: நூல்கள், புலவர்கள், சிறப்புகள்",
+      "en": "Ettuthogai and Pathuppattu: works, poets, features"
+     },
+     "gs": {
+      "ta": "நீதித்துறை: உச்ச நீதிமன்றம், உயர் நீதிமன்றம், நீதிப்பேராணைகள்",
+      "en": "Judiciary: Supreme Court, High Courts, writs"
+     },
+     "apt": {
+      "ta": "பரப்பளவு: வட்டம், இணைகரம், சரிவகம், சாய்சதுரம்",
+      "en": "Area: circle, parallelogram, trapezium, rhombus"
+     }
+    },
+    {
+     "n": 24,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "ஐம்பெருங்காப்பியங்கள், ஐஞ்சிறுகாப்பியங்கள், கம்பராமாயணம், பெரியபுராணம்",
+      "en": "The five great and five minor epics, Kamba Ramayanam, Periya Puranam"
+     },
+     "gs": {
+      "ta": "உள்ளாட்சி: 73, 74-ஆம் திருத்தங்கள், ஊராட்சி அமைப்பு",
+      "en": "Local government: 73rd and 74th Amendments, panchayat system"
+     },
+     "apt": {
+      "ta": "சுற்றளவு; பாதை, வேலி கணக்குகள்",
+      "en": "Perimeter; path and fencing problems"
+     }
+    },
+    {
+     "n": 25,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "பக்தி இலக்கியம், சிற்றிலக்கியங்கள்: பரணி, குறவஞ்சி, பள்ளு, பிள்ளைத்தமிழ், தூது, உலா",
+      "en": "Devotional literature, minor forms: Parani, Kuravanji, Pallu, Pillaitamil, Thoothu, Ula"
+     },
+     "gs": {
+      "ta": "தேர்தல்கள், தேர்தல் ஆணையம், அரசியலமைப்பு அமைப்புகள்",
+      "en": "Elections, Election Commission, constitutional bodies"
+     },
+     "apt": {
+      "ta": "கன அளவு: கனசதுரம், கனசெவ்வகம்",
+      "en": "Volume: cube, cuboid"
+     }
+    },
+    {
+     "n": 26,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "தமிழ் அறிஞர்கள் 1: பாரதியார், பாரதிதாசன், நாமக்கல் கவிஞர், கவிமணி",
+      "en": "Tamil scholars 1: Bharathiyar, Bharathidasan, Namakkal Kavignar, Kavimani"
+     },
+     "gs": {
+      "ta": "மத்திய–மாநில உறவுகள், அவசரநிலை, முக்கியத் திருத்தங்கள், அட்டவணைகள்",
+      "en": "Centre–state relations, emergency, key amendments, schedules"
+     },
+     "apt": {
+      "ta": "கன அளவு: உருளை, கூம்பு, கோளம்",
+      "en": "Volume: cylinder, cone, sphere"
+     }
+    },
+    {
+     "n": 27,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "தமிழ் அறிஞர்கள் 2: உ.வே.சா., மறைமலையடிகள், திரு.வி.க., பாவாணர், வீரமாமுனிவர், ஜி.யு. போப், கால்டுவெல்",
+      "en": "Tamil scholars 2: U.V. Swaminatha Iyer, Maraimalai Adigal, Thiru Vi. Ka., Pavanar, Veeramamunivar, G.U. Pope, Caldwell"
+     },
+     "gs": {
+      "ta": "லோக்பால், லோக் ஆயுக்தா, தகவல் அறியும் உரிமை, நுகர்வோர் பாதுகாப்பு, மனித உரிமைகள்",
+      "en": "Lokpal, Lokayukta, Right to Information, consumer protection, human rights"
+     },
+     "apt": {
+      "ta": "அளவியல் கலப்புப் பயிற்சி",
+      "en": "Mensuration: mixed practice"
+     }
+    },
+    {
+     "n": 28,
+     "kind": "test",
+     "note": {
+      "ta": "வாரத் தேர்வு: தமிழ்ப் பகுதி, 100 வினாக்கள்",
+      "en": "Weekly test: Tamil part, 100 questions"
+     }
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "from": 29,
+   "to": 35,
+   "title": {
+    "ta": "இலக்கியம் (தொடர்ச்சி), கலைச்சொற்கள் · பொருளாதாரம் 1",
+    "en": "Literature (continued), technical terms · Economy 1"
+   },
+   "summary": {
+    "ta": "செய்யுள் பகுதிகள், இக்கால இலக்கியம், கலைச்சொற்கள்; திட்டமிடல், ரிசர்வ் வங்கி, GST; காலமும் வேலையும், தொடர்கள்",
+    "en": "Verse portions, modern literature, technical terms; planning, RBI, GST; time and work, series"
+   },
+   "days": [
+    {
+     "n": 29,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "செய்யுள் பகுதிகள் 1: சங்கப் பாடல்கள்; அடி, நூல், ஆசிரியர் பொருத்தம்",
+      "en": "Verse portions 1: Sangam poems; matching line, work and author"
+     },
+     "gs": {
+      "ta": "இந்தியப் பொருளாதாரத்தின் இயல்புகள், தேசிய வருமானம்",
+      "en": "Nature of the Indian economy, national income"
+     },
+     "apt": {
+      "ta": "காலமும் வேலையும்: அடிப்படை",
+      "en": "Time and work: basics"
+     }
+    },
+    {
+     "n": 30,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "செய்யுள் பகுதிகள் 2: காப்பியம், பக்தி, சிற்றிலக்கியம்; மேற்கோள் அடிகள்",
+      "en": "Verse portions 2: epic, devotional, minor forms; quoted lines"
+     },
+     "gs": {
+      "ta": "ஐந்தாண்டுத் திட்டங்கள், திட்டக் குழு, நிதி ஆயோக்",
+      "en": "Five-year plans, Planning Commission, NITI Aayog"
+     },
+     "apt": {
+      "ta": "காலமும் வேலையும்: சேர்ந்து செய்தல், குழாய்–தொட்டி",
+      "en": "Time and work: working together, pipes and cisterns"
+     }
+    },
+    {
+     "n": 31,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "இக்காலக் கவிதை: மரபுக்கவிதை, புதுக்கவிதை; கவிஞர்கள், நூல்கள்",
+      "en": "Modern poetry: traditional and free verse; poets and works"
+     },
+     "gs": {
+      "ta": "ரிசர்வ் வங்கி, பணக் கொள்கை, வங்கிகள், பணவீக்கம்",
+      "en": "Reserve Bank, monetary policy, banks, inflation"
+     },
+     "apt": {
+      "ta": "காலம், வேலை, கூலி; ஆள்–நாள் கணக்குகள்",
+      "en": "Time, work and wages; men-days problems"
+     }
+    },
+    {
+     "n": 32,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "உரைநடை: சிறுகதை, புதினம், நாடகம்; எழுத்தாளர்கள், இதழ்கள், விருதுகள்",
+      "en": "Prose: short story, novel, drama; writers, journals, awards"
+     },
+     "gs": {
+      "ta": "வரிவிதிப்பு, GST, வரவு–செலவுத் திட்டம்",
+      "en": "Taxation, GST, the budget"
+     },
+     "apt": {
+      "ta": "எண் தொடர்",
+      "en": "Number series"
+     }
+    },
+    {
+     "n": 33,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "தமிழ்த் தொண்டு: சமயச் சான்றோர், பெண் படைப்பாளர்கள்; தமிழின் சிறப்பு, திராவிட மொழிகள்",
+      "en": "Service to Tamil: religious savants, women writers; greatness of Tamil, Dravidian languages"
+     },
+     "gs": {
+      "ta": "நிதிக் குழு, நிதிப் பகிர்வு; வேளாண்மை, நிலச் சீர்திருத்தம், பசுமைப் புரட்சி",
+      "en": "Finance Commission, sharing of revenue; agriculture, land reforms, Green Revolution"
+     },
+     "apt": {
+      "ta": "எழுத்துத் தொடர், எண்–எழுத்துத் தொடர்",
+      "en": "Letter series, alphanumeric series"
+     }
+    },
+    {
+     "n": 34,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "கலைச்சொற்கள்: ஆங்கிலச் சொல்லுக்கு நேரான தமிழ்ச்சொல் (அலுவலகம், அறிவியல், கணினி)",
+      "en": "Technical terms: Tamil equivalents of English words (office, science, computer)"
+     },
+     "gs": {
+      "ta": "தொழில் வளர்ச்சி, ஊரக நலத் திட்டங்கள், வறுமை, வேலையின்மை",
+      "en": "Industrial growth, rural welfare schemes, poverty, unemployment"
+     },
+     "apt": {
+      "ta": "காலமும் வேலையும், தொடர்கள் கலப்புப் பயிற்சி",
+      "en": "Mixed practice: time and work, series"
+     }
+    },
+    {
+     "n": 35,
+     "kind": "test",
+     "note": {
+      "ta": "முழுத் தேர்வு 1: 200 வினாக்கள், 3 மணி நேரம்",
+      "en": "Full test 1: 200 questions, 3 hours"
+     }
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "from": 36,
+   "to": 42,
+   "title": {
+    "ta": "வாசித்தல், மொழிபெயர்ப்பு, மரபு · தமிழ்நாட்டுப் பொருளாதாரம்",
+    "en": "Comprehension, translation, idiom · Economy of Tamil Nadu"
+   },
+   "summary": {
+    "ta": "பத்தி வாசித்தல், மொழிபெயர்ப்பு, மரபுத்தொடர், பழமொழி; தமிழ்நாட்டு வளர்ச்சி, நலத்திட்டங்கள்; காரணவியல்",
+    "en": "Passages, translation, idioms, proverbs; Tamil Nadu development, welfare schemes; reasoning"
+   },
+   "days": [
+    {
+     "n": 36,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "வாசித்தல்: பத்தியைப் படித்து விடையளித்தல், மையக்கருத்து, தலைப்பு",
+      "en": "Comprehension: answering from a passage, main idea, title"
+     },
+     "gs": {
+      "ta": "தமிழ்நாட்டின் மனித வளர்ச்சிக் குறியீடுகள், சமூக நீதி, இடஒதுக்கீடு",
+      "en": "Human development indicators of Tamil Nadu, social justice, reservation"
+     },
+     "apt": {
+      "ta": "பகடை",
+      "en": "Dice"
+     }
+    },
+    {
+     "n": 37,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "எளிய மொழிபெயர்ப்பு: ஆங்கிலச் சொற்கள், தொடர்களைத் தமிழாக்குதல்",
+      "en": "Simple translation: English words and phrases into Tamil"
+     },
+     "gs": {
+      "ta": "தமிழ்நாட்டுப் பொருளாதாரம்: வேளாண்மை, தொழில், சேவைத் துறை",
+      "en": "Economy of Tamil Nadu: agriculture, industry, services"
+     },
+     "apt": {
+      "ta": "குறியீடு – மறைகுறியீடு",
+      "en": "Coding and decoding"
+     }
+    },
+    {
+     "n": 38,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "மரபுத்தொடர்கள், இணைமொழிகள், உவமைத் தொடர்கள்",
+      "en": "Idioms, paired words, similes in use"
+     },
+     "gs": {
+      "ta": "தமிழ்நாட்டின் நலத்திட்டங்கள்: கல்வி, சுகாதாரம், பெண்கள், உணவு",
+      "en": "Welfare schemes of Tamil Nadu: education, health, women, food"
+     },
+     "apt": {
+      "ta": "திசை அறிதல், உறவுமுறை",
+      "en": "Directions, blood relations"
+     }
+    },
+    {
+     "n": 39,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "பழமொழிகள்; மரபுச் சொற்கள்: ஒலி மரபு, இளமைப் பெயர், வினை மரபு",
+      "en": "Proverbs; conventional words: animal sounds, names of young ones, verbs"
+     },
+     "gs": {
+      "ta": "தமிழ்நாட்டின் கல்வி, சுகாதார முறைமைகள்; சீர்திருத்த இயக்கங்களின் பங்கு",
+      "en": "Education and health systems of Tamil Nadu; role of reform movements"
+     },
+     "apt": {
+      "ta": "காட்சிக் காரணவியல்: படத் தொடர், ஒத்தது, மாறுபட்டது, பிம்பம்",
+      "en": "Visual reasoning: figure series, analogy, odd one out, mirror images"
+     }
+    },
+    {
+     "n": 40,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "அலுவல் சொற்கள், பேச்சு வழக்கு – எழுத்து வழக்கு, ஊர்ப்பெயர் மரூஉ",
+      "en": "Official terms, spoken and written forms, shortened place names"
+     },
+     "gs": {
+      "ta": "வளர்ச்சி நிர்வாகம்: மின்னாளுகை, பொதுச் சேவைகள்; புவியியல் கூறுகளும் பொருளாதாரமும்",
+      "en": "Development administration: e-governance, public services; geography and the economy"
+     },
+     "apt": {
+      "ta": "எண்–எழுத்துக் காரணவியல், வரிசை, புதிர்கள்",
+      "en": "Alphanumeric reasoning, ranking, puzzles"
+     }
+    },
+    {
+     "n": 41,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "வாசித்தல், மொழிபெயர்ப்பு, மரபு கலப்புப் பயிற்சி",
+      "en": "Mixed practice: comprehension, translation, idiom"
+     },
+     "gs": {
+      "ta": "பொருளாதாரம் திருப்புதல்; தமிழ்நாட்டுப் புள்ளிவிவரங்கள்",
+      "en": "Economy revision; Tamil Nadu facts and figures"
+     },
+     "apt": {
+      "ta": "வென் படங்கள், தர்க்க முடிவுகள், கலப்புப் பயிற்சி",
+      "en": "Venn diagrams, logical conclusions, mixed practice"
+     }
+    },
+    {
+     "n": 42,
+     "kind": "test",
+     "note": {
+      "ta": "முழுத் தேர்வு 2: 200 வினாக்கள், 3 மணி நேரம்",
+      "en": "Full test 2: 200 questions, 3 hours"
+     }
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "from": 43,
+   "to": 49,
+   "title": {
+    "ta": "இலக்கணத் திருப்புதல் · இந்திய வரலாறு, தேசிய இயக்கம்",
+    "en": "Grammar revision · Indian history, national movement"
+   },
+   "summary": {
+    "ta": "முந்தைய ஆண்டு வினா முறையில் இலக்கணம்; சிந்துவெளி முதல் 1947 வரை; நேரக் கட்டுப்பாட்டுப் பயிற்சி",
+    "en": "Grammar in previous-year question style; Indus Valley to 1947; timed practice"
+   },
+   "days": [
+    {
+     "n": 43,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருப்புதல்: எழுத்து, சொல்",
+      "en": "Revision: letters, words"
+     },
+     "gs": {
+      "ta": "சிந்துவெளி நாகரிகம், வேத காலம், சமணம், பௌத்தம்",
+      "en": "Indus Valley, Vedic age, Jainism, Buddhism"
+     },
+     "apt": {
+      "ta": "நேரப் பயிற்சி: சுருக்குதல், மீ.பொ.வ, மீ.சி.ம",
+      "en": "Timed practice: simplification, HCF, LCM"
+     }
+    },
+    {
+     "n": 44,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருப்புதல்: புணர்ச்சி, வல்லினம் மிகும், மிகா இடங்கள்",
+      "en": "Revision: sandhi, doubling of hard consonants"
+     },
+     "gs": {
+      "ta": "மௌரியர், குப்தர், தென்னிந்திய அரசுகள்",
+      "en": "Mauryas, Guptas, South Indian kingdoms"
+     },
+     "apt": {
+      "ta": "நேரப் பயிற்சி: விழுக்காடு, விகிதம்",
+      "en": "Timed practice: percentage, ratio"
+     }
+    },
+    {
+     "n": 45,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருப்புதல்: வேற்றுமை, தொகைநிலை, தொகாநிலை, ஆகுபெயர்",
+      "en": "Revision: cases, compounds, aagupeyar"
+     },
+     "gs": {
+      "ta": "தில்லி சுல்தானியம், முகலாயர், மராத்தியர், விஜயநகர–பாமினி அரசுகள்",
+      "en": "Delhi Sultanate, Mughals, Marathas, Vijayanagara and Bahmani kingdoms"
+     },
+     "apt": {
+      "ta": "நேரப் பயிற்சி: தனிவட்டி, கூட்டுவட்டி",
+      "en": "Timed practice: simple and compound interest"
+     }
+    },
+    {
+     "n": 46,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருப்புதல்: யாப்பு, அணி, பொருள்கோள்",
+      "en": "Revision: prosody, figures of speech, porulkol"
+     },
+     "gs": {
+      "ta": "ஐரோப்பியர் வருகை, ஆங்கிலேய ஆட்சியின் விரிவாக்கம், 1857",
+      "en": "Coming of the Europeans, expansion of British rule, 1857"
+     },
+     "apt": {
+      "ta": "நேரப் பயிற்சி: பரப்பளவு, கன அளவு",
+      "en": "Timed practice: area, volume"
+     }
+    },
+    {
+     "n": 47,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருப்புதல்: வாக்கிய வகைகள், வினை வகைகள், இலக்கணக் குறிப்பு",
+      "en": "Revision: sentence types, verb types, grammatical notes"
+     },
+     "gs": {
+      "ta": "தேசிய இயக்கம் 1: காங்கிரஸ், மிதவாதிகள், தீவிரவாதிகள், சுதேசி இயக்கம்",
+      "en": "National movement 1: Congress, moderates, extremists, Swadeshi"
+     },
+     "apt": {
+      "ta": "நேரப் பயிற்சி: காலமும் வேலையும்",
+      "en": "Timed practice: time and work"
+     }
+    },
+    {
+     "n": 48,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருப்புதல்: சொல்லகராதி, பிழை திருத்தம், எழுதும் திறன்",
+      "en": "Revision: vocabulary, error correction, writing skills"
+     },
+     "gs": {
+      "ta": "தேசிய இயக்கம் 2: காந்தி காலம் முதல் விடுதலை வரை; இந்தியப் பண்பாடு",
+      "en": "National movement 2: the Gandhian era to independence; Indian culture"
+     },
+     "apt": {
+      "ta": "நேரப் பயிற்சி: காரணவியல்",
+      "en": "Timed practice: reasoning"
+     }
+    },
+    {
+     "n": 49,
+     "kind": "test",
+     "note": {
+      "ta": "முழுத் தேர்வு 3: 200 வினாக்கள், 3 மணி நேரம்",
+      "en": "Full test 3: 200 questions, 3 hours"
+     }
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "from": 50,
+   "to": 56,
+   "title": {
+    "ta": "இலக்கியத் திருப்புதல் · அறிவியல், புவியியல், நடப்பு நிகழ்வுகள்",
+    "en": "Literature revision · Science, geography, current affairs"
+   },
+   "summary": {
+    "ta": "இலக்கியம், அறிஞர்கள் திருப்புதல்; அறிவியல், புவியியல் விரைவு வாசிப்பு; 2026 நடப்பு நிகழ்வுகள்",
+    "en": "Literature and scholars revision; fast pass through science and geography; 2026 current affairs"
+   },
+   "days": [
+    {
+     "n": 50,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருப்புதல்: திருக்குறள், அறநூல்கள்",
+      "en": "Revision: Thirukkural, ethical works"
+     },
+     "gs": {
+      "ta": "இயற்பியல்: அளவீடுகள், விசை, வெப்பம், ஒளி, ஒலி, மின்சாரம்",
+      "en": "Physics: measurement, force, heat, light, sound, electricity"
+     },
+     "apt": {
+      "ta": "கலப்புப் பயிற்சி 1",
+      "en": "Mixed practice 1"
+     }
+    },
+    {
+     "n": 51,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருப்புதல்: சங்க இலக்கியம்",
+      "en": "Revision: Sangam literature"
+     },
+     "gs": {
+      "ta": "வேதியியல்: தனிமங்கள், சேர்மங்கள், அமிலம், காரம், உலோகங்கள், உரங்கள்",
+      "en": "Chemistry: elements, compounds, acids, bases, metals, fertilisers"
+     },
+     "apt": {
+      "ta": "கலப்புப் பயிற்சி 2",
+      "en": "Mixed practice 2"
+     }
+    },
+    {
+     "n": 52,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருப்புதல்: காப்பியங்கள், பக்தி இலக்கியம், சிற்றிலக்கியம்",
+      "en": "Revision: epics, devotional literature, minor forms"
+     },
+     "gs": {
+      "ta": "உயிரியல்: செல், மனித உடல், நோய்கள், ஊட்டச்சத்து, சுற்றுச்சூழல்",
+      "en": "Biology: cell, human body, diseases, nutrition, environment"
+     },
+     "apt": {
+      "ta": "கலப்புப் பயிற்சி 3",
+      "en": "Mixed practice 3"
+     }
+    },
+    {
+     "n": 53,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருப்புதல்: தமிழ் அறிஞர்கள், தமிழ்த் தொண்டு",
+      "en": "Revision: Tamil scholars, service to Tamil"
+     },
+     "gs": {
+      "ta": "புவியியல் 1: புவி, இந்தியாவின் இயற்கை அமைப்பு, ஆறுகள், காலநிலை, மண், காடுகள்",
+      "en": "Geography 1: the Earth, physical features of India, rivers, climate, soils, forests"
+     },
+     "apt": {
+      "ta": "கலப்புப் பயிற்சி 4",
+      "en": "Mixed practice 4"
+     }
+    },
+    {
+     "n": 54,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருப்புதல்: இக்கால இலக்கியம், உரைநடை, விருதுகள்",
+      "en": "Revision: modern literature, prose, awards"
+     },
+     "gs": {
+      "ta": "புவியியல் 2: தமிழ்நாடு; வேளாண்மை, கனிமங்கள், போக்குவரத்து, மக்கள்தொகை, பேரிடர் மேலாண்மை",
+      "en": "Geography 2: Tamil Nadu; agriculture, minerals, transport, population, disaster management"
+     },
+     "apt": {
+      "ta": "கலப்புப் பயிற்சி 5",
+      "en": "Mixed practice 5"
+     }
+    },
+    {
+     "n": 55,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "மேற்கோள் அடி, நூல், ஆசிரியர் பொருத்தப் பயிற்சி",
+      "en": "Practice: matching quoted line, work and author"
+     },
+     "gs": {
+      "ta": "நடப்பு நிகழ்வுகள் 2026: தமிழ்நாடு, தேசியம், விருதுகள், விளையாட்டு, அறிவியல்",
+      "en": "Current affairs 2026: Tamil Nadu, national, awards, sports, science"
+     },
+     "apt": {
+      "ta": "கலப்புப் பயிற்சி 6",
+      "en": "Mixed practice 6"
+     }
+    },
+    {
+     "n": 56,
+     "kind": "test",
+     "note": {
+      "ta": "முழுத் தேர்வு 4: 200 வினாக்கள், 3 மணி நேரம்",
+      "en": "Full test 4: 200 questions, 3 hours"
+     }
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "from": 57,
+   "to": 63,
+   "title": {
+    "ta": "முதல் முழுத் திருப்புதல்",
+    "en": "First full revision"
+   },
+   "summary": {
+    "ta": "கலைச்சொற்கள், சொல்லகராதி, பலவீனமான தமிழ் அலகுகள்; பொது அறிவு அலகுகள் அனைத்தும்; சூத்திரத் தாள்",
+    "en": "Technical terms, vocabulary, weak Tamil units; all General Studies units; formula sheet"
+   },
+   "days": [
+    {
+     "n": 57,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "கலைச்சொற்கள்: முழுப் பட்டியல்",
+      "en": "Technical terms: the full list"
+     },
+     "gs": {
+      "ta": "திருப்புதல்: தமிழ்நாட்டு வரலாறு, பண்பாடு",
+      "en": "Revision: history and culture of Tamil Nadu"
+     },
+     "apt": {
+      "ta": "சூத்திரத் தாள்: எண்ணியல்",
+      "en": "Formula sheet: numbers"
+     }
+    },
+    {
+     "n": 58,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "சொல்லகராதி: முழுத் திருப்புதல்",
+      "en": "Vocabulary: full revision"
+     },
+     "gs": {
+      "ta": "திருப்புதல்: தமிழக இயக்கங்கள், சீர்திருத்தவாதிகள்",
+      "en": "Revision: movements and reformers of Tamil Nadu"
+     },
+     "apt": {
+      "ta": "சூத்திரத் தாள்: விழுக்காடு, விகிதம், வட்டி",
+      "en": "Formula sheet: percentage, ratio, interest"
+     }
+    },
+    {
+     "n": 59,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "உங்கள் முடிவுகளின்படி: பலவீனமான தமிழ் அலகு 1",
+      "en": "From your results: weak Tamil unit 1"
+     },
+     "gs": {
+      "ta": "திருப்புதல்: அரசியலமைப்பு, ஆட்சியியல்",
+      "en": "Revision: Constitution and polity"
+     },
+     "apt": {
+      "ta": "சூத்திரத் தாள்: பரப்பளவு, கன அளவு",
+      "en": "Formula sheet: area, volume"
+     }
+    },
+    {
+     "n": 60,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "உங்கள் முடிவுகளின்படி: பலவீனமான தமிழ் அலகு 2",
+      "en": "From your results: weak Tamil unit 2"
+     },
+     "gs": {
+      "ta": "திருப்புதல்: பொருளாதாரம், தமிழ்நாட்டு வளர்ச்சி நிர்வாகம்",
+      "en": "Revision: economy, development administration of Tamil Nadu"
+     },
+     "apt": {
+      "ta": "காலமும் வேலையும், தொடர்கள்",
+      "en": "Time and work, series"
+     }
+    },
+    {
+     "n": 61,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "உங்கள் முடிவுகளின்படி: பலவீனமான தமிழ் அலகு 3",
+      "en": "From your results: weak Tamil unit 3"
+     },
+     "gs": {
+      "ta": "திருப்புதல்: இந்திய வரலாறு, தேசிய இயக்கம்",
+      "en": "Revision: Indian history, national movement"
+     },
+     "apt": {
+      "ta": "காரணவியல்",
+      "en": "Reasoning"
+     }
+    },
+    {
+     "n": 62,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "திருப்புதல்: எழுதும் திறன், வாசித்தல், மொழிபெயர்ப்பு",
+      "en": "Revision: writing skills, comprehension, translation"
+     },
+     "gs": {
+      "ta": "திருப்புதல்: அறிவியல், புவியியல், நடப்பு நிகழ்வுகள்",
+      "en": "Revision: science, geography, current affairs"
+     },
+     "apt": {
+      "ta": "கலப்பு நேரப் பயிற்சி",
+      "en": "Mixed timed practice"
+     }
+    },
+    {
+     "n": 63,
+     "kind": "test",
+     "note": {
+      "ta": "முழுத் தேர்வு 5: 200 வினாக்கள், 3 மணி நேரம்",
+      "en": "Full test 5: 200 questions, 3 hours"
+     }
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "from": 64,
+   "to": 70,
+   "title": {
+    "ta": "பலவீனமான அலகுகள், விடுபட்டவை",
+    "en": "Weak units and anything left over"
+   },
+   "summary": {
+    "ta": "உங்கள் தேர்வு முடிவுகளின்படி ஒவ்வொரு நாளும் தேர்ந்தெடுக்கப்படும் அலகுகள்; பாடங்கள் இத்துடன் நிறைவு",
+    "en": "Units chosen each day from your test results; this completes the lessons"
+   },
+   "days": [
+    {
+     "n": 64,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "உங்கள் முடிவுகளின்படி: இலக்கணம்",
+      "en": "From your results: grammar"
+     },
+     "gs": {
+      "ta": "உங்கள் முடிவுகளின்படி: தமிழ்நாட்டு வரலாறு, இயக்கங்கள்",
+      "en": "From your results: Tamil Nadu history and movements"
+     },
+     "apt": {
+      "ta": "உங்கள் முடிவுகளின்படி: பலவீனமான தலைப்பு 1",
+      "en": "From your results: weak topic 1"
+     }
+    },
+    {
+     "n": 65,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "உங்கள் முடிவுகளின்படி: இலக்கியம்",
+      "en": "From your results: literature"
+     },
+     "gs": {
+      "ta": "உங்கள் முடிவுகளின்படி: அரசியலமைப்பு, ஆட்சியியல்",
+      "en": "From your results: Constitution and polity"
+     },
+     "apt": {
+      "ta": "உங்கள் முடிவுகளின்படி: பலவீனமான தலைப்பு 2",
+      "en": "From your results: weak topic 2"
+     }
+    },
+    {
+     "n": 66,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "உங்கள் முடிவுகளின்படி: தமிழ் அறிஞர்கள்",
+      "en": "From your results: Tamil scholars"
+     },
+     "gs": {
+      "ta": "உங்கள் முடிவுகளின்படி: பொருளாதாரம்",
+      "en": "From your results: economy"
+     },
+     "apt": {
+      "ta": "உங்கள் முடிவுகளின்படி: பலவீனமான தலைப்பு 3",
+      "en": "From your results: weak topic 3"
+     }
+    },
+    {
+     "n": 67,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "உங்கள் முடிவுகளின்படி: சொல்லகராதி, கலைச்சொற்கள்",
+      "en": "From your results: vocabulary, technical terms"
+     },
+     "gs": {
+      "ta": "உங்கள் முடிவுகளின்படி: இந்திய வரலாறு",
+      "en": "From your results: Indian history"
+     },
+     "apt": {
+      "ta": "காரணவியல்: பலவீனமான வகைகள்",
+      "en": "Reasoning: weak question types"
+     }
+    },
+    {
+     "n": 68,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "உங்கள் முடிவுகளின்படி: எழுதும் திறன், வாசித்தல்",
+      "en": "From your results: writing skills, comprehension"
+     },
+     "gs": {
+      "ta": "உங்கள் முடிவுகளின்படி: அறிவியல், புவியியல்",
+      "en": "From your results: science, geography"
+     },
+     "apt": {
+      "ta": "கலப்பு நேரப் பயிற்சி",
+      "en": "Mixed timed practice"
+     }
+    },
+    {
+     "n": 69,
+     "kind": "lesson",
+     "tamil": {
+      "ta": "தமிழ்: முழு விரைவுத் திருப்புதல்",
+      "en": "Tamil: fast revision of everything"
+     },
+     "gs": {
+      "ta": "நடப்பு நிகழ்வுகள், விடுபட்ட பகுதிகள்",
+      "en": "Current affairs, anything left over"
+     },
+     "apt": {
+      "ta": "சூத்திரத் தாள்: முழுமையாக",
+      "en": "Formula sheet: all of it"
+     }
+    },
+    {
+     "n": 70,
+     "kind": "test",
+     "note": {
+      "ta": "முழுத் தேர்வு 6: 200 வினாக்கள், 3 மணி நேரம்",
+      "en": "Full test 6: 200 questions, 3 hours"
+     }
+    }
+   ]
+  }
+ ],
+ "revision": {
+  "from": 71,
+  "title": {
+   "ta": "திருப்புதல் கட்டம்",
+   "en": "Revision phase"
+  },
+  "summary": {
+   "ta": "நாள் 71 முதல் தேர்வு வரை: ஒவ்வொரு நாளும் சுருக்கத் திருப்புதல் தாள்களும் ஒரு முழு மாதிரித் தேர்வும்",
+   "en": "From day 71 to the exam: short revision sheets and one full mock test every day"
+  },
+  "points": [
+   {
+    "ta": "புதிய பாடம் எதுவும் இல்லை",
+    "en": "Nothing new is taught"
+   },
+   {
+    "ta": "தமிழ், பொது அறிவு, திறனறிவு: ஒவ்வொன்றுக்கும் ஒரு சுருக்கத் திருப்புதல் தாள்",
+    "en": "One short revision sheet each for Tamil, General Studies and aptitude"
+   },
+   {
+    "ta": "ஒவ்வொரு நாளும் முழு மாதிரித் தேர்வு: 200 வினாக்கள், 3 மணி நேரம்",
+    "en": "A full mock test every day: 200 questions, 3 hours"
+   },
+   {
+    "ta": "உங்கள் தவறுகள் அதிகமுள்ள பகுதிகள் அடிக்கடி வரும்",
+    "en": "The areas where you make most mistakes come round more often"
+   },
+   {
+    "ta": "தேர்வுக்கு முந்தைய நாள்: திருப்புதல் தாள்களும் 50 வினாக்கள் கொண்ட எளிய தேர்வும் மட்டும்",
+    "en": "The day before the exam: revision sheets and a light 50-question test only"
+   }
+  ]
+ }
+}

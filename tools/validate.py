@@ -79,6 +79,25 @@ for entry in index['days']:
             bad(w, 'correct answers are bunched on one option: %r' % spread)
     if strict and tests and len([t for t in tests if t.get('id') == 'daily'][0].get('questions', [])) < 30:
         bad(fn, 'the daily test needs at least 30 questions')
+# timetable
+try:
+    tt = json.load(open(os.path.join(ROOT, 'timetable.json'), encoding='utf-8'))
+    want = 1
+    for w in tt['weeks']:
+        text(w.get('title'), 'timetable week %s title' % w.get('n'), True); text(w.get('summary'), 'timetable week %s summary' % w.get('n'), True)
+        if w.get('from') != want: bad('timetable', 'week %s should start at day %d' % (w.get('n'), want))
+        for d in w['days']:
+            if d.get('n') != want: bad('timetable', 'day numbers must run in order; expected %d, found %r' % (want, d.get('n')))
+            want += 1
+            if d.get('kind') == 'lesson':
+                for sub in ('tamil', 'gs', 'apt'): text(d.get(sub), 'timetable day %s %s' % (d.get('n'), sub), True)
+            elif d.get('kind') == 'test': text(d.get('note'), 'timetable day %s note' % d.get('n'), True)
+            else: bad('timetable', 'day %s kind must be lesson or test' % d.get('n'))
+        if w.get('to') != want - 1: bad('timetable', 'week %s should end at day %d' % (w.get('n'), want - 1))
+    if tt.get('learningDays') != want - 1 or tt['revision'].get('from') != want: bad('timetable', 'learningDays and revision.from must match the last listed day (%d)' % (want - 1))
+    text(tt['revision'].get('title'), 'timetable revision title', True); text(tt['revision'].get('summary'), 'timetable revision summary', True)
+except Exception as e:
+    bad('timetable.json', 'cannot be checked: %s' % e)
 if problems:
     print('\n'.join(problems)); sys.exit('%d problem(s) found' % len(problems))
 print('OK: %d days, %d questions' % (len(numbers), len(seen_ids)))
