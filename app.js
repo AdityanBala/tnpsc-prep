@@ -18,6 +18,18 @@
   function b64(str) { var bytes = new TextEncoder().encode(str), bin = ''; for (var i = 0; i < bytes.length; i++) bin += String.fromCharCode(bytes[i]); return btoa(bin); }
   function nice(iso) { var d = istDate(iso).split('-'); return d[2] + '-' + d[1] + '-' + d[0]; }
   function pct(c, t) { return t ? Math.round(c * 100 / t) : 0; }
+  function hhmm(iso) { return new Date(new Date(iso).getTime() + 5.5 * 3600e3).toISOString().slice(11, 16); }
+  function bestOf(list) { return list.reduce(function (b, a) { return !b || a.correct > b.correct ? a : b; }, null); }
+  function shuffleSections(qs) {
+    var out = [], i = 0;
+    while (i < qs.length) {
+      var j = i; while (j < qs.length && qs[j].subject === qs[i].subject) j++;
+      var seg = qs.slice(i, j);
+      for (var k = seg.length - 1; k > 0; k--) { var r = Math.floor(Math.random() * (k + 1)), tmp = seg[k]; seg[k] = seg[r]; seg[r] = tmp; }
+      out = out.concat(seg); i = j;
+    }
+    return out;
+  }
   function clock(sec) { sec = Math.max(0, Math.round(sec)); return pad(Math.floor(sec / 60), 2) + ':' + pad(sec % 60, 2); }
 
   /* ---------- language ---------- */
@@ -42,6 +54,9 @@
     plan: ['இன்றைய நேரத் திட்டத்தைப் பார்க்க', "See today's time plan"],
     start: ['தேர்வைத் தொடங்கு', 'Start the test'],
     again: ['மீண்டும் எழுது', 'Take it again'],
+    bestMeta: ['சிறந்த மதிப்பெண்: {0} / {1} · {2} முறை எழுதியது', 'Best score: {0} / {1} · taken {2} times'],
+    retakeNote: ['மீண்டும் எழுதும்போது வினாக்களின் வரிசை மாறும். எல்லா முயற்சிகளும் சேமிக்கப்படும்; சிறந்த மதிப்பெண் கணக்கில் வரும்.', 'When you take it again the questions come in a different order. Every attempt is saved; your best score counts.'],
+    best: ['சிறந்தது', 'Best'],
     rules1: ['ஒவ்வொரு வினாவுக்கும் நான்கு விடைகள்; சரியான ஒன்றைத் தொடவும்.', 'Each question has four answers; tap the correct one.'],
     rules2: ['தவறான விடைக்கு மதிப்பெண் குறையாது; எதையும் விடாமல் விடையளிக்கவும்.', 'No marks are lost for a wrong answer; answer every question.'],
     rules3: ['நேரம் முடிந்ததும் தேர்வு தானாகவே முடியும்.', 'The test ends by itself when time runs out.'],
@@ -190,6 +205,7 @@
     try {
       await flush();
       var names = await listDir('attempts');
+      Object.keys(attempts).forEach(function (n) { if (names.indexOf(n) < 0 && !isPending(n)) delete attempts[n]; });
       var missing = names.filter(function (n) { return /\.json$/.test(n) && !attempts[n]; });
       for (var i = 0; i < missing.length; i += 6) {
         await Promise.all(missing.slice(i, i + 6).map(async function (n) {
@@ -197,7 +213,9 @@
           if (r.ok) { var a = await r.json(); a._name = n; attempts[n] = a; }
         }));
       }
-      (await listDir('reads')).forEach(function (n) { reads[n.replace(/\.json$/, '')] = true; });
+      var readNames = (await listDir('reads')).map(function (n) { return n.replace(/\.json$/, ''); });
+      Object.keys(reads).forEach(function (k) { if (readNames.indexOf(k) < 0 && !pending.some(function (p) { return p.path === 'reads/' + k + '.json'; })) delete reads[k]; });
+      readNames.forEach(function (k) { reads[k] = true; });
       if (!VIEW) { LS.set('attempts', attempts); LS.set('reads', reads); }
     } catch (e) { if (e.message !== 'key') online = false; }
   }
@@ -312,6 +330,7 @@
     return '<div class="nav"><button data-act="home" class="' + (on === 'home' ? 'on' : '') + '"><i>🏠</i>' + t('home') + '</button>' +
       '<button data-act="progress" class="' + (on === 'progress' ? 'on' : '') + '"><i>📈</i>' + t('progress') + '</button></div>';
   }
+  function scoreText(list) { var b = bestOf(list); return list.length > 1 ? t('bestMeta', b.correct, b.total, list.length) : t('scoreMeta', b.correct, b.total); }
   function subjTitle(d, s) { var n = d.notes.filter(function (x) { return x.subject === s; })[0]; return n ? tx(n.title) : ''; }
 
   /* ---------- screens ---------- */
@@ -325,7 +344,7 @@
     });
     d.tests.forEach(function (ts) {
       if (ts.kind !== 'daily') return;
-      var meta = done.length ? t('scoreMeta', done[0].correct, done[0].total) : t('testMeta', ts.questions.length, ts.minutes);
+      var meta = done.length ? scoreText(done) : t('testMeta', ts.questions.length, ts.minutes);
       h += '<button class="step main ' + (done.length ? 'done' : '') + '" data-act="intro" data-day="' + d.n + '" data-id="' + ts.id + '"><span class="n">' + (done.length ? '✓' : k) + '</span>' +
         '<span class="t"><b>' + esc(t('testToday')) + '</b><span>' + esc(meta) + '</span></span><span class="go">›</span></button>';
     });
@@ -336,7 +355,7 @@
       ex.forEach(function (ts) {
         var at = attemptsOf(d.n, ts.id);
         h += '<button class="step extra ' + (at.length ? 'done' : '') + '" data-act="intro" data-day="' + d.n + '" data-id="' + ts.id + '"><span class="n">' + (at.length ? '✓' : '+') + '</span>' +
-          '<span class="t"><b>' + esc(tx(ts.title)) + '</b><span>' + esc(at.length ? t('scoreMeta', at[0].correct, at[0].total) : t('testMeta', ts.questions.length, ts.minutes)) + '</span></span><span class="go">›</span></button>';
+          '<span class="t"><b>' + esc(tx(ts.title)) + '</b><span>' + esc(at.length ? scoreText(at) : t('testMeta', ts.questions.length, ts.minutes)) + '</span></span><span class="go">›</span></button>';
       });
     }
     return h;
@@ -360,7 +379,7 @@
     var older = index.days.filter(function (x) { return x.n < cur; }).sort(function (a, b) { return b.n - a.n; });
     if (older.length) {
       h += '<div class="card"><h3>' + t('older') + '</h3>';
-      older.forEach(function (x) { var a = dailyOf(x.n)[0]; h += '<button class="item" data-act="day" data-day="' + x.n + '"><span class="t"><b>' + t('day', x.n) + '</b><span>' + esc(tx(x.title)) + '</span></span><span class="s">' + (a ? a.correct + ' / ' + a.total : '') + ' ›</span></button>'; });
+      older.forEach(function (x) { var a = bestOf(dailyOf(x.n)); h += '<button class="item" data-act="day" data-day="' + x.n + '"><span class="t"><b>' + t('day', x.n) + '</b><span>' + esc(tx(x.title)) + '</span></span><span class="s">' + (a ? a.correct + ' / ' + a.total : '') + ' ›</span></button>'; });
       h += '</div>';
     }
     return h + nav('home');
@@ -378,10 +397,10 @@
     var d = await loadDay(route.day), ts = d.tests.filter(function (x) { return x.id === route.id; })[0], at = attemptsOf(d.n, ts.id);
     var title = ts.kind === 'daily' ? t('testToday') : tx(ts.title);
     var h = top(t('day', d.n), true) + '<div class="card"><h2>' + esc(title) + '</h2><p class="sub">' + t('testMeta', ts.questions.length, ts.minutes) + '</p>' +
-      '<ul><li>' + t('rules1') + '</li><li>' + t('rules2') + '</li><li>' + t('rules3') + '</li><li>' + t('rules4') + '</li></ul></div>';
+      '<ul><li>' + t('rules1') + '</li><li>' + t('rules2') + '</li><li>' + t('rules3') + '</li><li>' + t('rules4') + '</li>' + (at.length ? '<li>' + t('retakeNote') + '</li>' : '') + '</ul></div>';
     if (at.length) {
       h += '<div class="card"><h3>' + t('history') + '</h3>';
-      at.forEach(function (a) { h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + nice(a.submittedAt) + '</b></span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>'; });
+      at.forEach(function (a) { h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + nice(a.submittedAt) + ' · ' + hhmm(a.submittedAt) + '</b>' + (at.length > 1 && a === bestOf(at) ? '<span>' + t('best') + '</span>' : '') + '</span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>'; });
       h += '</div>';
     }
     h += '<button class="btn primary" data-act="start">' + (at.length ? t('again') : t('start')) + '</button>';
@@ -390,11 +409,17 @@
 
   /* ---------- running a test ---------- */
   var run = null; // {day, tid, kind, minutes, questions, ans, active, startedAt, idx, list}
-  function persistRun() { if (!run || VIEW) return; LS.set('inprog', { day: run.day, tid: run.tid, ans: run.ans, active: run.active, startedAt: run.startedAt, idx: run.idx }); }
+  function persistRun() { if (!run || VIEW) return; LS.set('inprog', { day: run.day, tid: run.tid, order: run.questions.map(function (q) { return q.id; }), ans: run.ans, active: run.active, startedAt: run.startedAt, idx: run.idx }); }
   async function beginRun(dayN, tid, saved) {
     var d = await loadDay(dayN), ts = d.tests.filter(function (x) { return x.id === tid; })[0];
-    run = { day: dayN, tid: tid, kind: ts.kind, minutes: ts.minutes, questions: ts.questions, list: false,
-      ans: saved ? saved.ans : ts.questions.map(function () { return null; }), active: saved ? saved.active : 0,
+    var prior = attemptsOf(dayN, tid).length, qs = null;
+    if (saved) {
+      qs = (saved.order || ts.questions.map(function (q) { return q.id; })).map(function (id) { return d.qmap[id]; });
+      if (qs.length !== ts.questions.length || qs.some(function (q) { return !q; }) || saved.ans.length !== qs.length) { saved = null; qs = null; }
+    }
+    if (!qs) qs = prior ? shuffleSections(ts.questions) : ts.questions;
+    run = { day: dayN, tid: tid, kind: ts.kind, minutes: ts.minutes, questions: qs, list: false, attemptNo: prior + 1,
+      ans: saved ? saved.ans : qs.map(function () { return null; }), active: saved ? saved.active : 0,
       startedAt: saved ? saved.startedAt : new Date().toISOString(), idx: saved ? saved.idx : 0 };
     persistRun();
   }
@@ -442,7 +467,7 @@
   }
   function submitRun() {
     var g = grade(run.questions, run.ans);
-    var a = Object.assign({ schema: 1, day: run.day, test: run.tid, kind: run.kind, date: istDate(), startedAt: run.startedAt, submittedAt: new Date().toISOString(), activeSeconds: run.active, allowedSeconds: run.minutes * 60 }, g);
+    var a = Object.assign({ schema: 1, day: run.day, test: run.tid, kind: run.kind, attemptNo: run.attemptNo, date: istDate(), startedAt: run.startedAt, submittedAt: new Date().toISOString(), activeSeconds: run.active, allowedSeconds: run.minutes * 60 }, g);
     var name = store(a, 'd' + pad(run.day, 3) + '_' + run.tid);
     run = null; LS.del('inprog');
     go({ r: 'result', name: name, filter: 'wrong' }, true);
@@ -525,7 +550,7 @@
   /* ---------- progress ---------- */
   function progressScreen() {
     var all = allAttempts(), tests = all.filter(function (a) { return a.test !== 'rev'; });
-    var firsts = []; for (var n = 1; n < currentDay(); n++) firsts.push(dailyOf(n)[0]);
+    var firsts = []; for (var n = 1; n < currentDay(); n++) firsts.push(bestOf(dailyOf(n)));
     var c = 0, tt = 0, by = {};
     firsts.forEach(function (a) { c += a.correct; tt += a.total; });
     tests.forEach(function (a) { SUBJECTS.forEach(function (s) { if (a.bySubject[s]) { by[s] = by[s] || { c: 0, t: 0 }; by[s].c += a.bySubject[s].c; by[s].t += a.bySubject[s].t; } }); });
@@ -537,7 +562,7 @@
     h += '<div class="card"><h3>' + t('history') + '</h3>';
     all.slice().reverse().forEach(function (a) {
       var label = a.test === 'rev' ? t('rev') : t('day', a.day) + ' · ' + (a.test === 'daily' ? t('testToday') : t('extraTest'));
-      h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + esc(label) + '</b><span>' + nice(a.submittedAt) + '</span></span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>';
+      h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + esc(label) + '</b><span>' + nice(a.submittedAt) + ' · ' + hhmm(a.submittedAt) + '</span></span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>';
     });
     return h + '</div>' + nav('progress');
   }
