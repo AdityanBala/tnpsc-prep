@@ -78,6 +78,7 @@
     rules2: ['தவறான விடைக்கு மதிப்பெண் குறையாது; எதையும் விடாமல் விடையளிக்கவும்.', 'No marks are lost for a wrong answer; answer every question.'],
     rules3: ['நேரம் முடிந்ததும் தேர்வு தானாகவே முடியும்.', 'The test ends by itself when time runs out.'],
     rules4: ['இடையில் வெளியேறினாலும் விடைகள் அப்படியே இருக்கும்; திரும்பி வந்து தொடரலாம்.', 'If you leave midway your answers stay; you can come back and continue.'],
+    rules5: ['உண்மையான தேர்வில் ஒவ்வொரு வினாவுக்கும் (E) "விடை தெரியவில்லை" என்ற ஐந்தாம் விடையும் இருக்கும். ஒரு வினாவுக்கும் விடைத்தாளில் எதையும் குறிக்காமல் விடக்கூடாது.', 'In the real exam every question also has a fifth option, (E) "answer not known". No question may be left unmarked on the answer sheet.'],
     qOf: ['வினா {0} / {1}', 'Question {0} / {1}'],
     prevLabel: ['முந்தைய வினா', 'Previous question'], next: ['அடுத்து ▶', 'Next ▶'],
     all: ['பட்டியல்', 'List'],
@@ -463,7 +464,7 @@
     var d = await loadDay(route.day), ts = d.tests.filter(function (x) { return x.id === route.id; })[0], at = attemptsOf(d.n, ts.id);
     var title = ts.kind === 'daily' ? t('testToday') : tx(ts.title);
     var h = top(t('day', d.n), true) + '<div class="card"><h2>' + esc(title) + '</h2><p class="sub">' + t('testMeta', ts.questions.length, ts.minutes) + '</p>' +
-      '<ul><li>' + t('rules1') + '</li><li>' + t('rules2') + '</li><li>' + t('rules3') + '</li><li>' + t('rules4') + '</li>' + (at.length ? '<li>' + t('retakeNote') + '</li>' : '') + '</ul></div>';
+      '<ul><li>' + t('rules1') + '</li><li>' + t('rules2') + '</li><li>' + t('rules3') + '</li><li>' + t('rules4') + '</li>' + '<li>' + t('rules5') + '</li>' + (at.length ? '<li>' + t('retakeNote') + '</li>' : '') + '</ul></div>';
     if (at.length) {
       h += '<div class="card"><h3>' + t('history') + '</h3>';
       at.forEach(function (a) { h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + nice(a.submittedAt) + ' · ' + hhmm(a.submittedAt) + '</b>' + (at.length > 1 && a === bestOf(at) ? '<span>' + t('best') + '</span>' : '') + '</span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>'; });
