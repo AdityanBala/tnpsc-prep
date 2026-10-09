@@ -287,7 +287,9 @@
   });
   function top(title, back) {
     return '<div class="top">' + (back ? '<button class="btn-back" data-act="back">' + t('back') + '</button>' : '') +
-      '<h1>' + esc(title) + '</h1><button class="btn-lang" data-act="lang">' + t('other') + '</button></div>' + banners();
+      '<h1>' + esc(title) + '</h1><div class="lang" role="group" aria-label="மொழி / Language">' +
+      '<button data-act="setlang" data-l="ta" class="' + (lang === 'ta' ? 'on' : '') + '" aria-pressed="' + (lang === 'ta') + '">தமிழ்</button>' +
+      '<button data-act="setlang" data-l="en" class="' + (lang === 'en' ? 'on' : '') + '" aria-pressed="' + (lang === 'en') + '">English</button></div></div>' + banners();
   }
   function banners() {
     var h = '';
@@ -562,7 +564,7 @@
     var act = b.getAttribute('data-act'), day = +b.getAttribute('data-day'), id = b.getAttribute('data-id'), i = +b.getAttribute('data-i');
     switch (act) {
       case 'back': history.length > 1 && history.state ? history.back() : go({ r: 'home' }, true); break;
-      case 'lang': lang = lang === 'ta' ? 'en' : 'ta'; LS.set('lang', lang); render(true); break;
+      case 'setlang': lang = b.getAttribute('data-l') === 'en' ? 'en' : 'ta'; LS.set('lang', lang); render(true); break;
       case 'home': go({ r: 'home' }); break;
       case 'progress': go({ r: 'progress' }); break;
       case 'day': go({ r: 'day', day: day }); break;
