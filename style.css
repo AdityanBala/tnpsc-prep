@@ -147,3 +147,5 @@ button.trow:active{background:var(--soft)}
 .rp{margin:0 0 10px;padding-left:22px;font-size:15px}
 .rp li{margin:0 0 4px}
 .pas{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--brand);border-radius:10px;padding:10px 12px;margin:0 0 12px;font-size:16px;line-height:1.65;white-space:pre-line}
+th,td{overflow-wrap:normal;word-break:normal}
+.tw table{min-width:100%;width:auto}
