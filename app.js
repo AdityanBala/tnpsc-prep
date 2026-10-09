@@ -62,12 +62,12 @@
     rules3: ['நேரம் முடிந்ததும் தேர்வு தானாகவே முடியும்.', 'The test ends by itself when time runs out.'],
     rules4: ['இடையில் வெளியேறினாலும் விடைகள் அப்படியே இருக்கும்; திரும்பி வந்து தொடரலாம்.', 'If you leave midway your answers stay; you can come back and continue.'],
     qOf: ['வினா {0} / {1}', 'Question {0} / {1}'],
-    prev: ['◀ முந்தைய', '◀ Previous'], next: ['அடுத்து ▶', 'Next ▶'],
+    prevLabel: ['முந்தைய வினா', 'Previous question'], next: ['அடுத்து ▶', 'Next ▶'],
     all: ['பட்டியல்', 'List'],
     finish: ['தேர்வை முடி', 'Finish test'],
     allTitle: ['எல்லா வினாக்களும்', 'All questions'],
     allHelp: ['பச்சை நிறம்: விடையளித்தவை. ஒரு எண்ணைத் தொட்டால் அந்த வினாவுக்குச் செல்லும்.', 'Green: answered. Tap a number to go to that question.'],
-    backToQ: ['வினாவுக்குத் திரும்ப', 'Back to the question'],
+    backToQ: ['திரும்ப', 'Back'],
     confirmT: ['தேர்வை முடிக்கலாமா?', 'Finish the test?'],
     confirmAll: ['எல்லா வினாக்களுக்கும் விடையளித்துள்ளீர்கள்.', 'You have answered every question.'],
     confirmLeft: ['இன்னும் {0} வினாக்களுக்கு விடையளிக்கவில்லை.', '{0} questions are still unanswered.'],
@@ -122,6 +122,12 @@
     return s.replace(/\{(\d)\}/g, function (_, i) { return a[+i + 1]; });
   }
   function tx(o) { return o ? (o[lang] || o.ta || '') : ''; }
+  // Like the real paper: General Studies and aptitude show Tamil with English beneath; the Tamil paper is Tamil only.
+  function both(o, subject) {
+    if (!o) return '';
+    if (subject === 'tamil' || !o.en || o.en === o.ta) return esc(o.ta || '');
+    return esc(o.ta) + '<span class="en">' + esc(o.en) + '</span>';
+  }
   function letter(i) { return (lang === 'en' ? ['A', 'B', 'C', 'D'] : ['அ', 'ஆ', 'இ', 'ஈ'])[i]; }
 
   /* ---------- markdown (notes) ---------- */
@@ -435,10 +441,10 @@
       return h;
     }
     var q = run.questions[run.idx];
-    h += '<span class="tag">' + t(q.subject) + '</span><p class="q">' + esc(tx(q.q)) + '</p>';
-    q.o.forEach(function (o, i) { h += '<button class="opt ' + (run.ans[run.idx] === i ? 'sel' : '') + '" data-act="pick" data-i="' + i + '"><span class="l">' + letter(i) + '</span><span class="x">' + esc(tx(o)) + '</span></button>'; });
+    h += '<span class="tag">' + t(q.subject) + '</span><p class="q">' + both(q.q, q.subject) + '</p>';
+    q.o.forEach(function (o, i) { h += '<button class="opt ' + (run.ans[run.idx] === i ? 'sel' : '') + '" data-act="pick" data-i="' + i + '"><span class="l">' + letter(i) + '</span><span class="x">' + both(o, q.subject) + '</span></button>'; });
     var last = run.idx === n - 1;
-    h += '<div class="foot"><div class="in"><button class="btn sm" data-act="prev" ' + (run.idx ? '' : 'disabled') + '>' + t('prev') + '</button><button class="btn sm" data-act="list">' + t('all') + '</button>' +
+    h += '<div class="foot"><div class="in three"><button class="btn" data-act="prev" aria-label="' + t('prevLabel') + '" ' + (run.idx ? '' : 'disabled') + '>◀</button><button class="btn" data-act="list">' + t('all') + '</button>' +
       (last ? '<button class="btn primary" data-act="finish">' + t('finish') + '</button>' : '<button class="btn primary" data-act="next">' + t('next') + '</button>') + '</div></div>';
     return h;
   }
@@ -529,13 +535,13 @@
     if (!rev || !rev.questions.length) { route = { r: 'home' }; return homeScreen(); }
     var q = rev.questions[rev.idx], n = rev.questions.length, picked = rev.ans[rev.idx];
     var h = top(t('revTitle'), true) + '<div class="bar"><i style="width:' + pct(rev.idx + (rev.shown ? 1 : 0), n) + '%"></i></div><p class="sub">' + t('qOf', rev.idx + 1, n) + '</p>' +
-      '<span class="tag">' + t(q.subject) + '</span><p class="q">' + esc(tx(q.q)) + '</p>';
+      '<span class="tag">' + t(q.subject) + '</span><p class="q">' + both(q.q, q.subject) + '</p>';
     q.o.forEach(function (o, i) {
       var cls = rev.shown ? (i === q.a ? 'right' : i === picked ? 'wrong' : '') : '';
-      h += '<button class="opt ' + cls + '" data-act="revpick" data-i="' + i + '" ' + (rev.shown ? 'disabled' : '') + '><span class="l">' + letter(i) + '</span><span class="x">' + esc(tx(o)) + '</span></button>';
+      h += '<button class="opt ' + cls + '" data-act="revpick" data-i="' + i + '" ' + (rev.shown ? 'disabled' : '') + '><span class="l">' + letter(i) + '</span><span class="x">' + both(o, q.subject) + '</span></button>';
     });
     if (rev.shown) {
-      h += '<div class="exp"><b>' + (picked === q.a ? t('revRight') : t('revWrong')) + '</b>' + (q.x ? '<br>' + esc(tx(q.x)) : '') + '</div>';
+      h += '<div class="exp"><b>' + (picked === q.a ? t('revRight') : t('revWrong')) + '</b>' + (q.x ? '<br>' + both(q.x, q.subject) : '') + '</div>';
       h += '<div class="foot"><div class="in"><button class="btn primary" data-act="revnext">' + (rev.idx === n - 1 ? t('finish') : t('next')) + '</button></div></div>';
     }
     return h;

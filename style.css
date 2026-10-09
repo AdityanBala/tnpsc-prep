@@ -108,3 +108,11 @@ th{background:var(--soft);font-weight:700}
 .lang{flex:none;display:flex;background:var(--line);border-radius:999px;padding:3px}
 .lang button{border:0;background:transparent;border-radius:999px;min-height:40px;padding:4px 12px;font-size:14.5px;font-weight:600;color:var(--mute)}
 .lang button.on{background:var(--brand);color:#fff;box-shadow:0 1px 3px rgba(0,0,0,.25)}
+/* bilingual questions, as in the real paper */
+.en{display:block;font-weight:400;color:var(--mute);font-size:.9em;line-height:1.45;margin-top:4px}
+.q .en{font-weight:500;color:#33413c}
+/* buttons never break inside a word */
+.btn,.step b,.nav button,.lang button,.btn-back{overflow-wrap:normal;word-break:keep-all}
+.foot .btn{min-width:0;padding:8px 10px;font-size:16.5px;line-height:1.3}
+.foot .in.three{display:grid;grid-template-columns:56px minmax(0,1fr) minmax(0,1.35fr)}
+.foot .in.three .btn{white-space:nowrap}
