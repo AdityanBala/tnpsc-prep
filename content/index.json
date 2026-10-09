@@ -5,7 +5,7 @@
    "n": 1,
    "file": "day-001.json",
    "title": {
-    "ta": "எழுத்து இலக்கணம் · சங்க காலம் · சுருக்குதல்",
+    "ta": "எழுத்துகள் · சங்க காலம் · சுருக்குதல்",
     "en": "Letters · Sangam age · Simplification"
    }
   },
@@ -13,8 +13,8 @@
    "n": 2,
    "file": "day-002.json",
    "title": {
-    "ta": "சொல் இலக்கணம் · சங்க காலச் சமூகம், தொல்லியல் · விழுக்காடு",
-    "en": "Word grammar · Sangam society, archaeology · Percentage"
+    "ta": "மயங்கொலிகள் · சங்க காலச் சமூகம், தொல்லியல் · விழுக்காடு",
+    "en": "Similar-sounding letters · Sangam society, archaeology · Percentage"
    }
   }
  ]

@@ -30,6 +30,23 @@
     }
     return out;
   }
+  // A retake draws a new paper from the test's questions plus its spare pool: same number per subject,
+  // questions she has never seen first, then ones she last got wrong, then the rest.
+  function freshPaper(ts) {
+    var last = {};
+    allAttempts().forEach(function (a) { (a.answers || []).forEach(function (x) { last[x.id] = x.ok; }); });
+    var all = ts.questions.concat(ts.pool), order = [], need = {};
+    ts.questions.forEach(function (q) { if (!need[q.subject]) { need[q.subject] = 0; order.push(q.subject); } need[q.subject]++; });
+    var out = [];
+    order.forEach(function (sub) {
+      var c = all.filter(function (q) { return q.subject === sub; }).map(function (q) { return { q: q, r: (last[q.id] === undefined ? 0 : last[q.id] ? 2 : 1) + Math.random() }; });
+      c.sort(function (a, b) { return a.r - b.r; });
+      var pick = c.slice(0, need[sub]).map(function (x) { return x.q; });
+      out = out.concat(shuffleSections(pick));
+    });
+    return out;
+  }
+  function passage(q) { return q.p ? '<div class="pas">' + esc(tx(q.p)) + '</div>' : ''; }
   function clock(sec) { sec = Math.max(0, Math.round(sec)); return pad(Math.floor(sec / 60), 2) + ':' + pad(sec % 60, 2); }
 
   /* ---------- language ---------- */
@@ -55,7 +72,7 @@
     start: ['தேர்வைத் தொடங்கு', 'Start the test'],
     again: ['மீண்டும் எழுது', 'Take it again'],
     bestMeta: ['சிறந்த மதிப்பெண்: {0} / {1} · {2} முறை எழுதியது', 'Best score: {0} / {1} · taken {2} times'],
-    retakeNote: ['மீண்டும் எழுதும்போது வினாக்களின் வரிசை மாறும். எல்லா முயற்சிகளும் சேமிக்கப்படும்; சிறந்த மதிப்பெண் கணக்கில் வரும்.', 'When you take it again the questions come in a different order. Every attempt is saved; your best score counts.'],
+    retakeNote: ['மீண்டும் எழுதும்போது புதிய வினாக்களும், முன்பு தவறான வினாக்களும் கலந்து வரும். எல்லா முயற்சிகளும் சேமிக்கப்படும்; சிறந்த மதிப்பெண் கணக்கில் வரும்.', 'When you take it again you get a mix of new questions and ones you got wrong before. Every attempt is saved; your best score counts.'],
     best: ['சிறந்தது', 'Best'],
     rules1: ['ஒவ்வொரு வினாவுக்கும் நான்கு விடைகள்; சரியான ஒன்றைத் தொடவும்.', 'Each question has four answers; tap the correct one.'],
     rules2: ['தவறான விடைக்கு மதிப்பெண் குறையாது; எதையும் விடாமல் விடையளிக்கவும்.', 'No marks are lost for a wrong answer; answer every question.'],
@@ -259,7 +276,7 @@
     if (!e) return null;
     var d = await getJSON('content/' + e.file);
     d.qmap = {};
-    d.tests.forEach(function (ts) { ts.questions.forEach(function (q) { d.qmap[q.id] = q; }); });
+    d.tests.forEach(function (ts) { ts.questions.concat(ts.pool || []).forEach(function (q) { d.qmap[q.id] = q; }); });
     return (dayCache[n] = d);
   }
   function dayOfQ(id) { return parseInt(id.slice(1, 4), 10); }
@@ -466,7 +483,7 @@
       qs = (saved.order || ts.questions.map(function (q) { return q.id; })).map(function (id) { return d.qmap[id]; });
       if (qs.length !== ts.questions.length || qs.some(function (q) { return !q; }) || saved.ans.length !== qs.length) { saved = null; qs = null; }
     }
-    if (!qs) qs = prior ? shuffleSections(ts.questions) : ts.questions;
+    if (!qs) qs = !prior ? ts.questions : ts.pool && ts.pool.length ? freshPaper(ts) : shuffleSections(ts.questions);
     run = { day: dayN, tid: tid, kind: ts.kind, minutes: ts.minutes, questions: qs, list: false, attemptNo: prior + 1,
       ans: saved ? saved.ans : qs.map(function () { return null; }), active: saved ? saved.active : 0,
       startedAt: saved ? saved.startedAt : new Date().toISOString(), idx: saved ? saved.idx : 0 };
@@ -484,7 +501,7 @@
       return h;
     }
     var q = run.questions[run.idx];
-    h += '<span class="tag">' + t(q.subject) + '</span><p class="q">' + both(q.q, q.subject) + '</p>';
+    h += '<span class="tag">' + t(q.subject) + '</span>' + passage(q) + '<p class="q">' + both(q.q, q.subject) + '</p>';
     q.o.forEach(function (o, i) { h += '<button class="opt ' + (run.ans[run.idx] === i ? 'sel' : '') + '" data-act="pick" data-i="' + i + '"><span class="l">' + letter(i) + '</span><span class="x">' + both(o, q.subject) + '</span></button>'; });
     var last = run.idx === n - 1;
     h += '<div class="foot"><div class="in three"><button class="btn" data-act="prev" aria-label="' + t('prevLabel') + '" ' + (run.idx ? '' : 'disabled') + '>◀</button><button class="btn" data-act="list">' + t('all') + '</button>' +
@@ -558,7 +575,7 @@
     list.forEach(function (x) {
       var q = qm[x.id]; if (!q) return;
       var num = a.answers.indexOf(x) + 1;
-      h += '<div class="rev"><p class="q">' + num + '. ' + esc(tx(q.q)) + '</p>';
+      h += '<div class="rev">' + passage(q) + '<p class="q">' + num + '. ' + esc(tx(q.q)) + '</p>';
       if (!x.ok) h += '<p class="a no">' + esc(t('yours', x.p == null ? t('notAns') : letter(x.p) + ') ' + tx(q.o[x.p]))) + '</p>';
       h += '<p class="a ok">' + esc(t('right', letter(q.a) + ') ' + tx(q.o[q.a]))) + '</p>';
       if (q.x) h += '<p class="e">' + esc(tx(q.x)) + '</p>';
@@ -578,7 +595,7 @@
     if (!rev || !rev.questions.length) { route = { r: 'home' }; return homeScreen(); }
     var q = rev.questions[rev.idx], n = rev.questions.length, picked = rev.ans[rev.idx];
     var h = top(t('revTitle'), true) + '<div class="bar"><i style="width:' + pct(rev.idx + (rev.shown ? 1 : 0), n) + '%"></i></div><p class="sub">' + t('qOf', rev.idx + 1, n) + '</p>' +
-      '<span class="tag">' + t(q.subject) + '</span><p class="q">' + both(q.q, q.subject) + '</p>';
+      '<span class="tag">' + t(q.subject) + '</span>' + passage(q) + '<p class="q">' + both(q.q, q.subject) + '</p>';
     q.o.forEach(function (o, i) {
       var cls = rev.shown ? (i === q.a ? 'right' : i === picked ? 'wrong' : '') : '';
       h += '<button class="opt ' + cls + '" data-act="revpick" data-i="' + i + '" ' + (rev.shown ? 'disabled' : '') + '><span class="l">' + letter(i) + '</span><span class="x">' + both(o, q.subject) + '</span></button>';

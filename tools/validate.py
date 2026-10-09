@@ -15,7 +15,7 @@ def text(obj, where, need_en=False):
         bad(where, 'needs a non-empty "ta" text'); return
     if 'en' in obj and (not isinstance(obj['en'], str) or not obj['en'].strip()):
         bad(where, '"en" is present but empty')
-    if need_en and 'en' not in obj:
+    if need_en and 'en' not in obj and re.search('[\u0b80-\u0bff]', obj['ta']):
         bad(where, 'needs an "en" text (General Studies and aptitude are bilingual)')
     for k in obj:
         if k not in ('ta', 'en'): bad(where, 'unknown language key %r' % k)
@@ -33,7 +33,7 @@ for entry in index['days']:
         day = json.load(open(os.path.join(ROOT, fn), encoding='utf-8'))
     except Exception as e:
         bad(fn, 'cannot be read: %s' % e); continue
-    strict = n >= 3  # days 1–2 were converted from older documents and are Tamil-only
+    strict = True
     if day.get('n') != n: bad(fn, '"n" must be %d' % n)
     text(day.get('title'), fn + ' title')
     if 'plan' in day: text(day['plan'], fn + ' plan')
@@ -56,9 +56,11 @@ for entry in index['days']:
         qs = t.get('questions') or []
         if not qs: bad(w, 'no questions')
         spread = [0, 0, 0, 0]
-        for i, q in enumerate(qs, 1):
-            qw = '%s q%d' % (w, i)
-            want = 'd%03d-%s-%03d' % (n, tid, i)
+        pool = t.get('pool') or []
+        for i, q in enumerate(qs + pool, 1):
+            spare = i > len(qs)
+            qw = '%s %s%d' % (w, 'pool q' if spare else 'q', i - len(qs) if spare else i)
+            want = 'd%03d-%s-p%03d' % (n, tid, i - len(qs)) if spare else 'd%03d-%s-%03d' % (n, tid, i)
             if q.get('id') != want: bad(qw, 'id must be %s' % want)
             if q.get('id') in seen_ids: bad(qw, 'duplicate id')
             seen_ids.add(q.get('id'))
@@ -68,14 +70,17 @@ for entry in index['days']:
             opts = q.get('o')
             if not isinstance(opts, list) or len(opts) != 4: bad(qw, 'needs exactly four options'); continue
             for j, o in enumerate(opts): text(o, '%s option %d' % (qw, j + 1), False)
-            if en and not all('en' in o for o in opts) and not all(re.fullmatch(r'[\d\s.,:/%₹+−×÷=()a-zA-Z²³½¼¾-]+', o.get('ta', '')) for o in opts):
-                bad(qw, 'options need "en" text')
+            for j, o in enumerate(opts):
+                if en and isinstance(o, dict) and 'en' not in o and re.search('[\u0b80-\u0bff]', o.get('ta', '')): bad(qw, 'option %d needs "en" text' % (j + 1))
             if len({o.get('ta') for o in opts}) != 4: bad(qw, 'two options are identical')
             if q.get('a') not in (0, 1, 2, 3): bad(qw, '"a" must be 0, 1, 2 or 3'); continue
             spread[q['a']] += 1
             if strict and 'x' not in q: bad(qw, 'needs an explanation "x"')
             if 'x' in q: text(q['x'], qw + ' explanation', en)
-        if strict and len(qs) >= 20 and max(spread) > 0.4 * len(qs):
+            if 'p' in q: text(q['p'], qw + ' passage', en)
+        subjects_of_pool = {q.get('subject') for q in pool}
+        if pool and not subjects_of_pool <= {q.get('subject') for q in qs}: bad(w, 'the pool has a subject the test itself does not have')
+        if strict and len(qs) >= 20 and max(spread) > 0.4 * (len(qs) + len(pool)):
             bad(w, 'correct answers are bunched on one option: %r' % spread)
     if strict and tests and len([t for t in tests if t.get('id') == 'daily'][0].get('questions', [])) < 30:
         bad(fn, 'the daily test needs at least 30 questions')

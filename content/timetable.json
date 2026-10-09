@@ -7,20 +7,20 @@
    "from": 1,
    "to": 7,
    "title": {
-    "ta": "இலக்கண அடிப்படைகள் · பண்டைத் தமிழகம்",
-    "en": "Grammar basics · Ancient Tamil Nadu"
+    "ta": "எழுத்து இலக்கணம் · பண்டைத் தமிழகம்",
+    "en": "Letters and spelling · Ancient Tamil Nadu"
    },
    "summary": {
-    "ta": "எழுத்து, சொல், புணர்ச்சி; சங்க காலம் முதல் நாயக்கர் காலம் வரை; சுருக்குதல், விழுக்காடு",
-    "en": "Letters, words, sandhi; Sangam age to the Nayak period; simplification, percentage"
+    "ta": "குறில் நெடில், மயங்கொலிகள், பிரித்தல், சேர்த்தல், சந்திப்பிழை; சங்க காலம் முதல் நாயக்கர் காலம் வரை; சுருக்குதல், விழுக்காடு",
+    "en": "Vowel length, similar letters, splitting and joining, sandhi errors; Sangam age to the Nayak period; simplification, percentage"
    },
    "days": [
     {
      "n": 1,
      "kind": "lesson",
      "tamil": {
-      "ta": "எழுத்து இலக்கணம்: எழுத்து வகைகள், மாத்திரை, குற்றியலுகரம்",
-      "en": "Letters: kinds of letters, mathirai, kutriyalugaram"
+      "ta": "குறில், நெடில் வேறுபாடு; இன எழுத்துகள்; சுட்டு எழுத்துகள்; வினா எழுத்துகள்",
+      "en": "Short and long vowels; kindred letters; demonstrative and interrogative letters"
      },
      "gs": {
       "ta": "சங்க காலம்: மூவேந்தர், ஐந்திணை, சங்க இலக்கியம்",
@@ -35,8 +35,8 @@
      "n": 2,
      "kind": "lesson",
      "tamil": {
-      "ta": "சொல் இலக்கணம்: சொல் வகைகள், பெயர்ச்சொல், திணை, பால், பகுபதம்",
-      "en": "Words: word types, nouns, thinai, gender, word parts"
+      "ta": "மயங்கொலிகள்: ல, ள, ழ; ண, ந, ன; ர, ற வேறுபாடு",
+      "en": "Similar-sounding letters: la/La/zha, Na/na/na, ra/Ra"
      },
      "gs": {
       "ta": "சங்க காலச் சமூகம், வணிகம், அகழாய்வு இடங்கள்",
@@ -51,12 +51,12 @@
      "n": 3,
      "kind": "lesson",
      "tamil": {
-      "ta": "வினைச்சொல்: காலம், முற்று, பெயரெச்சம், வினையெச்சம்",
-      "en": "Verbs: tense, finite verbs, participles"
+      "ta": "பிரித்து எழுதுதல்",
+      "en": "Splitting joined words"
      },
      "gs": {
-      "ta": "திருக்குறள்: அமைப்பு, சிறப்புப் பெயர்கள், முக்கியக் குறள்கள்",
-      "en": "Thirukkural: structure, titles, key couplets"
+      "ta": "திருக்குறள்: அமைப்பு, சிறப்புப் பெயர்கள், உலகப் பொதுமறையாக அதன் சிறப்பு, வாழ்வியல் பொருத்தம்",
+      "en": "Thirukkural: structure, titles, its standing as a secular work, relevance to everyday life"
      },
      "apt": {
       "ta": "விழுக்காடு: பயன்பாட்டுக் கணக்குகள்",
@@ -67,8 +67,8 @@
      "n": 4,
      "kind": "lesson",
      "tamil": {
-      "ta": "புணர்ச்சி 1: இயல்பு, விகாரம், உடம்படுமெய்",
-      "en": "Sandhi 1: natural and changed joining, glide letters"
+      "ta": "சேர்த்து எழுதுதல்",
+      "en": "Joining words"
      },
      "gs": {
       "ta": "களப்பிரர், பல்லவர்: மன்னர்கள், கலை, மாமல்லபுரம்",
@@ -83,8 +83,8 @@
      "n": 5,
      "kind": "lesson",
      "tamil": {
-      "ta": "புணர்ச்சி 2: மெய்யீற்றுப் புணர்ச்சி, வல்லினம் மிகும், மிகா இடங்கள்",
-      "en": "Sandhi 2: consonant endings, where the hard consonant doubles"
+      "ta": "சந்திப்பிழை 1: வல்லினம் மிகும் இடங்கள்",
+      "en": "Sandhi errors 1: where the hard consonant doubles"
      },
      "gs": {
       "ta": "பிற்காலச் சோழர்: ராஜராஜன், ராஜேந்திரன், குடவோலை முறை, கோயில்கள்",
@@ -99,12 +99,12 @@
      "n": 6,
      "kind": "lesson",
      "tamil": {
-      "ta": "வேற்றுமை, தொகைநிலைத் தொடர்கள், ஆகுபெயர்",
-      "en": "Cases, compound phrases, aagupeyar"
+      "ta": "சந்திப்பிழை 2: வல்லினம் மிகா இடங்கள்; ஒருமை, பன்மை அறிதல்",
+      "en": "Sandhi errors 2: where it does not double; singular and plural"
      },
      "gs": {
-      "ta": "பிற்காலப் பாண்டியர், விஜயநகர–நாயக்கர் காலம், தமிழகக் கலை",
-      "en": "Later Pandyas, Vijayanagara and Nayak period, arts of Tamil Nadu"
+      "ta": "பிற்காலப் பாண்டியர், விஜயநகர–நாயக்கர் காலம்; சங்க காலம் முதல் இக்காலம் வரை தமிழ் இலக்கிய வரலாறு",
+      "en": "Later Pandyas, Vijayanagara and Nayak period; Tamil literature from the Sangam age to the present"
      },
      "apt": {
       "ta": "சுருக்குதல், விழுக்காடு கலப்புப் பயிற்சி",
@@ -126,20 +126,20 @@
    "from": 8,
    "to": 14,
    "title": {
-    "ta": "இலக்கணம் (தொடர்ச்சி), சொல்லகராதி · தமிழக இயக்கங்கள்",
-    "en": "Grammar (continued), vocabulary · Movements of Tamil Nadu"
+    "ta": "சொல் இலக்கணம் · தமிழக இயக்கங்கள்",
+    "en": "Word grammar · Movements of Tamil Nadu"
    },
    "summary": {
-    "ta": "யாப்பு, அணி, சொல்லகராதி; சீர்திருத்தவாதிகள், விடுதலைப் போராட்டம்; மீ.பொ.வ, மீ.சி.ம, விகிதம்",
-    "en": "Prosody, figures of speech, vocabulary; reformers, freedom struggle; HCF, LCM, ratio"
+    "ta": "வேர்ச்சொல், வினை வடிவங்கள், எதிர்ச்சொல், பிழை அறிதல்; சீர்திருத்தவாதிகள், விடுதலைப் போராட்டம்; மீ.பொ.வ, மீ.சி.ம, விகிதம்",
+    "en": "Root words, verb forms, opposites, spotting errors; reformers, freedom struggle; HCF, LCM, ratio"
    },
    "days": [
     {
      "n": 8,
      "kind": "lesson",
      "tamil": {
-      "ta": "தொகாநிலைத் தொடர்கள், வழு, வழாநிலை, வழுவமைதி",
-      "en": "Uncompounded phrases, errors and accepted usage"
+      "ta": "வேர்ச்சொல் அறிதல்",
+      "en": "Finding the root word"
      },
      "gs": {
       "ta": "தொடக்க காலக் கிளர்ச்சிகள்: கட்டபொம்மன், மருது சகோதரர்கள், வேலுநாச்சியார், வேலூர்ப் புரட்சி",
@@ -154,8 +154,8 @@
      "n": 9,
      "kind": "lesson",
      "tamil": {
-      "ta": "வினா வகைகள், விடை வகைகள், பொருள்கோள்",
-      "en": "Kinds of questions and answers, porulkol"
+      "ta": "வேர்ச்சொல்லிலிருந்து வினைமுற்று, வினையெச்சம்",
+      "en": "From the root: finite verb, verbal participle"
      },
      "gs": {
       "ta": "சமூக சீர்திருத்தவாதிகள்: வள்ளலார், வைகுண்ட சுவாமிகள், அயோத்திதாசர், இரட்டைமலை சீனிவாசன்",
@@ -170,8 +170,8 @@
      "n": 10,
      "kind": "lesson",
      "tamil": {
-      "ta": "யாப்பு: அசை, சீர், தளை, அடி, தொடை; பா வகைகள்",
-      "en": "Prosody: asai, seer, thalai, adi, thodai; verse forms"
+      "ta": "வேர்ச்சொல்லிலிருந்து பெயரெச்சம், வினையாலணையும் பெயர்",
+      "en": "From the root: relative participle, participial noun"
      },
      "gs": {
       "ta": "நீதிக்கட்சி: தோற்றம், ஆட்சி, வகுப்புவாரி இடஒதுக்கீடு",
@@ -186,8 +186,8 @@
      "n": 11,
      "kind": "lesson",
      "tamil": {
-      "ta": "அணி: உவமை, உருவகம், பிற முக்கிய அணிகள்",
-      "en": "Figures of speech: simile, metaphor and other main ones"
+      "ta": "அயற்சொல் – தமிழ்ச்சொல்; எதிர்ச்சொல்",
+      "en": "Loan words and their Tamil words; opposites"
      },
      "gs": {
       "ta": "பெரியார்: சுயமரியாதை இயக்கம், வைக்கம் போராட்டம், திராவிடர் கழகம்",
@@ -202,8 +202,8 @@
      "n": 12,
      "kind": "lesson",
      "tamil": {
-      "ta": "சொல்லகராதி 1: எதிர்ச்சொல், ஒத்த சொல், ஓரெழுத்து ஒருமொழி",
-      "en": "Vocabulary 1: opposites, synonyms, one-letter words"
+      "ta": "வினைச்சொல்; இரண்டு வினைச்சொற்களின் வேறுபாடு",
+      "en": "Verbs; telling two verbs apart"
      },
      "gs": {
       "ta": "விடுதலைப் போராட்டத்தில் தமிழகம்: வ.உ.சி., பாரதியார், ராஜாஜி, காமராசர், பெண் போராளிகள்",
@@ -218,8 +218,8 @@
      "n": 13,
      "kind": "lesson",
      "tamil": {
-      "ta": "சொல்லகராதி 2: ஒலி வேறுபாடு (ல, ள, ழ; ர, ற; ண, ந, ன), பிறமொழிச் சொல் நீக்கம், பிழை திருத்தம்",
-      "en": "Vocabulary 2: similar-sounding letters, replacing loan words, error correction"
+      "ta": "எழுத்துப் பிழை, ஒற்றுப் பிழை அறிதல்; இலக்கணம் கலப்புப் பயிற்சி",
+      "en": "Spotting spelling and consonant errors; mixed grammar practice"
      },
      "gs": {
       "ta": "திராவிட இயக்கம், அண்ணா, மொழிப் போராட்டம், பெண் சீர்திருத்தவாதிகள்",
@@ -245,20 +245,20 @@
    "from": 15,
    "to": 21,
    "title": {
-    "ta": "தொடர் இலக்கணம், எழுதும் திறன் · அரசியலமைப்பு 1",
-    "en": "Sentence grammar, writing skills · Constitution 1"
+    "ta": "சொல்லகராதி · அரசியலமைப்பு 1",
+    "en": "Vocabulary · Constitution 1"
    },
    "summary": {
-    "ta": "வாக்கிய வகைகள், இலக்கணக் குறிப்பு, எழுதும் திறன்; முகப்புரை முதல் நாடாளுமன்றம் வரை; தனிவட்டி, கூட்டுவட்டி",
-    "en": "Sentence types, grammatical notes, writing skills; Preamble to Parliament; simple and compound interest"
+    "ta": "எதிர்ச்சொல், ஓரெழுத்து ஒரு மொழி, பொருந்தாச் சொல், மரூஉ, இணைப்புச் சொற்கள்; முகப்புரை முதல் நாடாளுமன்றம் வரை; தனிவட்டி, கூட்டுவட்டி",
+    "en": "Opposites, one-letter words, odd word out, place names, connectives; Preamble to Parliament; simple and compound interest"
    },
    "days": [
     {
      "n": 15,
      "kind": "lesson",
      "tamil": {
-      "ta": "தொடர் அமைப்பு: எழுவாய், பயனிலை, செயப்படுபொருள்; தன்வினை, பிறவினை; செய்வினை, செயப்பாட்டுவினை",
-      "en": "Sentence parts: subject, predicate, object; active and passive, causative"
+      "ta": "எதிர்ச்சொல்லை எடுத்தெழுதுதல்; ஓரெழுத்து ஒரு மொழி",
+      "en": "Picking the opposite; one-letter words"
      },
      "gs": {
       "ta": "அரசியலமைப்பு உருவாக்கம், சிறப்புக் கூறுகள், முகப்புரை",
@@ -273,8 +273,8 @@
      "n": 16,
      "kind": "lesson",
      "tamil": {
-      "ta": "வாக்கிய வகைகள்: தனி, தொடர், கலவை; நேர்க்கூற்று, அயற்கூற்று",
-      "en": "Sentence types: simple, compound, complex; direct and indirect speech"
+      "ta": "ஒரு பொருள் தரும் பல சொற்கள்; பல பொருள் தரும் ஒரு சொல்",
+      "en": "Many words for one meaning; one word with many meanings"
      },
      "gs": {
       "ta": "ஒன்றியமும் மாநிலங்களும், குடியுரிமை, அடிப்படை உரிமைகள்",
@@ -289,8 +289,8 @@
      "n": 17,
      "kind": "lesson",
      "tamil": {
-      "ta": "இலக்கணக் குறிப்பு அறிதல், பகுபத உறுப்பிலக்கணம்",
-      "en": "Identifying grammatical notes, parts of a divisible word"
+      "ta": "பொருந்தாச் சொல்; அகர வரிசைப்படுத்துதல்; சொல்லும் பொருளும்",
+      "en": "Odd word out; alphabetical order; word and meaning"
      },
      "gs": {
       "ta": "வழிகாட்டு நெறிமுறைகள், அடிப்படைக் கடமைகள்",
@@ -305,8 +305,8 @@
      "n": 18,
      "kind": "lesson",
      "tamil": {
-      "ta": "எழுதும் திறன் 1: சொற்களை ஒழுங்குபடுத்துதல், பொருத்தமான சொல், இணைப்புச் சொற்கள்",
-      "en": "Writing skills 1: ordering words, right word, connectives"
+      "ta": "கோடிட்ட இடத்தில் சரியான சொல்; பொருத்தமான பொருளைத் தெரிவு செய்தல்",
+      "en": "Right word for the blank; choosing the fitting meaning"
      },
      "gs": {
       "ta": "குடியரசுத் தலைவர், துணைக் குடியரசுத் தலைவர்",
@@ -321,8 +321,8 @@
      "n": 19,
      "kind": "lesson",
      "tamil": {
-      "ta": "எழுதும் திறன் 2: பிரித்தெழுதுதல், சேர்த்தெழுதுதல், நிறுத்தற்குறிகள், அகர வரிசை, வேர்ச்சொல் வடிவங்கள்",
-      "en": "Writing skills 2: splitting and joining words, punctuation, alphabetical order, root-word forms"
+      "ta": "ஊர்ப் பெயர்களின் மரூஉ; பேச்சு வழக்கு – எழுத்து வழக்கு; பிழை திருத்தம் (ஒரு – ஓர்)",
+      "en": "Shortened place names; spoken and written forms; corrections (oru – or)"
      },
      "gs": {
       "ta": "பிரதமர், அமைச்சரவை, தலைமை வழக்குரைஞர்",
@@ -337,8 +337,8 @@
      "n": 20,
      "kind": "lesson",
      "tamil": {
-      "ta": "இலக்கணம் திருப்புதல்: அலகிடுதல், அணி, பொது வினாக்கள்",
-      "en": "Grammar revision: scansion, figures of speech, general questions"
+      "ta": "இணைப்புச் சொற்கள்: சொற்களை இணைத்தல், தகுந்த இடத்தில் சேர்த்தல்; பேச்சு வழக்குத் தொடர்களைத் திருத்துதல்",
+      "en": "Connectives: joining with the right word, placing it correctly; correcting spoken-style sentences"
      },
      "gs": {
       "ta": "நாடாளுமன்றம்: மக்களவை, மாநிலங்களவை, சட்டம் இயற்றும் முறை",
@@ -364,20 +364,20 @@
    "from": 22,
    "to": 28,
    "title": {
-    "ta": "இலக்கியம், தமிழ் அறிஞர்கள் · அரசியலமைப்பு 2",
-    "en": "Literature, Tamil scholars · Constitution 2"
+    "ta": "எழுதும் திறன், மரபுத் தமிழ் · அரசியலமைப்பு 2",
+    "en": "Writing skills, correct usage · Constitution 2"
    },
    "summary": {
-    "ta": "அறநூல்கள், சங்க நூல்கள், காப்பியங்கள், அறிஞர்கள்; மாநில அரசு, நீதித்துறை, உள்ளாட்சி; பரப்பளவு, கன அளவு",
-    "en": "Ethical works, Sangam works, epics, scholars; state government, judiciary, local bodies; area, volume"
+    "ta": "சொற்றொடர் அமைத்தல், தொடர் வகைகள், வினை வகைகள், மரபுத் தமிழ், நிறுத்தற்குறிகள்; மாநில அரசு, நீதித்துறை, உள்ளாட்சி; பரப்பளவு, கன அளவு",
+    "en": "Building sentences, sentence and verb types, correct usage, punctuation; state government, judiciary, local bodies; area, volume"
    },
    "days": [
     {
      "n": 22,
      "kind": "lesson",
      "tamil": {
-      "ta": "திருக்குறள் பாடப்பகுதிகள், அறநூல்கள்: நாலடியார், பழமொழி நானூறு, திரிகடுகம், ஔவையார் நூல்கள்",
-      "en": "Thirukkural portions, ethical works: Naladiyar, Pazhamozhi Nanuru, Thirikadugam, Avvaiyar"
+      "ta": "சொற்களை ஒழுங்குபடுத்திச் சொற்றொடர் அமைத்தல்",
+      "en": "Arranging words into a sentence"
      },
      "gs": {
       "ta": "மாநில அரசு: ஆளுநர், முதலமைச்சர், சட்டமன்றம்",
@@ -392,8 +392,8 @@
      "n": 23,
      "kind": "lesson",
      "tamil": {
-      "ta": "எட்டுத்தொகை, பத்துப்பாட்டு: நூல்கள், புலவர்கள், சிறப்புகள்",
-      "en": "Ettuthogai and Pathuppattu: works, poets, features"
+      "ta": "தொடர் வகைகள்",
+      "en": "Kinds of sentences"
      },
      "gs": {
       "ta": "நீதித்துறை: உச்ச நீதிமன்றம், உயர் நீதிமன்றம், நீதிப்பேராணைகள்",
@@ -408,8 +408,8 @@
      "n": 24,
      "kind": "lesson",
      "tamil": {
-      "ta": "ஐம்பெருங்காப்பியங்கள், ஐஞ்சிறுகாப்பியங்கள், கம்பராமாயணம், பெரியபுராணம்",
-      "en": "The five great and five minor epics, Kamba Ramayanam, Periya Puranam"
+      "ta": "செய்வினை, செயப்பாட்டு வினை; தன்வினை, பிறவினை",
+      "en": "Active and passive; self-action and causative verbs"
      },
      "gs": {
       "ta": "உள்ளாட்சி: 73, 74-ஆம் திருத்தங்கள், ஊராட்சி அமைப்பு",
@@ -424,12 +424,12 @@
      "n": 25,
      "kind": "lesson",
      "tamil": {
-      "ta": "பக்தி இலக்கியம், சிற்றிலக்கியங்கள்: பரணி, குறவஞ்சி, பள்ளு, பிள்ளைத்தமிழ், தூது, உலா",
-      "en": "Devotional literature, minor forms: Parani, Kuravanji, Pallu, Pillaitamil, Thoothu, Ula"
+      "ta": "மரபுத் தமிழ் 1: திணை மரபு, பால் மரபு, கால மரபு; ஒருமை, பன்மைப் பிழை",
+      "en": "Correct usage 1: thinai, gender and tense agreement; singular–plural errors"
      },
      "gs": {
-      "ta": "தேர்தல்கள், தேர்தல் ஆணையம், அரசியலமைப்பு அமைப்புகள்",
-      "en": "Elections, Election Commission, constitutional bodies"
+      "ta": "தேர்தல்கள், தேர்தல் ஆணையம்; அரசியல் கட்சிகள், அரசியல் முறைமை (தமிழ்நாடு, இந்தியா)",
+      "en": "Elections, Election Commission; political parties and the political system in Tamil Nadu and India"
      },
      "apt": {
       "ta": "கன அளவு: கனசதுரம், கனசெவ்வகம்",
@@ -440,8 +440,8 @@
      "n": 26,
      "kind": "lesson",
      "tamil": {
-      "ta": "தமிழ் அறிஞர்கள் 1: பாரதியார், பாரதிதாசன், நாமக்கல் கவிஞர், கவிமணி",
-      "en": "Tamil scholars 1: Bharathiyar, Bharathidasan, Namakkal Kavignar, Kavimani"
+      "ta": "மரபுத் தமிழ் 2: இளமைப் பெயர், ஒலி மரபு, வினை மரபு, தொகை மரபு",
+      "en": "Correct usage 2: names of young ones, animal sounds, verb and group conventions"
      },
      "gs": {
       "ta": "மத்திய–மாநில உறவுகள், அவசரநிலை, முக்கியத் திருத்தங்கள், அட்டவணைகள்",
@@ -456,12 +456,12 @@
      "n": 27,
      "kind": "lesson",
      "tamil": {
-      "ta": "தமிழ் அறிஞர்கள் 2: உ.வே.சா., மறைமலையடிகள், திரு.வி.க., பாவாணர், வீரமாமுனிவர், ஜி.யு. போப், கால்டுவெல்",
-      "en": "Tamil scholars 2: U.V. Swaminatha Iyer, Maraimalai Adigal, Thiru Vi. Ka., Pavanar, Veeramamunivar, G.U. Pope, Caldwell"
+      "ta": "நிறுத்தற்குறிகள்: அமையும் இடங்கள்",
+      "en": "Punctuation marks and where they go"
      },
      "gs": {
-      "ta": "லோக்பால், லோக் ஆயுக்தா, தகவல் அறியும் உரிமை, நுகர்வோர் பாதுகாப்பு, மனித உரிமைகள்",
-      "en": "Lokpal, Lokayukta, Right to Information, consumer protection, human rights"
+      "ta": "லோக்பால், லோக் ஆயுக்தா, தகவல் அறியும் உரிமை, பெண்கள் அதிகாரமளித்தல், நுகர்வோர் பாதுகாப்பு, மனித உரிமைகள்",
+      "en": "Lokpal, Lokayukta, Right to Information, empowerment of women, consumer protection, human rights"
      },
      "apt": {
       "ta": "அளவியல் கலப்புப் பயிற்சி",
@@ -483,20 +483,20 @@
    "from": 29,
    "to": 35,
    "title": {
-    "ta": "இலக்கியம் (தொடர்ச்சி), கலைச்சொற்கள் · பொருளாதாரம் 1",
-    "en": "Literature (continued), technical terms · Economy 1"
+    "ta": "திருக்குறள், அறநூல்கள், தமிழ் அறிஞர்கள் · பொருளாதாரம் 1",
+    "en": "Thirukkural, ethical works, Tamil scholars · Economy 1"
    },
    "summary": {
-    "ta": "செய்யுள் பகுதிகள், இக்கால இலக்கியம், கலைச்சொற்கள்; திட்டமிடல், ரிசர்வ் வங்கி, GST; காலமும் வேலையும், தொடர்கள்",
-    "en": "Verse portions, modern literature, technical terms; planning, RBI, GST; time and work, series"
+    "ta": "திருக்குறள் இருபது அதிகாரங்கள், அறநூல்கள், தமிழ்ச் சான்றோர்; திட்டமிடல், ரிசர்வ் வங்கி, GST; காலமும் வேலையும், தொடர்கள்",
+    "en": "Twenty chapters of the Thirukkural, ethical works, Tamil savants; planning, RBI, GST; time and work, series"
    },
    "days": [
     {
      "n": 29,
      "kind": "lesson",
      "tamil": {
-      "ta": "செய்யுள் பகுதிகள் 1: சங்கப் பாடல்கள்; அடி, நூல், ஆசிரியர் பொருத்தம்",
-      "en": "Verse portions 1: Sangam poems; matching line, work and author"
+      "ta": "திருக்குறள் 1: பொதுச் செய்திகள்; அன்புடைமை, விருந்தோம்பல், ஒழுக்கமுடைமை, பொறையுடைமை, ஈகை, அறன் வலியுறுத்தல், அருளுடைமை",
+      "en": "Thirukkural 1: general facts and seven chapters (love, hospitality, conduct, forbearance, giving, virtue, compassion)"
      },
      "gs": {
       "ta": "இந்தியப் பொருளாதாரத்தின் இயல்புகள், தேசிய வருமானம்",
@@ -511,8 +511,8 @@
      "n": 30,
      "kind": "lesson",
      "tamil": {
-      "ta": "செய்யுள் பகுதிகள் 2: காப்பியம், பக்தி, சிற்றிலக்கியம்; மேற்கோள் அடிகள்",
-      "en": "Verse portions 2: epic, devotional, minor forms; quoted lines"
+      "ta": "திருக்குறள் 2: கல்வி, கல்லாமை, நடுவுநிலைமை, கூடா ஒழுக்கம், புறங்கூறாமை, ஊக்கமுடைமை, பெரியாரைத் துணைக்கோடல்",
+      "en": "Thirukkural 2: seven chapters (learning, ignorance, impartiality, false conduct, not backbiting, energy, company of the great)"
      },
      "gs": {
       "ta": "ஐந்தாண்டுத் திட்டங்கள், திட்டக் குழு, நிதி ஆயோக்",
@@ -527,8 +527,8 @@
      "n": 31,
      "kind": "lesson",
      "tamil": {
-      "ta": "இக்காலக் கவிதை: மரபுக்கவிதை, புதுக்கவிதை; கவிஞர்கள், நூல்கள்",
-      "en": "Modern poetry: traditional and free verse; poets and works"
+      "ta": "திருக்குறள் 3: வினை செயல்வகை, அவையஞ்சாமை, கண்ணோட்டம், செங்கோன்மை, பண்புடைமை, நட்பாராய்தல்; மேற்கோள்கள்",
+      "en": "Thirukkural 3: six chapters (action, fearlessness in assembly, kindliness, just rule, courtesy, choosing friends); quotations"
      },
      "gs": {
       "ta": "ரிசர்வ் வங்கி, பணக் கொள்கை, வங்கிகள், பணவீக்கம்",
@@ -543,8 +543,8 @@
      "n": 32,
      "kind": "lesson",
      "tamil": {
-      "ta": "உரைநடை: சிறுகதை, புதினம், நாடகம்; எழுத்தாளர்கள், இதழ்கள், விருதுகள்",
-      "en": "Prose: short story, novel, drama; writers, journals, awards"
+      "ta": "அறநூல்கள்: நாலடியார், நான்மணிக்கடிகை, பழமொழி நானூறு, முதுமொழிக்காஞ்சி, திரிகடுகம், இன்னா நாற்பது, சிறுபஞ்சமூலம், ஏலாதி, ஔவையார் பாடல்கள்",
+      "en": "Ethical works: Naladiyar, Nanmanikkadigai, Pazhamozhi Nanuru, Mudumozhikkanchi, Thirikadugam, Inna Narpathu, Sirupanchamoolam, Elathi, Avvaiyar"
      },
      "gs": {
       "ta": "வரிவிதிப்பு, GST, வரவு–செலவுத் திட்டம்",
@@ -559,8 +559,8 @@
      "n": 33,
      "kind": "lesson",
      "tamil": {
-      "ta": "தமிழ்த் தொண்டு: சமயச் சான்றோர், பெண் படைப்பாளர்கள்; தமிழின் சிறப்பு, திராவிட மொழிகள்",
-      "en": "Service to Tamil: religious savants, women writers; greatness of Tamil, Dravidian languages"
+      "ta": "தமிழின் தொன்மை, சிறப்பு, திராவிட மொழிகள்; உ.வே.சா., தெ.பொ.மீ., சி. இலக்குவனார், பாவாணர், பெருஞ்சித்திரனார், ஜி.யு. போப், வீரமாமுனிவர்",
+      "en": "Antiquity and greatness of Tamil, Dravidian languages; U.V. Swaminatha Iyer, T.P. Meenakshisundaram, S. Ilakkuvanar, Pavanar, Perunchithiranar, G.U. Pope, Veeramamunivar"
      },
      "gs": {
       "ta": "நிதிக் குழு, நிதிப் பகிர்வு; வேளாண்மை, நிலச் சீர்திருத்தம், பசுமைப் புரட்சி",
@@ -575,8 +575,8 @@
      "n": 34,
      "kind": "lesson",
      "tamil": {
-      "ta": "கலைச்சொற்கள்: ஆங்கிலச் சொல்லுக்கு நேரான தமிழ்ச்சொல் (அலுவலகம், அறிவியல், கணினி)",
-      "en": "Technical terms: Tamil equivalents of English words (office, science, computer)"
+      "ta": "தமிழ்ச் சான்றோர்: பாவேந்தர், டி.கே.சி., குன்றக்குடி அடிகளார், கண்ணதாசன், காயிதே மில்லத், தாரா பாரதி, வேலுநாச்சியார், பட்டுக்கோட்டையார், முடியரசன், தமிழ் ஒளி, உருத்திரங்கண்ணனார், கி.வா.ஜ., நாமக்கல் கவிஞர்",
+      "en": "Tamil savants: Bharathidasan, T.K.C., Kundrakudi Adigalar, Kannadasan, Quaid-e-Millath, Thara Bharathi, Velu Nachiyar, Pattukkottai Kalyanasundaram, Mudiyarasan, Tamil Oli, Uruthirankannanar, Ki.Va.Ja., Namakkal Kavignar"
      },
      "gs": {
       "ta": "தொழில் வளர்ச்சி, ஊரக நலத் திட்டங்கள், வறுமை, வேலையின்மை",
@@ -602,20 +602,20 @@
    "from": 36,
    "to": 42,
    "title": {
-    "ta": "வாசித்தல், மொழிபெயர்ப்பு, மரபு · தமிழ்நாட்டுப் பொருளாதாரம்",
-    "en": "Comprehension, translation, idiom · Economy of Tamil Nadu"
+    "ta": "வாசித்தல், புரிந்துகொள்ளும் திறன் · தமிழ்நாட்டுப் பொருளாதாரம்",
+    "en": "Reading comprehension · Economy of Tamil Nadu"
    },
    "summary": {
-    "ta": "பத்தி வாசித்தல், மொழிபெயர்ப்பு, மரபுத்தொடர், பழமொழி; தமிழ்நாட்டு வளர்ச்சி, நலத்திட்டங்கள்; காரணவியல்",
-    "en": "Passages, translation, idioms, proverbs; Tamil Nadu development, welfare schemes; reasoning"
+    "ta": "பத்தி வாசித்தல், உவமைத் தொடர், மரபுத் தொடர், பழமொழி; தமிழ்நாட்டு வளர்ச்சி, நலத்திட்டங்கள்; காரணவியல்",
+    "en": "Passages, similes, idioms, proverbs; Tamil Nadu development, welfare schemes; reasoning"
    },
    "days": [
     {
      "n": 36,
      "kind": "lesson",
      "tamil": {
-      "ta": "வாசித்தல்: பத்தியைப் படித்து விடையளித்தல், மையக்கருத்து, தலைப்பு",
-      "en": "Comprehension: answering from a passage, main idea, title"
+      "ta": "பத்தி வாசித்தல்: செய்தித்தாள், முகப்புச் செய்திகள்",
+      "en": "Passages: newspaper reports, front-page news"
      },
      "gs": {
       "ta": "தமிழ்நாட்டின் மனித வளர்ச்சிக் குறியீடுகள், சமூக நீதி, இடஒதுக்கீடு",
@@ -630,8 +630,8 @@
      "n": 37,
      "kind": "lesson",
      "tamil": {
-      "ta": "எளிய மொழிபெயர்ப்பு: ஆங்கிலச் சொற்கள், தொடர்களைத் தமிழாக்குதல்",
-      "en": "Simple translation: English words and phrases into Tamil"
+      "ta": "பத்தி வாசித்தல்: தலையங்கம், கட்டுரைகள்",
+      "en": "Passages: editorials, essays"
      },
      "gs": {
       "ta": "தமிழ்நாட்டுப் பொருளாதாரம்: வேளாண்மை, தொழில், சேவைத் துறை",
@@ -646,8 +646,8 @@
      "n": 38,
      "kind": "lesson",
      "tamil": {
-      "ta": "மரபுத்தொடர்கள், இணைமொழிகள், உவமைத் தொடர்கள்",
-      "en": "Idioms, paired words, similes in use"
+      "ta": "அரசு சார்ந்த செய்திகள்; ஆவண உள்ளடக்கங்களைப் புரிந்துகொள்ளுதல்",
+      "en": "Government news; understanding the content of documents"
      },
      "gs": {
       "ta": "தமிழ்நாட்டின் நலத்திட்டங்கள்: கல்வி, சுகாதாரம், பெண்கள், உணவு",
@@ -662,8 +662,8 @@
      "n": 39,
      "kind": "lesson",
      "tamil": {
-      "ta": "பழமொழிகள்; மரபுச் சொற்கள்: ஒலி மரபு, இளமைப் பெயர், வினை மரபு",
-      "en": "Proverbs; conventional words: animal sounds, names of young ones, verbs"
+      "ta": "உவமைத் தொடரின் பொருளறிதல்",
+      "en": "Meaning of similes"
      },
      "gs": {
       "ta": "தமிழ்நாட்டின் கல்வி, சுகாதார முறைமைகள்; சீர்திருத்த இயக்கங்களின் பங்கு",
@@ -678,8 +678,8 @@
      "n": 40,
      "kind": "lesson",
      "tamil": {
-      "ta": "அலுவல் சொற்கள், பேச்சு வழக்கு – எழுத்து வழக்கு, ஊர்ப்பெயர் மரூஉ",
-      "en": "Official terms, spoken and written forms, shortened place names"
+      "ta": "மரபுத் தொடரின் பொருளறிதல்",
+      "en": "Meaning of idioms"
      },
      "gs": {
       "ta": "வளர்ச்சி நிர்வாகம்: மின்னாளுகை, பொதுச் சேவைகள்; புவியியல் கூறுகளும் பொருளாதாரமும்",
@@ -694,8 +694,8 @@
      "n": 41,
      "kind": "lesson",
      "tamil": {
-      "ta": "வாசித்தல், மொழிபெயர்ப்பு, மரபு கலப்புப் பயிற்சி",
-      "en": "Mixed practice: comprehension, translation, idiom"
+      "ta": "பழமொழிகளின் பொருளறிதல்",
+      "en": "Meaning of proverbs"
      },
      "gs": {
       "ta": "பொருளாதாரம் திருப்புதல்; தமிழ்நாட்டுப் புள்ளிவிவரங்கள்",
@@ -721,20 +721,20 @@
    "from": 43,
    "to": 49,
    "title": {
-    "ta": "இலக்கணத் திருப்புதல் · இந்திய வரலாறு, தேசிய இயக்கம்",
-    "en": "Grammar revision · Indian history, national movement"
+    "ta": "கலைச்சொற்கள், மொழிபெயர்ப்பு · இந்திய வரலாறு, தேசிய இயக்கம்",
+    "en": "Technical terms, translation · Indian history, national movement"
    },
    "summary": {
-    "ta": "முந்தைய ஆண்டு வினா முறையில் இலக்கணம்; சிந்துவெளி முதல் 1947 வரை; நேரக் கட்டுப்பாட்டுப் பயிற்சி",
-    "en": "Grammar in previous-year question style; Indus Valley to 1947; timed practice"
+    "ta": "பல்துறைக் கலைச்சொற்கள், எளிய மொழிபெயர்ப்பு; சிந்துவெளி முதல் 1947 வரை; நேரக் கட்டுப்பாட்டுப் பயிற்சி",
+    "en": "Technical terms from many fields, simple translation; Indus Valley to 1947; timed practice"
    },
    "days": [
     {
      "n": 43,
      "kind": "lesson",
      "tamil": {
-      "ta": "திருப்புதல்: எழுத்து, சொல்",
-      "en": "Revision: letters, words"
+      "ta": "கலைச்சொற்கள்: அறிவியல், மருத்துவம்",
+      "en": "Technical terms: science, medicine"
      },
      "gs": {
       "ta": "சிந்துவெளி நாகரிகம், வேத காலம், சமணம், பௌத்தம்",
@@ -749,8 +749,8 @@
      "n": 44,
      "kind": "lesson",
      "tamil": {
-      "ta": "திருப்புதல்: புணர்ச்சி, வல்லினம் மிகும், மிகா இடங்கள்",
-      "en": "Revision: sandhi, doubling of hard consonants"
+      "ta": "கலைச்சொற்கள்: கல்வி, மேலாண்மை, சட்டம்",
+      "en": "Technical terms: education, management, law"
      },
      "gs": {
       "ta": "மௌரியர், குப்தர், தென்னிந்திய அரசுகள்",
@@ -765,8 +765,8 @@
      "n": 45,
      "kind": "lesson",
      "tamil": {
-      "ta": "திருப்புதல்: வேற்றுமை, தொகைநிலை, தொகாநிலை, ஆகுபெயர்",
-      "en": "Revision: cases, compounds, aagupeyar"
+      "ta": "கலைச்சொற்கள்: புவியியல், தொழில்நுட்பம்",
+      "en": "Technical terms: geography, technology"
      },
      "gs": {
       "ta": "தில்லி சுல்தானியம், முகலாயர், மராத்தியர், விஜயநகர–பாமினி அரசுகள்",
@@ -781,8 +781,8 @@
      "n": 46,
      "kind": "lesson",
      "tamil": {
-      "ta": "திருப்புதல்: யாப்பு, அணி, பொருள்கோள்",
-      "en": "Revision: prosody, figures of speech, porulkol"
+      "ta": "கலைச்சொற்கள்: ஊடகம், தகவல் தொழில்நுட்பம்",
+      "en": "Technical terms: media, information technology"
      },
      "gs": {
       "ta": "ஐரோப்பியர் வருகை, ஆங்கிலேய ஆட்சியின் விரிவாக்கம், 1857",
@@ -797,8 +797,8 @@
      "n": 47,
      "kind": "lesson",
      "tamil": {
-      "ta": "திருப்புதல்: வாக்கிய வகைகள், வினை வகைகள், இலக்கணக் குறிப்பு",
-      "en": "Revision: sentence types, verb types, grammatical notes"
+      "ta": "மொழிபெயர்ப்பு: ஆங்கிலம், பிறமொழிச் சொற்களுக்கு இணையான தமிழ்ச் சொற்கள்",
+      "en": "Translation: Tamil words for English and other loan words"
      },
      "gs": {
       "ta": "தேசிய இயக்கம் 1: காங்கிரஸ், மிதவாதிகள், தீவிரவாதிகள், சுதேசி இயக்கம்",
@@ -813,8 +813,8 @@
      "n": 48,
      "kind": "lesson",
      "tamil": {
-      "ta": "திருப்புதல்: சொல்லகராதி, பிழை திருத்தம், எழுதும் திறன்",
-      "en": "Revision: vocabulary, error correction, writing skills"
+      "ta": "மொழிபெயர்ப்பு: ஆவணத் தலைப்புகள், கோப்புகள், கடிதங்கள், மனுக்கள்",
+      "en": "Translation: document titles, files, letters, petitions"
      },
      "gs": {
       "ta": "தேசிய இயக்கம் 2: காந்தி காலம் முதல் விடுதலை வரை; இந்தியப் பண்பாடு",
@@ -840,20 +840,20 @@
    "from": 50,
    "to": 56,
    "title": {
-    "ta": "இலக்கியத் திருப்புதல் · அறிவியல், புவியியல், நடப்பு நிகழ்வுகள்",
-    "en": "Literature revision · Science, geography, current affairs"
+    "ta": "தமிழ் முழுத் திருப்புதல் · அறிவியல், புவியியல், நடப்பு நிகழ்வுகள்",
+    "en": "Tamil full revision · Science, geography, current affairs"
    },
    "summary": {
-    "ta": "இலக்கியம், அறிஞர்கள் திருப்புதல்; அறிவியல், புவியியல் விரைவு வாசிப்பு; 2026 நடப்பு நிகழ்வுகள்",
-    "en": "Literature and scholars revision; fast pass through science and geography; 2026 current affairs"
+    "ta": "ஏழு தமிழ் அலகுகளும் ஒருமுறை; அறிவியல், புவியியல் விரைவு வாசிப்பு; 2026 நடப்பு நிகழ்வுகள்",
+    "en": "All seven Tamil units once; fast pass through science and geography; 2026 current affairs"
    },
    "days": [
     {
      "n": 50,
      "kind": "lesson",
      "tamil": {
-      "ta": "திருப்புதல்: திருக்குறள், அறநூல்கள்",
-      "en": "Revision: Thirukkural, ethical works"
+      "ta": "திருப்புதல்: இலக்கணம் – எழுத்து",
+      "en": "Revision: grammar – letters"
      },
      "gs": {
       "ta": "இயற்பியல்: அளவீடுகள், விசை, வெப்பம், ஒளி, ஒலி, மின்சாரம்",
@@ -868,8 +868,8 @@
      "n": 51,
      "kind": "lesson",
      "tamil": {
-      "ta": "திருப்புதல்: சங்க இலக்கியம்",
-      "en": "Revision: Sangam literature"
+      "ta": "திருப்புதல்: இலக்கணம் – சொல்",
+      "en": "Revision: grammar – words"
      },
      "gs": {
       "ta": "வேதியியல்: தனிமங்கள், சேர்மங்கள், அமிலம், காரம், உலோகங்கள், உரங்கள்",
@@ -884,8 +884,8 @@
      "n": 52,
      "kind": "lesson",
      "tamil": {
-      "ta": "திருப்புதல்: காப்பியங்கள், பக்தி இலக்கியம், சிற்றிலக்கியம்",
-      "en": "Revision: epics, devotional literature, minor forms"
+      "ta": "திருப்புதல்: சொல்லகராதி",
+      "en": "Revision: vocabulary"
      },
      "gs": {
       "ta": "உயிரியல்: செல், மனித உடல், நோய்கள், ஊட்டச்சத்து, சுற்றுச்சூழல்",
@@ -900,8 +900,8 @@
      "n": 53,
      "kind": "lesson",
      "tamil": {
-      "ta": "திருப்புதல்: தமிழ் அறிஞர்கள், தமிழ்த் தொண்டு",
-      "en": "Revision: Tamil scholars, service to Tamil"
+      "ta": "திருப்புதல்: எழுதும் திறன், மரபுத் தமிழ்",
+      "en": "Revision: writing skills, correct usage"
      },
      "gs": {
       "ta": "புவியியல் 1: புவி, இந்தியாவின் இயற்கை அமைப்பு, ஆறுகள், காலநிலை, மண், காடுகள்",
@@ -916,8 +916,8 @@
      "n": 54,
      "kind": "lesson",
      "tamil": {
-      "ta": "திருப்புதல்: இக்கால இலக்கியம், உரைநடை, விருதுகள்",
-      "en": "Revision: modern literature, prose, awards"
+      "ta": "திருப்புதல்: கலைச்சொற்கள், மொழிபெயர்ப்பு",
+      "en": "Revision: technical terms, translation"
      },
      "gs": {
       "ta": "புவியியல் 2: தமிழ்நாடு; வேளாண்மை, கனிமங்கள், போக்குவரத்து, மக்கள்தொகை, பேரிடர் மேலாண்மை",
@@ -932,8 +932,8 @@
      "n": 55,
      "kind": "lesson",
      "tamil": {
-      "ta": "மேற்கோள் அடி, நூல், ஆசிரியர் பொருத்தப் பயிற்சி",
-      "en": "Practice: matching quoted line, work and author"
+      "ta": "திருப்புதல்: வாசித்தல், இலக்கியம், தமிழ் அறிஞர்கள்",
+      "en": "Revision: comprehension, literature, Tamil scholars"
      },
      "gs": {
       "ta": "நடப்பு நிகழ்வுகள் 2026: தமிழ்நாடு, தேசியம், விருதுகள், விளையாட்டு, அறிவியல்",
@@ -963,16 +963,16 @@
     "en": "First full revision"
    },
    "summary": {
-    "ta": "கலைச்சொற்கள், சொல்லகராதி, பலவீனமான தமிழ் அலகுகள்; பொது அறிவு அலகுகள் அனைத்தும்; சூத்திரத் தாள்",
-    "en": "Technical terms, vocabulary, weak Tamil units; all General Studies units; formula sheet"
+    "ta": "இலக்கணம், சொல்லகராதி, பலவீனமான தமிழ் அலகுகள்; பொது அறிவு அலகுகள் அனைத்தும்; சூத்திரத் தாள்",
+    "en": "Grammar, vocabulary, weak Tamil units; all General Studies units; formula sheet"
    },
    "days": [
     {
      "n": 57,
      "kind": "lesson",
      "tamil": {
-      "ta": "கலைச்சொற்கள்: முழுப் பட்டியல்",
-      "en": "Technical terms: the full list"
+      "ta": "இலக்கணம்: முழுத் திருப்புதல்",
+      "en": "Grammar: full revision"
      },
      "gs": {
       "ta": "திருப்புதல்: தமிழ்நாட்டு வரலாறு, பண்பாடு",
@@ -987,8 +987,8 @@
      "n": 58,
      "kind": "lesson",
      "tamil": {
-      "ta": "சொல்லகராதி: முழுத் திருப்புதல்",
-      "en": "Vocabulary: full revision"
+      "ta": "சொல்லகராதி, கலைச்சொற்கள்: முழுத் திருப்புதல்",
+      "en": "Vocabulary and technical terms: full revision"
      },
      "gs": {
       "ta": "திருப்புதல்: தமிழக இயக்கங்கள், சீர்திருத்தவாதிகள்",
@@ -1106,8 +1106,8 @@
      "n": 65,
      "kind": "lesson",
      "tamil": {
-      "ta": "உங்கள் முடிவுகளின்படி: இலக்கியம்",
-      "en": "From your results: literature"
+      "ta": "உங்கள் முடிவுகளின்படி: திருக்குறள், அறநூல்கள்",
+      "en": "From your results: Thirukkural, ethical works"
      },
      "gs": {
       "ta": "உங்கள் முடிவுகளின்படி: அரசியலமைப்பு, ஆட்சியியல்",
@@ -1225,5 +1225,6 @@
     "en": "The day before the exam: revision sheets and a light 50-question test only"
    }
   ]
- }
+ },
+ "syllabus": "TNPSC Group IV syllabus dated 12.12.2024 (code 496)"
 }
