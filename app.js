@@ -46,6 +46,25 @@
     });
     return out;
   }
+  var SOFAR = { tamil: 20, gs: 15, apt: 15, minutes: 45 };
+  function daysDone() { return currentDay() - 1; }
+  async function sofarPaper(through) {
+    var last = {}, bySub = { tamil: [], gs: [], apt: [] };
+    allAttempts().forEach(function (a) { (a.answers || []).forEach(function (x) { last[x.id] = x.ok; }); });
+    for (var n = 1; n <= through; n++) {
+      var d = await loadDay(n); if (!d) continue;
+      d.tests.forEach(function (ts) { ts.questions.concat(ts.pool || []).forEach(function (q) { if (bySub[q.subject]) bySub[q.subject].push({ q: q, day: n, r: (last[q.id] === undefined ? 0 : last[q.id] ? 2 : 1) + Math.random() * 0.9 }); }); });
+    }
+    var out = [];
+    SUBJECTS.forEach(function (sub) {
+      var c = bySub[sub].sort(function (a, b) { return a.r - b.r; }), need = Math.min(SOFAR[sub], c.length);
+      var cap = Math.ceil(need / through) + 1, per = {}, pick = [], rest = [];
+      c.forEach(function (x) { if (pick.length < need && (per[x.day] || 0) < cap) { per[x.day] = (per[x.day] || 0) + 1; pick.push(x.q); } else rest.push(x.q); });
+      while (pick.length < need) pick.push(rest.shift());
+      out = out.concat(shuffleSections(pick));
+    });
+    return out;
+  }
   function passage(q) { return q.p ? '<div class="pas">' + esc(tx(q.p)) + '</div>' : ''; }
   function clock(sec) { sec = Math.max(0, Math.round(sec)); return pad(Math.floor(sec / 60), 2) + ':' + pad(sec % 60, 2); }
 
@@ -92,6 +111,11 @@
     yesFinish: ['ஆம், முடி', 'Yes, finish'], noCont: ['இல்லை, தொடர்கிறேன்', 'No, continue'],
     timeUp: ['நேரம் முடிந்தது', 'Time is up'],
     resume: ['பாதியில் நிற்கும் தேர்வு உள்ளது', 'You have an unfinished test'],
+    sofarTitle: ['இதுவரை படித்தவை அனைத்தும்', 'Everything so far'],
+    sofarSub: ['நாள் 1 முதல் {0} வரை · {1} வினாக்கள் · {2} நிமிடம்', 'Days 1 to {0} · {1} questions · {2} minutes'],
+    sofarWhat: ['நீங்கள் முடித்த எல்லா நாள்களின் பாடங்களிலிருந்தும் கலந்து வரும் தேர்வு. எப்போது வேண்டுமானாலும், எத்தனை முறை வேண்டுமானாலும் எழுதலாம்.', 'A test that mixes questions from every day you have finished. Take it whenever you like, as often as you like.'],
+    sofarNew: ['ஒவ்வொரு முறையும் வேறு வினாத்தாள்: இதுவரை பார்க்காத வினாக்கள் முதலில், பின் முன்பு தவறானவை.', 'A different paper every time: questions you have not seen come first, then ones you got wrong before.'],
+    sofarLabel: ['இதுவரை படித்தவை (நாள் 1–{0})', 'Everything so far (days 1–{0})'],
     resumeBtn: ['தேர்வைத் தொடர', 'Continue the test'],
     result: ['தேர்வு முடிவு', 'Test result'],
     hit: ['இலக்கு எட்டப்பட்டது. மிக நன்று!', 'Target reached. Well done!'],
@@ -448,6 +472,11 @@
       h += '<div class="card"><h2>' + t('waitT') + '</h2><p>' + t('waitP') + '</p></div>';
     }
     if (due.length) h += '<div class="card"><h3>' + t('revTitle') + '</h3><p class="sub">' + t('revCard', due.length) + '</p><button class="btn primary" data-act="revision">' + t('revBtn') + '</button></div>';
+    if (daysDone() >= 2) {
+      var sf = attemptsOf(0, 'sofar');
+      h += '<button class="step sofar ' + (sf.length ? 'done' : '') + '" data-act="sofar"><span class="n">' + (sf.length ? '✓' : '∑') + '</span><span class="t"><b>' + t('sofarTitle') + '</b><span>' +
+        esc(sf.length ? scoreText(sf) : t('sofarSub', daysDone(), SOFAR.tamil + SOFAR.gs + SOFAR.apt, SOFAR.minutes)) + '</span></span><span class="go">›</span></button>';
+    }
     h += timetable ? timetableHtml(cur) : olderHtml(cur);
     return h + nav('home');
   }
@@ -459,6 +488,18 @@
     var d = await loadDay(route.day), n = d.notes.filter(function (x) { return x.id === route.id; })[0];
     return top(t(n.subject), true) + '<div class="card"><p class="sub">' + t('day', d.n) + '</p><h2>' + esc(tx(n.title)) + '</h2></div>' + mdCards(tx(n.md)) +
       '<div class="sticky"><button class="btn primary" data-act="read">' + t('readDone') + '</button></div>' + nav('');
+  }
+  function sofarScreen() {
+    var at = attemptsOf(0, 'sofar'), n = daysDone();
+    if (n < 2) { route = { r: 'home' }; return homeScreen(); }
+    var h = top(t('sofarTitle'), true) + '<div class="card"><h2>' + t('sofarTitle') + '</h2><p class="sub">' + t('sofarSub', n, SOFAR.tamil + SOFAR.gs + SOFAR.apt, SOFAR.minutes) + '</p>' +
+      '<ul><li>' + t('sofarWhat') + '</li><li>' + t('sofarNew') + '</li><li>' + t('rules3') + '</li><li>' + t('rules4') + '</li></ul></div>';
+    if (at.length) {
+      h += '<div class="card"><h3>' + t('history') + '</h3>';
+      at.forEach(function (a) { h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + nice(a.submittedAt) + ' · ' + hhmm(a.submittedAt) + '</b><span>' + t('sofarLabel', a.through) + '</span></span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>'; });
+      h += '</div>';
+    }
+    return h + (VIEW && !PREVIEW ? '' : '') + '<button class="btn primary" data-act="sofarstart">' + (at.length ? t('again') : t('start')) + '</button>' + nav('');
   }
   async function introScreen() {
     var d = await loadDay(route.day), ts = d.tests.filter(function (x) { return x.id === route.id; })[0], at = attemptsOf(d.n, ts.id);
@@ -476,8 +517,18 @@
 
   /* ---------- running a test ---------- */
   var run = null; // {day, tid, kind, minutes, questions, ans, active, startedAt, idx, list}
-  function persistRun() { if (!run || VIEW) return; LS.set('inprog', { day: run.day, tid: run.tid, order: run.questions.map(function (q) { return q.id; }), ans: run.ans, active: run.active, startedAt: run.startedAt, idx: run.idx }); }
+  function persistRun() { if (!run || VIEW) return; LS.set('inprog', { day: run.day, tid: run.tid, through: run.through, order: run.questions.map(function (q) { return q.id; }), ans: run.ans, active: run.active, startedAt: run.startedAt, idx: run.idx }); }
+  async function beginSofar(saved) {
+    var through = saved ? saved.through : daysDone(), qs = null;
+    if (saved) { qs = await questionsFor(saved.order || []); if (!qs.length || qs.length !== saved.ans.length) { saved = null; qs = null; through = daysDone(); } }
+    if (!qs) qs = await sofarPaper(through);
+    run = { day: 0, tid: 'sofar', kind: 'cumulative', through: through, minutes: Math.max(5, Math.round(SOFAR.minutes * qs.length / 50)), questions: qs, list: false, attemptNo: attemptsOf(0, 'sofar').length + 1,
+      ans: saved ? saved.ans : qs.map(function () { return null; }), active: saved ? saved.active : 0,
+      startedAt: saved ? saved.startedAt : new Date().toISOString(), idx: saved ? saved.idx : 0 };
+    persistRun();
+  }
   async function beginRun(dayN, tid, saved) {
+    if (tid === 'sofar') return beginSofar(saved);
     var d = await loadDay(dayN), ts = d.tests.filter(function (x) { return x.id === tid; })[0];
     var prior = attemptsOf(dayN, tid).length, qs = null;
     if (saved) {
@@ -534,8 +585,8 @@
   }
   function submitRun() {
     var g = grade(run.questions, run.ans);
-    var a = Object.assign({ schema: 1, day: run.day, test: run.tid, kind: run.kind, attemptNo: run.attemptNo, date: istDate(), startedAt: run.startedAt, submittedAt: new Date().toISOString(), activeSeconds: run.active, allowedSeconds: run.minutes * 60 }, g);
-    var name = store(a, 'd' + pad(run.day, 3) + '_' + run.tid);
+    var a = Object.assign({ schema: 1, day: run.day, test: run.tid, kind: run.kind, attemptNo: run.attemptNo, date: istDate(), startedAt: run.startedAt, submittedAt: new Date().toISOString(), activeSeconds: run.active, allowedSeconds: run.minutes * 60 }, run.through ? { through: run.through } : {}, g);
+    var name = store(a, run.tid === 'sofar' ? 'sofar_d' + pad(run.through, 3) : 'd' + pad(run.day, 3) + '_' + run.tid);
     run = null; LS.del('inprog');
     go({ r: 'result', name: name, filter: 'wrong' }, true);
   }
@@ -628,14 +679,14 @@
     h += '<div class="card"><h3>' + t('bySubject') + '</h3>' + meters(by) + (weak.length ? '<p class="sub">' + t('weak', t(weak[0])) + '</p>' : '') + '</div>';
     h += '<div class="card"><h3>' + t('history') + '</h3>';
     all.slice().reverse().forEach(function (a) {
-      var label = a.test === 'rev' ? t('rev') : t('day', a.day) + ' · ' + (a.test === 'daily' ? t('testToday') : t('extraTest'));
+      var label = a.test === 'rev' ? t('rev') : a.test === 'sofar' ? t('sofarLabel', a.through) : t('day', a.day) + ' · ' + (a.test === 'daily' ? t('testToday') : t('extraTest'));
       h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + esc(label) + '</b><span>' + nice(a.submittedAt) + ' · ' + hhmm(a.submittedAt) + '</span></span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>';
     });
     return h + '</div>' + nav('progress');
   }
 
   /* ---------- render + events ---------- */
-  var SCREENS = { home: homeScreen, day: dayScreen, notes: notesScreen, intro: introScreen, run: runScreen, result: resultScreen, revision: revisionScreen, progress: progressScreen };
+  var SCREENS = { sofar: sofarScreen, home: homeScreen, day: dayScreen, notes: notesScreen, intro: introScreen, run: runScreen, result: resultScreen, revision: revisionScreen, progress: progressScreen };
   var renderSeq = 0;
   async function render(keepScroll) {
     var seq = ++renderSeq;
@@ -668,6 +719,8 @@
         if (!reads[key]) { reads[key] = true; if (!VIEW) LS.set('reads', reads); queue('reads/' + key + '.json', { day: route.day, subject: route.id, readAt: new Date().toISOString() }); }
         toast(t('readSaved')); history.back(); break;
       case 'start': await beginRun(route.day, route.id, null); go({ r: 'run' }, true); break;
+      case 'sofar': go({ r: 'sofar' }); break;
+      case 'sofarstart': await beginSofar(null); go({ r: 'run' }, true); break;
       case 'resume': var ip = LS.get('inprog', null); if (ip) { await beginRun(ip.day, ip.tid, ip); go({ r: 'run' }); } break;
       case 'pick': run.ans[run.idx] = run.ans[run.idx] === i ? null : i; persistRun(); render(true); break;
       case 'prev': if (run.idx) { run.idx--; persistRun(); render(); } break;
