@@ -16,6 +16,22 @@
     "ta": "மயங்கொலிகள் · சங்க காலச் சமூகம், தொல்லியல் · விழுக்காடு",
     "en": "Similar-sounding letters · Sangam society, archaeology · Percentage"
    }
+  },
+  {
+   "n": 3,
+   "file": "day-003.json",
+   "title": {
+    "ta": "பிரித்து எழுதுதல் · திருக்குறள் · விழுக்காடு 2",
+    "en": "Splitting words · Thirukkural · Percentage 2"
+   }
+  },
+  {
+   "n": 4,
+   "file": "day-004.json",
+   "title": {
+    "ta": "சேர்த்து எழுதுதல் · களப்பிரர், பல்லவர் · பின்னங்கள், தசம எண்கள்",
+    "en": "Joining words · Kalabhras and Pallavas · Fractions and decimals"
+   }
   }
  ]
 }
