@@ -48,6 +48,26 @@
   }
   var SOFAR = { tamil: 20, gs: 15, apt: 15, minutes: 45 };
   function daysDone() { return currentDay() - 1; }
+  var SOFAR_N = SOFAR.tamil + SOFAR.gs + SOFAR.apt;
+  // Every finished day from day 2 on has its own cumulative test (days 1 to N). `through` on the attempt says which.
+  function sofarOf(n) { return allAttempts().filter(function (a) { return a.test === 'sofar' && a.through === n; }); }
+  function cumPending() { var out = []; for (var n = daysDone(); n >= 2; n--) if (!sofarOf(n).length) out.push(n); return out; }
+  function cumAlert() {
+    var p = cumPending(); if (!p.length) return '';
+    var h = '<div class="cumalert" role="alert"><h3>' + t('cumPendT') + '</h3><p><b>' + t('cumPendOne', p[0]) + '</b> ' + t('cumPendWhy', SOFAR_N, SOFAR.minutes) + '</p>' +
+      '<button class="btn" data-act="sofar" data-day="' + p[0] + '">' + t('cumPendBtn') + '</button>';
+    if (p.length > 1) h += '<p class="more">' + t('cumPendMore') + '</p><div class="chips">' + p.slice(1).map(function (n) { return '<button data-act="sofar" data-day="' + n + '">' + t('cumChip', n) + '</button>'; }).join('') + '</div>';
+    return h + '</div>';
+  }
+  function cumStep(n) {
+    var sf = sofarOf(n), latest = n === daysDone();
+    return '<button class="step sofar ' + (sf.length ? 'done' : 'pend') + '" data-act="sofar" data-day="' + n + '"><span class="n">' + (sf.length ? '✓' : '∑') + '</span><span class="t"><b>' + (latest ? t('sofarTitle') : t('cumTitle', n)) + '</b><span>' +
+      esc(sf.length ? scoreText(sf) : latest ? t('sofarSub', n, SOFAR_N, SOFAR.minutes) : t('cumNotYet', SOFAR_N, SOFAR.minutes)) + '</span></span><span class="go">›</span></button>';
+  }
+  // Which try this was at its own test (1, 2, 3…), counted from the saved attempts themselves.
+  function tryNo(a) {
+    return allAttempts().filter(function (b) { return b.test === a.test && b.day === a.day && (b.through || 0) === (a.through || 0) && b.submittedAt <= a.submittedAt; }).length;
+  }
   async function sofarPaper(through) {
     var last = {}, bySub = { tamil: [], gs: [], apt: [] };
     allAttempts().forEach(function (a) { (a.answers || []).forEach(function (x) { last[x.id] = x.ok; }); });
@@ -164,7 +184,22 @@
     loading: ['சற்று பொறுங்கள்…', 'One moment…'],
     preview: ['முன்னோட்டம்', 'Preview'],
     rev: ['மறுபயிற்சி', 'Revision'],
-    extraTest: ['கூடுதல் தேர்வு', 'Extra test']
+    extraTest: ['கூடுதல் தேர்வு', 'Extra test'],
+    cumTitle: ['தொகுப்புத் தேர்வு · நாள் 1–{0}', 'Cumulative test · Days 1–{0}'],
+    cumWhat: ['நாள் 1 முதல் {0} வரையிலான பாடங்களிலிருந்து கலந்து வரும் தேர்வு. எப்போது வேண்டுமானாலும், எத்தனை முறை வேண்டுமானாலும் எழுதலாம்.', 'A test that mixes questions from the lessons of days 1 to {0}. Take it whenever you like, as often as you like.'],
+    cumPendT: ['⏰ எழுதாத தொகுப்புத் தேர்வு உள்ளது!', '⏰ A cumulative test is waiting!'],
+    cumPendOne: ['நாள் 1–{0} தொகுப்புத் தேர்வை இன்னும் எழுதவில்லை.', 'You have not yet taken the cumulative test for Days 1–{0}.'],
+    cumPendWhy: ['படித்தது மறக்காமல் இருக்க இது மிக முக்கியம். {0} வினாக்கள் · {1} நிமிடம்.', 'This is what keeps your learning from fading. {0} questions · {1} minutes.'],
+    cumPendBtn: ['இப்போதே எழுது ▶', 'Take it now ▶'],
+    cumPendMore: ['இவையும் எழுதப்படவில்லை:', 'These are also waiting:'],
+    cumChip: ['நாள் 1–{0}', 'Days 1–{0}'],
+    cumNext: ['அடுத்து: நாள் 1–{0} தொகுப்புத் தேர்வு ▶', 'Next: cumulative test, Days 1–{0} ▶'],
+    cumNotYet: ['இன்னும் எழுதவில்லை · {0} வினாக்கள் · {1} நிமிடம்', 'Not taken yet · {0} questions · {1} minutes'],
+    pendTag: ['∑ தொகுப்புத் தேர்வு நிலுவை', '∑ Cumulative test pending'],
+    attemptN: ['முயற்சி {0}', 'Attempt {0}'],
+    histHelp: ['நீங்கள் எழுதிய ஒவ்வொரு தேர்வும், ஒவ்வொரு முயற்சியும் நாள், நேரத்துடன் இங்கே இருக்கும். ஒன்றைத் தொட்டால் அதன் விடைகளைப் பார்க்கலாம்.', 'Every test and every attempt you have made is listed here with its date and time. Tap one to see its answers.'],
+    attemptsCount: ['மொத்த முயற்சிகள்: {0}', 'Total attempts: {0}'],
+    partial: ['பாதியில் நிறுத்தியது', 'stopped midway']
   };
   function t(k) {
     var s = STR[k] ? STR[k][lang === 'en' ? 1 : 0] : k, a = arguments;
@@ -336,11 +371,12 @@
   var route = { r: 'home' };
   var ticker = null;
   function go(r, replace) {
+    if (rev && r.r !== 'revision') keepRevision();
     route = r;
     if (replace) history.replaceState(r, ''); else history.pushState(r, '');
     render();
   }
-  window.addEventListener('popstate', function (e) { route = e.state || { r: 'home' }; closeModal(); render(); });
+  window.addEventListener('popstate', function (e) { route = e.state || { r: 'home' }; if (rev && route.r !== 'revision') keepRevision(); closeModal(); render(); });
   function toast(msg) {
     var el = document.getElementById('toast'); el.textContent = msg; el.classList.add('show');
     clearTimeout(toast.h); toast.h = setTimeout(function () { el.classList.remove('show'); }, 2600);
@@ -416,13 +452,13 @@
     return h;
   }
   function olderHtml(cur) {
-    var older = index.days.filter(function (x) { return x.n < cur; }).sort(function (a, b) { return b.n - a.n; });
+    var older = index.days.filter(function (x) { return x.n < cur; }).sort(function (a, b) { return b.n - a.n; }), h = '';
     if (older.length) {
       h += '<div class="card"><h3>' + t('older') + '</h3>';
       older.forEach(function (x) { var a = bestOf(dailyOf(x.n)); h += '<button class="item" data-act="day" data-day="' + x.n + '"><span class="t"><b>' + t('day', x.n) + '</b><span>' + esc(tx(x.title)) + '</span></span><span class="s">' + (a ? a.correct + ' / ' + a.total : '') + ' ›</span></button>'; });
       h += '</div>';
     }
-    return '';
+    return h;
   }
   // The whole plan, week by week. Finished days and today open; later days show their topics but stay locked.
   var openWeeks = {};
@@ -431,6 +467,7 @@
     var body = '<span class="dn">' + t('day', d.n) + '</span>';
     if (d.kind === 'lesson') SUBJECTS.forEach(function (sub) { body += '<span class="tl"><i>' + t(sub) + '</i>' + esc(tx(d[sub])) + '</span>'; });
     else body += '<span class="tl">' + esc(tx(d.note || d.title)) + '</span>';
+    if (state === 'done' && d.n >= 2 && !sofarOf(d.n).length) body += '<span class="pendtag">' + t('pendTag') + '</span>';
     var side = state === 'done' ? '<span class="st ok">✓' + (a ? '<small>' + a.correct + ' / ' + a.total + '</small>' : '') + '</span>'
       : state === 'now' ? '<span class="st now">' + t('todayTag') + '</span>' : '<span class="st" aria-label="' + t('locked') + '">🔒</span>';
     var written = index.days.some(function (x) { return x.n === d.n; });
@@ -465,6 +502,7 @@
     var prevDone = dailyOf(cur - 1);
     if (cur > 1 && prevDone.length && istDate(prevDone[0].submittedAt) === istDate()) h += '<div class="banner ok">' + t('doneToday', cur - 1) + '</div>';
     var due = revisionDue();
+    h += cumAlert();
     if (cur <= maxDay()) {
       var d = await loadDay(cur);
       h += '<div class="card"><p class="sub">' + t('today') + '</p><h2>' + t('day', cur) + '</h2><p class="sub">' + esc(tx(d.title)) + '</p></div>' + stepsHtml(d);
@@ -472,17 +510,14 @@
       h += '<div class="card"><h2>' + t('waitT') + '</h2><p>' + t('waitP') + '</p></div>';
     }
     if (due.length) h += '<div class="card"><h3>' + t('revTitle') + '</h3><p class="sub">' + t('revCard', due.length) + '</p><button class="btn primary" data-act="revision">' + t('revBtn') + '</button></div>';
-    if (daysDone() >= 2) {
-      var sf = attemptsOf(0, 'sofar');
-      h += '<button class="step sofar ' + (sf.length ? 'done' : '') + '" data-act="sofar"><span class="n">' + (sf.length ? '✓' : '∑') + '</span><span class="t"><b>' + t('sofarTitle') + '</b><span>' +
-        esc(sf.length ? scoreText(sf) : t('sofarSub', daysDone(), SOFAR.tamil + SOFAR.gs + SOFAR.apt, SOFAR.minutes)) + '</span></span><span class="go">›</span></button>';
-    }
+    if (daysDone() >= 2) h += cumStep(daysDone());
     h += timetable ? timetableHtml(cur) : olderHtml(cur);
     return h + nav('home');
   }
   async function dayScreen() {
     var d = await loadDay(route.day);
-    return top(t('day', d.n), true) + '<div class="card"><h2>' + t('day', d.n) + '</h2><p class="sub">' + esc(tx(d.title)) + '</p></div>' + stepsHtml(d) + nav('');
+    return top(t('day', d.n), true) + '<div class="card"><h2>' + t('day', d.n) + '</h2><p class="sub">' + esc(tx(d.title)) + '</p></div>' + stepsHtml(d) +
+      (d.n >= 2 && d.n <= daysDone() ? cumStep(d.n) : '') + nav('');
   }
   async function notesScreen() {
     var d = await loadDay(route.day), n = d.notes.filter(function (x) { return x.id === route.id; })[0];
@@ -490,16 +525,17 @@
       '<div class="sticky"><button class="btn primary" data-act="read">' + t('readDone') + '</button></div>' + nav('');
   }
   function sofarScreen() {
-    var at = attemptsOf(0, 'sofar'), n = daysDone();
-    if (n < 2) { route = { r: 'home' }; return homeScreen(); }
-    var h = top(t('sofarTitle'), true) + '<div class="card"><h2>' + t('sofarTitle') + '</h2><p class="sub">' + t('sofarSub', n, SOFAR.tamil + SOFAR.gs + SOFAR.apt, SOFAR.minutes) + '</p>' +
-      '<ul><li>' + t('sofarWhat') + '</li><li>' + t('sofarNew') + '</li><li>' + t('rules3') + '</li><li>' + t('rules4') + '</li></ul></div>';
+    var done = daysDone(), n = route.through || done;
+    if (done < 2 || n < 2 || n > done) { route = { r: 'home' }; return homeScreen(); }
+    var at = sofarOf(n), title = n === done ? t('sofarTitle') : t('cumTitle', n);
+    var h = top(title, true) + '<div class="card"><h2>' + title + '</h2><p class="sub">' + t('sofarSub', n, SOFAR_N, SOFAR.minutes) + '</p>' +
+      '<ul><li>' + (n === done ? t('sofarWhat') : t('cumWhat', n)) + '</li><li>' + t('sofarNew') + '</li><li>' + t('rules3') + '</li><li>' + t('rules4') + '</li></ul></div>';
     if (at.length) {
       h += '<div class="card"><h3>' + t('history') + '</h3>';
-      at.forEach(function (a) { h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + nice(a.submittedAt) + ' · ' + hhmm(a.submittedAt) + '</b><span>' + t('sofarLabel', a.through) + '</span></span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>'; });
+      at.forEach(function (a, i) { h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + nice(a.submittedAt) + ' · ' + hhmm(a.submittedAt) + '</b><span>' + t('attemptN', i + 1) + (at.length > 1 && a === bestOf(at) ? ' · ' + t('best') : '') + '</span></span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>'; });
       h += '</div>';
     }
-    return h + (VIEW && !PREVIEW ? '' : '') + '<button class="btn primary" data-act="sofarstart">' + (at.length ? t('again') : t('start')) + '</button>' + nav('');
+    return h + '<button class="btn primary" data-act="sofarstart">' + (at.length ? t('again') : t('start')) + '</button>' + nav('');
   }
   async function introScreen() {
     var d = await loadDay(route.day), ts = d.tests.filter(function (x) { return x.id === route.id; })[0], at = attemptsOf(d.n, ts.id);
@@ -508,7 +544,7 @@
       '<ul><li>' + t('rules1') + '</li><li>' + t('rules2') + '</li><li>' + t('rules3') + '</li><li>' + t('rules4') + '</li>' + '<li>' + t('rules5') + '</li>' + (at.length ? '<li>' + t('retakeNote') + '</li>' : '') + '</ul></div>';
     if (at.length) {
       h += '<div class="card"><h3>' + t('history') + '</h3>';
-      at.forEach(function (a) { h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + nice(a.submittedAt) + ' · ' + hhmm(a.submittedAt) + '</b>' + (at.length > 1 && a === bestOf(at) ? '<span>' + t('best') + '</span>' : '') + '</span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>'; });
+      at.forEach(function (a) { h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + nice(a.submittedAt) + ' · ' + hhmm(a.submittedAt) + '</b><span>' + t('attemptN', tryNo(a)) + (at.length > 1 && a === bestOf(at) ? ' · ' + t('best') : '') + '</span></span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>'; });
       h += '</div>';
     }
     h += '<button class="btn primary" data-act="start">' + (at.length ? t('again') : t('start')) + '</button>';
@@ -518,11 +554,12 @@
   /* ---------- running a test ---------- */
   var run = null; // {day, tid, kind, minutes, questions, ans, active, startedAt, idx, list}
   function persistRun() { if (!run || VIEW) return; LS.set('inprog', { day: run.day, tid: run.tid, through: run.through, order: run.questions.map(function (q) { return q.id; }), ans: run.ans, active: run.active, startedAt: run.startedAt, idx: run.idx }); }
-  async function beginSofar(saved) {
-    var through = saved ? saved.through : daysDone(), qs = null;
-    if (saved) { qs = await questionsFor(saved.order || []); if (!qs.length || qs.length !== saved.ans.length) { saved = null; qs = null; through = daysDone(); } }
+  async function beginSofar(saved, want) {
+    var done = daysDone(), through = saved && saved.through ? saved.through : (want || done), qs = null;
+    if (through > done || through < 1) through = done;
+    if (saved) { qs = await questionsFor(saved.order || []); if (!qs.length || qs.length !== saved.ans.length) { saved = null; qs = null; } }
     if (!qs) qs = await sofarPaper(through);
-    run = { day: 0, tid: 'sofar', kind: 'cumulative', through: through, minutes: Math.max(5, Math.round(SOFAR.minutes * qs.length / 50)), questions: qs, list: false, attemptNo: attemptsOf(0, 'sofar').length + 1,
+    run = { day: 0, tid: 'sofar', kind: 'cumulative', through: through, minutes: Math.max(5, Math.round(SOFAR.minutes * qs.length / 50)), questions: qs, list: false, attemptNo: sofarOf(through).length + 1,
       ans: saved ? saved.ans : qs.map(function () { return null; }), active: saved ? saved.active : 0,
       startedAt: saved ? saved.startedAt : new Date().toISOString(), idx: saved ? saved.idx : 0 };
     persistRun();
@@ -633,7 +670,9 @@
       if (q.x) h += '<p class="e">' + esc(tx(q.x)) + '</p>';
       h += '</div>';
     });
-    h += '</div><button class="btn primary" data-act="home">' + t('goHome') + '</button>';
+    h += '</div>';
+    if (a.test === 'daily' && a.day >= 2 && a.day <= daysDone() && !sofarOf(a.day).length) h += '<button class="btn cumnext" data-act="sofar" data-day="' + a.day + '">' + t('cumNext', a.day) + '</button>';
+    h += '<button class="btn primary" data-act="home">' + t('goHome') + '</button>';
     return h + nav('');
   }
 
@@ -658,6 +697,13 @@
     }
     return h;
   }
+  // A revision round left midway is still an attempt: save what she answered so nothing goes unrecorded.
+  function keepRevision() {
+    if (!rev || !rev.ans.length) { rev = null; return; }
+    var qs = rev.questions.slice(0, rev.ans.length), g = grade(qs, rev.ans);
+    store(Object.assign({ schema: 1, day: 0, test: 'rev', kind: 'revision', partial: true, date: istDate(), startedAt: rev.startedAt, submittedAt: new Date().toISOString() }, g), 'rev');
+    rev = null;
+  }
   function finishRevision() {
     var g = grade(rev.questions, rev.ans);
     var a = Object.assign({ schema: 1, day: 0, test: 'rev', kind: 'revision', date: istDate(), startedAt: rev.startedAt, submittedAt: new Date().toISOString() }, g);
@@ -677,10 +723,15 @@
     if (!all.length) return h + '<div class="card"><p>' + t('none') + '</p></div>' + nav('progress');
     var weak = SUBJECTS.filter(function (s) { return by[s] && pct(by[s].c, by[s].t) < CFG.targetPercent; }).sort(function (a, b) { return by[a].c / by[a].t - by[b].c / by[b].t; });
     h += '<div class="card"><h3>' + t('bySubject') + '</h3>' + meters(by) + (weak.length ? '<p class="sub">' + t('weak', t(weak[0])) + '</p>' : '') + '</div>';
-    h += '<div class="card"><h3>' + t('history') + '</h3>';
+    h += cumAlert();
+    h += '<div class="card"><h3>' + t('history') + '</h3><p class="sub">' + t('histHelp') + ' ' + t('attemptsCount', all.length) + '</p>';
+    var lastDate = '';
     all.slice().reverse().forEach(function (a) {
-      var label = a.test === 'rev' ? t('rev') : a.test === 'sofar' ? t('sofarLabel', a.through) : t('day', a.day) + ' · ' + (a.test === 'daily' ? t('testToday') : t('extraTest'));
-      h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + esc(label) + '</b><span>' + nice(a.submittedAt) + ' · ' + hhmm(a.submittedAt) + '</span></span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>';
+      var label = a.test === 'rev' ? t('rev') : a.test === 'sofar' ? t('cumTitle', a.through) : t('day', a.day) + ' · ' + (a.test === 'daily' ? t('testToday') : t('extraTest'));
+      var date = nice(a.submittedAt);
+      if (date !== lastDate) { h += '<p class="dh">' + date + '</p>'; lastDate = date; }
+      var meta = hhmm(a.submittedAt) + (a.test === 'rev' ? (a.partial ? ' · ' + t('partial') : '') : ' · ' + t('attemptN', tryNo(a))) + (a.activeSeconds ? ' · ⏱ ' + clock(a.activeSeconds) : '');
+      h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + esc(label) + '</b><span>' + meta + '</span></span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>';
     });
     return h + '</div>' + nav('progress');
   }
@@ -719,8 +770,8 @@
         if (!reads[key]) { reads[key] = true; if (!VIEW) LS.set('reads', reads); queue('reads/' + key + '.json', { day: route.day, subject: route.id, readAt: new Date().toISOString() }); }
         toast(t('readSaved')); history.back(); break;
       case 'start': await beginRun(route.day, route.id, null); go({ r: 'run' }, true); break;
-      case 'sofar': go({ r: 'sofar' }); break;
-      case 'sofarstart': await beginSofar(null); go({ r: 'run' }, true); break;
+      case 'sofar': go({ r: 'sofar', through: day || daysDone() }); break;
+      case 'sofarstart': await beginSofar(null, route.through); go({ r: 'run' }, true); break;
       case 'resume': var ip = LS.get('inprog', null); if (ip) { await beginRun(ip.day, ip.tid, ip); go({ r: 'run' }); } break;
       case 'pick': run.ans[run.idx] = run.ans[run.idx] === i ? null : i; persistRun(); render(true); break;
       case 'prev': if (run.idx) { run.idx--; persistRun(); render(); } break;
@@ -738,6 +789,7 @@
     }
   });
   document.addEventListener('visibilitychange', function () { if (document.hidden) persistRun(); else flush(); });
+  window.addEventListener('pagehide', function () { if (rev) keepRevision(); });
   window.addEventListener('online', function () { flush(); });
 
   (async function boot() {
