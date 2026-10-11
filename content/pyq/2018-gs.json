@@ -1,0 +1,3389 @@
+{
+ "paper": "TNPSC Group IV 2018 (CCSFT/2018), Part B: General Studies with Aptitude and Mental Ability, questions 101 to 200",
+ "source": "Scanned booklet with hand-marked answers from tnpscstudymaterial.com; answers are that site's marking, not TNPSC's published key. Each was also answered independently: status ok = agrees, doubtful = the question or key looks questionable, unverified = could not be confirmed independently.",
+ "note": "Same shape as 2025-gs.json. \"use\" says whether a question may be served to her: ok = still true and inside the 2026 syllabus; stale = right in its year but outdated now (current affairs, figures, office-holders); off = topic not in the 2026 syllabus; figure = needs a drawing the site cannot show. Only \"use\": \"ok\" questions go into tests; all questions count for weightage. This paper has four options per question (no option E). The scan is low resolution; where the Tamil could not be read with certainty it was written from the English, which the booklet says is final.",
+ "units": {
+  "gs": {
+   "1": "General Science",
+   "2": "Geography",
+   "3": "History, Culture of India, and Indian National Movement",
+   "4": "Indian Polity",
+   "5": "Indian Economy and Development Administration in Tamil Nadu",
+   "6": "History, Culture, Heritage, and Socio-Political Movements of Tamil Nadu"
+  },
+  "apt": {
+   "1": "Aptitude",
+   "2": "Reasoning"
+  }
+ },
+ "questions": [
+  {
+   "n": 101,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Physics and chemistry in daily life: two-stroke engines",
+   "q": {
+    "ta": "சரியான காரணங்களை தெரிவு செய்க :\nபின்வரும் காரணங்களினால் இரு சக்கர வாகனங்களுக்கு, பெட்ரோலுடன் எண்ணெய் கலக்கப்படுகிறது.\n(1) இயந்திர பாகங்களை உராய்விலிருந்து பாதுகாக்கும்.\n(2) இரு இயந்திரங்களுக்கிடையிலான வெப்பத்தை இது வெளியேற்றும்.\n(3) தீப்பொறிச் செருகில் (plug), இது கரியைப் படிய வைக்கும்.",
+    "en": "Pick out the correct reasons :\nOil mixed with petrol for two wheelers due to the following reason(s) :\n(1) It lubricates the engine parts.\n(2) It remove heat inside two engines.\n(3) It allows for the deposit of carbon on the spark plug."
+   },
+   "o": [
+    {
+     "ta": "(1), (2) மற்றும் (3)",
+     "en": "(1), (2) and (3)"
+    },
+    {
+     "ta": "(1) மற்றும் (2) மட்டும்",
+     "en": "(1) and (2) only"
+    },
+    {
+     "ta": "(2) மற்றும் (3) மட்டும்",
+     "en": "(2) and (3) only"
+    },
+    {
+     "ta": "(1) மற்றும் (3) மட்டும்",
+     "en": "(1) and (3) only"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "எண்ணெய் உராய்வைக் குறைத்து வெப்பத்தை வெளியேற்றுகிறது; கரி படிவது விரும்பத்தகாத விளைவு, காரணம் அல்ல.",
+    "en": "The oil lubricates and carries away heat; carbon deposit is an unwanted side effect, not a reason."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 102,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Chemistry: metals",
+   "q": {
+    "ta": "சரியாகப் பொருத்துக :\n(a) ஆஸ்மியம்\n(b) லித்தியம்\n(c) டங்ஸ்டன்\n(d) சில்வர்\n1. சிறந்த மின்கடத்தி\n2. மிகக் கனமான உலோகம்\n3. மிக இலேசான உலோகம்\n4. அதிக உருகுநிலை – 3300°C",
+    "en": "Match the following :\n(a) Osmium\n(b) Lithium\n(c) Tungsten\n(d) Silver\n1. Best conductor of electricity\n2. Heaviest metal\n3. Lightest metal\n4. Highest melting point – 3300°C"
+   },
+   "o": [
+    {
+     "ta": "(a) 1, (b) 2, (c) 3, (d) 4"
+    },
+    {
+     "ta": "(a) 2, (b) 1, (c) 4, (d) 3"
+    },
+    {
+     "ta": "(a) 2, (b) 3, (c) 4, (d) 1"
+    },
+    {
+     "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "ஆஸ்மியம் – மிகக் கனமானது; லித்தியம் – மிக இலேசானது; டங்ஸ்டன் – மிக உயர்ந்த உருகுநிலை; வெள்ளி – சிறந்த மின்கடத்தி.",
+    "en": "Osmium is the heaviest metal, lithium the lightest, tungsten has the highest melting point and silver is the best conductor."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 103,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Chemistry: pH values",
+   "q": {
+    "ta": "பட்டியல் I-லிருந்து பட்டியல் II-ஐ சரியாகப் பொருத்துக :\nபட்டியல்-I (கரைசல்) – பட்டியல்-II (pH-மதிப்பு)\n(a) குருதி\n(b) சிறுநீர்\n(c) வினிகர்\n(d) பால்\n1. 6.5\n2. 7.3 – 7.5\n3. 5.5 – 7.5\n4. 2.4 – 3.4",
+    "en": "Match List I with List II correctly :\nList-I (Solution) – List-II (pH value)\n(a) Blood\n(b) Urine\n(c) Vinegar\n(d) Milk\n1. 6.5\n2. 7.3 – 7.5\n3. 5.5 – 7.5\n4. 2.4 – 3.4"
+   },
+   "o": [
+    {
+     "ta": "(a) 2, (b) 3, (c) 4, (d) 1"
+    },
+    {
+     "ta": "(a) 2, (b) 4, (c) 1, (d) 3"
+    },
+    {
+     "ta": "(a) 4, (b) 2, (c) 3, (d) 1"
+    },
+    {
+     "ta": "(a) 3, (b) 1, (c) 4, (d) 2"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "இரத்தம் 7.3–7.5 (சிறிது காரம்); பால் 6.5; வினிகர் 2.4–3.4; சிறுநீர் 5.5–7.5.",
+    "en": "Blood 7.3–7.5 (slightly basic), milk 6.5, vinegar 2.4–3.4, urine 5.5–7.5."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 104,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Current affairs 2017: World Space Week",
+   "q": {
+    "ta": "2017 அக்டோபர் 4 முதல், 2017 அக்டோபர் 10 வரையில் கொண்டாடப்பட்ட உலகச் சிறப்பு வாரத்தினது கருப்பொருள்",
+    "en": "The theme of the World Special Week, celebrated from 4th October 2017 to 10th October 2017 is"
+   },
+   "o": [
+    {
+     "ta": "விண்வெளியில் புது உலகத்தினை தேடல்",
+     "en": "Exploring new world in space"
+    },
+    {
+     "ta": "நலமுடைமைக்கான யோகா",
+     "en": "Yoga for wellness"
+    },
+    {
+     "ta": "உள்ளடங்கிய வளர்ச்சிக்கான நீர் மற்றும் ஆற்றல்",
+     "en": "Water and energy for inclusive growth"
+    },
+    {
+     "ta": "அமைதி, முன்னேற்றம் மற்றும் செழுமை",
+     "en": "Peace, progress and prosperity"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "உலக விண்வெளி வாரம்: அக்டோபர் 4–10. கருப்பொருள் ஒவ்வோர் ஆண்டும் மாறும்.",
+    "en": "World Space Week is 4–10 October; the theme changes each year."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 105,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Current affairs 2017: sports",
+   "q": {
+    "ta": "2017-ம் ஆண்டு, குவஹாட்டியில் நடைபெற்ற உலக இளையோர்-பெண்கள் குத்துச்சண்டை போட்டியில் கலந்து கொண்டவர்களுள் மிகச் சிறந்த வீரர் என பாராட்டப்பட்டவர்",
+    "en": "Who among the following women boxers was declared best boxer of the meet during the World Youth Boxing Championship held in Guwahati in 2017?"
+   },
+   "o": [
+    {
+     "ta": "நபின் சந்திரா",
+     "en": "Nabin Chandra"
+    },
+    {
+     "ta": "சர்ஜுபாலா தேவி",
+     "en": "Sarjubala Devi"
+    },
+    {
+     "ta": "மினு பாசுமலரி",
+     "en": "Minu Basumalary"
+    },
+    {
+     "ta": "அங்குசிட்டா போரோ",
+     "en": "Ankushita Boro"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "2017 நடப்பு நிகழ்வு.",
+    "en": "A 2017 current-affairs item."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 106,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Current affairs 2017: space",
+   "q": {
+    "ta": "‘பனி பாலம் நடவடிக்கை’ எந்த அமைப்போடு தொடர்புடையது",
+    "en": "“Operation Ice Bridge” is associated with"
+   },
+   "o": [
+    {
+     "ta": "ISS"
+    },
+    {
+     "ta": "ISRO"
+    },
+    {
+     "ta": "NASA"
+    },
+    {
+     "ta": "ESA"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "துருவப் பனிப்படலங்களை விமானம் மூலம் ஆய்வு செய்த நாசா திட்டம் (2009–2019).",
+    "en": "NASA's airborne survey of polar ice (2009–2019)."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 107,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Current affairs 2017: institutions",
+   "q": {
+    "ta": "புது டெல்லியில், 2017-ம் ஆண்டு அக்டோபர் மாதம் இந்திய பிரதமர் அவர்களால் தொடங்கி வைக்கப்பட்ட அமைப்பு",
+    "en": "Identify the organisation inaugurated on October 2017 at New Delhi by Prime Minister of India."
+   },
+   "o": [
+    {
+     "ta": "அனைத்திந்திய யுனானி மருத்துவ நிறுவனம்",
+     "en": "All India Institute of Unani"
+    },
+    {
+     "ta": "அனைத்திந்திய சித்த மருத்துவ கழகம்",
+     "en": "All India Institute of Siddha"
+    },
+    {
+     "ta": "அனைத்திந்திய ஆயுர்வேத மருத்துவ கழகம்",
+     "en": "All India Institute of Ayurveda"
+    },
+    {
+     "ta": "அனைத்திந்திய இயற்கை மருத்துவ கழகம்",
+     "en": "All India Institute of Naturopathy"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "2017 நடப்பு நிகழ்வு.",
+    "en": "A 2017 current-affairs item."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 108,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Current affairs 2017: sports",
+   "q": {
+    "ta": "2017 இதற்கான பட்டம் வென்றவரையும், சாம்பியன் ஷிப் பட்டத்தையும் பொருத்துக :\n(a) செல்வி. சாய்கோம் மீராபாய் சானு\n(b) செல்வி. மேரி காம்\n(c) திரு. கோபி தொனெக்கல்\n(d) செல்வன் அரவிந்த் சிதம்பரம்\n1. உலக இளநிலை (V 20) சதுரங்க சாம்பியன்ஷிப்\n2. உலக பளு தூக்கும் சாம்பியன்ஷிப்\n3. ஆசிய மகளிர் குத்துச்சண்டை சாம்பியன்ஷிப்\n4. ஆசிய மாரத்தான் சாம்பியன்ஷிப்",
+    "en": "Match the title winners with their championship of 2017 :\n(a) Ms. Saikhom Mirabai Chanu\n(b) Ms. Mary Kom\n(c) Mr. Gopi Thonakal\n(d) Master Aravindh Chithambaram\n1. World Junior (V 20) Chess Championship\n2. World Weightlifting Championship\n3. Asian Women’s Boxing Championship\n4. Asian Marathon Championship"
+   },
+   "o": [
+    {
+     "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+    },
+    {
+     "ta": "(a) 2, (b) 3, (c) 4, (d) 1"
+    },
+    {
+     "ta": "(a) 2, (b) 3, (c) 1, (d) 4"
+    },
+    {
+     "ta": "(a) 3, (b) 2, (c) 1, (d) 4"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "2017 நடப்பு நிகழ்வு.",
+    "en": "A 2017 current-affairs item."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 109,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Current affairs 2017: awards",
+   "q": {
+    "ta": "2017-ஆம் ஆண்டிற்கான வியாஸ் சம்மான் விருதிற்காக தேர்ந்தெடுக்கப்பட்டுள்ள ‘துக்கம் சுக்கம்’ என்ற நாவலின் ஆசிரியரான இவர், திரு/திருமதி",
+    "en": "The writer of the Novel “Dukkam Sukkham” who has been chosen for the Vyas Samman 2017 is Mr/Mrs"
+   },
+   "o": [
+    {
+     "ta": "சுரிந்தர் வர்மா",
+     "en": "Surindar Verma"
+    },
+    {
+     "ta": "சுனிதா ஜெயின்",
+     "en": "Sunita Jain"
+    },
+    {
+     "ta": "மம்தா காலியா",
+     "en": "Mamta Kalia"
+    },
+    {
+     "ta": "கமல் கிஷோர் கோயங்கா",
+     "en": "Kamal Kishore Goyenka"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "2017 நடப்பு நிகழ்வு.",
+    "en": "A 2017 current-affairs item."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 110,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Finance Commission",
+   "q": {
+    "ta": "15-வது நிதிக்குழுவின் பரிந்துரைகள் எப்பொழுது நடைமுறைக்கு வரும்?",
+    "en": "The recommendations of 15th Finance Commission will be effect from which date?"
+   },
+   "o": [
+    {
+     "ta": "ஜனவரி 1, 2018",
+     "en": "January 1, 2018"
+    },
+    {
+     "ta": "ஏப்ரல் 1, 2018",
+     "en": "April 1, 2018"
+    },
+    {
+     "ta": "ஏப்ரல் 1, 2020",
+     "en": "April 1, 2020"
+    },
+    {
+     "ta": "ஜனவரி 1, 2020",
+     "en": "January 1, 2020"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "15-வது நிதிக்குழு (என்.கே. சிங்): 2020–26. 16-வது நிதிக்குழு (அரவிந்த் பனகாரியா): 2026–31.",
+    "en": "15th Finance Commission (N.K. Singh): 2020–26. 16th (Arvind Panagariya): 2026–31."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 111,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Indian culture: heritage cities",
+   "q": {
+    "ta": "செப்டம்பர் 2017-ல் இந்தியாவின் முதல் UNESCO பாரம்பரிய சான்றிதழ் பெற்ற நகரம் எது?",
+    "en": "Which city received India’s first UNESCO Heritage City Certificate in September 2017?"
+   },
+   "o": [
+    {
+     "ta": "பூரி",
+     "en": "Puri"
+    },
+    {
+     "ta": "காஞ்சிபுரம்",
+     "en": "Kanchipuram"
+    },
+    {
+     "ta": "அவுரங்காபாத்",
+     "en": "Aurangabad"
+    },
+    {
+     "ta": "அகமதாபாத்",
+     "en": "Ahmadabad"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "அகமதாபாத் – இந்தியாவின் முதல் உலகப் பாரம்பரிய நகரம் (2017); அடுத்து ஜெய்ப்பூர் (2019).",
+    "en": "Ahmedabad was India's first World Heritage City (2017), followed by Jaipur (2019)."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 112,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Current affairs 2017: sports",
+   "q": {
+    "ta": "இந்தியாவின் 46-வது கிராண்ட் மாஸ்டர் செஸ் விளையாட்டு சாம்பியன் 2017 யார்?",
+    "en": "Who has won the India’s 46th Grandmaster Chess Champion Tournament-2017?"
+   },
+   "o": [
+    {
+     "ta": "ஸ்ரீநாத் நரேன்",
+     "en": "Srinath Naren"
+    },
+    {
+     "ta": "ஸ்ரீநாத் நாராயணன்",
+     "en": "Srinath Narayanan"
+    },
+    {
+     "ta": "ஸ்ரீநாத் வேணு",
+     "en": "Srinath Venu"
+    },
+    {
+     "ta": "ஸ்ரீநாத் ஸ்ரீநிவாசன்",
+     "en": "Srinath Srinivasan"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "ஸ்ரீநாத் நாராயணன் இந்தியாவின் 46-வது கிராண்ட் மாஸ்டர் ஆனார் (2017).",
+    "en": "Srinath Narayanan became India's 46th Grandmaster in 2017."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 113,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Nutrition: vitamin deficiency diseases",
+   "q": {
+    "ta": "பொருத்துக :\nவைட்டமின் – குறைபாட்டு நோய்கள்\n(a) A\n(b) B₁\n(c) B₆\n(d) B₁₂\n1. பெல்லக்ரா\n2. நிக்டலோபியா\n3. பெர்னீசியஸ் அனீமியா\n4. பெரி-பெரி",
+    "en": "Match the following :\nVitamin – Deficiency diseases\n(a) A\n(b) B₁\n(c) B₆\n(d) B₁₂\n1. Pellagra\n2. Nictalopia\n3. Pernecious Anaemia\n4. Beri Beri"
+   },
+   "o": [
+    {
+     "ta": "(a) 2, (b) 3, (c) 1, (d) 4"
+    },
+    {
+     "ta": "(a) 1, (b) 4, (c) 2, (d) 3"
+    },
+    {
+     "ta": "(a) 4, (b) 1, (c) 3, (d) 2"
+    },
+    {
+     "ta": "(a) 2, (b) 4, (c) 1, (d) 3"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "A – மாலைக்கண்; B₁ – பெரிபெரி; B₁₂ – பெர்னீசியஸ் இரத்தசோகை. பெல்லக்ரா உண்மையில் B₃ (நியாசின்) குறைபாடு; இங்கு மீதமுள்ள இணையாக B₆-க்குத் தரப்பட்டுள்ளது.",
+    "en": "A: night blindness. B₁: beriberi. B₁₂: pernicious anaemia. Pellagra is really a B₃ (niacin) deficiency; here it is left to pair with B₆."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 114,
+   "subject": "gs",
+   "unit": 2,
+   "topic": "Environment: greenhouse gases",
+   "q": {
+    "ta": "கீழ்கண்டவற்றுள் தவறான இணைகள் யாது?\nI. குளோரோபுளோரோ கார்பன் – குளிர்சாதனப் பெட்டி\nII. மீத்தேன் – பண்ணை மண்ணை உழுதல்\nIII. நைட்ரஸ் ஆக்ஸைடு – கால்நடைகளில் செரித்தல்\nIV. கார்பன் டை ஆக்ஸைடு – புதை படிவ எரிபொருட்களை எரித்தல்",
+    "en": "Which of the following pairs are incorrect?\nI. Chloroflurocarbons – Refrigerators\nII. Methane – Ploughing of fields\nIII. Nitrous oxide – Enteric fermentation in cows\nIV. Carbon dioxide – Burning of fossil fuels"
+   },
+   "o": [
+    {
+     "ta": "I மற்றும் II",
+     "en": "I and II"
+    },
+    {
+     "ta": "II மற்றும் III",
+     "en": "II and III"
+    },
+    {
+     "ta": "III மற்றும் IV",
+     "en": "III and IV"
+    },
+    {
+     "ta": "I மற்றும் IV",
+     "en": "I and IV"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "மீத்தேன் – கால்நடைகளின் செரிமானம், நெல் வயல்; நைட்ரஸ் ஆக்ஸைடு – உரங்கள், நிலத்தை உழுதல். இரண்டும் இடம் மாற்றப்பட்டுள்ளன.",
+    "en": "Methane comes from enteric fermentation and paddy fields; nitrous oxide from fertilisers and ploughing. The two are swapped."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 115,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Physiology: respiration",
+   "q": {
+    "ta": "காற்றில்லா சுவாசத்தில் குளுக்கோஸின் சுவாச ஈவு __________ ஆகும்.",
+    "en": "The respiratory quotient of glucose in anaerobic respiration is"
+   },
+   "o": [
+    {
+     "ta": "ஒன்று",
+     "en": "One"
+    },
+    {
+     "ta": "நான்கு",
+     "en": "Four"
+    },
+    {
+     "ta": "முடிவற்றது",
+     "en": "Infinity"
+    },
+    {
+     "ta": "ஒன்றுக்கு குறைவானது",
+     "en": "Less than one"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "காற்றில்லா சுவாசத்தில் O₂ பயன்பாடு பூஜ்யம்; CO₂ ÷ 0 = முடிவிலி.",
+    "en": "No oxygen is used in anaerobic respiration, so CO₂ ÷ 0 is infinity."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 116,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: indices",
+   "q": {
+    "ta": "e⁰-வின் மதிப்பு",
+    "en": "The value of e⁰ is"
+   },
+   "o": [
+    {
+     "ta": "e"
+    },
+    {
+     "ta": "1"
+    },
+    {
+     "ta": "0"
+    },
+    {
+     "ta": "∞"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "பூஜ்யமல்லாத எந்த எண்ணின் அடுக்கு 0 = 1.",
+    "en": "Any non-zero number to the power 0 is 1."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 117,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: equations",
+   "q": {
+    "ta": "ஒரு மாறியில் அமைந்த ஓர் ஒருபடிச் சமன்பாட்டிற்கு எத்தனை தீர்வுகள்?",
+    "en": "How many solutions have a linear equation in one variable?"
+   },
+   "o": [
+    {
+     "ta": "மூன்று தீர்வுகள்",
+     "en": "Three solutions"
+    },
+    {
+     "ta": "ஒரு தீர்வு",
+     "en": "Unique solution"
+    },
+    {
+     "ta": "இரண்டு தீர்வுகள்",
+     "en": "Two solutions"
+    },
+    {
+     "ta": "தீர்வுகள் இல்லை",
+     "en": "No solution"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "ax + b = 0 ⇒ x = −b/a; ஒரே தீர்வு.",
+    "en": "ax + b = 0 gives x = −b/a, a single solution."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 118,
+   "subject": "apt",
+   "unit": 2,
+   "topic": "Number series: geometric",
+   "q": {
+    "ta": "0.12, 0.012, 0.0012 ...... என்ற தொடர் வரிசையில் 7-ஆவது உறுப்பு",
+    "en": "The 7th term of the sequence 0.12, 0.012, 0.0012 ...... is"
+   },
+   "o": [
+    {
+     "ta": "1.2 × 10⁶"
+    },
+    {
+     "ta": "1.2 × 10⁻⁶"
+    },
+    {
+     "ta": "1.2 × 10⁷"
+    },
+    {
+     "ta": "1.2 × 10⁻⁷"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "முதல் உறுப்பு 1.2 × 10⁻¹; ஒவ்வொரு முறையும் ÷ 10. 7-ஆவது = 1.2 × 10⁻⁷.",
+    "en": "The first term is 1.2 × 10⁻¹ and each term is a tenth of the last, so the 7th is 1.2 × 10⁻⁷."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 119,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: fractions, BODMAS",
+   "q": {
+    "ta": "சுருக்குக :\n9/8 ÷ 3/5 -இல் (3/4 + 3/5)",
+    "en": "Simplify :\n9/8 ÷ 3/5 of (3/4 + 3/5)"
+   },
+   "o": [
+    {
+     "ta": "1 11/18"
+    },
+    {
+     "ta": "1 5/18"
+    },
+    {
+     "ta": "1 13/18"
+    },
+    {
+     "ta": "1 7/18"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "3/4 + 3/5 = 27/20. 3/5 இல் 27/20 = 81/100. 9/8 ÷ 81/100 = 9/8 × 100/81 = 25/18 = 1 7/18.",
+    "en": "3/4 + 3/5 = 27/20. 3/5 of 27/20 = 81/100. 9/8 ÷ 81/100 = 9/8 × 100/81 = 25/18 = 1 7/18."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 120,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simple interest",
+   "q": {
+    "ta": "ஒரு குறிப்பிட்ட அசலானது ஆண்டுக்கு 8% வட்டி வீதத்தில் மூன்று மடங்காகுவதற்கு பிடிக்கும் காலம்",
+    "en": "A sum of money triples itself at 8% per annum over a certain time. The time taken is"
+   },
+   "o": [
+    {
+     "ta": "20 ஆண்டுகள்",
+     "en": "20 years"
+    },
+    {
+     "ta": "22 ஆண்டுகள்",
+     "en": "22 years"
+    },
+    {
+     "ta": "25 ஆண்டுகள்",
+     "en": "25 years"
+    },
+    {
+     "ta": "30 ஆண்டுகள்",
+     "en": "30 years"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "வட்டி = 2 × அசல் = 200%. 200 ÷ 8 = 25 ஆண்டுகள்.",
+    "en": "Interest must be twice the principal, 200%. 200 ÷ 8 = 25 years."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 121,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "HCF and LCM",
+   "q": {
+    "ta": "இரு வெவ்வேறு எண்களின் (G.C.D. மற்றும் L.C.M.) சரியான தொடர்பு\nI. மீப்பெரு.பொ.வ. = மீச்சிறு.பொ.ம\nII. மீப்பெரு.பொ.வ. ≤ மீச்சிறு.பொ.ம\nIII. மீச்சிறு.பொ.ம ≤ மீப்பெரு.பொ.வ.\nIV. மீச்சிறு.பொ.ம > மீப்பெரு.பொ.வ.",
+    "en": "Find the correct relationship between G.C.D. and L.C.M.\nI. G.C.D. = L.C.M.\nII. G.C.D. ≤ L.C.M.\nIII. L.C.M. ≤ G.C.D.\nIV. L.C.M. > G.C.D."
+   },
+   "o": [
+    {
+     "ta": "I"
+    },
+    {
+     "ta": "II"
+    },
+    {
+     "ta": "III"
+    },
+    {
+     "ta": "IV"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "இரு வெவ்வேறு எண்களுக்கு மீ.சி.ம எப்போதும் மீ.பொ.வ-ஐ விடப் பெரியது.",
+    "en": "For two different numbers the LCM is always greater than the HCF."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 122,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: arithmetic progression",
+   "q": {
+    "ta": "p, q, r, s, t என்பன கூட்டுத் தொடர் வரிசையில் (A.P) இருப்பின், p – 4q + 6r – 4s + t = ?",
+    "en": "If p, q, r, s, t are in A.P, then the value of p – 4q + 6r – 4s + t is"
+   },
+   "o": [
+    {
+     "ta": "1"
+    },
+    {
+     "ta": "2"
+    },
+    {
+     "ta": "3"
+    },
+    {
+     "ta": "0"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "1, 2, 3, 4, 5 எனக் கொள்க: 1 − 8 + 18 − 16 + 5 = 0.",
+    "en": "Take 1, 2, 3, 4, 5: 1 − 8 + 18 − 16 + 5 = 0."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 123,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "HCF and LCM",
+   "q": {
+    "ta": "90, 150, 225 ஆகிய எண்களின் மீ.பொ.வ மற்றும் மீ.பொ.ம",
+    "en": "The G.C.D. and L.C.M. of 90, 150, 225 is"
+   },
+   "o": [
+    {
+     "ta": "15, 450"
+    },
+    {
+     "ta": "450, 15"
+    },
+    {
+     "ta": "90, 225"
+    },
+    {
+     "ta": "225, 150"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "90 = 2×3²×5; 150 = 2×3×5²; 225 = 3²×5². மீ.பொ.வ = 3×5 = 15; மீ.சி.ம = 2×3²×5² = 450.",
+    "en": "90 = 2×3²×5, 150 = 2×3×5², 225 = 3²×5². HCF = 3×5 = 15 and LCM = 2×3²×5² = 450."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 124,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: algebraic identities",
+   "q": {
+    "ta": "y – 1/y = 6 எனில் y³ – 1/y³ இன் மதிப்பைக் காண்க.",
+    "en": "If y – 1/y = 6 find the value of y³ – 1/y³"
+   },
+   "o": [
+    {
+     "ta": "216"
+    },
+    {
+     "ta": "222"
+    },
+    {
+     "ta": "234"
+    },
+    {
+     "ta": "228"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "a³ − b³ = (a − b)³ + 3ab(a − b): 6³ + 3 × 6 = 216 + 18 = 234.",
+    "en": "a³ − b³ = (a − b)³ + 3ab(a − b): 6³ + 3 × 6 = 216 + 18 = 234."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 125,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Area: properties of a parallelogram",
+   "q": {
+    "ta": "ஓர் இணைகரத்தில் எது தவறான கூற்று?",
+    "en": "Which of the following statement is false in a Parallelogram?"
+   },
+   "o": [
+    {
+     "ta": "எதிர்ப் பக்கங்கள் இணையாகும்",
+     "en": "The opposite sides are parallel"
+    },
+    {
+     "ta": "எதிரெதிர் கோணங்கள் மற்றும் பக்கங்கள் சமமாகும்",
+     "en": "The opposite angles and sides are equal"
+    },
+    {
+     "ta": "மூலை விட்டங்களின் நீளங்களும் சமமாகும்",
+     "en": "The diagonals are equal"
+    },
+    {
+     "ta": "மூலை விட்டங்கள் ஒன்றையொன்று இரு சமக் கூறிடும்",
+     "en": "The diagonals bisect each other"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "இணைகரத்தில் மூலைவிட்டங்கள் சமமல்ல (செவ்வகத்தில் மட்டுமே சமம்).",
+    "en": "A parallelogram's diagonals are not equal; that holds only for a rectangle."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 126,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: number properties",
+   "q": {
+    "ta": "0-வின் தலைகீழி = __________",
+    "en": "Reciprocal of 0 is __________."
+   },
+   "o": [
+    {
+     "ta": "0",
+     "en": "0"
+    },
+    {
+     "ta": "1",
+     "en": "1"
+    },
+    {
+     "ta": "∞",
+     "en": "∞"
+    },
+    {
+     "ta": "தலைகீழி கிடையாது",
+     "en": "no reciprocal"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "பூஜ்யத்தால் வகுக்க முடியாது; எனவே 0-க்குத் தலைகீழி இல்லை.",
+    "en": "Division by zero is not defined, so 0 has no reciprocal."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 127,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "HCF and LCM",
+   "q": {
+    "ta": "கீழ்காணும் கூற்றுகளில் எது தவறான கூற்றாகும்?",
+    "en": "Which one of the following statements is false?"
+   },
+   "o": [
+    {
+     "ta": "வெவ்வேறு எண்களின் பொது வகுத்திகளில் மிகப்பெரிய வகுத்தி அவ்வெண்களின் மீப்பெரு பொது வகுத்தி ஆகும்",
+     "en": "Among the common divisors of given numbers, the greatest divisor is the G.C.D."
+    },
+    {
+     "ta": "இரு எண்களின் மீப்பெரு பொ.வ. 1 எனில் அவ்விரு எண்களும் பகா எண்கள் எனப்படும்",
+     "en": "If the G.C.D. of any two numbers is 1 they are said to be prime numbers"
+    },
+    {
+     "ta": "வெவ்வேறு எண்களின் பொது மடங்குகளில் மிகச்சிறிய மடங்கு அவ்வெண்களின் மீச்சிறு பொது மடங்கு ஆகும்",
+     "en": "Among the common multiples of given numbers, the least is the L.C.M."
+    },
+    {
+     "ta": "இரு எண்களின் பெருக்கற்பலன் அவற்றின் மீப்பெரு பொ.வ. மற்றும் மீச்சிறு பொ.ம. ஆகியவற்றின் பெருக்கற்பலனுக்குச் சமமாகும்",
+     "en": "The product of any two numbers is equal to the product of their G.C.D. and L.C.M."
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "மீ.பொ.வ 1 எனில் அவை ‘சார்பகா எண்கள்’ (co-prime); பகா எண்கள் அல்ல. எ.கா. 8, 9.",
+    "en": "Numbers with HCF 1 are co-prime, not prime; for example 8 and 9."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 128,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Current affairs 2017: state schemes",
+   "q": {
+    "ta": "எந்த மாநில அரசு ஞான்குஞ்ச் மின்-வகுப்பு திட்டத்தினை செயல்படுத்தியது?",
+    "en": "Which State Government has launched Gyankunj e-class project?"
+   },
+   "o": [
+    {
+     "ta": "ஆந்திர பிரதேஷ்",
+     "en": "Andhra Pradesh"
+    },
+    {
+     "ta": "டெல்லி",
+     "en": "Delhi"
+    },
+    {
+     "ta": "கேரளா",
+     "en": "Kerala"
+    },
+    {
+     "ta": "குஜராத்",
+     "en": "Gujarat"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "2017 நடப்பு நிகழ்வு.",
+    "en": "A 2017 current-affairs item."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 129,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Current affairs 2017: health",
+   "q": {
+    "ta": "நலவாழ்வு மற்றும் குடும்ப நலத்துறை ஒன்றிய அமைச்சகம் 2017-நவம்பர்-28 அன்று ICMR உடன் இணைந்து IHMI-யினை துவக்கியுள்ளது. IHMI என்பது எதைக் குறிக்கும்?",
+    "en": "The Union Ministry of health and family welfare and ICMR launched IHMI on November-28-2017. What does IHMI stands for?"
+   },
+   "o": [
+    {
+     "ta": "இந்திய அதிக இரத்த அழுத்தம் மேலாண்மை தொடக்கம்",
+     "en": "India Hypertension Management Initiative"
+    },
+    {
+     "ta": "இந்திய தேகநிலை மற்றும் நல மேலாண்மை தொடக்கம்",
+     "en": "India Health Management Initiative"
+    },
+    {
+     "ta": "இந்தியனின் இதய மற்றும் மூளை நல அறிவு",
+     "en": "Indian Heart and Mind Care Intellect"
+    },
+    {
+     "ta": "இந்திய தேகநிலை ஆரோக்கியம் மற்றும் பராமரித்தல் தொடக்கம்",
+     "en": "India Health Maintenance Initiative"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "2017 நடப்பு நிகழ்வு.",
+    "en": "A 2017 current-affairs item."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 130,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Consumer protection: food standards",
+   "q": {
+    "ta": "உணவு பொருட்கள் சம்மந்தப்பட்ட உலக தரத்தை அறிந்து கொள்ளும் பொருட்டு அமைக்கப்பட்ட கமிஷன் யாது?",
+    "en": "Which commission sets up international food standard?"
+   },
+   "o": [
+    {
+     "ta": "கோடக்ஸ் அலிமென்டேஷன் கமிஷன்",
+     "en": "Codex Alimentations Commission"
+    },
+    {
+     "ta": "உணவு மற்றும் வேளாண்மைத் துறை கமிஷன்",
+     "en": "Food and Agricultural Commission"
+    },
+    {
+     "ta": "உலக சுகாதார கமிஷன்",
+     "en": "World Health Commission"
+    },
+    {
+     "ta": "இந்திய தர குழுமம்",
+     "en": "I.S.I."
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "கோடெக்ஸ் அலிமென்டேரியஸ் ஆணையம் (1963): FAO, WHO இணைந்து அமைத்தது.",
+    "en": "The Codex Alimentarius Commission (1963) was set up jointly by the FAO and WHO."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 131,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Economics: supply and time periods",
+   "q": {
+    "ta": "அளிப்பு நிலையாக இருக்கும் காலம்",
+    "en": "Supply is constant in"
+   },
+   "o": [
+    {
+     "ta": "குறுகிய காலம்",
+     "en": "Short period"
+    },
+    {
+     "ta": "மிகக் குறுகிய காலம்",
+     "en": "Very short period"
+    },
+    {
+     "ta": "நீண்ட காலம்",
+     "en": "Long period"
+    },
+    {
+     "ta": "மிக நீண்ட காலம்",
+     "en": "Very long period"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "மிகக் குறுகிய காலத்தில் (அங்காடிக் காலம்) அளிப்பை மாற்ற முடியாது.",
+    "en": "In the very short (market) period supply cannot be changed."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 132,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "State executive and legislature: articles",
+   "q": {
+    "ta": "பொருத்துக :\n(a) ஆளுநர்\n(b) முதலமைச்சர்\n(c) மேலவை\n(d) சட்டசபை\n1. விதி 171\n2. விதி 170\n3. விதி 153\n4. விதி 163",
+    "en": "Match the following :\n(a) Governor\n(b) Chief Minister\n(c) Legislative Council\n(d) Legislative Assembly\n1. Article 171\n2. Article 170\n3. Article 153\n4. Article 163"
+   },
+   "o": [
+    {
+     "ta": "(a) 3, (b) 2, (c) 4, (d) 1"
+    },
+    {
+     "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+    },
+    {
+     "ta": "(a) 1, (b) 4, (c) 3, (d) 2"
+    },
+    {
+     "ta": "(a) 2, (b) 3, (c) 1, (d) 4"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "153 – ஆளுநர்; 163 – அமைச்சரவை (முதலமைச்சர்); 170 – சட்டப்பேரவை; 171 – சட்ட மேலவை.",
+    "en": "153 Governor, 163 Council of Ministers with the Chief Minister, 170 Legislative Assembly, 171 Legislative Council."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 133,
+   "subject": "gs",
+   "unit": 2,
+   "topic": "Weather and climate: local winds",
+   "q": {
+    "ta": "கீழ்கண்டவற்றை பொருத்தி சரியான விடையை தேர்ந்தெடு :\nதலக் காற்றுகள் – இடங்கள்\n(a) சின்னூக்\n(b) ஃபான்\n(c) மிஸ்ட்ரல்\n(d) நார்ட்\n1. மெக்சிகோ வளைகுடா\n2. அமெரிக்க ஐக்கிய நாடுகள்\n3. வடக்கு இத்தாலி\n4. ஆல்ப்ஸ் மலை",
+    "en": "Match the following and choose the correct answer :\nLocal winds – Location\n(a) Chinook\n(b) Fohn\n(c) Mistral\n(d) Norte\n1. Gulf of Mexico\n2. USA\n3. Northern Italy\n4. Alps region"
+   },
+   "o": [
+    {
+     "ta": "(a) 2, (b) 3, (c) 4, (d) 1"
+    },
+    {
+     "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+    },
+    {
+     "ta": "(a) 1, (b) 4, (c) 2, (d) 3"
+    },
+    {
+     "ta": "(a) 4, (b) 2, (c) 1, (d) 3"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "பாடநூல்படி: சின்னூக் – அமெரிக்கா (ராக்கி); ஃபான் – வட இத்தாலி; மிஸ்ட்ரல் – ஆல்ப்ஸ் பகுதி; நார்ட் – மெக்சிகோ வளைகுடா.",
+    "en": "By the textbook: Chinook in the USA (Rockies), Foehn in northern Italy, Mistral in the Alps region, Norte in the Gulf of Mexico."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 134,
+   "subject": "gs",
+   "unit": 2,
+   "topic": "Calamities: major floods",
+   "q": {
+    "ta": "வரிசை I உடன் வரிசை II-னை பொருத்துக :\nமுக்கிய வெள்ளச் சீர்குலைவு\n(a) சைனா\n(b) பென்சில்வேனியா\n(c) லாஸ் ஏஞ்சல்ஸ்\n(d) இந்தியா\n1. செயின்ட் பிரான்ஸிஸ்\n2. அஸ்ஸாம்\n3. ஹூவாங் ஹோ\n4. ஜோன்ஸ்டான்",
+    "en": "Match List I with List II\nMajor Flood Disasters\n(a) China\n(b) Pennsylvania\n(c) Los Angeles\n(d) India\n1. St. Francis\n2. Assam\n3. Hwang Ho\n4. Johnstown"
+   },
+   "o": [
+    {
+     "ta": "(a) 4, (b) 1, (c) 2, (d) 3"
+    },
+    {
+     "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+    },
+    {
+     "ta": "(a) 2, (b) 1, (c) 3, (d) 4"
+    },
+    {
+     "ta": "(a) 3, (b) 1, (c) 2, (d) 4"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "ஹுவாங் ஹோ – ‘சீனாவின் துயரம்’; ஜான்ஸ்டவுன் வெள்ளம் (1889); செயின்ட் பிரான்சிஸ் அணை உடைப்பு (1928).",
+    "en": "The Hwang Ho is 'China's sorrow'; the Johnstown flood was in 1889 and the St Francis dam failed in 1928."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 135,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Guptas: science and literature",
+   "q": {
+    "ta": "வாக்பதர் எழுதிய நூல்",
+    "en": "Vak Pathar wrote"
+   },
+   "o": [
+    {
+     "ta": "பஞ்ச சித்தாந்திகா",
+     "en": "Pancha Sidhanthiga"
+    },
+    {
+     "ta": "அஷ்டாங்க சம்கிருகம்",
+     "en": "Astangasamgraham"
+    },
+    {
+     "ta": "கிருதார்ச்சுனியம்",
+     "en": "Girudharshuniam"
+    },
+    {
+     "ta": "அமரகோஷம்",
+     "en": "Amarakosam"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "வாக்பதர் – அஷ்டாங்க சங்கிரகம் (மருத்துவம்); வராகமிகிரர் – பஞ்ச சித்தாந்திகா; பாரவி – கிராதார்ஜுனியம்; அமரசிம்மர் – அமரகோசம்.",
+    "en": "Vagbhata wrote the Ashtanga Sangraha (medicine), Varahamihira the Pancha Siddhantika, Bharavi the Kiratarjuniya and Amarasimha the Amarakosha."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 136,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Marathas: warfare",
+   "q": {
+    "ta": "கொரில்லா போர் முறை என்றால்",
+    "en": "Guerilla warfare means"
+   },
+   "o": [
+    {
+     "ta": "முறையான போர் முறை",
+     "en": "Regular warfare"
+    },
+    {
+     "ta": "பயிற்சி பெற்ற போர் முறை",
+     "en": "Practised warfare"
+    },
+    {
+     "ta": "முறைசாரா போர் முறை",
+     "en": "Irregular warfare"
+    },
+    {
+     "ta": "கலப்பு போர் முறை",
+     "en": "Mixed warfare"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "கொரில்லாப் போர் – மறைந்திருந்து தாக்கும் முறைசாராப் போர்முறை; சிவாஜி பயன்படுத்தினார்.",
+    "en": "Guerrilla warfare is irregular, hit-and-run fighting, as used by Shivaji."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 137,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "TN development administration: electricity board",
+   "q": {
+    "ta": "1948-ம் ஆண்டு மின்பகிர்மான சட்டத்தின்படி தமிழகத்தில் எந்த ஆண்டு மின்சார வாரியம் (TNEB) அமைக்கப்பட்டது?",
+    "en": "In Tamil Nadu which year TNEB was established on the basis of EB Act of 1948?"
+   },
+   "o": [
+    {
+     "ta": "1957 ஜூலை 1",
+     "en": "1957 July 1"
+    },
+    {
+     "ta": "1957 ஆகஸ்ட் 1",
+     "en": "1957 August 1"
+    },
+    {
+     "ta": "1957 செப்டம்பர் 1",
+     "en": "1957 September 1"
+    },
+    {
+     "ta": "1957 அக்டோபர் 1",
+     "en": "1957 October 1"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "தமிழ்நாடு மின்சார வாரியம்: 1 ஜூலை 1957. 2010-இல் TANGEDCO, TANTRANSCO எனப் பிரிக்கப்பட்டது.",
+    "en": "The Tamil Nadu Electricity Board was formed on 1 July 1957 and split into TANGEDCO and TANTRANSCO in 2010."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 138,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Indian culture: Dravidian languages",
+   "q": {
+    "ta": "பிராகுய் மொழிகளுக்கும், திராவிட மொழிகளுக்கும் இடையே உள்ள ஒற்றுமையை கூறும் கல்வெட்டு",
+    "en": "Which monument depicted the similarity between Prakoy Literature and Dravida Literature?"
+   },
+   "o": [
+    {
+     "ta": "வங்காள",
+     "en": "Bengali"
+    },
+    {
+     "ta": "லிசியர்",
+     "en": "Lisiar"
+    },
+    {
+     "ta": "காஸ்பியர்",
+     "en": "Caspiar"
+    },
+    {
+     "ta": "தெலுங்கு",
+     "en": "Telugu"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "வினா தெளிவற்றது (ஆங்கிலத்தில் ‘Prakoy’, தமிழில் ‘பிராகுய்’). பிராகுயி – பலுசிஸ்தானில் பேசப்படும் வட திராவிட மொழி. மூலத்தில் குறிக்கப்பட்ட விடை (B).",
+    "en": "The question is garbled ('Prakoy' in English, 'Brahui' in Tamil). Brahui is the North Dravidian language spoken in Baluchistan. The source marks (B)."
+   },
+   "status": "doubtful",
+   "use": "void"
+  },
+  {
+   "n": 139,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Vedic age",
+   "q": {
+    "ta": "ரிக்வேத காலத்தில் அரச குமாரர்களுக்கு கற்பிக்கப்பட்ட போர்க்கலை இவ்வாறு அழைக்கப்பட்டது",
+    "en": "In Rigvedic period warrior art taught to the Princes of olden days are known as"
+   },
+   "o": [
+    {
+     "ta": "சாம வேதம்",
+     "en": "Sama Vedam"
+    },
+    {
+     "ta": "தனுர் வேதம்",
+     "en": "Danur Vedam"
+    },
+    {
+     "ta": "அதர்வ வேதம்",
+     "en": "Adharva Vedam"
+    },
+    {
+     "ta": "வருண வேதம்",
+     "en": "Varuna Vedam"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "தனுர் வேதம் – போர்க்கலை; ஆயுர்வேதம் – மருத்துவம்; காந்தர்வ வேதம் – இசை.",
+    "en": "Dhanur Veda is the art of war, Ayurveda medicine and Gandharva Veda music."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 140,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Justice Party: measures and years",
+   "q": {
+    "ta": "பொருத்துக :\nவரிசை I – வரிசை II\n(a) பொதுபணி தேர்வாணையம்\n(b) இந்து அறநிலைய சட்டம்\n(c) ஆந்திரா பல்கலைக்கழகம்\n(d) பணியாளர் தேர்வு வாரியம்\n1. 1924\n2. 1929\n3. 1926\n4. 1925",
+    "en": "Match :\nList I – List II\n(a) Public Service Commission\n(b) Hindu Religious Endowment Act\n(c) Andhra University\n(d) Staff Selection Board\n1. 1924\n2. 1929\n3. 1926\n4. 1925"
+   },
+   "o": [
+    {
+     "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+    },
+    {
+     "ta": "(a) 2, (b) 4, (c) 1, (d) 3"
+    },
+    {
+     "ta": "(a) 4, (b) 2, (c) 3, (d) 1"
+    },
+    {
+     "ta": "(a) 2, (b) 3, (c) 4, (d) 1"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "பணியாளர் தேர்வு வாரியம் 1924; பொதுப்பணித் தேர்வாணையம் 1929 – இவை உறுதி. மற்ற இரண்டும் மூலத்தில் குறிக்கப்பட்டபடி: இந்து அறநிலையச் சட்டம் 1926, ஆந்திரப் பல்கலைக்கழகம் 1925.",
+    "en": "Staff Selection Board 1924 and Public Service Commission 1929 are certain. The other two are as marked in the source: Hindu Religious Endowment Act 1926 and Andhra University 1925."
+   },
+   "status": "unverified",
+   "use": "ok"
+  },
+  {
+   "n": 141,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Mughals: Babur's battles",
+   "q": {
+    "ta": "கீழ்வருபனவற்றை பொருத்தி சரியான விடையை தேர்வு செய்க :\n(a) பானிபட்\n(b) காக்ரா\n(c) கான்வா\n(d) சந்தேரி\n1. கி.பி. 1527\n2. கி.பி. 1528\n3. கி.பி. 1529\n4. கி.பி. 1526",
+    "en": "Match the following and choose the correct one :\n(a) Panipet\n(b) Gaghra\n(c) Khanwa\n(d) Chandari\n1. A.D. 1527\n2. A.D. 1528\n3. A.D. 1529\n4. A.D. 1526"
+   },
+   "o": [
+    {
+     "ta": "(a) 1, (b) 2, (c) 4, (d) 3"
+    },
+    {
+     "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+    },
+    {
+     "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+    },
+    {
+     "ta": "(a) 2, (b) 1, (c) 3, (d) 4"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "பாபரின் போர்கள்: பானிபட் 1526 → கான்வா 1527 → சந்தேரி 1528 → காக்ரா 1529.",
+    "en": "Babur's battles: Panipat 1526, Khanwa 1527, Chanderi 1528, Ghaghra 1529."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 142,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Agriculture: productivity",
+   "q": {
+    "ta": "வேளாண்மை உற்பத்தியை அளவிடும் முறை",
+    "en": "Agricultural productivity can be measured in terms of"
+   },
+   "o": [
+    {
+     "ta": "உரத்தின் நுகர்வளவு மற்றும் உழைப்பு உற்பத்தி திறன்",
+     "en": "Consumption of fertilizers and labour productivity"
+    },
+    {
+     "ta": "நீர்ப்பாசன வசதி",
+     "en": "Irrigational facilities"
+    },
+    {
+     "ta": "நிலம் மற்றும் உழைப்பின் உற்பத்தித்திறன்",
+     "en": "Land and labour productivity"
+    },
+    {
+     "ta": "எந்திரமயமாதல்",
+     "en": "Mechanization"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "நில உற்பத்தித்திறன் (ஓர் எக்டருக்கு விளைச்சல்), உழைப்பு உற்பத்தித்திறன் (ஒரு தொழிலாளிக்கு விளைச்சல்).",
+    "en": "Land productivity is yield per hectare and labour productivity is output per worker."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 143,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Economics: schools of thought",
+   "q": {
+    "ta": "பழமைப் பொருளியல் அறிஞர்கள் __________ கொள்கையில் நம்பிக்கை கொண்டிருந்தனர்.",
+    "en": "The classical economists believed in __________ policy."
+   },
+   "o": [
+    {
+     "ta": "தடையில்லா வாணிபம்",
+     "en": "Free trade"
+    },
+    {
+     "ta": "தொழில்துறை",
+     "en": "Industrial"
+    },
+    {
+     "ta": "ஏற்றுமதி மற்றும் இறக்குமதி",
+     "en": "Export and Import"
+    },
+    {
+     "ta": "வாணிகம்",
+     "en": "Commerce"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "ஆடம் ஸ்மித், ரிக்கார்டோ – தலையிடாக் கொள்கை, தடையில்லா வாணிபம்.",
+    "en": "Adam Smith and Ricardo stood for laissez-faire and free trade."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 144,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Social legislation and programmes",
+   "q": {
+    "ta": "பொருத்துக :\n(a) சாரதா திட்டம்\n(b) சம ஊதிய திட்டம்\n(c) கரும்பலகை திட்டம்\n(d) 20 அம்ச திட்டம்\n1. 1992\n2. 1976\n3. திருமதி. இந்திராகாந்தி\n4. 1929",
+    "en": "Match the correct answer :\n(a) Saradha Act\n(b) Equal Pay Act\n(c) Block Board Act\n(d) 20 Point Programme\n1. 1992\n2. 1976\n3. Tmt. Indira Gandhi\n4. 1929"
+   },
+   "o": [
+    {
+     "ta": "(a) 4, (b) 2, (c) 1, (d) 3"
+    },
+    {
+     "ta": "(a) 3, (b) 1, (c) 2, (d) 4"
+    },
+    {
+     "ta": "(a) 2, (b) 1, (c) 3, (d) 4"
+    },
+    {
+     "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "சாரதா சட்டம் (குழந்தைத் திருமணத் தடை) 1929; சம ஊதியச் சட்டம் 1976; 20 அம்சத் திட்டம் – இந்திரா காந்தி (1975). கரும்பலகைத் திட்டம் 1987-இல் தொடங்கி 1992-இல் விரிவாக்கப்பட்டது.",
+    "en": "Sarda Act (child marriage restraint) 1929, Equal Remuneration Act 1976, 20-Point Programme by Indira Gandhi (1975). Operation Blackboard began in 1987 and was extended in 1992."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 145,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Physics: light and electronics",
+   "q": {
+    "ta": "பின்வரும் உபகரணங்களில், ஒளி சைகைகளை மின்னியல் (அ) மின்னணு சைகைகளாக மாற்றுபவை\n(1) இலக்க ஒளிப்படக் கருவி\n(2) தொலை நகலி\n(3) ஒளியியல் பரப்பி",
+    "en": "Which of the following devices converts light signals into electrical (or) electronic signals?\n(1) Digital camera\n(2) Fax machine\n(3) Optical transmitter"
+   },
+   "o": [
+    {
+     "ta": "(1) மற்றும் (2) மட்டும்",
+     "en": "(1) and (2) only"
+    },
+    {
+     "ta": "(2) மற்றும் (3) மட்டும்",
+     "en": "(2) and (3) only"
+    },
+    {
+     "ta": "(1) மற்றும் (3) மட்டும்",
+     "en": "(1) and (3) only"
+    },
+    {
+     "ta": "(1), (2) மற்றும் (3)",
+     "en": "(1), (2) and (3)"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "ஒளியியல் பரப்பி மின் சைகையை ஒளியாக மாற்றும் (எதிர்த்திசை).",
+    "en": "An optical transmitter does the reverse: it turns an electrical signal into light."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 146,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Physics: rotational motion",
+   "q": {
+    "ta": "கைகள் நீட்டப்பட்ட நிலையில் சுழலும் நாற்காலியின் மீது அமர்ந்திருக்கும் ஒருவர், திடீரென கைகளை மடக்கும் போது, கோணத் திசைவேகம்",
+    "en": "A man sitting in the revolving chair with stretched hands, suddenly bend his hands, the angular velocity"
+   },
+   "o": [
+    {
+     "ta": "குறையும்",
+     "en": "decreases"
+    },
+    {
+     "ta": "அதிகமாகும்",
+     "en": "increases"
+    },
+    {
+     "ta": "சுழியாகும்",
+     "en": "zero"
+    },
+    {
+     "ta": "மாறாமலிருக்கும்",
+     "en": "constant"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "கோண உந்தம் மாறாது (Iω = மாறிலி); நிலைமத் திருப்புத்திறன் குறைவதால் கோணத் திசைவேகம் கூடும்.",
+    "en": "Angular momentum is conserved (Iω constant); the moment of inertia falls, so the angular velocity rises."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 147,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Measurement: units of distance",
+   "q": {
+    "ta": "கீழ்க்கண்ட கூற்றுக்களில் எது/எவை தவறானது ஆகும்?\n(1) ஒளி ஆண்டு என்பது காலத்தின் ஓர் அலகாகும்.\n(2) வானியல் அலகு (AU) என்பது தொலைவின் ஓர் அலகாகும்.\n(3) பார்செக் என்பது நிறையின் ஓர் அலகாகும்.",
+    "en": "Which of the following statements is/are wrong?\n(1) Light year is a unit of time.\n(2) Astronomical unit (AU) is a unit of distance.\n(3) Parsec is a unit of mass."
+   },
+   "o": [
+    {
+     "ta": "(2) மற்றும் (3)",
+     "en": "(2) and (3)"
+    },
+    {
+     "ta": "(1) மற்றும் (3)",
+     "en": "(1) and (3)"
+    },
+    {
+     "ta": "(3) மட்டும்",
+     "en": "(3) only"
+    },
+    {
+     "ta": "(1) மட்டும்",
+     "en": "(1) only"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "ஒளி ஆண்டு, வானியல் அலகு, பார்செக் மூன்றும் தொலைவின் அலகுகள். எனவே (1), (3) இரண்டும் தவறு – விடை (B) ஆக வேண்டும். மூலத்தில் குறிக்கப்பட்ட விடை (D).",
+    "en": "Light year, astronomical unit and parsec are all units of distance, so both (1) and (3) are wrong and the answer should be (B). The source marks (D)."
+   },
+   "status": "doubtful",
+   "use": "ok"
+  },
+  {
+   "n": 148,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Chemistry: salts and their formulas",
+   "q": {
+    "ta": "தவறான ஜோடியை கண்டறிக :\nI. சலவை சோடா – Na₂CO₃\nII. சலவைத் தூள் – CaO\nIII. பாரீஸ் சாந்து – CaSO₄ · ½ H₂O\nIV. சமையல் சோடா – NaHCO₃",
+    "en": "Identify the incorrect pair :\nI. Washing soda – Na₂CO₃\nII. Bleaching powder – CaO\nIII. Plaster of paris – CaSO₄ · ½ H₂O\nIV. Baking soda – NaHCO₃"
+   },
+   "o": [
+    {
+     "ta": "I"
+    },
+    {
+     "ta": "II"
+    },
+    {
+     "ta": "III"
+    },
+    {
+     "ta": "IV"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "சலவைத்தூள் – CaOCl₂ (கால்சியம் ஆக்ஸிகுளோரைடு). CaO – சுட்ட சுண்ணாம்பு.",
+    "en": "Bleaching powder is CaOCl₂ (calcium oxychloride). CaO is quicklime."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 149,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Chemistry in daily life: matches",
+   "q": {
+    "ta": "தீக்குச்சியில் உள்ள வேதிப்பொருட்கள் யாவை?",
+    "en": "What are the chemicals present in match stick?"
+   },
+   "o": [
+    {
+     "ta": "சிவப்பு பாஸ்பரஸ், வச்சிரம், கந்தகம்",
+     "en": "Red phosphorous, glue, sulphur"
+    },
+    {
+     "ta": "ஆண்டிமனி சல்பைடு, கந்தகம், பொட்டாசியம் குளோரேட்",
+     "en": "Antimony sulphide, sulphur, potassium chlorate"
+    },
+    {
+     "ta": "ஆண்டிமனி சல்பைடு, சிவப்பு பாஸ்பரஸ், வச்சிரம்",
+     "en": "Antimony sulphide, red phosphorous, glue"
+    },
+    {
+     "ta": "ஆண்டிமனி சல்பைடு, பாஸ்பரஸ், கந்தகம்",
+     "en": "Antimony sulphide, phosphorous, sulphur"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "தீக்குச்சித் தலை: ஆண்டிமனி சல்பைடு, பொட்டாசியம் குளோரேட், கந்தகம். பெட்டியின் பக்கம்: சிவப்பு பாஸ்பரஸ்.",
+    "en": "The match head has antimony sulphide, potassium chlorate and sulphur; the side of the box has red phosphorus."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 150,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Current affairs 2017: sports",
+   "q": {
+    "ta": "கீழே கொடுக்கப்பட்டுள்ளவர்களில் பொருந்தாத நபரை தேர்ந்தெடு.",
+    "en": "Identify the odd person out of the following."
+   },
+   "o": [
+    {
+     "ta": "திரிஷா தேப்",
+     "en": "Trisha Deb"
+    },
+    {
+     "ta": "நிட்டல் பால்",
+     "en": "Nital Paul"
+    },
+    {
+     "ta": "லில்லி சானு பூனம்",
+     "en": "Lily Chanu Poonam"
+    },
+    {
+     "ta": "ஜோதி சுரேகா வென்னம்",
+     "en": "Jyothi Surekha Vennam"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "2017 விளையாட்டு நடப்பு நிகழ்வு (வில்வித்தை வீராங்கனைகள்). விடை மூலத்தில் குறிக்கப்பட்டபடி.",
+    "en": "A 2017 sports item (women archers). The answer is as marked in the source."
+   },
+   "status": "unverified",
+   "use": "stale"
+  },
+  {
+   "n": 151,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Current affairs 2017: TN agriculture",
+   "q": {
+    "ta": "சமீபத்தில் இந்திய–இஸ்ரேல் கூட்டு வேளாண்மை திட்டத்தின் கீழ் மலர் வளர்ப்பு மையம் எங்கு தொடங்கப்பட்டது?",
+    "en": "Mention the floriculture centre started recently under the Indo Israel joint agreement on agricultural project."
+   },
+   "o": [
+    {
+     "ta": "தோவாலை, கன்னியாகுமரி மாவட்டம்",
+     "en": "Thovalai, Kanyakumari District"
+    },
+    {
+     "ta": "தளி, கிருஷ்ணகிரி மாவட்டம்",
+     "en": "Thally, Krishnagiri District"
+    },
+    {
+     "ta": "அண்ணாநகர், சென்னை",
+     "en": "Anna Nagar, Chennai"
+    },
+    {
+     "ta": "குன்னூர், நீலகிரி மாவட்டம்",
+     "en": "Connoor, Nilagiri District"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "தளி (கிருஷ்ணகிரி) – கொய்மலர் மகத்துவ மையம்; ரெட்டியார்சத்திரம் (திண்டுக்கல்) – காய்கறி மகத்துவ மையம்.",
+    "en": "Thally (Krishnagiri) has the centre of excellence for cut flowers; Reddiyarchatram (Dindigul) has the one for vegetables."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 152,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "NITI Aayog",
+   "q": {
+    "ta": "இந்தியாவின் திட்டக் கமிஷன் தற்போது எவ்வாறு அழைக்கப்படுகிறது?",
+    "en": "The Planning Commission in India is now known as"
+   },
+   "o": [
+    {
+     "ta": "திட்டக் குழு",
+     "en": "Planning Council"
+    },
+    {
+     "ta": "நிதி ஆயோக் (NITI Aayog)",
+     "en": "NITI Aayog"
+    },
+    {
+     "ta": "நிதி சஞ்ஜோக் (NITI Sanjog)",
+     "en": "NITI Sanjog"
+    },
+    {
+     "ta": "பாரதிய ஆயோக் மண்டல்",
+     "en": "Bharatiya Aayog Mandal"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "நிதி ஆயோக்: 1 ஜனவரி 2015. NITI = National Institution for Transforming India.",
+    "en": "NITI Aayog began on 1 January 2015. NITI stands for National Institution for Transforming India."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 153,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Current affairs 2017: appointments",
+   "q": {
+    "ta": "உலக சுகாதார நிறுவனத்தின் புதிய துணைப் பொது இயக்குநராக (திட்டம்) (Deputy Director General) நியமிக்கப்பட்டவர்",
+    "en": "Who among the following has been appointed as the Deputy Director General for programmes of the World Health Organisation?"
+   },
+   "o": [
+    {
+     "ta": "நிஷா தேஷாய் பிஸ்வால்",
+     "en": "Nisha Desai Biswal"
+    },
+    {
+     "ta": "தினேஷ்வர் சர்மா",
+     "en": "Dineshwar Sharma"
+    },
+    {
+     "ta": "சௌமியா சுவாமிநாதன்",
+     "en": "Soumya Swaminathan"
+    },
+    {
+     "ta": "கௌதம் பியூபவாலா",
+     "en": "Gautam Bewbawala"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "2017 நடப்பு நிகழ்வு.",
+    "en": "A 2017 current-affairs item."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 154,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Current affairs 2017: central schemes",
+   "q": {
+    "ta": "2017-ஆம் ஆண்டு இந்திய விசைத்தறி மற்றும் ஜவுளித் துறை, விசைத்தறி மற்றும் சிறுதொழில் நிறுவனங்கள் ஆகியவை மென்மேலும் வளர ஊக்கப்படுத்தப்பட்ட திட்டம்",
+    "en": "In order to encourage the powerloom sector and help small industrious, and joint venture launched by the ministry of powerloom and textiles in 2017 is called"
+   },
+   "o": [
+    {
+     "ta": "SAMPRADA"
+    },
+    {
+     "ta": "DOST"
+    },
+    {
+     "ta": "AARAKSHAN"
+    },
+    {
+     "ta": "SAATHI"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "2017 நடப்பு நிகழ்வு.",
+    "en": "A 2017 current-affairs item."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 155,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Current affairs 2017: defence exercises",
+   "q": {
+    "ta": "சமீபத்தில் நடைபெற்ற இந்திய மாலத்தீவு பரஸ்பர கூட்டு இராணுவ பயிற்சி எவ்வாறு அழைக்கப்படுகிறது?",
+    "en": "The recently conducted Indo-Maldives Joint Military exercises was called as"
+   },
+   "o": [
+    {
+     "ta": "இம்பாக்ஸ் 2017",
+     "en": "IMBAX 2017"
+    },
+    {
+     "ta": "எக்குவரின் 2017",
+     "en": "EKUVERIN 2017"
+    },
+    {
+     "ta": "இந்திரா 2017",
+     "en": "INDRA 2017"
+    },
+    {
+     "ta": "சம்ப்ரீத் 2017",
+     "en": "SAMPRITI 2017"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "எக்குவெரின் – இந்தியா–மாலத்தீவு; இந்திரா – இந்தியா–ரஷ்யா; சம்ப்ரிதி – இந்தியா–வங்கதேசம்.",
+    "en": "Ekuverin is India–Maldives, Indra is India–Russia and Sampriti is India–Bangladesh."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 156,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Technology: telecom networks",
+   "q": {
+    "ta": "செப்டம்பர் 2017-க்குள் இந்தியா, 5G-க்கு, நிலைமாற்றம் ஏற்படுத்திக் கொள்ளும் அளவிலான வலுவான ‘பாக்ஹவுலை’ (Backhaul) பெற்றிருக்கவில்லை. பாக்ஹவுல் என்பது இதற்கானதொரு இணைய வலை வகை",
+    "en": "India lacks a strong backhaul to get a transition to 5G with in September 2017. Backhaul is a network"
+   },
+   "o": [
+    {
+     "ta": "தரவு பகுப்பாய்விற்குண்டான வாயில்",
+     "en": "Portal for data discrimination"
+    },
+    {
+     "ta": "மைய மாற்று நிலையத்தோடு கைப்பேசியின் தங்கு நிலையினை இணைக்கும் வலை",
+     "en": "Connecting cell sites to central exchange"
+    },
+    {
+     "ta": "கம்பியில்லா தரவு செலுத்துகைக்கான பிணைப்பி",
+     "en": "Coupler for wireless data transmission"
+    },
+    {
+     "ta": "கைப்பேசி நுகர்வோருக்கான நெடுக்கங்காட்டி",
+     "en": "Range finder for cellular consumers"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "பாக்ஹால் – கைப்பேசிக் கோபுரங்களை மைய வலையமைப்புடன் இணைக்கும் பகுதி.",
+    "en": "Backhaul is the part of the network that links cell towers to the core exchange."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 157,
+   "subject": "gs",
+   "unit": 2,
+   "topic": "Current affairs 2017: TN highways",
+   "q": {
+    "ta": "பட்டியலில் இருக்கும் தமிழ்நாட்டின் எந்த மாநில நெடுஞ்சாலை நவம்பர் 2017-ல் தேசிய நெடுஞ்சாலையாக மேம்படுத்தப்படவில்லை?",
+    "en": "Which Tamil Nadu State Highway among these was not upgraded as National Highway in November 2017?"
+   },
+   "o": [
+    {
+     "ta": "திருப்பூர் – ஒட்டன்சத்திரம் மாநில நெடுஞ்சாலை",
+     "en": "Tirupur – Odanchatram State Highway"
+    },
+    {
+     "ta": "சேலம் – திருப்பத்தூர் – வாணியம்பாடி மாநில நெடுஞ்சாலை",
+     "en": "Salem – Tirupathur – Vaniyambadi State Highway"
+    },
+    {
+     "ta": "கொடைகாட் – கொடைக்கானல் மாநில நெடுஞ்சாலை",
+     "en": "Kodaighat – Kodaikanal State Highway"
+    },
+    {
+     "ta": "சென்னை – எண்ணூர் மாநில நெடுஞ்சாலை",
+     "en": "Chennai – Ennore State Highway"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "2017 நடப்பு நிகழ்வு.",
+    "en": "A 2017 current-affairs item."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 158,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Current affairs 2017: Tamil conferences",
+   "q": {
+    "ta": "நான்காவது “உலகத் தமிழர் பொருளாதார மாநாடு” எங்கு நடைபெற்றது?",
+    "en": "Where was the Fourth World Tamil’s Economic Conference held?"
+   },
+   "o": [
+    {
+     "ta": "கோவை",
+     "en": "Coimbatore"
+    },
+    {
+     "ta": "கோலாலம்பூர்",
+     "en": "Kualalumpur"
+    },
+    {
+     "ta": "சிங்கப்பூர்",
+     "en": "Singapure"
+    },
+    {
+     "ta": "டர்பன்",
+     "en": "Durban"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "2017, டர்பன் (தென்னாப்பிரிக்கா).",
+    "en": "2017, Durban (South Africa)."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 159,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Current affairs 2017: defence",
+   "q": {
+    "ta": "இந்திய விமானப் படையால் 2017-ம் ஆண்டு டிசம்பர் 17-ம் நாள் அலுவல் ரீதியாக கைவிடப்பட்ட பாதுகாப்பு ஊர்தி",
+    "en": "Identify the defence equipment which was officially decommissioned on December 17, 2017 by the Indian Air Force"
+   },
+   "o": [
+    {
+     "ta": "P-8 ILR Maritime Reconnaissance Anti Submarine Warfare Aircraft"
+    },
+    {
+     "ta": "Mi-8 Attack and Utility Helicopter"
+    },
+    {
+     "ta": "P-3 Orion Anti Submarine Warfare Aircraft"
+    },
+    {
+     "ta": "Mi-V5 Medium Lift Reconnaissance Aircraft"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "2017 நடப்பு நிகழ்வு.",
+    "en": "A 2017 current-affairs item."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 160,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Current affairs 2017: books",
+   "q": {
+    "ta": "2017-ம் ஆண்டு அக்டோபரில் வெளியிடப்பட்ட “Dark horse and other plays” என்ற நாடகத்தை வெளியிட்டவர்",
+    "en": "Identify the Playwright who published the work “Dark horse and other plays” in October 2017?"
+   },
+   "o": [
+    {
+     "ta": "கௌரி ராம்நாராயன்",
+     "en": "Gowri Ramnarayan"
+    },
+    {
+     "ta": "கௌரி லங்கேஷ்",
+     "en": "Gowri Lankesh"
+    },
+    {
+     "ta": "அருண் கொலாத்கர்",
+     "en": "Arun Kolatkar"
+    },
+    {
+     "ta": "மகேஷ் தத்தானி",
+     "en": "Mahesh Dattani"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "2017 நடப்பு நிகழ்வு.",
+    "en": "A 2017 current-affairs item."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 161,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Physiology: embryonic membranes",
+   "q": {
+    "ta": "1. ஆம்னியான் நீர்ம ஊடகத்தைக் கருவிற்கு கொடுக்கிறது.\n2. கோரியான் அலன்டாய்ஸ் இணைந்து தாய் சேய் இணைப்பாக மாறுகிறது.\n3. யோக்சாக் நீர்ம ஊடகத்தைக் கருவிற்கு கொடுக்கிறது.\nஎது சரி?",
+    "en": "1. Amnion provides a fluid medium for the embryo\n2. The Chorion and Allantois fuse to form placenta\n3. Yolk sac provides a fluid medium for embryo\nChoose the correct :"
+   },
+   "o": [
+    {
+     "ta": "1, 2 தவறு",
+     "en": "1 and 2 are wrong"
+    },
+    {
+     "ta": "1, 2 சரி",
+     "en": "1 and 2 are right"
+    },
+    {
+     "ta": "2, 3 சரி",
+     "en": "2 and 3 are right"
+    },
+    {
+     "ta": "1, 3 சரி",
+     "en": "1 and 3 are right"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "கரு உணவுப்பை (யோக் சாக்) உணவளிக்கிறது; நீர்ம ஊடகம் தருவது ஆம்னியான்.",
+    "en": "The yolk sac supplies food; it is the amnion that gives the fluid medium."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 162,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Botany: plant groups",
+   "q": {
+    "ta": "தாவர உலகில் மிகக் குறைந்த எண்ணிக்கையில் சிற்றினங்கள் கொண்ட தாவர தொகுதி எது?",
+    "en": "Which group of plants species are lower in number in the plant kingdom?"
+   },
+   "o": [
+    {
+     "ta": "பூஞ்சைகள்",
+     "en": "Fungi"
+    },
+    {
+     "ta": "டெரிடோபைட்டா",
+     "en": "Pteridophyta"
+    },
+    {
+     "ta": "பிரையோஃபைட்டுகள்",
+     "en": "Bryophytes"
+    },
+    {
+     "ta": "ஜிம்னோஸ்பெர்ம்கள்",
+     "en": "Gymnosperms"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "ஜிம்னோஸ்பெர்ம்கள் சுமார் 1000 சிற்றினங்கள் மட்டுமே.",
+    "en": "Gymnosperms have only about 1000 species."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 163,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Botany: algae",
+   "q": {
+    "ta": "எந்த வகுப்பு ஆல்காக்கள் டைனமைட்டு உற்பத்தி செய்வதில் பயன்படுகின்றன?",
+    "en": "Which class of algae is used in the manufacture of dynamite?"
+   },
+   "o": [
+    {
+     "ta": "குளோரோபைசி",
+     "en": "Chlorophyceae"
+    },
+    {
+     "ta": "கிரைசோபைசி",
+     "en": "Chrysophyceae"
+    },
+    {
+     "ta": "கிரிப்டோபைசி",
+     "en": "Cryptophyceae"
+    },
+    {
+     "ta": "ஃபேயோபைசி",
+     "en": "Pheophyceae"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "டையாட்டம்கள் (கிரைசோபைசி) – டையாட்டமைட் மண் நைட்ரோகிளிசரினை உறிஞ்சப் பயன்படுகிறது.",
+    "en": "Diatoms (Chrysophyceae) give diatomaceous earth, which absorbs nitroglycerine in dynamite."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 164,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Biology: modes of nutrition",
+   "q": {
+    "ta": "வேதி பிற சார்பு உயிரிக்கு எடுத்துக்காட்டு எது?",
+    "en": "Which is an example for chemosynthetic heterotroph?"
+   },
+   "o": [
+    {
+     "ta": "மனிதன்",
+     "en": "Man"
+    },
+    {
+     "ta": "விஸ்கம்",
+     "en": "Viscum"
+    },
+    {
+     "ta": "நைட்ரசோமோனாஸ்",
+     "en": "Nitrosomonas"
+    },
+    {
+     "ta": "பெக்யாடோவா",
+     "en": "Beggiatoa"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "நைட்ரசோமோனாஸ், பெக்யாடோவா – வேதிச்சேர்க்கைத் தற்சார்பு உயிரிகள்; விஸ்கம் – பகுதி ஒட்டுண்ணி. விடை மூலத்தில் குறிக்கப்பட்டபடி.",
+    "en": "Nitrosomonas and Beggiatoa are chemosynthetic autotrophs and Viscum is a partial parasite. The answer is as marked in the source."
+   },
+   "status": "unverified",
+   "use": "ok"
+  },
+  {
+   "n": 165,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: geometric progression",
+   "q": {
+    "ta": "ஒரு பெருக்குத் தொடர் வரிசையின் அடுத்தடுத்த நான்கு உறுப்புகளின் பெருக்குத் தொகை 625 எனில் முதல் உறுப்பைக் காண்க.",
+    "en": "If the product of four consecutive terms in G.P is 625. Find the first term."
+   },
+   "o": [
+    {
+     "ta": "15"
+    },
+    {
+     "ta": "25"
+    },
+    {
+     "ta": "5"
+    },
+    {
+     "ta": "35"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "வினாவில் தகவல் போதாது (பொது விகிதம் தரப்படவில்லை). பொது விகிதம் 1 எனக் கொண்டால் a⁴ = 625 ⇒ a = 5. மூலத்தில் குறிக்கப்பட்ட விடை (C).",
+    "en": "The question does not give enough (no common ratio). Taking the ratio as 1, a⁴ = 625 gives a = 5. The source marks (C)."
+   },
+   "status": "doubtful",
+   "use": "void"
+  },
+  {
+   "n": 166,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Percentage: profit and loss",
+   "q": {
+    "ta": "இலாப அல்லது நட்ட சதவீதம் எப்பொழுதும் எதன் மேல் கணக்கிடப்படுகிறது?",
+    "en": "Gain or loss percent is always calculated on"
+   },
+   "o": [
+    {
+     "ta": "அடக்க விலை",
+     "en": "cost price"
+    },
+    {
+     "ta": "விற்பனை விலை",
+     "en": "selling price"
+    },
+    {
+     "ta": "இலாபம்",
+     "en": "gain"
+    },
+    {
+     "ta": "நட்டம்",
+     "en": "loss"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "இலாப % = இலாபம் ÷ அடக்க விலை × 100.",
+    "en": "Gain % = gain ÷ cost price × 100."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 167,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Time, speed and distance (not in the listed syllabus)",
+   "q": {
+    "ta": "ஒரு மாணவன் அவனுடைய பள்ளிக்கு செல்லும் போது மணிக்கு 3 கி.மீ வேகத்திலும் பள்ளியிலிருந்து வீடு திரும்பும் போது மணிக்கு 2 கி.மீ வேகத்திலும் செல்கிறார். மேலும் அவர் பள்ளிக்கு சென்று வர 5 மணிநேரம் எடுத்துக் கொண்டால் பள்ளிக்கும் வீட்டிற்கும் உள்ள தூரம்",
+    "en": "A student goes to his school from his house at a speed 3 km/hr and returns at a speed of 2 km/hr. If he takes 5 hours in going and coming the distance between his house and school is"
+   },
+   "o": [
+    {
+     "ta": "5 கி.மீ",
+     "en": "5 km"
+    },
+    {
+     "ta": "5.5 கி.மீ",
+     "en": "5.5 km"
+    },
+    {
+     "ta": "6 கி.மீ",
+     "en": "6 km"
+    },
+    {
+     "ta": "6.5 கி.மீ",
+     "en": "6.5 km"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "d/3 + d/2 = 5 ⇒ 5d/6 = 5 ⇒ d = 6 கி.மீ.",
+    "en": "d/3 + d/2 = 5 gives 5d/6 = 5, so d = 6 km."
+   },
+   "status": "ok",
+   "use": "off"
+  },
+  {
+   "n": 168,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: geometric progression",
+   "q": {
+    "ta": "x, 2x + 2, 3x + 3 என்பன ஒரு பெருக்குத் தொடர் வரிசையிலிருப்பின் 11x, 22x + 22, 33x + 33 என்ற தொடர் வரிசையானது",
+    "en": "If x, 2x + 2, 3x + 3 are in G.P, then 11x, 22x + 22, 33x + 33 form"
+   },
+   "o": [
+    {
+     "ta": "ஒரு கூட்டுத் தொடர் வரிசை",
+     "en": "an A.P."
+    },
+    {
+     "ta": "ஒரு பெருக்குத் தொடர் வரிசை",
+     "en": "a G.P."
+    },
+    {
+     "ta": "ஒரு மாறிலித் தொடர் வரிசை",
+     "en": "a constant sequence"
+    },
+    {
+     "ta": "ஒரு கூட்டுத் தொடர் வரிசையும் அல்ல பெருக்குத் தொடர் வரிசையும் அல்ல",
+     "en": "Neither A.P. nor a G.P."
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "ஒவ்வோர் உறுப்பையும் 11 ஆல் பெருக்கினாலும் பொது விகிதம் மாறாது; எனவே பெருக்குத் தொடரே.",
+    "en": "Multiplying every term by 11 leaves the common ratio unchanged, so it is still a G.P."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 169,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: equations",
+   "q": {
+    "ta": "மூன்று எண்களின் கூடுதல் 264 முதல் எண் இரண்டாவது எண் போல் இரு மடங்கு, மூன்றாவது எண் முதல் எண்ணில் மூன்றில் ஒரு பங்கு எனில் இரண்டாவது எண் யாது?",
+    "en": "The sum of three numbers is 264 if the first number be twice the second and third number be one-third of the first, then the second number is"
+   },
+   "o": [
+    {
+     "ta": "48"
+    },
+    {
+     "ta": "72"
+    },
+    {
+     "ta": "54"
+    },
+    {
+     "ta": "64"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "இரண்டாம் எண் x: 2x + x + 2x/3 = 264 ⇒ 11x/3 = 264 ⇒ x = 72.",
+    "en": "Let the second be x: 2x + x + 2x/3 = 264, so 11x/3 = 264 and x = 72."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 170,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: sums of series",
+   "q": {
+    "ta": "1² + 2² + 3² + ..... + 10² = 385 எனில் 2² + 4² + 6² + .... + 20² -ன் மதிப்பு",
+    "en": "If 1² + 2² + 3² + ..... + 10² = 385 then 2² + 4² + 6² + .... + 20² is"
+   },
+   "o": [
+    {
+     "ta": "770"
+    },
+    {
+     "ta": "1150"
+    },
+    {
+     "ta": "1540"
+    },
+    {
+     "ta": "385 × 385"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "ஒவ்வோர் உறுப்பும் (2n)² = 4n². 4 × 385 = 1540.",
+    "en": "Each term is (2n)² = 4n², so the sum is 4 × 385 = 1540."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 171,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Percentage",
+   "q": {
+    "ta": "y-ன் x %-க்கும் x-ன் y% இடையே, விகித பின்னத்தின் மதிப்பு",
+    "en": "In the ratio x % of y to y % of x, its fraction value is equals to"
+   },
+   "o": [
+    {
+     "ta": "1/xy"
+    },
+    {
+     "ta": "xy"
+    },
+    {
+     "ta": "x/y"
+    },
+    {
+     "ta": "1"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "y-ன் x% = xy/100 = x-ன் y%. விகிதம் 1.",
+    "en": "x% of y = xy/100 = y% of x, so the ratio is 1."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 172,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Ratio: ages",
+   "q": {
+    "ta": "அருணின் தற்போதைய வயது அவருடைய தந்தையின் வயதில் பாதியாகும். பன்னிரண்டு ஆண்டுகட்கு முன்பு தந்தையின் வயதானது அருணின் வயதைப் போல மும்மடங்காக இருந்தது. தற்போது தந்தையின் வயது",
+    "en": "Arun is now half as old as his father. Twelve years ago the father’s age was three times as old as Arun. Now the present age of his father’s age is"
+   },
+   "o": [
+    {
+     "ta": "24 ஆண்டுகள்",
+     "en": "24 years"
+    },
+    {
+     "ta": "36 ஆண்டுகள்",
+     "en": "36 years"
+    },
+    {
+     "ta": "48 ஆண்டுகள்",
+     "en": "48 years"
+    },
+    {
+     "ta": "50 ஆண்டுகள்",
+     "en": "50 years"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "அருண் x, தந்தை 2x: 2x − 12 = 3(x − 12) ⇒ x = 24. தந்தை 48.",
+    "en": "Arun x, father 2x: 2x − 12 = 3(x − 12) gives x = 24, so the father is 48."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 173,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: progressions",
+   "q": {
+    "ta": "a, b, c என்பன ஒரு கூட்டுத் தொடர்வரிசையில் உள்ளன எனில் 3^a, 3^b, 3^c ஆகியவை __________ என்ற தொடர்வரிசையில் உள்ளது.",
+    "en": "If a, b, c are in A.P., then 3^a, 3^b, 3^c are in"
+   },
+   "o": [
+    {
+     "ta": "A.P.",
+     "en": "A.P."
+    },
+    {
+     "ta": "G.P.",
+     "en": "G.P."
+    },
+    {
+     "ta": "A.P. மற்றும் G.P.",
+     "en": "A.P. and G.P."
+    },
+    {
+     "ta": "ஏதும் இல்லை",
+     "en": "None of these"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "அடுக்குகள் கூட்டுத்தொடரில் இருந்தால் எண்கள் பெருக்குத்தொடரில் இருக்கும்: பொது விகிதம் 3^d.",
+    "en": "When the exponents are in A.P. the numbers are in G.P., with common ratio 3^d."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 174,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: geometric series",
+   "q": {
+    "ta": "–1 < r < 1 எனில் முடிவிலி வரை பெருக்குத் தொடரின் கூடுதல்",
+    "en": "If –1 < r < 1, then the sum of infinite number of a geometric series is"
+   },
+   "o": [
+    {
+     "ta": "a(rⁿ – 1)/(r – 1)"
+    },
+    {
+     "ta": "a(1 – rⁿ)/(1 – r)"
+    },
+    {
+     "ta": "a/(1 – r)"
+    },
+    {
+     "ta": "na"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "முடிவிலி பெருக்குத்தொடரின் கூடுதல் S = a ÷ (1 − r).",
+    "en": "The sum to infinity of a G.P. is S = a ÷ (1 − r)."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 175,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Area: circle properties",
+   "q": {
+    "ta": "அரைவட்டத்தில் அமையும் கோணம் __________.",
+    "en": "The angle in a semi circle is a __________."
+   },
+   "o": [
+    {
+     "ta": "குறுங்கோணம்",
+     "en": "acute angle"
+    },
+    {
+     "ta": "விரிகோணம்",
+     "en": "obtuse angle"
+    },
+    {
+     "ta": "நேர் கோணம்",
+     "en": "straight angle"
+    },
+    {
+     "ta": "செங்கோணம்",
+     "en": "right angle"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "அரைவட்டத்தில் அமையும் கோணம் 90°.",
+    "en": "The angle in a semicircle is 90°."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 176,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Ratio and proportion",
+   "q": {
+    "ta": "a/3 = b/4 = c/7 எனில் (a + b + c)/c என்பது",
+    "en": "If a/3 = b/4 = c/7 then (a + b + c)/c is"
+   },
+   "o": [
+    {
+     "ta": "7"
+    },
+    {
+     "ta": "2"
+    },
+    {
+     "ta": "1/2"
+    },
+    {
+     "ta": "1/7"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "a = 3k, b = 4k, c = 7k: 14k ÷ 7k = 2.",
+    "en": "With a = 3k, b = 4k, c = 7k: 14k ÷ 7k = 2."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 177,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Ratio and proportion",
+   "q": {
+    "ta": "2:3, 3:5, 4:7, 5:8 இவற்றில் பெரியது எது?",
+    "en": "Which is biggest ratio?\n2:3, 3:5, 4:7, 5:8"
+   },
+   "o": [
+    {
+     "ta": "3:5"
+    },
+    {
+     "ta": "4:7"
+    },
+    {
+     "ta": "5:8"
+    },
+    {
+     "ta": "2:3"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "2/3 = 0.667; 5/8 = 0.625; 3/5 = 0.6; 4/7 = 0.571.",
+    "en": "2/3 = 0.667, 5/8 = 0.625, 3/5 = 0.6, 4/7 = 0.571."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 178,
+   "subject": "gs",
+   "unit": 2,
+   "topic": "Indian cities",
+   "q": {
+    "ta": "இந்தியாவில் தனக்கென்று சின்னத்தை பெற்ற முதல் நகரம் எது?",
+    "en": "__________ is the first Indian city to get its own logo."
+   },
+   "o": [
+    {
+     "ta": "பூனா",
+     "en": "Pune"
+    },
+    {
+     "ta": "பெங்களூரு",
+     "en": "Bengaluru"
+    },
+    {
+     "ta": "சென்னை",
+     "en": "Chennai"
+    },
+    {
+     "ta": "டெல்லி",
+     "en": "Delhi"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "பெங்களூரு, டிசம்பர் 2017.",
+    "en": "Bengaluru, December 2017."
+   },
+   "status": "ok",
+   "use": "stale"
+  },
+  {
+   "n": 179,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Union executive: Attorney General",
+   "q": {
+    "ta": "சட்ட அலுவலர்கள் மற்றும் மத்திய அரசு தலைமை வழக்குரைஞர்களை எந்த விதியின் கீழ் இந்திய குடியரசு தலைவர் நியமிக்கின்றார்?",
+    "en": "In which Article make provision for the appointment of a law officer, the Attorney General by President of India?"
+   },
+   "o": [
+    {
+     "ta": "விதி 66",
+     "en": "Article 66"
+    },
+    {
+     "ta": "விதி 67",
+     "en": "Article 67"
+    },
+    {
+     "ta": "விதி 76",
+     "en": "Article 76"
+    },
+    {
+     "ta": "விதி 96",
+     "en": "Article 96"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "உறுப்பு 76 – இந்தியத் தலைமை வழக்குரைஞர்; உறுப்பு 165 – மாநிலத் தலைமை வழக்குரைஞர்.",
+    "en": "Article 76 is the Attorney General of India; Article 165 is the Advocate General of a state."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 180,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Fundamental Rights: Right to Education",
+   "q": {
+    "ta": "இந்திய அரசு கல்வி உரிமைச் சட்டத்தை நடைமுறைப்படுத்திய நாள்",
+    "en": "The Government of India introduced the Rights to Education on"
+   },
+   "o": [
+    {
+     "ta": "15 ஆகஸ்ட் 1947",
+     "en": "15th August 1947"
+    },
+    {
+     "ta": "26 ஜனவரி 1950",
+     "en": "26th January 1950"
+    },
+    {
+     "ta": "1 ஏப்ரல் 2010",
+     "en": "1st April 2010"
+    },
+    {
+     "ta": "2 அக்டோபர் 2012",
+     "en": "2nd October 2012"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "கல்வி உரிமைச் சட்டம் 2009; நடைமுறை 1 ஏப்ரல் 2010; உறுப்பு 21A.",
+    "en": "The Right to Education Act 2009 came into force on 1 April 2010, under Article 21A."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 181,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Judiciary: Lok Adalat",
+   "q": {
+    "ta": "உரிமை பணிச் சட்டம் (லோக் அதாலத்) எந்த ஆண்டு நிறைவேற்றப்பட்டது?",
+    "en": "When was the Legal Services Authority Act (Lok Adalat) passed?"
+   },
+   "o": [
+    {
+     "ta": "1985"
+    },
+    {
+     "ta": "1987"
+    },
+    {
+     "ta": "1986"
+    },
+    {
+     "ta": "1988"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "சட்டப் பணிகள் ஆணையச் சட்டம் 1987 – மக்கள் நீதிமன்றங்களுக்குச் சட்ட அந்தஸ்து.",
+    "en": "The Legal Services Authorities Act 1987 gave Lok Adalats statutory status."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 182,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "National symbols: flag code",
+   "q": {
+    "ta": "தேசிய கொடி பற்றிய தவறான விதியை கண்டுபிடிக்க",
+    "en": "Find out the wrong rules of the national flag."
+   },
+   "o": [
+    {
+     "ta": "தேசியக் கொடியை ஏற்றும் போதும் இறக்கும் போதும் கவனமாகச் செயல்பட வேண்டும்",
+     "en": "The national flag should be raised and lowered carefully"
+    },
+    {
+     "ta": "சூரியன் மறையும் முன் தேசியக் கொடியை இறக்கி விட வேண்டும்",
+     "en": "We must lower it before sun set"
+    },
+    {
+     "ta": "வேறு எந்த ஒரு கொடியையும் நமது தேசியக் கொடியின் இடது புறமோ அல்லது கொடியை விட உயரமாகவோ பறக்கவிடக் கூடாது",
+     "en": "No other flag should be placed higher than it nor should any flag be placed to its left"
+    },
+    {
+     "ta": "கொடியை கம்பத்தில் ஏற்றும் போது நாம் நேராக நிற்க வேண்டும்",
+     "en": "We must stand in attention when the flag is hoisted"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "விதி: வேறு எந்தக் கொடியும் தேசியக் கொடியின் ‘வலப்புறமோ’ அதைவிட உயரமாகவோ இருக்கக் கூடாது. (2022 முதல் இரவிலும் கொடி பறக்க அனுமதி உண்டு.)",
+    "en": "The rule is that no flag may fly higher than the national flag or to its right. (Since 2022 the flag may also be flown at night.)"
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 183,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Directive Principles: Article 41",
+   "q": {
+    "ta": "இந்திய அரசியல் சட்ட விதி 41 கூறுவது",
+    "en": "Article 41 of the Constitution of India guarantees"
+   },
+   "o": [
+    {
+     "ta": "வேலைக்கு உரிமை",
+     "en": "Right to work"
+    },
+    {
+     "ta": "சொத்துக்கு உரிமை",
+     "en": "Right to property"
+    },
+    {
+     "ta": "வாழ்வுக்கு உரிமை",
+     "en": "Right to live"
+    },
+    {
+     "ta": "சுரண்டலுக்கு எதிரான உரிமை",
+     "en": "Right Against Exploitation"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "உறுப்பு 41 (வழிகாட்டு நெறிமுறை): வேலை, கல்வி, பொது உதவி பெறும் உரிமை.",
+    "en": "Article 41 (a Directive Principle): the right to work, to education and to public assistance."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 184,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Union executive: Vice-President",
+   "q": {
+    "ta": "குடியரசுத் துணைத் தலைவர் பதவி பற்றி எந்த அரசியலமைப்பு சட்டப்பிரிவு கூறுகிறது?",
+    "en": "The article of the Constitution provides for a Vice President"
+   },
+   "o": [
+    {
+     "ta": "53",
+     "en": "Article 53"
+    },
+    {
+     "ta": "356",
+     "en": "Article 356"
+    },
+    {
+     "ta": "360",
+     "en": "Article 360"
+    },
+    {
+     "ta": "63",
+     "en": "Article 63"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "63 – துணைக் குடியரசுத் தலைவர்; 52 – குடியரசுத் தலைவர்; 356 – மாநில நெருக்கடி; 360 – நிதி நெருக்கடி.",
+    "en": "63 Vice-President, 52 President, 356 President's Rule, 360 financial emergency."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 185,
+   "subject": "gs",
+   "unit": 2,
+   "topic": "Earth: rotation and revolution",
+   "q": {
+    "ta": "கீழ்காணும் வாக்கியங்களை அடிப்படையாக கொண்டு சரியான விடையை கொடுக்கப்பட்டுள்ள குறியீடுகளில் இருந்து தேர்வு செய்க.\nகூற்று (A) : பூமி தன்னைத்தானே சுற்றிக்கொள்வதை தற்சுழற்சி என்கிறோம்.\nகாரணம் (R) : தற்சுழற்சி இயக்கம் காரணமாகத்தான் பருவகாலம் உருவாகிறது.",
+    "en": "Consider the following statement, choose the correct answer from the codes given below.\nAssertion (A) : The motion of the Earth rotate on its axis called rotation.\nReasons (R) : Rotation movement causes seasons"
+   },
+   "o": [
+    {
+     "ta": "(A) மட்டும் சரி (R) தவறு",
+     "en": "(A) alone is correct (R) is incorrect"
+    },
+    {
+     "ta": "(A) மற்றும் (R) இரண்டும் சரி மேலும் (R), (A) உடைய சரியான விளக்கமாகும்",
+     "en": "(A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+     "ta": "(A) மற்றும் (R) இரண்டும் தவறு",
+     "en": "(A) and (R) are incorrect"
+    },
+    {
+     "ta": "(A) மற்றும் (R) இரண்டும் சரி ஆனால் (R), (A) உடைய சரியான விளக்கமல்ல",
+     "en": "(A) and (R) are correct but (R) is not the correct explanation of (A)"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "தற்சுழற்சி – இரவு பகல்; சூரியனைச் சுற்றும் இயக்கம் (சுற்றுகை) – பருவகாலங்கள்.",
+    "en": "Rotation causes day and night; revolution round the Sun causes the seasons."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 186,
+   "subject": "gs",
+   "unit": 2,
+   "topic": "Environment: important days",
+   "q": {
+    "ta": "உலக காடுகள் தினம் கொண்டாடப்படும் நாள் எது?",
+    "en": "World Forest Day is celebrated on"
+   },
+   "o": [
+    {
+     "ta": "மார்ச் 8",
+     "en": "March 8"
+    },
+    {
+     "ta": "மார்ச் 21",
+     "en": "March 21"
+    },
+    {
+     "ta": "மார்ச் 22",
+     "en": "March 22"
+    },
+    {
+     "ta": "மார்ச் 23",
+     "en": "March 23"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "மார்ச் 21 – உலகக் காடுகள் தினம்; மார்ச் 22 – உலக நீர் தினம்; மார்ச் 23 – உலக வானிலை தினம்.",
+    "en": "21 March World Forest Day, 22 March World Water Day, 23 March World Meteorological Day."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 187,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Women's empowerment: entrepreneurship",
+   "q": {
+    "ta": "தொழில் முனைவு முன்னேற்றத்துக்கான திட்டம் (EDP) தொடர்புடையது",
+    "en": "Entrepreneurship Development Programme (EDP) is associated with"
+   },
+   "o": [
+    {
+     "ta": "எழுத்தறிவின்மையை ஒழிப்பதற்கான திட்டம்",
+     "en": "Eradication of illiteracy"
+    },
+    {
+     "ta": "பெண்களின் ஆற்றலை நிரூபணம் செய்ய உதவும் திட்டம்",
+     "en": "To make and prove womens potential"
+    },
+    {
+     "ta": "பெண்களின் தனித்திறமைகளை வெளிக்கொணர்தல்",
+     "en": "To bring out the talents of women"
+    },
+    {
+     "ta": "வறுமையை ஒழிப்பதற்கான திட்டம்",
+     "en": "Eradication of poverty"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "பாடநூல் வரியை ஒட்டிய வினா. விடை மூலத்தில் குறிக்கப்பட்டபடி.",
+    "en": "A question built on a textbook line. The answer is as marked in the source."
+   },
+   "status": "unverified",
+   "use": "ok"
+  },
+  {
+   "n": 188,
+   "subject": "gs",
+   "unit": 2,
+   "topic": "Agriculture: shifting cultivation names",
+   "q": {
+    "ta": "பொருத்துக :\n(a) அஸ்ஸாம்\n(b) ஆந்திர பிரதேசம்\n(c) மத்திய பிரதேசம்\n(d) கேரளா\n1. பொடு\n2. மாசன்\n3. பொன்னம்\n4. ஜூம்",
+    "en": "Match the following :\n(a) Assam\n(b) Andhra Pradesh\n(c) Madhya Pradesh\n(d) Kerala\n1. Podu\n2. Mashan\n3. Ponam\n4. Jhum"
+   },
+   "o": [
+    {
+     "ta": "(a) 3, (b) 1, (c) 2, (d) 4"
+    },
+    {
+     "ta": "(a) 2, (b) 3, (c) 4, (d) 1"
+    },
+    {
+     "ta": "(a) 1, (b) 2, (c) 3, (d) 4"
+    },
+    {
+     "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "சரியான இணை: அஸ்ஸாம் – ஜூம்; ஆந்திரம் – பொடு; மத்தியப் பிரதேசம் – மாசன்; கேரளா – பொன்னம். இந்த இணை நான்கு விடைகளிலும் இல்லை. மூலத்தில் குறிக்கப்பட்ட விடை (B) தவறானது.",
+    "en": "The right pairs are Assam–Jhum, Andhra–Podu, Madhya Pradesh–Mashan, Kerala–Ponam, and no option gives them. The (B) marked in the source is wrong."
+   },
+   "status": "doubtful",
+   "use": "void"
+  },
+  {
+   "n": 189,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Sangam age: literature",
+   "q": {
+    "ta": "எந்த ஒன்று சங்கத் தமிழின் சமுதாய நிலையை விளக்குகிறது?",
+    "en": "In which one describes the social conditions of the Sangam Tamils?"
+   },
+   "o": [
+    {
+     "ta": "எட்டுத்தொகை",
+     "en": "Ettuthogai"
+    },
+    {
+     "ta": "பத்துப்பாட்டு",
+     "en": "Pathupattu"
+    },
+    {
+     "ta": "தொல்காப்பியத்தில் உள்ள பொருளதிகாரம்",
+     "en": "Porulathikaram in Tolkappiam"
+    },
+    {
+     "ta": "சிலப்பதிகாரம்",
+     "en": "Silapadhikaram"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "தொல்காப்பியம்: எழுத்து, சொல், பொருள் அதிகாரங்கள்; பொருளதிகாரம் மக்கள் வாழ்வியலை (அகம், புறம்) விளக்குகிறது.",
+    "en": "The Tolkappiyam has three parts, on letters, words and subject matter; the Porulathikaram describes people's life (akam and puram)."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 190,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "South Indian history: Vijayanagar and Bahmani",
+   "q": {
+    "ta": "வரிசை I உடன் வரிசை IIயினைப் பொருத்தி வரிசைகளுக்கு கீழ் கொடுக்கப்பட்டுள்ள தொகுப்பிலிருந்து சரியான விடையினை தேர்வு செய்க :\n(a) ஆமுக்தமால்யதா\n(b) ஜூம்மா மசூதி\n(c) கோல்கும்பா\n(d) ஜாம்பவதி கல்யாணம்\n1. குல்பர்க்கா\n2. பீஜப்பூர்\n3. சமஸ்கிருதம்\n4. தெலுங்கு",
+    "en": "Match List I with List II and select the correct answer using the code given below the list :\n(a) Amuktamalyada\n(b) Juma masjid\n(c) Golgumbaz\n(d) Jambavathi kalyanam\n1. Gulbarga\n2. Bijapur\n3. Sanskrit\n4. Telugu"
+   },
+   "o": [
+    {
+     "ta": "(a) 1, (b) 3, (c) 2, (d) 4"
+    },
+    {
+     "ta": "(a) 3, (b) 2, (c) 4, (d) 1"
+    },
+    {
+     "ta": "(a) 4, (b) 1, (c) 2, (d) 3"
+    },
+    {
+     "ta": "(a) 2, (b) 4, (c) 3, (d) 1"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "கிருஷ்ணதேவராயர்: ஆமுக்தமால்யதா (தெலுங்கு), ஜாம்பவதி கல்யாணம் (சமஸ்கிருதம்). கோல்கும்பஸ் – பீஜப்பூர்; ஜும்மா மசூதி – குல்பர்கா.",
+    "en": "Krishnadevaraya wrote Amuktamalyada (Telugu) and Jambavati Kalyanam (Sanskrit). The Gol Gumbaz is at Bijapur and the Jama Masjid at Gulbarga."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 191,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Indian culture: monuments",
+   "q": {
+    "ta": "போபால் அரசியர்களான ஷாஜஹான் பேகமும், சுல்தானா ஜெஹான் பேகமும் இந்த வரலாற்று சின்னத்தை செப்பனிட ஏராளமான பணத்தை வாரி வழங்கினர்",
+    "en": "The rulers of Bhopal Shajehan Begum and Sultana Jehan Begum provided monetary support for the preservation of the ancient site"
+   },
+   "o": [
+    {
+     "ta": "சாரநாத் கல்தூண்",
+     "en": "Saranath pillar"
+    },
+    {
+     "ta": "சாஞ்சி ஸ்தூபி",
+     "en": "Sanchi stupi"
+    },
+    {
+     "ta": "உமாயூன் கல்லறை",
+     "en": "Humayun tomb"
+    },
+    {
+     "ta": "ஷெர்ஷாவின் நினைவிடம்",
+     "en": "Shersha’s tomb"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "சாஞ்சி ஸ்தூபி (மத்தியப் பிரதேசம்) – போபால் பேகம்களின் நிதியுதவியால் பாதுகாக்கப்பட்டது.",
+    "en": "The Sanchi stupa (Madhya Pradesh) was preserved with funds from the Begums of Bhopal."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 192,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Mughals: Sher Shah",
+   "q": {
+    "ta": "பரீத்தின் உண்மையான பெயர்",
+    "en": "Farid was the original name of"
+   },
+   "o": [
+    {
+     "ta": "ஷெர்ஷா",
+     "en": "Shershah"
+    },
+    {
+     "ta": "இப்ராஹிம் லோடி",
+     "en": "Ibrahim Lodi"
+    },
+    {
+     "ta": "சிக்கந்தர் லோடி",
+     "en": "Sikandar Lodi"
+    },
+    {
+     "ta": "அலாவுதீன்",
+     "en": "Ala-ud-din"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "ஷெர்ஷாவின் இயற்பெயர் பரீத்.",
+    "en": "Sher Shah's original name was Farid."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 193,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Europeans in India: French",
+   "q": {
+    "ta": "புதுச்சேரியை பிரெஞ்சுக்காரர்களுக்கு வழங்கியவர் யார்?",
+    "en": "Find the name of the ruler who gave Pondicherry to French"
+   },
+   "o": [
+    {
+     "ta": "பஹலூல் கான் லோடி",
+     "en": "Fahlul Khan Lodi"
+    },
+    {
+     "ta": "இப்ராகிம் லோடி",
+     "en": "Ibrahim Lodi"
+    },
+    {
+     "ta": "ஷேர்கான் லோடி",
+     "en": "Sherkhan Lodi"
+    },
+    {
+     "ta": "இல்துமிஷ்",
+     "en": "Iltutmish"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "1674: பீஜப்பூர் ஆளுநர் ஷேர்கான் லோடியிடமிருந்து பிரான்சுவா மார்ட்டின் புதுச்சேரியைப் பெற்றார்.",
+    "en": "In 1674 François Martin obtained Pondicherry from Sher Khan Lodi, the Bijapur governor."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 194,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Marathas: Shivaji",
+   "q": {
+    "ta": "சிவாஜியின் முடிசூட்டு விழா நடைபெற்ற கோட்டை",
+    "en": "Shivaji got himself coronated at"
+   },
+   "o": [
+    {
+     "ta": "தோரனா",
+     "en": "Torna"
+    },
+    {
+     "ta": "ரெய்கார்",
+     "en": "Raigarh"
+    },
+    {
+     "ta": "கல்யான்",
+     "en": "Kalyan"
+    },
+    {
+     "ta": "புரந்தர்",
+     "en": "Purandhar"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "1674, ராய்கர்; பட்டம் ‘சத்ரபதி’.",
+    "en": "Raigad, 1674; he took the title Chhatrapati."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 195,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Delhi Sultans: Qutb Minar",
+   "q": {
+    "ta": "குதுப்மினார் என்னும் கோபுர கட்டுமானப் பணிகளைத் தொடக்கி வைத்தவர்",
+    "en": "The construction of Qutb Minar was started by"
+   },
+   "o": [
+    {
+     "ta": "இல்துமிஷ்",
+     "en": "Iltutmish"
+    },
+    {
+     "ta": "ஆரம் ஷா",
+     "en": "Aram Shah"
+    },
+    {
+     "ta": "குத்புதீன் ஐபெக்",
+     "en": "Qutb-ud-din-Aibak"
+    },
+    {
+     "ta": "பிரோஸ் ஷா",
+     "en": "Firoz Shah"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "தொடங்கியவர் குத்புதீன் ஐபக்; முடித்தவர் இல்துமிஷ்.",
+    "en": "Begun by Qutb-ud-din Aibak and completed by Iltutmish."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 196,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Agriculture: price policy",
+   "q": {
+    "ta": "புதிய வேளாண் விலைக் கொள்கை வெளியிடப்பட்ட ஆண்டு",
+    "en": "New Agricultural Price Policy was announced in the year"
+   },
+   "o": [
+    {
+     "ta": "1984"
+    },
+    {
+     "ta": "1976"
+    },
+    {
+     "ta": "1996"
+    },
+    {
+     "ta": "1986"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "புதிய வேளாண் விலைக் கொள்கை 1986.",
+    "en": "The new agricultural price policy came in 1986."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 197,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Economics of education",
+   "q": {
+    "ta": "கல்வி பற்றிய பொருளியலை உருவாக்கியவர்",
+    "en": "The birth of economics of education was announced by"
+   },
+   "o": [
+    {
+     "ta": "மார்ஷல்",
+     "en": "Marshall"
+    },
+    {
+     "ta": "கார்ல் மார்க்ஸ்",
+     "en": "Karl Marx"
+    },
+    {
+     "ta": "ஸ்கல்ட்ஸ்",
+     "en": "Schultz"
+    },
+    {
+     "ta": "கீன்சு",
+     "en": "Keynes"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "தியோடர் ஷுல்ட்ஸ் – மனித மூலதனக் கோட்பாடு (1960).",
+    "en": "Theodore Schultz, with his human capital theory (1960)."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 198,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Indian culture: national integration",
+   "q": {
+    "ta": "தேசிய ஒருமைப்பாடு தினம் கொண்டாடும் நாள் எது?",
+    "en": "National Integration Day celebrated in"
+   },
+   "o": [
+    {
+     "ta": "நவம்பர்-19",
+     "en": "November-19"
+    },
+    {
+     "ta": "அக்டோபர்-20",
+     "en": "October-20"
+    },
+    {
+     "ta": "ஜூன்-10",
+     "en": "June-10"
+    },
+    {
+     "ta": "ஆகஸ்டு-12",
+     "en": "August-12"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "நவம்பர் 19 – இந்திரா காந்தி பிறந்த நாள்.",
+    "en": "19 November is Indira Gandhi's birthday."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 199,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Rural development programmes: years",
+   "q": {
+    "ta": "பொருத்துக :\n(a) ஜவஹர் கிராம் வேலைவாய்ப்புத் திட்டம்\n(b) நாட்டு சமூக உதவித் திட்டம்\n(c) வேலைவாய்ப்பு உறுதித் திட்டம்\n(d) கிராம ஒருங்கிணைந்த வளர்ச்சித் திட்டம்\n1. 1993\n2. 1977\n3. 1995\n4. 1999",
+    "en": "Match the following :\n(a) Jawahar Gram Samridhi Yojana\n(b) National Social Assistance Programme\n(c) Employment Assurance Scheme\n(d) Integrated Rural Development Programme\n1. 1993\n2. 1977\n3. 1995\n4. 1999"
+   },
+   "o": [
+    {
+     "ta": "(a) 3, (b) 2, (c) 1, (d) 4"
+    },
+    {
+     "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+    },
+    {
+     "ta": "(a) 4, (b) 2, (c) 1, (d) 3"
+    },
+    {
+     "ta": "(a) 3, (b) 1, (c) 2, (d) 4"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "JGSY 1999; NSAP 1995; EAS 1993; IRDP – பாடநூல்படி 1977 (நாடு முழுவதும் 1980).",
+    "en": "JGSY 1999, NSAP 1995, EAS 1993, and IRDP 1977 by the textbook (nationwide from 1980)."
+   },
+   "status": "ok",
+   "use": "ok"
+  },
+  {
+   "n": 200,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Economics: schools of thought",
+   "q": {
+    "ta": "அறிவியல் சமதர்மத்தை தோற்றுவித்தவர்",
+    "en": "The founder of scientific socialism"
+   },
+   "o": [
+    {
+     "ta": "ஆல்பிரட் மார்ஷல்",
+     "en": "Alfred Marshall"
+    },
+    {
+     "ta": "கார்ல் மார்க்ஸ்",
+     "en": "Karl Marx"
+    },
+    {
+     "ta": "J.A. சும்பீட்டர்",
+     "en": "J.A. Schumpeter"
+    },
+    {
+     "ta": "J.M. கீன்சு",
+     "en": "J.M. Keynes"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "கார்ல் மார்க்ஸ் – ‘மூலதனம்’ (1867).",
+    "en": "Karl Marx, author of Das Kapital (1867)."
+   },
+   "status": "ok",
+   "use": "ok"
+  }
+ ]
+}
