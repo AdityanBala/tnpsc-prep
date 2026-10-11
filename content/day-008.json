@@ -1,0 +1,1695 @@
+{
+ "n": 8,
+ "title": {
+  "ta": "வேர்ச்சொல் · தொடக்க காலக் கிளர்ச்சிகள் · காரணிகள், பகா எண்கள்",
+  "en": "Root words · Early revolts · Factors and primes"
+ },
+ "plan": {
+  "ta": "இன்று இரண்டாம் வாரம் தொடங்குகிறது. முதல் 15 நிமிடம் வாரத் தேர்வில் தவறான விடைகளை மீண்டும் பார்க்கவும்; அதன் பிறகே இன்றைய பாடம்.\n\n| பகுதி | நேரம் | பாடம் | செய்ய வேண்டியது |\n| --- | --- | --- | --- |\n| காலை | 3 மணி | தமிழ்: வேர்ச்சொல் அறிதல் | குறிப்புகள் 1 மணி, பாடநூல் 1 மணி, அட்டவணைச் சொற்களுக்கு வேர்ச்சொல்லை மறைத்துச் சொல்லிப் பார்த்தல் 1 மணி |\n| நண்பகல் | 2.5 மணி | பொது அறிவு: தொடக்க காலக் கிளர்ச்சிகள் | குறிப்புகள், பின் யார், எங்கே, எந்த ஆண்டு என்னும் அட்டவணையை நினைவிலிருந்து எழுதிப் பார்த்தல் |\n| பிற்பகல் | 45 நிமிடம் | திறனறிவு: காரணிகள், மடங்குகள், பகா எண்கள் | விதிகள் 15 நிமிடம், பயிற்சி 30 நிமிடம் |\n| மாலை | 45 நிமிடம் | தேர்வு | 50 வினாக்கள், 45 நிமிடம்; பின் தவறான விடைகளையும் விளக்கங்களையும் பார்த்தல் |"
+ },
+ "notes": [
+  {
+   "id": "tamil",
+   "subject": "tamil",
+   "title": {
+    "ta": "வேர்ச்சொல் அறிதல்"
+   },
+   "md": {
+    "ta": "இலக்கண அலகின் இரண்டாம் பகுதி சொல். அதன் முதல் தலைப்பு வேர்ச்சொல் அறிதல்: ஒரு வினைச்சொல்லைத் தந்து அதன் அடிப்படை வடிவத்தைக் கேட்பார்கள். தேர்வில் ஒவ்வோர் ஆண்டும் வரும் எளிய மதிப்பெண் இது.\n\n### வேர்ச்சொல் என்றால் என்ன\n\n- ஒரு வினைச்சொல்லிலிருந்து காலம் காட்டும் பகுதியையும் இறுதியில் உள்ள விகுதியையும் நீக்கினால் எஞ்சும் அடிப்படை வடிவமே வேர்ச்சொல்.\n- வேர்ச்சொல் எப்போதும் கட்டளையாகச் சொல்லக்கூடிய வடிவில் இருக்கும்: 'நீ படி', 'நீ வா', 'நீ செல்'.\n- ஒரே வேர்ச்சொல்லிலிருந்து பல வடிவங்கள் தோன்றும்: வா என்பதிலிருந்து வந்தான், வருகிறாள், வருவார், வந்து, வந்த, வருதல், வரவு.\n\n### கண்டுபிடிக்கும் முறை\n\n1. சொல் குறிக்கும் செயலை நினைக்கவும்: 'சென்றான்' என்பது செல்லுதல்.\n2. அச்செயலை ஒருவரிடம் கட்டளையாகச் சொல்லிப் பார்க்கவும்: 'நீ செல்'.\n3. விடைகளில் 'து', 'த', 'ந்து' போன்றவற்றில் முடியும் வடிவங்கள் (சென்று, சென்ற) வேர்ச்சொல் அல்ல; அவை எச்சங்கள்.\n\n### மாற்றம் இல்லாமல் வருபவை\n\n| சொல் | வேர்ச்சொல் | சொல் | வேர்ச்சொல் |\n| --- | --- | --- | --- |\n| படித்தான் | படி | எழுதினாள் | எழுது |\n| பார்த்தான் | பார் | ஓடினான் | ஓடு |\n| கொடுத்தார் | கொடு | பாடினாள் | பாடு |\n| அறிந்தனர் | அறி | உறங்கினான் | உறங்கு |\n| வாழ்ந்தனர் | வாழ் | செய்தான் | செய் |\n| நடந்தான் | நட | சிரித்தாள் | சிரி |\n\n### வடிவம் மாறி வருபவை\n\nதேர்வில் கேட்கப்படுபவை பெரும்பாலும் இவையே.\n\n| சொல் | வேர்ச்சொல் | சொல் | வேர்ச்சொல் |\n| --- | --- | --- | --- |\n| வந்தான் | வா | தந்தான் | தா |\n| சென்றான் | செல் | நின்றான் | நில் |\n| வென்றான் | வெல் | கொன்றான் | கொல் |\n| கண்டான் | காண் | கேட்டான் | கேள் |\n| உண்டான் | உண் | தின்றான் | தின் |\n| ஆண்டான் | ஆள் | கொண்டான் | கொள் |\n| விற்றான் | வில் | கற்றான் | கல் |\n| பெற்றான் | பெறு | சொன்னான் | சொல் |\n| விட்டான் | விடு | தொட்டான் | தொடு |\n| நட்டான் | நடு | சுட்டான் | சுடு |\n| செத்தான் | சா | நொந்தான் | நோ |\n| வெந்தது | வே | ஈன்றாள் | ஈன் |\n| போனான் | போ | என்றான் | என் |\n\n### குழப்பும் இணைகள்\n\n| சொற்கள் | வேர்ச்சொற்கள் |\n| --- | --- |\n| நட்டான், நடந்தான் | நடு, நட |\n| விற்றான், விட்டான் | வில், விடு |\n| கற்றான், கட்டினான் | கல், கட்டு |\n| கண்டான், கொண்டான் | காண், கொள் |\n| வந்தான், வாழ்ந்தான் | வா, வாழ் |\n\n### வினா வடிவங்கள்\n\n- 'வந்தான்' என்னும் சொல்லின் வேர்ச்சொல் எது? (வந்து, வந்த, வரு, வா)\n- நான்கு சொற்களையும் நான்கு வேர்ச்சொற்களையும் தந்து பொருத்தச் சொல்வது.\n- ஒரு வேர்ச்சொல்லிலிருந்து தோன்றாத சொல்லைக் கண்டுபிடிக்கச் சொல்வது.\n- விடைகளில் வினையெச்சம் (வந்து), பெயரெச்சம் (வந்த), தொழிற்பெயர் (வருதல், வரவு) ஆகியவை குழப்புவதற்காகத் தரப்படும்; வேர்ச்சொல் மிகச் சிறிய வடிவம்."
+   }
+  },
+  {
+   "id": "gs",
+   "subject": "gs",
+   "title": {
+    "ta": "தொடக்க காலக் கிளர்ச்சிகள்",
+    "en": "Early revolts against the British"
+   },
+   "md": {
+    "ta": "இரண்டாம் வாரம் தமிழகத்தின் சமூக, அரசியல் இயக்கங்கள். இன்று ஆங்கிலேயருக்கு எதிரான தொடக்க காலக் கிளர்ச்சிகள். ஒவ்வொருவருக்கும் ஊர், ஆண்டு, எதிர்த்த அதிகாரி, இறந்த இடம் ஆகிய நான்கையும் நினைவில் கொள்ளவும்; வினாக்கள் இவற்றை மாற்றியே அமையும்.\n\n### பாளையக்காரர் முறை\n\n- இம்முறை காகதீய அரசில் நடைமுறையில் இருந்தது. தமிழகத்தில் 1529-இல் மதுரை நாயக்கரான விசுவநாத நாயக்கர், அமைச்சர் அரியநாத முதலியாரின் துணையுடன் 72 பாளையங்களை உருவாக்கினார்.\n- பாளையக்காரர் வரி வசூலித்தார்; படை பராமரித்தார்; காவல் பணியைச் செய்தார்.\n- கர்நாடக நவாப் வரி வசூலிக்கும் உரிமையை ஆங்கிலேயக் கிழக்கிந்தியக் கம்பெனிக்கு அளித்ததால் பாளையக்காரர்களுக்கும் கம்பெனிக்கும் மோதல் ஏற்பட்டது.\n\n### புலித்தேவர்\n\n- நெற்கட்டும்செவல் பாளையக்காரர். ஆங்கிலேயரை எதிர்த்த தொடக்க காலப் பாளையக்காரர்களுள் முதன்மையானவர்.\n- 1755-இல் மாபூஸ்கான், கர்னல் ஹெரான் தலைமையிலான படைகளை எதிர்த்தார்; களக்காடு போரில் மாபூஸ்கானின் படை தோற்றது.\n- யூசுப் கான் (கான் சாகிப்; மதம் மாறும் முன் மருதநாயகம்) 1761-இல் நெற்கட்டும்செவலைக் கைப்பற்றினார்.\n- யூசுப் கான் பாளையக்காரர்களுடன் கம்பெனிக்குத் தெரியாமல் பேச்சு நடத்தியதாகக் குற்றம் சாட்டப்பட்டு 1764-இல் தூக்கிலிடப்பட்டார். அதன் பின் புலித்தேவர் 1764-இல் நெற்கட்டும்செவலை மீட்டார்.\n- 1767-இல் கேப்டன் கேம்பெல்லிடம் தோற்றுத் தப்பிச் சென்ற புலித்தேவர் அதே ஆண்டில் இறந்தார்.\n- ஒண்டிவீரன்: புலித்தேவரின் படைப்பிரிவு ஒன்றுக்குத் தலைமை தாங்கியவர்.\n\n### வேலுநாச்சியார்\n\n- பிறப்பு 1730; ராமநாதபுரம் மன்னர் செல்லமுத்து சேதுபதியின் மகள்; சிவகங்கை மன்னர் முத்துவடுகநாதரை மணந்தார்.\n- 1772: காளையார்கோவில் போரில் முத்துவடுகநாதர் கொல்லப்பட்டார்.\n- திண்டுக்கல் அருகே விருப்பாச்சியில் கோபால நாயக்கரின் பாதுகாப்பில் எட்டு ஆண்டுகள் இருந்தார்; ஹைதர் அலியின் உதவியைப் பெற்றார்.\n- 1780: மருது சகோதரர்களின் துணையுடன் சிவகங்கையை மீட்டார். ஆங்கிலேயரை எதிர்த்துப் போரிட்ட முதல் அரசி; 'வீரமங்கை' என்று போற்றப்படுகிறார். இறப்பு 1796.\n- குயிலி: வேலுநாச்சியாரின் படைத்தளபதி; 1780-இல் தம் உடலில் தீ வைத்துக்கொண்டு ஆங்கிலேயரின் ஆயுதக் கிடங்கை அழித்தார்.\n- கோபால நாயக்கர்: விருப்பாச்சிப் பாளையக்காரர்; திண்டுக்கல் கூட்டமைப்பின் தலைவர்.\n\n### வீரபாண்டிய கட்டபொம்மன்\n\n- பாஞ்சாலங்குறிச்சிப் பாளையக்காரர்; பிறப்பு 1760; முப்பதாம் வயதில் பொறுப்பேற்றார்.\n- 1798: வரி நிலுவை தொடர்பாக ஆட்சியர் ஜாக்சனை ராமநாதபுரத்தில் சந்தித்தார்; அங்கு ஏற்பட்ட மோதலில் லெப்டினன்ட் கிளார்க் கொல்லப்பட்டார்.\n- 1799 செப்டம்பர் 1: மேஜர் பானர்மேன் சரணடையுமாறு இறுதி எச்சரிக்கை விடுத்தார். செப்டம்பர் 5: பாஞ்சாலங்குறிச்சிக் கோட்டை தாக்கப்பட்டது.\n- கட்டபொம்மனின் அமைச்சர் சிவசுப்பிரமணியனார் நாகலாபுரத்தில் தூக்கிலிடப்பட்டார்.\n- புதுக்கோட்டை மன்னர் விஜய ரகுநாத தொண்டைமான் கட்டபொம்மனைப் பிடித்து ஆங்கிலேயரிடம் ஒப்படைத்தார்.\n- 1799 அக்டோபர் 16: கயத்தாறில் பாளையக்காரர்கள் முன்னிலையில் விசாரணை நடந்தது; கட்டபொம்மன் கயத்தாறில் தூக்கிலிடப்பட்டார்.\n- தம்பியர்: ஊமைத்துரை, செவத்தையா.\n\n### மருது சகோதரர்கள்\n\n- பெரிய மருது, சின்ன மருது; சிவகங்கை. ஊமைத்துரைக்கு அடைக்கலம் அளித்தனர்.\n- 1800–1801: தென்னிந்தியக் கிளர்ச்சி. 1801 ஜூன்: திருச்சிராப்பள்ளி அறிக்கை; ஆங்கிலேயருக்கு எதிராக எல்லா மக்களும் ஒன்றுபட வேண்டும் என்று அழைத்தது.\n- 1801 அக்டோபர் 24: திருப்பத்தூர்க் கோட்டையில் மருது சகோதரர்கள் தூக்கிலிடப்பட்டனர்.\n- 1801 நவம்பர் 16: ஊமைத்துரையும் செவத்தையாவும் பாஞ்சாலங்குறிச்சியில் கொல்லப்பட்டனர். கிளர்ச்சியாளர் 73 பேர் பினாங்குக்கு நாடு கடத்தப்பட்டனர்.\n- 1801 ஜூலை 31: கர்நாடக உடன்படிக்கை; தமிழகம் ஆங்கிலேயரின் நேரடி ஆட்சிக்குள் வந்தது; பாளையக்காரர் முறை முடிவுக்கு வந்தது.\n\n### தீரன் சின்னமலை\n\n- பிறப்பு 1756, ஈரோடு அருகே மேலப்பாளையம்; இயற்பெயர் தீர்த்தகிரி; கொங்கு நாட்டுப் பாளையக்காரர்.\n- காவிரி (1801), ஓடாநிலை (1802), அரச்சலூர் (1804) ஆகிய இடங்களில் நடந்த போர்களில் ஆங்கிலேயரை வென்றார்.\n- 1805 ஜூலை 31: சங்ககிரிக் கோட்டையில் தூக்கிலிடப்பட்டார்.\n- நடப்பு நிகழ்வு: 2026 பிப்ரவரியில் ஈரோடு மாவட்டத்தில் தீரன் சின்னமலையின் வெண்கலக் குதிரை வீரர் சிலை திறக்கப்பட்டது.\n\n### வேலூர்ப் புரட்சி (1806)\n\n- நாள்: 1806 ஜூலை 10; இடம்: வேலூர்க் கோட்டை. திப்பு சுல்தானின் குடும்பத்தினர் அங்கு சிறை வைக்கப்பட்டிருந்தனர்.\n- காரணம்: தலைமைத் தளபதி சர் ஜான் கிராடக் கொண்டுவந்த புதிய படை விதிகள்: சமயக் குறிகளை இடக் கூடாது; காதணி அணியக் கூடாது; தாடியை மழிக்க வேண்டும்; புதிய வகைத் தலைப்பாகை அணிய வேண்டும்.\n- சிப்பாய்கள் கோட்டையின் தளபதி கர்னல் பான்கோர்ட்டைக் கொன்றனர்; திப்புவின் மகன் பதே ஹைதரை மன்னராக அறிவித்தனர்.\n- ஆற்காட்டிலிருந்து வந்த கர்னல் கில்லெஸ்பி புரட்சியை அடக்கினார்.\n- விளைவு: திப்புவின் குடும்பத்தினர் கல்கத்தாவுக்கு அனுப்பப்பட்டனர்; ஆளுநர் வில்லியம் பெண்டிங்கும் கிராடக்கும் திரும்ப அழைக்கப்பட்டனர்.\n\n### தேர்வில் மாற்றிக் கேட்கப்படும் விவரங்கள்\n\n- தூக்கிலிடப்பட்ட இடங்கள்: சிவசுப்பிரமணியனார் – நாகலாபுரம்; கட்டபொம்மன் – கயத்தாறு (1799); மருது சகோதரர்கள் – திருப்பத்தூர் (1801); தீரன் சின்னமலை – சங்ககிரி (1805).\n- இறந்த ஆண்டுகளின் வரிசை: புலித்தேவர் 1767, குயிலி 1780, வேலுநாச்சியார் 1796, கட்டபொம்மன் 1799, மருது சகோதரர்கள் 1801, தீரன் சின்னமலை 1805.\n- ஒண்டிவீரன் – புலித்தேவர்; குயிலி – வேலுநாச்சியார்; கோபால நாயக்கர் – திண்டுக்கல் கூட்டமைப்பு; முத்துவடுகநாதர் – காளையார்கோவில் போர்.\n- பானர்மேனின் இறுதி எச்சரிக்கை: 1799 செப்டம்பர் 1. கயத்தாறு விசாரணை: 1799 அக்டோபர் 16.\n- வேலூர்ப் புரட்சி: 1806 ஜூலை 10; கிராடக்; பான்கோர்ட்; கில்லெஸ்பி.\n- பாளையங்கள் 72; பினாங்குக்கு நாடு கடத்தப்பட்டோர் 73.",
+    "en": "The second week is on the social and political movements of Tamil Nadu. Today: the early revolts against the British. For each leader remember four things: the place, the year, the officer opposed and the place of death. Questions are built by altering these.\n\n### The Palayakkarar system\n\n- The system was in practice in the Kakatiya kingdom. In the Tamil country Viswanatha Nayak of Madurai, with his minister Ariyanatha Mudaliar, created 72 palayams in 1529.\n- The palayakkarar collected taxes, maintained troops and did police duty.\n- When the Nawab of the Carnatic gave the right to collect taxes to the English East India Company, the palayakkarars and the Company came into conflict.\n\n### Puli Thevar\n\n- Palayakkarar of Nerkattumseval, and foremost among the early palayakkarars who resisted the British.\n- In 1755 he opposed the forces under Mahfuzkhan and Colonel Heron; Mahfuzkhan's troops were routed in the battle of Kalakadu.\n- Yusuf Khan (Khan Sahib; Marudhanayagam before his conversion) captured Nerkattumseval in 1761.\n- Yusuf Khan was charged with negotiating with the palayakkarars without informing the Company and was hanged in 1764. After that Puli Thevar recaptured Nerkattumseval in 1764.\n- In 1767 he was defeated by Captain Campbell, escaped, and died the same year.\n- Ondiveeran led one of the units of Puli Thevar's army.\n\n### Velu Nachiyar\n\n- Born in 1730, daughter of Raja Chellamuthu Sethupathi of Ramanathapuram; married Muthu Vadugananthar, the Raja of Sivagangai.\n- 1772: Muthu Vadugananthar was killed in the battle of Kalaiyarkoil.\n- She lived for eight years under the protection of Gopala Nayakar at Virupachi near Dindigul, and obtained the help of Hyder Ali.\n- 1780: she recovered Sivagangai with the help of the Marudhu brothers. She was the first queen to fight the British and is honoured as 'Veeramangai'. She died in 1796.\n- Kuyili: Velu Nachiyar's commander; in 1780 she set herself on fire and destroyed the British ammunition store.\n- Gopala Nayakar: palayakkarar of Virupachi and leader of the Dindigul League.\n\n### Veerapandiya Kattabomman\n\n- Palayakkarar of Panchalankurichi; born in 1760; took charge at the age of thirty.\n- 1798: he met Collector Jackson at Ramanathapuram over arrears of tax; Lieutenant Clarke was killed in the clash there.\n- 1 September 1799: Major Bannerman issued an ultimatum to surrender. 5 September: the fort of Panchalankurichi was attacked.\n- Kattabomman's minister Sivasubramanianar was hanged at Nagalapuram.\n- Vijaya Raghunatha Tondaiman, the Raja of Pudukkottai, captured Kattabomman and handed him over to the British.\n- 16 October 1799: the trial was held at Kayathar before the assembled palayakkarars; Kattabomman was hanged at Kayathar.\n- His brothers: Oomaithurai and Sevathaiah.\n\n### Marudhu brothers\n\n- Periya Marudhu and Chinna Marudhu, of Sivagangai. They gave asylum to Oomaithurai.\n- 1800–1801: the South Indian Rebellion. June 1801: the Tiruchirappalli Proclamation, calling on all people to unite against the British.\n- 24 October 1801: the Marudhu brothers were hanged at the fort of Tiruppathur.\n- 16 November 1801: Oomaithurai and Sevathaiah were put to death at Panchalankurichi. 73 rebels were exiled to Penang.\n- 31 July 1801: the Carnatic Treaty; the Tamil country came under direct British rule and the palayakkarar system came to an end.\n\n### Dheeran Chinnamalai\n\n- Born in 1756 at Melapalayam near Erode; original name Theerthagiri; palayakkarar of the Kongu country.\n- He defeated the British in the battles at the Cauvery (1801), Odanilai (1802) and Arachalur (1804).\n- 31 July 1805: hanged at Sankagiri fort.\n- Current affairs: in February 2026 a bronze equestrian statue of Dheeran Chinnamalai was unveiled in Erode district.\n\n### Vellore Revolt (1806)\n\n- Date: 10 July 1806; place: Vellore fort, where the family of Tipu Sultan was confined.\n- Cause: the new army regulations of the Commander-in-Chief, Sir John Cradock: no religious marks, no earrings, beards to be shaved, and a new kind of turban to be worn.\n- The sepoys killed Colonel Fancourt, the commander of the fort, and proclaimed Tipu's son Fateh Hyder as ruler.\n- Colonel Gillespie, who came from Arcot, put down the revolt.\n- Result: Tipu's family was sent to Calcutta; Governor William Bentinck and Cradock were recalled.\n\n### Details that get altered in the exam\n\n- Places of execution: Sivasubramanianar – Nagalapuram; Kattabomman – Kayathar (1799); Marudhu brothers – Tiruppathur (1801); Dheeran Chinnamalai – Sankagiri (1805).\n- Order of deaths: Puli Thevar 1767, Kuyili 1780, Velu Nachiyar 1796, Kattabomman 1799, Marudhu brothers 1801, Dheeran Chinnamalai 1805.\n- Ondiveeran – Puli Thevar; Kuyili – Velu Nachiyar; Gopala Nayakar – Dindigul League; Muthu Vadugananthar – battle of Kalaiyarkoil.\n- Bannerman's ultimatum: 1 September 1799. Trial at Kayathar: 16 October 1799.\n- Vellore Revolt: 10 July 1806; Cradock; Fancourt; Gillespie.\n- 72 palayams; 73 exiled to Penang."
+   }
+  },
+  {
+   "id": "apt",
+   "subject": "apt",
+   "title": {
+    "ta": "காரணிகள், மடங்குகள், பகா எண்கள்",
+    "en": "Factors, multiples and prime numbers"
+   },
+   "md": {
+    "ta": "இந்த வாரத்தின் தலைப்பு மீ.பொ.வ, மீ.சி.ம. உண்மையான தேர்வில் மிகுதியாகக் கேட்கப்படும் தலைப்பு அதுவே. அதற்கு அடித்தளம் இன்றைய பாடம்: காரணிகள், மடங்குகள், பகா எண்கள்.\n\n### காரணியும் மடங்கும்\n\n- ஓர் எண்ணை மீதியின்றி வகுக்கும் எண் அதன் காரணி: 12-இன் காரணிகள் 1, 2, 3, 4, 6, 12.\n- ஓர் எண்ணை 1, 2, 3, … ஆல் பெருக்கக் கிடைப்பவை அதன் மடங்குகள்: 7-இன் மடங்குகள் 7, 14, 21, …\n- 1 எல்லா எண்களுக்கும் காரணி. ஒவ்வோர் எண்ணும் தனக்குத் தானே காரணியும் மடங்கும் ஆகும்.\n- காரணிகளின் எண்ணிக்கைக்கு முடிவு உண்டு; மடங்குகளுக்கு முடிவு இல்லை.\n- 1 முதல் N வரை k-இன் மடங்குகளின் எண்ணிக்கை: N ÷ k என்பதன் முழு எண் பகுதி. 1 முதல் 100 வரை 7-இன் மடங்குகள் 14.\n\n### பகா எண்கள்\n\n- 1, அதே எண் என்னும் இரண்டு காரணிகள் மட்டுமே உடைய எண் பகா எண். இரண்டுக்கு மேற்பட்ட காரணிகள் உடையது பகு எண்.\n- 1 என்பது பகா எண்ணும் அல்ல, பகு எண்ணும் அல்ல. 2 மட்டுமே இரட்டைப்படைப் பகா எண்; அதுவே மிகச்சிறிய பகா எண்.\n\n| வரம்பு | பகா எண்கள் | எண்ணிக்கை |\n| --- | --- | --- |\n| 1–25 | 2, 3, 5, 7, 11, 13, 17, 19, 23 | 9 |\n| 26–50 | 29, 31, 37, 41, 43, 47 | 6 |\n| 51–75 | 53, 59, 61, 67, 71, 73 | 6 |\n| 76–100 | 79, 83, 89, 97 | 4 |\n\n- 1 முதல் 50 வரை 15 பகா எண்கள்; 1 முதல் 100 வரை 25.\n- ஓர் எண் பகா எண்ணா என்று பார்க்க: அதன் வர்க்கமூலத்தை விடச் சிறிய பகா எண்களால் வகுத்துப் பார்க்கவும். 97: √97 பத்தை விடக் குறைவு; 2, 3, 5, 7 எதனாலும் வகுபடாது; எனவே பகா எண்.\n- ஏமாற்றும் எண்கள்: 51 = 3 × 17; 57 = 3 × 19; 87 = 3 × 29; 91 = 7 × 13; 119 = 7 × 17.\n\n### சிறப்பு இணைகள்\n\n| வகை | விளக்கம் | எடுத்துக்காட்டு |\n| --- | --- | --- |\n| சார்பகா எண்கள் | 1 தவிர வேறு பொதுக் காரணி இல்லாத இரு எண்கள் | 8, 9; 15, 28 |\n| இரட்டைப் பகா எண்கள் | வேறுபாடு 2 உள்ள இரு பகா எண்கள் | 3, 5; 11, 13; 17, 19 |\n| நிறைவு எண் | தன்னைத் தவிர்த்த காரணிகளின் கூடுதல் தனக்குச் சமம் | 6 = 1 + 2 + 3; 28 |\n\n- சார்பகா எண்கள் பகா எண்களாக இருக்க வேண்டியதில்லை: 8, 9 இரண்டும் பகு எண்கள்.\n\n### பகாக் காரணிப்படுத்தல்\n\n- ஓர் எண்ணைப் பகா எண்களின் பெருக்கலாக எழுதுவது: 360 = 2³ × 3² × 5.\n- காரணிகளின் எண்ணிக்கை: ஒவ்வோர் அடுக்கோடும் 1 கூட்டிப் பெருக்கவும். 360: (3 + 1)(2 + 1)(1 + 1) = 24 காரணிகள். 72 = 2³ × 3²: 4 × 3 = 12 காரணிகள்.\n- முழு வர்க்க எண்ணின் காரணிகளின் எண்ணிக்கை ஒற்றைப்படை: 36-க்கு 9 காரணிகள்.\n\n### ஒற்றை, இரட்டை\n\n| செயல் | விடை |\n| --- | --- |\n| இரட்டை ± இரட்டை; ஒற்றை ± ஒற்றை | இரட்டை |\n| இரட்டை ± ஒற்றை | ஒற்றை |\n| இரட்டை × எந்த எண்ணும் | இரட்டை |\n| ஒற்றை × ஒற்றை | ஒற்றை |\n\n### முன் பாடத்திலிருந்து ஒரு நினைவூட்டல்\n\n- 'A, B-ஐ விட x% அதிகம்' என்று தந்து 'B, A-ஐ விட எத்தனை % குறைவு?' என்று கேட்டால் விடை x அல்ல: 100x ÷ (100 + x). 12 1/2% அதிகம் எனில் 1250 ÷ 112.5 = 11 1/9% குறைவு.\n- சராசரியில் தவறாகப் படித்த மதிப்பு: சராசரி + (சரியான மதிப்பு − தவறான மதிப்பு) ÷ எண்ணிக்கை.",
+    "en": "This week's topic is HCF and LCM, the most frequently asked topic in the real paper. Today's lesson is its foundation: factors, multiples and prime numbers.\n\n### Factors and multiples\n\n- A number that divides another without remainder is its factor: the factors of 12 are 1, 2, 3, 4, 6, 12.\n- Multiplying a number by 1, 2, 3, … gives its multiples: the multiples of 7 are 7, 14, 21, …\n- 1 is a factor of every number. Every number is both a factor and a multiple of itself.\n- The factors of a number are finite in number; its multiples are endless.\n- The number of multiples of k from 1 to N is the whole-number part of N ÷ k. From 1 to 100 there are 14 multiples of 7.\n\n### Prime numbers\n\n- A number with exactly two factors, 1 and itself, is prime. A number with more than two factors is composite.\n- 1 is neither prime nor composite. 2 is the only even prime and the smallest prime.\n\n| Range | Primes | Count |\n| --- | --- | --- |\n| 1–25 | 2, 3, 5, 7, 11, 13, 17, 19, 23 | 9 |\n| 26–50 | 29, 31, 37, 41, 43, 47 | 6 |\n| 51–75 | 53, 59, 61, 67, 71, 73 | 6 |\n| 76–100 | 79, 83, 89, 97 | 4 |\n\n- There are 15 primes from 1 to 50 and 25 from 1 to 100.\n- To test whether a number is prime, try dividing by the primes smaller than its square root. For 97: √97 is less than 10, and 97 is divisible by none of 2, 3, 5, 7, so it is prime.\n- Numbers that look prime but are not: 51 = 3 × 17; 57 = 3 × 19; 87 = 3 × 29; 91 = 7 × 13; 119 = 7 × 17.\n\n### Special pairs\n\n| Kind | Meaning | Example |\n| --- | --- | --- |\n| Co-prime numbers | Two numbers with no common factor other than 1 | 8, 9; 15, 28 |\n| Twin primes | Two primes that differ by 2 | 3, 5; 11, 13; 17, 19 |\n| Perfect number | The sum of its factors other than itself equals the number | 6 = 1 + 2 + 3; 28 |\n\n- Co-prime numbers need not be prime: 8 and 9 are both composite.\n\n### Prime factorisation\n\n- Writing a number as a product of primes: 360 = 2³ × 3² × 5.\n- Number of factors: add 1 to each exponent and multiply. For 360: (3 + 1)(2 + 1)(1 + 1) = 24 factors. For 72 = 2³ × 3²: 4 × 3 = 12 factors.\n- A perfect square has an odd number of factors: 36 has 9.\n\n### Odd and even\n\n| Operation | Result |\n| --- | --- |\n| Even ± even; odd ± odd | Even |\n| Even ± odd | Odd |\n| Even × any number | Even |\n| Odd × odd | Odd |\n\n### A reminder from earlier lessons\n\n- When told 'A is x% more than B' and asked 'by what percentage is B less than A?', the answer is not x but 100x ÷ (100 + x). For 12 1/2% more: 1250 ÷ 112.5 = 11 1/9% less.\n- A misread value in an average: average + (right value − wrong value) ÷ number of items."
+   }
+  }
+ ],
+ "tests": [
+  {
+   "id": "daily",
+   "kind": "daily",
+   "title": {
+    "ta": "இன்றைய தேர்வு",
+    "en": "Today's test"
+   },
+   "minutes": 45,
+   "questions": [
+    {
+     "id": "d008-daily-001",
+     "subject": "tamil",
+     "q": {
+      "ta": "'வந்தான்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "வந்து"
+      },
+      {
+       "ta": "வரு"
+      },
+      {
+       "ta": "வந்த"
+      },
+      {
+       "ta": "வா"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "வருதல் என்னும் செயலைக் கட்டளையாகச் சொன்னால் 'வா'. வந்து, வந்த என்பவை எச்சங்கள்."
+     }
+    },
+    {
+     "id": "d008-daily-002",
+     "subject": "tamil",
+     "q": {
+      "ta": "'கேட்டான்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "கேட்டு"
+      },
+      {
+       "ta": "கேள்"
+      },
+      {
+       "ta": "கேள்வி"
+      },
+      {
+       "ta": "கேட்ட"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "கட்டளை வடிவம் 'கேள்'; 'கேள்வி' பெயர்ச்சொல்."
+     }
+    },
+    {
+     "id": "d008-daily-003",
+     "subject": "tamil",
+     "q": {
+      "ta": "'விற்றான்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "வில்"
+      },
+      {
+       "ta": "விற்று"
+      },
+      {
+       "ta": "விடு"
+      },
+      {
+       "ta": "விலை"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "விற்றல் என்னும் செயலின் அடிப்படை வடிவம் 'வில்'. 'விடு' என்பது 'விட்டான்' என்பதன் வேர்ச்சொல்."
+     }
+    },
+    {
+     "id": "d008-daily-004",
+     "subject": "tamil",
+     "q": {
+      "ta": "'கற்றான்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "கற்று"
+      },
+      {
+       "ta": "கல்வி"
+      },
+      {
+       "ta": "கல்"
+      },
+      {
+       "ta": "கட்டு"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "கற்றல் என்னும் செயலின் அடிப்படை வடிவம் 'கல்'."
+     }
+    },
+    {
+     "id": "d008-daily-005",
+     "subject": "tamil",
+     "q": {
+      "ta": "'பெற்றான்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "பெற்று"
+      },
+      {
+       "ta": "பெற்ற"
+      },
+      {
+       "ta": "பேறு"
+      },
+      {
+       "ta": "பெறு"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "கட்டளை வடிவம் 'பெறு'."
+     }
+    },
+    {
+     "id": "d008-daily-006",
+     "subject": "tamil",
+     "q": {
+      "ta": "'கண்டு' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "கண்"
+      },
+      {
+       "ta": "காண்"
+      },
+      {
+       "ta": "கண்ட"
+      },
+      {
+       "ta": "காட்சி"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "காணுதல் என்னும் செயலின் அடிப்படை வடிவம் 'காண்'; 'கண்டு' வினையெச்சம்."
+     }
+    },
+    {
+     "id": "d008-daily-007",
+     "subject": "tamil",
+     "q": {
+      "ta": "'வருகிறாள்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "வருகிற"
+      },
+      {
+       "ta": "வந்து"
+      },
+      {
+       "ta": "வா"
+      },
+      {
+       "ta": "வரவு"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "வந்தான், வருகிறாள், வருவார் அனைத்துக்கும் வேர்ச்சொல் 'வா'."
+     }
+    },
+    {
+     "id": "d008-daily-008",
+     "subject": "tamil",
+     "q": {
+      "ta": "'தருவான்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "தா"
+      },
+      {
+       "ta": "தந்து"
+      },
+      {
+       "ta": "தரு"
+      },
+      {
+       "ta": "தந்த"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "தந்தான், தருகிறான், தருவான் அனைத்துக்கும் வேர்ச்சொல் 'தா'."
+     }
+    },
+    {
+     "id": "d008-daily-009",
+     "subject": "tamil",
+     "q": {
+      "ta": "'எழுதினாள்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "எழுதி"
+      },
+      {
+       "ta": "எழுத்து"
+      },
+      {
+       "ta": "எழு"
+      },
+      {
+       "ta": "எழுது"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "கட்டளை வடிவம் 'எழுது'. 'எழு' என்பது 'எழுந்தான்' என்பதன் வேர்ச்சொல்."
+     }
+    },
+    {
+     "id": "d008-daily-010",
+     "subject": "tamil",
+     "q": {
+      "ta": "'சொன்னான்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "சொன்ன"
+      },
+      {
+       "ta": "சொல்"
+      },
+      {
+       "ta": "சொல்லி"
+      },
+      {
+       "ta": "சொற்கள்"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "கட்டளை வடிவம் 'சொல்'."
+     }
+    },
+    {
+     "id": "d008-daily-011",
+     "subject": "tamil",
+     "q": {
+      "ta": "'போனான்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "போய்"
+      },
+      {
+       "ta": "போன"
+      },
+      {
+       "ta": "போ"
+      },
+      {
+       "ta": "போக்கு"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "கட்டளை வடிவம் 'போ'."
+     }
+    },
+    {
+     "id": "d008-daily-012",
+     "subject": "tamil",
+     "q": {
+      "ta": "'அறிந்தனர்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "அறி"
+      },
+      {
+       "ta": "அறிந்து"
+      },
+      {
+       "ta": "அறிவு"
+      },
+      {
+       "ta": "அறிந்த"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "கட்டளை வடிவம் 'அறி'; 'அறிவு' பெயர்ச்சொல்."
+     }
+    },
+    {
+     "id": "d008-daily-013",
+     "subject": "tamil",
+     "q": {
+      "ta": "பொருத்துக.\n(a) தந்தான்\n(b) சென்றான்\n(c) நின்றான்\n(d) வென்றான்\n1. வெல்\n2. நில்\n3. தா\n4. செல்"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 2, (b) 1, (c) 4, (d) 3"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "தந்தான் – தா; சென்றான் – செல்; நின்றான் – நில்; வென்றான் – வெல்."
+     }
+    },
+    {
+     "id": "d008-daily-014",
+     "subject": "tamil",
+     "q": {
+      "ta": "பொருத்துக.\n(a) செத்தான்\n(b) நொந்தான்\n(c) வெந்தது\n(d) ஈன்றாள்\n1. நோ\n2. சா\n3. ஈன்\n4. வே"
+     },
+     "o": [
+      {
+       "ta": "(a) 1, (b) 2, (c) 4, (d) 3"
+      },
+      {
+       "ta": "(a) 2, (b) 1, (c) 3, (d) 4"
+      },
+      {
+       "ta": "(a) 2, (b) 1, (c) 4, (d) 3"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "செத்தான் – சா; நொந்தான் – நோ; வெந்தது – வே; ஈன்றாள் – ஈன்."
+     }
+    },
+    {
+     "id": "d008-daily-015",
+     "subject": "tamil",
+     "q": {
+      "ta": "பொருத்துக.\n(a) நட்டான்\n(b) நடந்தான்\n(c) சுட்டான்\n(d) தொட்டான்\n1. தொடு\n2. நட\n3. சுடு\n4. நடு"
+     },
+     "o": [
+      {
+       "ta": "(a) 2, (b) 4, (c) 3, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 2, (c) 1, (d) 3"
+      },
+      {
+       "ta": "(a) 3, (b) 2, (c) 4, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 2, (c) 3, (d) 1"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "நட்டான் – நடு; நடந்தான் – நட; சுட்டான் – சுடு; தொட்டான் – தொடு."
+     }
+    },
+    {
+     "id": "d008-daily-016",
+     "subject": "tamil",
+     "q": {
+      "ta": "பொருத்துக.\n(a) உண்டான்\n(b) தின்றான்\n(c) கொன்றான்\n(d) என்றான்\n1. கொல்\n2. என்\n3. தின்\n4. உண்"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 1, (b) 2, (c) 3, (d) 4"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "உண்டான் – உண்; தின்றான் – தின்; கொன்றான் – கொல்; என்றான் – என்."
+     }
+    },
+    {
+     "id": "d008-daily-017",
+     "subject": "tamil",
+     "q": {
+      "ta": "கூற்று: 'கண்டான்' என்னும் சொல்லின் வேர்ச்சொல் 'காண்'.\nகாரணம்: வேர்ச்சொல் என்பது கட்டளையாகச் சொல்லக்கூடிய, வினையின் அடிப்படை வடிவம்."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "'நீ காண்' எனக் கட்டளையாகச் சொல்ல முடிகிறது; கூற்றும் காரணமும் சரி."
+     }
+    },
+    {
+     "id": "d008-daily-018",
+     "subject": "tamil",
+     "q": {
+      "ta": "கூற்று: 'விற்றான்' என்னும் சொல்லின் வேர்ச்சொல் 'விற்று'.\nகாரணம்: 'விற்று' என்பது வினையெச்சம்."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "'விற்று' வினையெச்சமே; வேர்ச்சொல் 'வில்'. எனவே கூற்று தவறு, காரணம் சரி."
+     }
+    },
+    {
+     "id": "d008-daily-019",
+     "subject": "tamil",
+     "q": {
+      "ta": "பின்வருவனவற்றுள் வேர்ச்சொல் அல்லாதது"
+     },
+     "o": [
+      {
+       "ta": "வா"
+      },
+      {
+       "ta": "செல்"
+      },
+      {
+       "ta": "வந்து"
+      },
+      {
+       "ta": "தா"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "'வந்து' வினையெச்சம்; அதன் வேர்ச்சொல் 'வா'."
+     }
+    },
+    {
+     "id": "d008-daily-020",
+     "subject": "tamil",
+     "q": {
+      "ta": "பின்வருவனவற்றுள் 'வா' என்னும் வேர்ச்சொல்லிலிருந்து தோன்றாத சொல்"
+     },
+     "o": [
+      {
+       "ta": "வந்தான்"
+      },
+      {
+       "ta": "வருவார்"
+      },
+      {
+       "ta": "வரவு"
+      },
+      {
+       "ta": "வாழ்ந்தான்"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "'வாழ்ந்தான்' என்பதன் வேர்ச்சொல் 'வாழ்'."
+     }
+    },
+    {
+     "id": "d008-daily-021",
+     "subject": "gs",
+     "q": {
+      "ta": "வேலுநாச்சியார் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) ராமநாதபுரம் மன்னரின் மகள்.\n(ii) அவருடைய கணவர் முத்துவடுகநாதர் 1772-இல் காளையார்கோவில் போரில் கொல்லப்பட்டார்.\n(iii) விருப்பாச்சியில் கோபால நாயக்கரின் பாதுகாப்பில் இருந்தார்.\n(iv) 1790-இல் சிவகங்கையை மீட்டார்.",
+      "en": "Which of these statements about Velu Nachiyar are correct?\n(i) She was the daughter of the Raja of Ramanathapuram.\n(ii) Her husband Muthu Vadugananthar was killed in the battle of Kalaiyarkoil in 1772.\n(iii) She lived under the protection of Gopala Nayakar at Virupachi.\n(iv) She recovered Sivagangai in 1790."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iii), (iv) மட்டும்",
+       "en": "(ii), (iii) and (iv) only"
+      },
+      {
+       "ta": "(i), (iv) மட்டும்",
+       "en": "(i) and (iv) only"
+      },
+      {
+       "ta": "(i), (ii), (iii), (iv)",
+       "en": "(i), (ii), (iii) and (iv)"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "அவர் சிவகங்கையை மீட்டது 1780-இல்.",
+      "en": "She recovered Sivagangai in 1780."
+     }
+    },
+    {
+     "id": "d008-daily-022",
+     "subject": "gs",
+     "q": {
+      "ta": "கீழே கொடுக்கப்பட்டுள்ள நிகழ்வுகளை காலவரிசைப்படுத்துக.\n1. புலித்தேவரின் இறப்பு\n2. குயிலியின் இறப்பு\n3. கட்டபொம்மனின் இறப்பு\n4. மருதுசகோதரர்களின் இறப்பு",
+      "en": "Arrange the following events in the Chronological order:\n1. Death of Pulithevar\n2. Death of Kuyili\n3. Death of Kattabomman\n4. Death of Maruthu Brothers"
+     },
+     "o": [
+      {
+       "ta": "2, 3, 1, 4"
+      },
+      {
+       "ta": "1, 2, 3, 4"
+      },
+      {
+       "ta": "1, 3, 2, 4"
+      },
+      {
+       "ta": "3, 1, 4, 2"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "TNPSC குரூப் 4, 2022. புலித்தேவர் (1767) → குயிலி (1780) → கட்டபொம்மன் (1799) → மருது சகோதரர்கள் (1801).",
+      "en": "TNPSC Group 4, 2022. Pulithevar (1767), Kuyili (1780), Kattabomman (1799), Maruthu brothers (1801)."
+     }
+    },
+    {
+     "id": "d008-daily-023",
+     "subject": "gs",
+     "q": {
+      "ta": "கட்டபொம்மன் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) பாஞ்சாலங்குறிச்சிப் பாளையக்காரர்.\n(ii) ஆட்சியர் ஜாக்சனைத் திருச்சிராப்பள்ளியில் சந்தித்தார்.\n(iii) மேஜர் பானர்மேன் 1799 செப்டம்பர் 1 அன்று இறுதி எச்சரிக்கை விடுத்தார்.\n(iv) கயத்தாறில் தூக்கிலிடப்பட்டார்.",
+      "en": "Which of these statements about Kattabomman are correct?\n(i) He was the palayakkarar of Panchalankurichi.\n(ii) He met Collector Jackson at Tiruchirappalli.\n(iii) Major Bannerman issued an ultimatum on 1 September 1799.\n(iv) He was hanged at Kayathar."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iv) மட்டும்",
+       "en": "(ii) and (iv) only"
+      },
+      {
+       "ta": "(i), (iii), (iv) மட்டும்",
+       "en": "(i), (iii) and (iv) only"
+      },
+      {
+       "ta": "(i), (ii), (iii), (iv)",
+       "en": "(i), (ii), (iii) and (iv)"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "ஜாக்சனைச் சந்தித்த இடம் ராமநாதபுரம் (1798).",
+      "en": "He met Jackson at Ramanathapuram (1798)."
+     }
+    },
+    {
+     "id": "d008-daily-024",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: வேலூர்ப் புரட்சிக்குப் பின் திப்பு சுல்தானின் குடும்பத்தினர் கல்கத்தாவுக்கு அனுப்பப்பட்டனர்.\nகாரணம்: புரட்சி செய்த சிப்பாய்கள் திப்புவின் மகன் பதே ஹைதரை மன்னராக அறிவித்தனர்.",
+      "en": "Assertion: After the Vellore Revolt the family of Tipu Sultan was sent to Calcutta.\nReason: The rebel sepoys proclaimed Tipu's son Fateh Hyder as ruler."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "திப்புவின் குடும்பத்தினர் வேலூர்க் கோட்டையில் இருந்ததும் புரட்சியில் தொடர்புபடுத்தப்பட்டதும் அவர்கள் அனுப்பப்படக் காரணம்.",
+      "en": "Tipu's family lived in Vellore fort and was linked with the revolt, which is why it was moved."
+     }
+    },
+    {
+     "id": "d008-daily-025",
+     "subject": "gs",
+     "q": {
+      "ta": "சரியான இணைகளைத் தேர்வு செய்க.\n1. ஒண்டிவீரன் – மருது சகோதரர்கள்\n2. கோபால நாயக்கர் – திண்டுக்கல் கூட்டமைப்பு\n3. குயிலி – புலித்தேவர்\n4. முத்துவடுகநாதர் – காளையார் கோவில் போர்",
+      "en": "Choose the correct Pairs :\n1. Ondiveeran – Maruthu Brothers\n2. Gopala Nayakar – Dindigul League\n3. Kuyili – Pulithevar\n4. Muthu Vaduga Nathar – Kalaiyaarkovil Battle"
+     },
+     "o": [
+      {
+       "ta": "1 மற்றும் 3 சரி",
+       "en": "1 and 3 are correct"
+      },
+      {
+       "ta": "1 மற்றும் 2 சரி",
+       "en": "1 and 2 are correct"
+      },
+      {
+       "ta": "2 மற்றும் 3 சரி",
+       "en": "2 and 3 are correct"
+      },
+      {
+       "ta": "2 மற்றும் 4 சரி",
+       "en": "2 and 4 are correct"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "TNPSC குரூப் 4, 2022. ஒண்டிவீரன் – புலித்தேவரின் படைத்தளபதி; குயிலி – வேலுநாச்சியாரின் படைத்தளபதி.",
+      "en": "TNPSC Group 4, 2022. Ondiveeran was Pulithevar's commander, and Kuyili was Velu Nachiyar's."
+     }
+    },
+    {
+     "id": "d008-daily-026",
+     "subject": "gs",
+     "q": {
+      "ta": "பொருத்துக.\n(a) புலித்தேவர்\n(b) கட்டபொம்மன்\n(c) வேலுநாச்சியார்\n(d) தீரன் சின்னமலை\n1. சிவகங்கை\n2. கொங்கு நாடு\n3. நெற்கட்டும்செவல்\n4. பாஞ்சாலங்குறிச்சி",
+      "en": "Match the following.\n(a) Puli Thevar\n(b) Kattabomman\n(c) Velu Nachiyar\n(d) Dheeran Chinnamalai\n1. Sivagangai\n2. Kongu country\n3. Nerkattumseval\n4. Panchalankurichi"
+     },
+     "o": [
+      {
+       "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 1, (b) 2, (c) 3, (d) 4"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "புலித்தேவர் – நெற்கட்டும்செவல்; கட்டபொம்மன் – பாஞ்சாலங்குறிச்சி; வேலுநாச்சியார் – சிவகங்கை; தீரன் சின்னமலை – கொங்கு நாடு.",
+      "en": "Puli Thevar – Nerkattumseval; Kattabomman – Panchalankurichi; Velu Nachiyar – Sivagangai; Dheeran Chinnamalai – Kongu country."
+     }
+    },
+    {
+     "id": "d008-daily-027",
+     "subject": "gs",
+     "q": {
+      "ta": "வேலூர்ப் புரட்சி பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) 1806 ஜூலை 10 அன்று நடந்தது.\n(ii) தலைமைத் தளபதி ஜான் கிராடக் கொண்டுவந்த புதிய படை விதிகள் அதற்குக் காரணம்.\n(iii) புரட்சியை அடக்கியவர் கர்னல் பான்கோர்ட்.",
+      "en": "Which of these statements about the Vellore Revolt are correct?\n(i) It took place on 10 July 1806.\n(ii) It was caused by the new army regulations of the Commander-in-Chief, John Cradock.\n(iii) It was put down by Colonel Fancourt."
+     },
+     "o": [
+      {
+       "ta": "(i) மட்டும்",
+       "en": "(i) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "பான்கோர்ட் கோட்டையின் தளபதி; அவர் சிப்பாய்களால் கொல்லப்பட்டார். புரட்சியை அடக்கியவர் கர்னல் கில்லெஸ்பி.",
+      "en": "Fancourt was the commander of the fort and was killed by the sepoys. The revolt was put down by Colonel Gillespie."
+     }
+    },
+    {
+     "id": "d008-daily-028",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: தீரன் சின்னமலை கயத்தாறில் தூக்கிலிடப்பட்டார்.\nகாரணம்: தீரன் சின்னமலை ஓடாநிலை, அரச்சலூர் ஆகிய இடங்களில் நடந்த போர்களில் ஆங்கிலேயரை வென்றார்.",
+      "en": "Assertion: Dheeran Chinnamalai was hanged at Kayathar.\nReason: Dheeran Chinnamalai defeated the British in the battles at Odanilai and Arachalur."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "அவர் 1805 ஜூலை 31 அன்று சங்ககிரிக் கோட்டையில் தூக்கிலிடப்பட்டார்; கயத்தாறில் தூக்கிலிடப்பட்டவர் கட்டபொம்மன்.",
+      "en": "He was hanged at Sankagiri fort on 31 July 1805; it was Kattabomman who was hanged at Kayathar."
+     }
+    },
+    {
+     "id": "d008-daily-029",
+     "subject": "gs",
+     "q": {
+      "ta": "பொருத்துக :\n(a) சிவசுப்ரமணியனார்\n(b) கட்டபொம்மன்\n(c) மருது சகோதரர்கள்\n(d) தீரன் சின்னமலை\n1. கயத்தாறு கோட்டை\n2. சங்ககிரி கோட்டை\n3. நாகலாபுரம்\n4. திருப்பத்தூர் கோட்டை",
+      "en": "Match the following:\n(a) Sivasubramanianar\n(b) Kattabomman\n(c) Marudhu Brothers\n(d) Dheeran Chinnamalai\n1. Kayathar Fort\n2. Sangagiri Fort\n3. Nagalapuram\n4. Thirupathur Fort"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 1, (c) 4, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 1, (c) 2, (d) 4"
+      },
+      {
+       "ta": "(a) 4, (b) 1, (c) 3, (d) 2"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "TNPSC குரூப் 4, 2022. தூக்கிலிடப்பட்ட இடங்கள்: சிவசுப்பிரமணியனார் – நாகலாபுரம்; கட்டபொம்மன் – கயத்தாறு (1799); மருது சகோதரர்கள் – திருப்பத்தூர் (1801); தீரன் சின்னமலை – சங்ககிரி (1805).",
+      "en": "TNPSC Group 4, 2022. Places of execution: Sivasubramanianar at Nagalapuram, Kattabomman at Kayathar (1799), the Maruthu brothers at Tirupathur (1801), Theeran Chinnamalai at Sankagiri (1805)."
+     }
+    },
+    {
+     "id": "d008-daily-030",
+     "subject": "gs",
+     "q": {
+      "ta": "மருது சகோதரர்கள் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) 1801 ஜூனில் திருச்சிராப்பள்ளி அறிக்கையை வெளியிட்டனர்.\n(ii) 1801 அக்டோபர் 24 அன்று திருப்பத்தூரில் தூக்கிலிடப்பட்டனர்.\n(iii) கட்டபொம்மனின் தம்பி ஊமைத்துரைக்கு அடைக்கலம் அளித்தனர்.",
+      "en": "Which of these statements about the Marudhu brothers are correct?\n(i) They issued the Tiruchirappalli Proclamation in June 1801.\n(ii) They were hanged at Tiruppathur on 24 October 1801.\n(iii) They gave asylum to Oomaithurai, the brother of Kattabomman."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "மூன்று கூற்றுகளும் சரி.",
+      "en": "All three statements are correct."
+     }
+    },
+    {
+     "id": "d008-daily-031",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வரும் நிகழ்வுகளைக் கால வரிசைப்படுத்துக.\n1. வேலூர்ப் புரட்சி\n2. காளையார்கோவில் போர்\n3. திருச்சிராப்பள்ளி அறிக்கை\n4. கட்டபொம்மன் தூக்கிலிடப்படுதல்",
+      "en": "Arrange these events in chronological order.\n1. Vellore Revolt\n2. Battle of Kalaiyarkoil\n3. Tiruchirappalli Proclamation\n4. Execution of Kattabomman"
+     },
+     "o": [
+      {
+       "ta": "2, 3, 4, 1"
+      },
+      {
+       "ta": "4, 2, 3, 1"
+      },
+      {
+       "ta": "2, 4, 3, 1"
+      },
+      {
+       "ta": "2, 4, 1, 3"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "1772, 1799, 1801, 1806.",
+      "en": "1772, 1799, 1801, 1806."
+     }
+    },
+    {
+     "id": "d008-daily-032",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: 1801-ஆம் ஆண்டு கர்நாடக உடன்படிக்கைக்குப் பின் பாளையக்காரர் முறை முடிவுக்கு வந்தது.\nகாரணம்: அந்த உடன்படிக்கை பாளையக்காரர்களுக்குக் கூடுதல் அதிகாரங்களை வழங்கியது.",
+      "en": "Assertion: The palayakkarar system came to an end after the Carnatic Treaty of 1801.\nReason: That treaty gave the palayakkarars additional powers."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "அந்த உடன்படிக்கையால் தமிழகம் ஆங்கிலேயரின் நேரடி ஆட்சிக்குள் வந்தது.",
+      "en": "By that treaty the Tamil country came under direct British rule."
+     }
+    },
+    {
+     "id": "d008-daily-033",
+     "subject": "gs",
+     "q": {
+      "ta": "1761-இல் நெற்கட்டும்செவலைக் கைப்பற்றியவர்",
+      "en": "Who captured Nerkattumseval in 1761?"
+     },
+     "o": [
+      {
+       "ta": "கர்னல் ஹெரான்",
+       "en": "Colonel Heron"
+      },
+      {
+       "ta": "மேஜர் பானர்மேன்",
+       "en": "Major Bannerman"
+      },
+      {
+       "ta": "கர்னல் கில்லெஸ்பி",
+       "en": "Colonel Gillespie"
+      },
+      {
+       "ta": "யூசுப் கான்",
+       "en": "Yusuf Khan"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "கான் சாகிப் என்று அழைக்கப்பட்ட யூசுப் கான்; அவர் 1764-இல் தூக்கிலிடப்பட்டார்.",
+      "en": "Yusuf Khan, known as Khan Sahib; he was hanged in 1764."
+     }
+    },
+    {
+     "id": "d008-daily-034",
+     "subject": "gs",
+     "q": {
+      "ta": "'திருச்சிராப்பள்ளி அறிக்கை' (1801) யாருடன் தொடர்புடையது?",
+      "en": "With whom is the 'Tiruchirappalli Proclamation' (1801) associated?"
+     },
+     "o": [
+      {
+       "ta": "மருது சகோதரர்கள்",
+       "en": "Marudhu brothers"
+      },
+      {
+       "ta": "தீரன் சின்னமலை",
+       "en": "Dheeran Chinnamalai"
+      },
+      {
+       "ta": "புலித்தேவர்",
+       "en": "Puli Thevar"
+      },
+      {
+       "ta": "வேலுநாச்சியார்",
+       "en": "Velu Nachiyar"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "ஆங்கிலேயருக்கு எதிராக அனைவரும் ஒன்றுபட வேண்டும் என்று மருது சகோதரர்கள் விடுத்த அழைப்பு.",
+      "en": "It was the Marudhu brothers' call to all people to unite against the British."
+     }
+    },
+    {
+     "id": "d008-daily-035",
+     "subject": "gs",
+     "q": {
+      "ta": "2026 பிப்ரவரியில் தீரன் சின்னமலையின் வெண்கலக் குதிரை வீரர் சிலை திறக்கப்பட்ட மாவட்டம்",
+      "en": "In which district was a bronze equestrian statue of Dheeran Chinnamalai unveiled in February 2026?"
+     },
+     "o": [
+      {
+       "ta": "சேலம்",
+       "en": "Salem"
+      },
+      {
+       "ta": "ஈரோடு",
+       "en": "Erode"
+      },
+      {
+       "ta": "சிவகங்கை",
+       "en": "Sivagangai"
+      },
+      {
+       "ta": "தூத்துக்குடி",
+       "en": "Thoothukudi"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "நடப்பு நிகழ்வு: தீரன் சின்னமலை பிறந்த மேலப்பாளையம் ஈரோடு அருகே உள்ளது; சிலை ஈரோடு மாவட்டத்தில் திறக்கப்பட்டது.",
+      "en": "Current affairs: Melapalayam, where Dheeran Chinnamalai was born, is near Erode; the statue was unveiled in Erode district."
+     }
+    },
+    {
+     "id": "d008-daily-036",
+     "subject": "apt",
+     "q": {
+      "ta": "1 முதல் 50 வரை உள்ள பகா எண்களின் எண்ணிக்கை",
+      "en": "The number of prime numbers from 1 to 50 is"
+     },
+     "o": [
+      {
+       "ta": "14"
+      },
+      {
+       "ta": "15"
+      },
+      {
+       "ta": "16"
+      },
+      {
+       "ta": "25"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47: மொத்தம் 15.",
+      "en": "2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47: 15 in all."
+     }
+    },
+    {
+     "id": "d008-daily-037",
+     "subject": "apt",
+     "q": {
+      "ta": "கீழ்காணும் கூற்றுகளில் எது தவறான கூற்றாகும்?",
+      "en": "Which one of the following statements is false?"
+     },
+     "o": [
+      {
+       "ta": "வெவ்வேறு எண்களின் பொது வகுத்திகளில் மிகப்பெரிய வகுத்தி அவ்வெண்களின் மீப்பெரு பொது வகுத்தி ஆகும்",
+       "en": "Among the common divisors of given numbers, the greatest divisor is the G.C.D."
+      },
+      {
+       "ta": "இரு எண்களின் மீப்பெரு பொ.வ. 1 எனில் அவ்விரு எண்களும் பகா எண்கள் எனப்படும்",
+       "en": "If the G.C.D. of any two numbers is 1 they are said to be prime numbers"
+      },
+      {
+       "ta": "வெவ்வேறு எண்களின் பொது மடங்குகளில் மிகச்சிறிய மடங்கு அவ்வெண்களின் மீச்சிறு பொது மடங்கு ஆகும்",
+       "en": "Among the common multiples of given numbers, the least is the L.C.M."
+      },
+      {
+       "ta": "இரு எண்களின் பெருக்கற்பலன் அவற்றின் மீப்பெரு பொ.வ. மற்றும் மீச்சிறு பொ.ம. ஆகியவற்றின் பெருக்கற்பலனுக்குச் சமமாகும்",
+       "en": "The product of any two numbers is equal to the product of their G.C.D. and L.C.M."
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "TNPSC குரூப் 4, 2018. மீ.பொ.வ 1 எனில் அவை ‘சார்பகா எண்கள்’ (co-prime); பகா எண்கள் அல்ல. எ.கா. 8, 9.",
+      "en": "TNPSC Group 4, 2018. Numbers with HCF 1 are co-prime, not prime; for example 8 and 9."
+     }
+    },
+    {
+     "id": "d008-daily-038",
+     "subject": "apt",
+     "q": {
+      "ta": "பின்வருவனவற்றுள் பகா எண் எது?",
+      "en": "Which of the following is a prime number?"
+     },
+     "o": [
+      {
+       "ta": "91"
+      },
+      {
+       "ta": "87"
+      },
+      {
+       "ta": "119"
+      },
+      {
+       "ta": "97"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "91 = 7 × 13; 87 = 3 × 29; 119 = 7 × 17; 97 பகா எண்.",
+      "en": "91 = 7 × 13; 87 = 3 × 29; 119 = 7 × 17; 97 is prime."
+     }
+    },
+    {
+     "id": "d008-daily-039",
+     "subject": "apt",
+     "q": {
+      "ta": "72 என்னும் எண்ணின் காரணிகளின் எண்ணிக்கை",
+      "en": "The number of factors of 72 is"
+     },
+     "o": [
+      {
+       "ta": "12"
+      },
+      {
+       "ta": "10"
+      },
+      {
+       "ta": "8"
+      },
+      {
+       "ta": "6"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "72 = 2³ × 3²; (3 + 1)(2 + 1) = 12."
+     }
+    },
+    {
+     "id": "d008-daily-040",
+     "subject": "apt",
+     "q": {
+      "ta": "360 என்னும் எண்ணின் பகாக் காரணிப்படுத்தல்",
+      "en": "The prime factorisation of 360 is"
+     },
+     "o": [
+      {
+       "ta": "2² × 3² × 10"
+      },
+      {
+       "ta": "2³ × 3 × 15"
+      },
+      {
+       "ta": "2³ × 3² × 5"
+      },
+      {
+       "ta": "2² × 3³ × 5"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "360 = 8 × 9 × 5 = 2³ × 3² × 5. 10, 15 ஆகியவை பகா எண்கள் அல்ல.",
+      "en": "360 = 8 × 9 × 5 = 2³ × 3² × 5. 10 and 15 are not prime."
+     }
+    },
+    {
+     "id": "d008-daily-041",
+     "subject": "apt",
+     "q": {
+      "ta": "20-க்கும் 40-க்கும் இடையில் உள்ள பகா எண்களின் கூடுதல்",
+      "en": "The sum of the prime numbers between 20 and 40 is"
+     },
+     "o": [
+      {
+       "ta": "120"
+      },
+      {
+       "ta": "112"
+      },
+      {
+       "ta": "143"
+      },
+      {
+       "ta": "91"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "23 + 29 + 31 + 37 = 120."
+     }
+    },
+    {
+     "id": "d008-daily-042",
+     "subject": "apt",
+     "q": {
+      "ta": "0-வின் தலைகீழி = __________",
+      "en": "Reciprocal of 0 is __________."
+     },
+     "o": [
+      {
+       "ta": "0",
+       "en": "0"
+      },
+      {
+       "ta": "1",
+       "en": "1"
+      },
+      {
+       "ta": "∞",
+       "en": "∞"
+      },
+      {
+       "ta": "தலைகீழி கிடையாது",
+       "en": "no reciprocal"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "TNPSC குரூப் 4, 2018. பூஜ்யத்தால் வகுக்க முடியாது; எனவே 0-க்குத் தலைகீழி இல்லை.",
+      "en": "TNPSC Group 4, 2018. Division by zero is not defined, so 0 has no reciprocal."
+     }
+    },
+    {
+     "id": "d008-daily-043",
+     "subject": "apt",
+     "q": {
+      "ta": "மூன்று இலக்க எண்களில் மிகச்சிறிய பகா எண்",
+      "en": "The smallest three-digit prime number is"
+     },
+     "o": [
+      {
+       "ta": "100"
+      },
+      {
+       "ta": "103"
+      },
+      {
+       "ta": "107"
+      },
+      {
+       "ta": "101"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "100 பகு எண்; 101 எந்தப் பகா எண்ணாலும் (2, 3, 5, 7) வகுபடாது.",
+      "en": "100 is composite; 101 is divisible by none of 2, 3, 5, 7."
+     }
+    },
+    {
+     "id": "d008-daily-044",
+     "subject": "apt",
+     "q": {
+      "ta": "பின்வரும் இணைகளில் சார்பகா எண்கள் எவை?",
+      "en": "Which of the following pairs are co-prime?"
+     },
+     "o": [
+      {
+       "ta": "14, 21"
+      },
+      {
+       "ta": "15, 28"
+      },
+      {
+       "ta": "18, 27"
+      },
+      {
+       "ta": "22, 33"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "15 = 3 × 5; 28 = 2² × 7; பொதுக் காரணி 1 மட்டும். மற்ற இணைகளுக்கு 7, 9, 11 பொதுக் காரணிகள்.",
+      "en": "15 = 3 × 5 and 28 = 2² × 7 have only 1 in common. The other pairs share 7, 9 and 11."
+     }
+    },
+    {
+     "id": "d008-daily-045",
+     "subject": "apt",
+     "q": {
+      "ta": "144 என்னும் எண்ணின் காரணிகளின் எண்ணிக்கை",
+      "en": "The number of factors of 144 is"
+     },
+     "o": [
+      {
+       "ta": "12"
+      },
+      {
+       "ta": "14"
+      },
+      {
+       "ta": "15"
+      },
+      {
+       "ta": "16"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "144 = 2⁴ × 3²; (4 + 1)(2 + 1) = 15."
+     }
+    },
+    {
+     "id": "d008-daily-046",
+     "subject": "apt",
+     "q": {
+      "ta": "கிரிக்கெட் வீரர் டோனியின் முதல் 30 ஆட்டங்களுக்கான சராசரி ஓட்டம் (runs) 72 எனக் கணக்கிடப்பட்டிருந்தது. 31 வது ஆட்டம் நடைபெற்ற பின் அவருடைய சராசரி ஓட்டம் 73 ஆக உயர்ந்தது எனில் 31 ஆவது ஆட்டத்தில் அவர் எடுத்திருந்த ஓட்டங்கள் (runs) எத்தனை?",
+      "en": "Cricket player Dhoni’s average in first 30 matches was 72 runs. After 31st match, his average raised as 73 runs. How many runs did he make in 31st match?"
+     },
+     "o": [
+      {
+       "ta": "100"
+      },
+      {
+       "ta": "103"
+      },
+      {
+       "ta": "74"
+      },
+      {
+       "ta": "108"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "TNPSC குரூப் 4, 2019. புதிய சராசரி + (பழைய ஆட்டங்கள் × உயர்வு) = 73 + 30 × 1 = 103.",
+      "en": "TNPSC Group 4, 2019. New average + (old matches × rise) = 73 + 30 × 1 = 103."
+     }
+    },
+    {
+     "id": "d008-daily-047",
+     "subject": "apt",
+     "q": {
+      "ta": "1 முதல் 100 வரை உள்ள எண்களில் 2, 3 ஆகிய இரண்டாலும் வகுபடும் எண்களின் எண்ணிக்கை",
+      "en": "How many numbers from 1 to 100 are divisible by both 2 and 3?"
+     },
+     "o": [
+      {
+       "ta": "33"
+      },
+      {
+       "ta": "16"
+      },
+      {
+       "ta": "17"
+      },
+      {
+       "ta": "50"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "இரண்டாலும் வகுபடுபவை 6-இன் மடங்குகள்; 100 ÷ 6 என்பதன் முழு எண் பகுதி 16.",
+      "en": "They are the multiples of 6; the whole-number part of 100 ÷ 6 is 16."
+     }
+    },
+    {
+     "id": "d008-daily-048",
+     "subject": "apt",
+     "q": {
+      "ta": "பின்வரும் இணைகளில் இரட்டைப் பகா எண்கள் எவை?",
+      "en": "Which of the following is a pair of twin primes?"
+     },
+     "o": [
+      {
+       "ta": "7, 11"
+      },
+      {
+       "ta": "13, 15"
+      },
+      {
+       "ta": "11, 13"
+      },
+      {
+       "ta": "23, 27"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "11, 13 இரண்டும் பகா எண்கள்; வேறுபாடு 2.",
+      "en": "11 and 13 are both prime and differ by 2."
+     }
+    },
+    {
+     "id": "d008-daily-049",
+     "subject": "apt",
+     "q": {
+      "ta": "1 முதல் 100 வரை உள்ள 7-இன் மடங்குகளின் எண்ணிக்கை",
+      "en": "The number of multiples of 7 from 1 to 100 is"
+     },
+     "o": [
+      {
+       "ta": "13"
+      },
+      {
+       "ta": "15"
+      },
+      {
+       "ta": "12"
+      },
+      {
+       "ta": "14"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "100 ÷ 7 என்பதன் முழு எண் பகுதி 14.",
+      "en": "The whole-number part of 100 ÷ 7 is 14."
+     }
+    },
+    {
+     "id": "d008-daily-050",
+     "subject": "apt",
+     "q": {
+      "ta": "A-யின் வருமானம் B-யின் வருமானத்தை விட 12 1/2% அதிகம் எனில், B-யின் வருமானம் A-யின் வருமானத்தை விட எத்தனை விழுக்காடு குறைவு?",
+      "en": "If A's income is 12 1/2% more than B's, by what percentage is B's income less than A's?"
+     },
+     "o": [
+      {
+       "ta": "11 1/9%"
+      },
+      {
+       "ta": "12 1/2%"
+      },
+      {
+       "ta": "10%"
+      },
+      {
+       "ta": "14 2/7%"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "100 × 12.5 ÷ 112.5 = 11 1/9%."
+     }
+    }
+   ],
+   "pool": [
+    {
+     "id": "d008-daily-p001",
+     "subject": "tamil",
+     "q": {
+      "ta": "பொருத்துக.\n(a) ஆண்டான்\n(b) கொண்டான்\n(c) விட்டான்\n(d) கண்டான்\n1. காண்\n2. விடு\n3. ஆள்\n4. கொள்"
+     },
+     "o": [
+      {
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 1, (b) 2, (c) 3, (d) 4"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "ஆண்டான் – ஆள்; கொண்டான் – கொள்; விட்டான் – விடு; கண்டான் – காண்."
+     }
+    },
+    {
+     "id": "d008-daily-p002",
+     "subject": "tamil",
+     "q": {
+      "ta": "'நின்றான்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "நின்று"
+      },
+      {
+       "ta": "நில்"
+      },
+      {
+       "ta": "நிலை"
+      },
+      {
+       "ta": "நின்ற"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "கட்டளை வடிவம் 'நில்'."
+     }
+    },
+    {
+     "id": "d008-daily-p003",
+     "subject": "tamil",
+     "q": {
+      "ta": "'வாழ்ந்தனர்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "வா"
+      },
+      {
+       "ta": "வாழ்வு"
+      },
+      {
+       "ta": "வாழ்ந்து"
+      },
+      {
+       "ta": "வாழ்"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "கட்டளை வடிவம் 'வாழ்'; 'வா' என்பது 'வந்தனர்' என்பதன் வேர்ச்சொல்."
+     }
+    },
+    {
+     "id": "d008-daily-p004",
+     "subject": "tamil",
+     "q": {
+      "ta": "பின்வருவனவற்றுள் 'காண்' என்னும் வேர்ச்சொல்லிலிருந்து தோன்றாத சொல்"
+     },
+     "o": [
+      {
+       "ta": "கொண்டான்"
+      },
+      {
+       "ta": "கண்டான்"
+      },
+      {
+       "ta": "காண்கிறாள்"
+      },
+      {
+       "ta": "காட்சி"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "'கொண்டான்' என்பதன் வேர்ச்சொல் 'கொள்'."
+     }
+    },
+    {
+     "id": "d008-daily-p005",
+     "subject": "gs",
+     "q": {
+      "ta": "சரியான கூற்றைத் தேர்வு செய்யவும்.\n(i) பாளையக்காரர் முறை காக்கத்தியப் பேரரசின் நடைமுறையில் இருந்தது.\n(ii) கான் சாகிப்பின் இறப்பிற்குப்பின் பூலித்தேவர் நெற்கட்டும் சேவலை 1764-இல் மீண்டும் கைப்பற்றினார்.\n(iii) கம்பெனி நிர்வாகத்திற்குத் தகவல் அளிக்காமல் பாளையக்காரர்களோ பேச்சுவார்த்தையில் ஈடுபட்டதால் யூசுப்கான் துரோகி என்று குற்றம் சுமத்தப்பட்டு 1764இல் தூக்கிலிடப்பட்டார்.\n(iv) ஒண்டிவீரன் கட்டபொம்மனின் படைப்பிரிவுகளில் ஒன்றைத் தலைமையேற்று வழிநடத்தினார்.",
+      "en": "Choose the correct statement:\n(i) The Palayakkarars system was in practice in the Kakatiya Kingdom.\n(ii) Puli Thevar recaptured Nerkattumseval in 1764 after the death of Khan Sahib.\n(iii) Yusuf Khan was negotiating with the Palayakkarars, without informing the company administration was charged with treachery and hanged in 1764.\n(iv) Ondiveeran led one of the army units of Kattabomman."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மற்றும் (iv) ஆகியவை சரி",
+       "en": "(i), (ii) and (iv) are correct"
+      },
+      {
+       "ta": "(i), (ii) மற்றும் (iii) ஆகியவை சரி",
+       "en": "(i), (ii) and (iii) are correct"
+      },
+      {
+       "ta": "(iii) மற்றும் (iv) ஆகியவை சரி",
+       "en": "(iii) and (iv) are correct"
+      },
+      {
+       "ta": "(i) மற்றும் (iv) ஆகியவை சரி",
+       "en": "(i) and (iv) are correct"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "TNPSC குரூப் 4, 2022. ஒண்டிவீரன் புலித்தேவரின் படைப்பிரிவுத் தலைவர்; கட்டபொம்மனுடையது அல்ல.",
+      "en": "TNPSC Group 4, 2022. Ondiveeran led a unit of Pulithevar's army, not Kattabomman's."
+     }
+    },
+    {
+     "id": "d008-daily-p006",
+     "subject": "gs",
+     "q": {
+      "ta": "1780-இல் தம் உடலில் தீ வைத்துக்கொண்டு ஆங்கிலேயரின் ஆயுதக் கிடங்கை அழித்த வேலுநாச்சியாரின் படைத்தளபதி",
+      "en": "Which commander of Velu Nachiyar set herself on fire in 1780 and destroyed the British ammunition store?"
+     },
+     "o": [
+      {
+       "ta": "உடையாள்",
+       "en": "Udaiyal"
+      },
+      {
+       "ta": "வெள்ளச்சி",
+       "en": "Vellachi"
+      },
+      {
+       "ta": "குயிலி",
+       "en": "Kuyili"
+      },
+      {
+       "ta": "ஒண்டிவீரன்",
+       "en": "Ondiveeran"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "குயிலி வேலுநாச்சியாரின் படைத்தளபதி; ஒண்டிவீரன் புலித்தேவரின் படைப்பிரிவுத் தலைவர்.",
+      "en": "Kuyili was Velu Nachiyar's commander; Ondiveeran led a unit of Puli Thevar's army."
+     }
+    },
+    {
+     "id": "d008-daily-p007",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: 1801-இல் தென்னிந்தியக் கிளர்ச்சியாளர் 73 பேர் பினாங்குக்கு நாடு கடத்தப்பட்டனர்.\nகாரணம்: ஊமைத்துரையும் செவத்தையாவும் 1801 நவம்பரில் பாஞ்சாலங்குறிச்சியில் கொல்லப்பட்டனர்.",
+      "en": "Assertion: In 1801, 73 of the South Indian rebels were exiled to Penang.\nReason: Oomaithurai and Sevathaiah were put to death at Panchalankurichi in November 1801."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "இரண்டும் தென்னிந்தியக் கிளர்ச்சி அடக்கப்பட்டதன் விளைவுகள்.",
+      "en": "Both followed the suppression of the South Indian Rebellion."
+     }
+    },
+    {
+     "id": "d008-daily-p008",
+     "subject": "apt",
+     "q": {
+      "ta": "ஒரு வகுப்பில் 12 மாணவர்களின் சராசரி உயரம் 152 செ.மீ எனக் கணக்கிடப்பட்டது. சரிபார்க்கும் போது 172 செ.மீ என்பதை 148 செ.மீ என தவறாக எடுத்துக் கொள்ளப்பட்டதாக தெரிய வந்தது எனில் சரியான சராசரி உயரம் யாது?",
+      "en": "The average height of 12 students in a class was calculated as 152 cm. On verification it was found that one reading was wrongly recorded as 148 cm instead of 172 cm. Find the correct mean height"
+     },
+     "o": [
+      {
+       "ta": "150 செ.மீ",
+       "en": "150 cm"
+      },
+      {
+       "ta": "156 செ.மீ",
+       "en": "156 cm"
+      },
+      {
+       "ta": "158 செ.மீ",
+       "en": "158 cm"
+      },
+      {
+       "ta": "154 செ.மீ",
+       "en": "154 cm"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "TNPSC குரூப் 4, 2019. வித்தியாசம் 172 − 148 = 24; 24 ÷ 12 = 2. சரியான சராசரி = 152 + 2 = 154 செ.மீ.",
+      "en": "TNPSC Group 4, 2019. Difference 172 − 148 = 24, and 24 ÷ 12 = 2. Correct mean = 152 + 2 = 154 cm."
+     }
+    },
+    {
+     "id": "d008-daily-p009",
+     "subject": "apt",
+     "q": {
+      "ta": "100 என்னும் எண்ணின் காரணிகளின் எண்ணிக்கை",
+      "en": "The number of factors of 100 is"
+     },
+     "o": [
+      {
+       "ta": "8"
+      },
+      {
+       "ta": "10"
+      },
+      {
+       "ta": "9"
+      },
+      {
+       "ta": "6"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "100 = 2² × 5²; (2 + 1)(2 + 1) = 9."
+     }
+    },
+    {
+     "id": "d008-daily-p010",
+     "subject": "apt",
+     "q": {
+      "ta": "முதல் நான்கு பகா எண்களின் பெருக்கற்பலன்",
+      "en": "The product of the first four prime numbers is"
+     },
+     "o": [
+      {
+       "ta": "105"
+      },
+      {
+       "ta": "210"
+      },
+      {
+       "ta": "30"
+      },
+      {
+       "ta": "384"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "2 × 3 × 5 × 7 = 210."
+     }
+    }
+   ]
+  }
+ ]
+}

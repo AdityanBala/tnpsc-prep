@@ -56,6 +56,14 @@
     "ta": "வாரத் தேர்வு 1: முதல் வாரப் பாடங்கள்",
     "en": "Weekly test 1: the first week"
    }
+  },
+  {
+   "n": 8,
+   "file": "day-008.json",
+   "title": {
+    "ta": "வேர்ச்சொல் · தொடக்க காலக் கிளர்ச்சிகள் · காரணிகள், பகா எண்கள்",
+    "en": "Root words · Early revolts · Factors and primes"
+   }
   }
  ]
 }
