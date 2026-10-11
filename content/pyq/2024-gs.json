@@ -1,0 +1,3313 @@
+{
+ "paper": "TNPSC Group IV 2024 (CCSE4GT/2024), Part B: General Studies with Aptitude and Mental Ability, questions 101 to 200",
+ "source": "Scanned booklet with hand-marked answers from tnpscstudymaterial.com; answers are that site's marking, not TNPSC's published key. Each was also answered independently: status ok = agrees, doubtful = the question or key looks questionable, unverified = could not be confirmed independently.",
+ "note": "Same shape as 2025-gs.json: questions, options and explanations as {\"ta\",\"en\"}, \"subject\" gs or apt. The fifth option (E) \"Answer not known\" is omitted. Unit and topic tags were assigned during transcription. No question in this paper has a figure. The Tamil half of the 2024 paper (questions 1 to 100) is not in the bank.",
+ "units": {
+  "gs": {
+   "1": "General Science",
+   "2": "Geography",
+   "3": "History, Culture of India, and Indian National Movement",
+   "4": "Indian Polity",
+   "5": "Indian Economy and Development Administration in Tamil Nadu",
+   "6": "History, Culture, Heritage, and Socio-Political Movements of Tamil Nadu"
+  },
+  "apt": {
+   "1": "Aptitude",
+   "2": "Reasoning"
+  }
+ },
+ "questions": [
+  {
+   "n": 101,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Chemistry: acids in foods",
+   "q": {
+    "ta": "திராட்சை மற்றும் தக்காளியில் உள்ள அமிலங்கள் __________, __________ ஆகும்.",
+    "en": "The acids present in Grape and Tomato are __________, __________."
+   },
+   "o": [
+    {
+     "ta": "மாலிக் அமிலம், சிட்ரிக் அமிலம்",
+     "en": "Malic acid, Citric acid"
+    },
+    {
+     "ta": "அசிட்டிக் அமிலம், லாக்டிக் அமிலம்",
+     "en": "Acetic acid, Lactic acid"
+    },
+    {
+     "ta": "டார்டாரிக் அமிலம், ஆக்சாலிக் அமிலம்",
+     "en": "Tartaric acid, Oxalic acid"
+    },
+    {
+     "ta": "அஸ்கார்பிக் அமிலம், டானிக் அமிலம்",
+     "en": "Ascorbic acid, Tannic acid"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "திராட்சை, புளி – டார்டாரிக்; தக்காளி – ஆக்சாலிக்; ஆப்பிள் – மாலிக்; எலுமிச்சை – சிட்ரிக்; தயிர் – லாக்டிக்; வினிகர் – அசிட்டிக்.",
+    "en": "Grapes and tamarind have tartaric acid, tomato oxalic, apple malic, lemon citric, curd lactic and vinegar acetic."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 102,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Physiology: parts of the brain",
+   "q": {
+    "ta": "கீழ்க்காண்பவற்றை பொருத்துக :\n(a) பெருமூளைப் புறணி\n(b) ஹைப்போதலாமஸ்\n(c) சிறுமூளை\n(d) பான்ஸ்\n1. உடல் வெப்பநிலையைக் கட்டுப்படுத்துதல்\n2. உணர்வுகளைப் பெறுதல்\n3. உறக்க-விழிப்பு சுழற்சி\n4. உடல் சமநிலை",
+    "en": "Match the following :\n(a) Cerebral cortex\n(b) Hypothalamus\n(c) Cerebellum\n(d) Pons\n1. Temperature control\n2. Sensory perception\n3. Role in sleep-awake cycle\n4. Maintenance of posture and balance"
+   },
+   "o": [
+    {
+     "ta": "(a) 1, (b) 3, (c) 2, (d) 4"
+    },
+    {
+     "ta": "(a) 2, (b) 3, (c) 4, (d) 1"
+    },
+    {
+     "ta": "(a) 2, (b) 1, (c) 3, (d) 4"
+    },
+    {
+     "ta": "(a) 2, (b) 1, (c) 4, (d) 3"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "பெருமூளைப் புறணி – உணர்வு; ஹைப்போதலாமஸ் – வெப்பநிலை, பசி, தாகம்; சிறுமூளை – சமநிலை; பான்ஸ் – உறக்க-விழிப்பு.",
+    "en": "The cerebral cortex handles sensation, the hypothalamus temperature, hunger and thirst, the cerebellum balance and the pons the sleep-wake cycle."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 103,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Universe: moons",
+   "q": {
+    "ta": "கீழ்க்காண்பனவற்றை பொருத்துக :\n(a) கேனிமீட்\n(b) டைட்டன்\n(c) நெப்டியூன்\n(d) டிரைட்டான்\n1. அதன் கோளின் சுழற்சிக்கு எதிர்திசையில் சுற்றும்\n2. பச்சை நிற விண்மீன் போன்ற தோற்றம்\n3. சூரிய மண்டலத்தின் மேகங்களுடன் கூடிய நிலவு\n4. சூரிய மண்டலத்தின் மிகப் பெரிய நிலவு",
+    "en": "Match the following :\n(a) Ganymede\n(b) Titan\n(c) Neptune\n(d) Triton\n1. Moves in opposite direction to the direction of the spin of its planet\n2. Greenish star like appearance\n3. Moon with clouds in our solar system\n4. Largest moon of our solar system"
+   },
+   "o": [
+    {
+     "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+    },
+    {
+     "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+    },
+    {
+     "ta": "(a) 2, (b) 3, (c) 4, (d) 1"
+    },
+    {
+     "ta": "(a) 4, (b) 1, (c) 2, (d) 3"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "கேனிமீட் (வியாழன்) – மிகப்பெரிய நிலவு; டைட்டன் (சனி) – மேகங்கள் உள்ள நிலவு; டிரைட்டான் (நெப்டியூன்) – எதிர்த்திசையில் சுற்றும்.",
+    "en": "Ganymede (Jupiter) is the largest moon, Titan (Saturn) is the moon with clouds and Triton (Neptune) orbits backwards."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 104,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Local government: municipal corporation",
+   "q": {
+    "ta": "நகராட்சி நிர்வாகத்தின் முதன்மை நிர்வாக அலுவலர் யார்?",
+    "en": "Who is the Chief Executive Authority of the Municipal Corporation?"
+   },
+   "o": [
+    {
+     "ta": "நகர மேலாளர்",
+     "en": "City Manager"
+    },
+    {
+     "ta": "நகராட்சி ஆணையர்",
+     "en": "Municipal Commissioner"
+    },
+    {
+     "ta": "மாவட்ட ஆட்சியர்",
+     "en": "Collector"
+    },
+    {
+     "ta": "காவல்துறை உதவி ஆணையர்",
+     "en": "Assistant Commissioner of Police"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "மாநகராட்சியின் நிர்வாகத் தலைவர் ஆணையர் (ஐ.ஏ.எஸ். அதிகாரி); மேயர் அரசியல் தலைவர்.",
+    "en": "The Commissioner, an IAS officer, is the executive head of a corporation; the Mayor is its political head."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 105,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "General knowledge: famous speeches",
+   "q": {
+    "ta": "வரலாற்றில் சிறந்த சொற்பொழிவுகளில் ஒன்றான, “எனக்கு ஒரு கனவு இருக்கிறது” என்று கூறியது",
+    "en": "One of history’s great oration, “I have a dream” was given by"
+   },
+   "o": [
+    {
+     "ta": "வின்ஸ்டன் சர்ச்சில்",
+     "en": "Winston Churchill"
+    },
+    {
+     "ta": "பால் கென்னடி",
+     "en": "Paul Kennedy"
+    },
+    {
+     "ta": "மார்டின் லூதர் கிங்",
+     "en": "Martin Luther King"
+    },
+    {
+     "ta": "ஆபிரகாம் லிங்கன்",
+     "en": "Abraham Lincoln"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "மார்டின் லூதர் கிங் (ஜூனியர்), 1963, வாஷிங்டன்.",
+    "en": "Martin Luther King Jr., Washington, 1963."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 106,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Education schemes: Samagra Shiksha",
+   "q": {
+    "ta": "சமக்ரா சிக்ஷா அபியான் திட்டத்தின் நோக்கம்",
+    "en": "Samagara Shiksha Abhiyan Scheme aims to"
+   },
+   "o": [
+    {
+     "ta": "பொதுக் கல்வியுடன் தொழிற்கல்வியை இணைப்பது",
+     "en": "Integrate vocational education with General Academic Education"
+    },
+    {
+     "ta": "தொழில் நுட்பக் கல்வியுடன் உயர் கல்வியை இணைப்பது",
+     "en": "Integrate Technical Education with Higher Education"
+    },
+    {
+     "ta": "பொதுக் கல்வியுடன் ஆசிரியர் கல்வியை இணைப்பது",
+     "en": "Integrate Teacher Education with General Education"
+    },
+    {
+     "ta": "முறைசார்ந்த கல்வியுடன் முறைசாராக் கல்வியை இணைப்பது",
+     "en": "Integrate Formal Education with Non-formal Education"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "சமக்ர சிக்ஷா (2018): SSA, RMSA, ஆசிரியர் கல்வி ஆகிய மூன்றையும் இணைத்த திட்டம்; மழலையர் முதல் 12-ஆம் வகுப்பு வரை. தொழிற்கல்வியைப் பொதுக்கல்வியுடன் இணைப்பதும் அதன் ஒரு கூறு. விடை மூலத்தில் குறிக்கப்பட்டபடி.",
+    "en": "Samagra Shiksha (2018) merged SSA, RMSA and Teacher Education, covering pre-school to Class 12. Bringing vocational education into general schooling is one of its components. The answer is as marked in the source."
+   },
+   "status": "unverified"
+  },
+  {
+   "n": 107,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Books and authors",
+   "q": {
+    "ta": "“அம்பேத்கர் : ஒரு வாழ்க்கை” என்னும் புத்தகத்தை எழுதியவர் யார்?",
+    "en": "Who is the author of the book “Ambedkar : A Life”?"
+   },
+   "o": [
+    {
+     "ta": "சசி தரூர்",
+     "en": "Shashi Tharoor"
+    },
+    {
+     "ta": "அஸ்வின் பெர்னாண்டஸ்",
+     "en": "Ashwin Fernandes"
+    },
+    {
+     "ta": "மேக்நாத் தேசாய்",
+     "en": "Meghnad Desai"
+    },
+    {
+     "ta": "சத்யஜித் ரே",
+     "en": "Satyajit Ray"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "சசி தரூர், 2022.",
+    "en": "Shashi Tharoor, 2022."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 108,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Indian culture: religions and places of worship",
+   "q": {
+    "ta": "மதம் மற்றும் வழிப்பாட்டுத் தலங்களைப் பொருத்துக :\nமதம் – வழிப்பாட்டு தலம்\n(a) சமணம்\n(b) ஜூடாய்ஸம்\n(c) புத்தமதம்\n(d) ஜொராஸ்டிரியம்\n1. சினகாக்\n2. அகியாரி\n3. பசாதி\n4. விஹாரா",
+    "en": "Match the Religion and Place of worship :\nReligion – Places of worship\n(a) Jainism\n(b) Judaism\n(c) Buddhism\n(d) Zorostrianism\n1. Synagogue\n2. Agiyari\n3. Basadi\n4. Vihara"
+   },
+   "o": [
+    {
+     "ta": "(a) 2, (b) 4, (c) 1, (d) 3"
+    },
+    {
+     "ta": "(a) 2, (b) 3, (c) 1, (d) 4"
+    },
+    {
+     "ta": "(a) 1, (b) 4, (c) 2, (d) 3"
+    },
+    {
+     "ta": "(a) 3, (b) 1, (c) 4, (d) 2"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "சமணம் – பசாதி; யூதம் – சினகாக்; பௌத்தம் – விகாரை; பார்சி – அகியாரி (நெருப்புக் கோவில்).",
+    "en": "Jains worship in a basadi, Jews in a synagogue, Buddhists in a vihara and Parsis in an agiyari (fire temple)."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 109,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Industrial growth: Make in India",
+   "q": {
+    "ta": "கீழ்கண்ட வாக்கியங்களை கவனி (கூற்று மற்றும் காரணம் வகை) :\nகூற்று [A] : இந்தியாவில் உற்பத்தி செய்யும் திட்டம் 2014-ல் அறிமுகமானது\nகாரணம் [R] : இதன் முக்கிய நோக்கம் உள்நாட்டு உற்பத்தித் துறையை ஊக்குவிப்பதும் மற்றும் நாட்டிற்கான முதலீடுகளை அதிகரிப்பதே ஆகும்.",
+    "en": "Consider the following statement (Reason and Assertion type) :\nAssertion [A] : Make in India program was launched in 2014.\nReason [R] : Intended to boost the domestic manufacturing sector and also augment investment into the country."
+   },
+   "o": [
+    {
+     "ta": "[A] சரி, ஆனால் [R] தவறு",
+     "en": "[A] is true, but [R] is false"
+    },
+    {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி, மற்றும் [R] என்பது [A] விற்கான சரியான விளக்கம்",
+     "en": "Both [A] and [R] are true, and [R] is the correct explanation of [A]"
+    },
+    {
+     "ta": "[A] தவறு, [R] சரி",
+     "en": "[A] is false, [R] is true"
+    },
+    {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி, ஆனால் [R] என்பது [A] விற்கான சரியான விளக்கம் அல்ல",
+     "en": "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "மேக் இன் இந்தியா: 25 செப்டம்பர் 2014; சின்னம் சிங்கம்.",
+    "en": "Make in India was launched on 25 September 2014; its logo is a lion."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 110,
+   "subject": "gs",
+   "unit": 2,
+   "topic": "Physical features: Himalayas",
+   "q": {
+    "ta": "கீழ்க்காணும் வாக்கியங்களில் எவை சரியாக இமயமலையுடன் தொடர்புடையது?\n(i) சாஸ்கர், லடாக், கைலாஸ் மற்றும் காரகோரம் ஆகிய முக்கியமான மலைத்தொடர்கள் ட்ரான்ஸ் இமயமலையில் அமைந்துள்ளது.\n(ii) சிறிய இமயமலை மற்றும் சிவாலிக் குன்றுகளை ஒப்பிடும்போது இப்பகுதி குறைவான மழையைப் பெறுகின்றது.\n(iii) வெளி இமயமலை மிகவும் தொடர்ச்சியான மலைத்தொடராக அமைந்துள்ளது.",
+    "en": "Which of the following statements are true about the Himalayas?\n(i) Zaskar, Ladakh, Kailash and Karakoram ranges are found in the trans – Himalayas.\n(ii) The Greater Himalayas receives lesser rainfall as compared to the lesser Himalayas and the Siwaliks.\n(iii) The Outer Himalayas is the most continuous range."
+   },
+   "o": [
+    {
+     "ta": "(i) மட்டும்",
+     "en": "(i) only"
+    },
+    {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "மிகவும் தொடர்ச்சியான மலைத்தொடர் பெரிய இமயமலை (ஹிமாத்ரி); வெளி இமயமலை (சிவாலிக்) தொடர்ச்சியற்றது.",
+    "en": "The most continuous range is the Greater Himalaya (Himadri); the Outer Himalaya (Siwaliks) is broken."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 111,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Indus Valley Civilisation",
+   "q": {
+    "ta": "ஹரப்பர்களால் அறியப்படாத விலங்கு எது?",
+    "en": "Which animal was not known to the Harappans?"
+   },
+   "o": [
+    {
+     "ta": "பன்றி",
+     "en": "Pig"
+    },
+    {
+     "ta": "யானை",
+     "en": "Elephant"
+    },
+    {
+     "ta": "குதிரை",
+     "en": "Horse"
+    },
+    {
+     "ta": "எருமை",
+     "en": "Buffalo"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "சிந்துவெளி மக்கள் குதிரையை அறிந்திருக்கவில்லை; இரும்பும் தெரியாது.",
+    "en": "The Harappans did not know the horse, nor iron."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 112,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Marathas: Ashtapradhan",
+   "q": {
+    "ta": "பின்வருவனவற்றை அவற்றின் சரியான பதிலுடன் பொருத்தவும் :\n(a) பேஷ்வா\n(b) சுர்நாவிஸ்\n(c) நியாயதீஸ்\n(d) பண்டிட் ராவ்\n1. செயலர்\n2. தலைமை நீதிபதி\n3. தலைமை அர்ச்சகர்\n4. பிரதம அமைச்சர்",
+    "en": "Match the following with their correct answers :\n(a) Peshwa\n(b) Shurnavis\n(c) Nyayadhish\n(d) Pandit Rao\n1. Secretary\n2. Chief Justice\n3. High Priest\n4. Prime Minister"
+   },
+   "o": [
+    {
+     "ta": "(a) 1, (b) 2, (c) 3, (d) 4"
+    },
+    {
+     "ta": "(a) 4, (b) 1, (c) 2, (d) 3"
+    },
+    {
+     "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+    },
+    {
+     "ta": "(a) 2, (b) 3, (c) 4, (d) 1"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "சிவாஜியின் அஷ்டபிரதான்: பேஷ்வா – பிரதமர்; சுர்நாவிஸ் (சச்சிவ்) – செயலர்; நியாயதீஷ் – தலைமை நீதிபதி; பண்டிட்ராவ் – சமயத் தலைவர்; அமத்யா – நிதி; சுமந்த் – வெளியுறவு; சேனாபதி – படை; வாக்கியநாவிஸ் – உள்துறை.",
+    "en": "Shivaji's Ashtapradhan: Peshwa prime minister, Surnavis (Sachiv) secretary, Nyayadhish chief justice, Panditrao religious head, Amatya finance, Sumant foreign affairs, Senapati army, Waqia-navis home."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 113,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Judiciary: High Courts",
+   "q": {
+    "ta": "கீழ்க்காணும் எந்த மாநிலங்கள் பொதுவான உயர்நீதி மன்றத்தைப் பெற்றுள்ளன?",
+    "en": "Which of the following states have a Common High Court?"
+   },
+   "o": [
+    {
+     "ta": "டெல்லி மற்றும் கொல்கத்தா",
+     "en": "Delhi and Calcutta"
+    },
+    {
+     "ta": "கேரளா மற்றும் தெலுங்கானா",
+     "en": "Kerala and Telangana"
+    },
+    {
+     "ta": "பஞ்சாப் மற்றும் ஹரியானா",
+     "en": "Punjab and Haryana"
+    },
+    {
+     "ta": "மகாராஷ்டிரா மற்றும் குஜராத்",
+     "en": "Maharashtra and Gujarat"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "பஞ்சாப், ஹரியானா, சண்டிகர் – சண்டிகரில் உள்ள ஒரே உயர் நீதிமன்றம்.",
+    "en": "Punjab, Haryana and Chandigarh share one High Court at Chandigarh."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 114,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Tamil: classical language status",
+   "q": {
+    "ta": "எந்த ஆண்டு இந்திய அரசால் முதல் செம்மொழியாக தமிழ் மொழி அறிவிக்கப்பட்டது?",
+    "en": "In which year did the Govt. of India declare Tamil as the first Classical Language?"
+   },
+   "o": [
+    {
+     "ta": "2008"
+    },
+    {
+     "ta": "2010"
+    },
+    {
+     "ta": "2004"
+    },
+    {
+     "ta": "2002"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "தமிழ் 2004; சமஸ்கிருதம் 2005; தெலுங்கு, கன்னடம் 2008; மலையாளம் 2013; ஒடியா 2014.",
+    "en": "Tamil 2004, Sanskrit 2005, Telugu and Kannada 2008, Malayalam 2013, Odia 2014."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 115,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Human rights: important days",
+   "q": {
+    "ta": "மனித உரிமை நாள் கொண்டாடப்படுவது __________ ஆகும்",
+    "en": "Human Rights Day is celebrated on"
+   },
+   "o": [
+    {
+     "ta": "டிசம்பர் 9",
+     "en": "9th December"
+    },
+    {
+     "ta": "டிசம்பர் 11",
+     "en": "11th December"
+    },
+    {
+     "ta": "டிசம்பர் 10",
+     "en": "10th December"
+    },
+    {
+     "ta": "டிசம்பர் 12",
+     "en": "12th December"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "10 டிசம்பர் 1948 – உலக மனித உரிமைகள் பிரகடனம் (UDHR) ஏற்கப்பட்ட நாள்.",
+    "en": "10 December 1948 is the day the Universal Declaration of Human Rights was adopted."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 116,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Panchayat Raj: committees in order",
+   "q": {
+    "ta": "கீழே கொடுக்கப்பட்டுள்ள குழுக்களை காலவரிசைப்படி எழுதுக :\nI. ஜி.வி.கே. ராவ் குழு\nII. பல்வந்த்ராய் மேத்தா குழு\nIII. எல்.எம். சிங்வி குழு\nIV. அசோக் மேத்தா குழு",
+    "en": "Arrange the following Committees in the correct chronological order :\nI. G.V.K. Rao Committee\nII. Balwant Rai Mehta Committee\nIII. L.M. Singhvi Committee\nIV. Ashok Mehta Committee"
+   },
+   "o": [
+    {
+     "ta": "III, I, II, IV"
+    },
+    {
+     "ta": "IV, III, I, II"
+    },
+    {
+     "ta": "II, IV, III, I"
+    },
+    {
+     "ta": "II, IV, I, III"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "பல்வந்த்ராய் மேத்தா (1957) → அசோக் மேத்தா (1977) → ஜி.வி.கே. ராவ் (1985) → எல்.எம். சிங்வி (1986).",
+    "en": "Balwant Rai Mehta (1957), Ashok Mehta (1977), G.V.K. Rao (1985), L.M. Singhvi (1986)."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 117,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Constitution: anti-defection law",
+   "q": {
+    "ta": "கீழ்க்காணும் வாக்கியங்களில் கட்சி தாவல் தடைச் சட்டத்தைப் பற்றி சரியான கூற்று எது?\n(i) 52வது அரசமைப்புச் சட்டத்திருத்தம் 1985, அளித்தது.\n(ii) அரசமைப்பில் 9வது அட்டவணையில் இணைக்கப்பட்டது.\n(iii) 91வது அரசமைப்புச் சட்டத்திருத்தம் 2003ன் மூலமாக ஓர் சிறு திருத்தம் செய்யப்பட்டது.",
+    "en": "Which of the following statements are true about “Anti-defection law”?\n(i) Provided by the 52nd Amendment Act of 1985\n(ii) Added in the 9th schedule to the Constitution\n(iii) Made some changes in the 91st Amendment Act of 2003"
+   },
+   "o": [
+    {
+     "ta": "(i) மட்டும்",
+     "en": "(i) only"
+    },
+    {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "கட்சித் தாவல் தடைச் சட்டம் 10-வது அட்டவணையில் உள்ளது; 9-வது அட்டவணை நிலச் சீர்திருத்தச் சட்டங்கள்.",
+    "en": "The anti-defection law is in the Tenth Schedule; the Ninth Schedule holds land reform laws."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 118,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Industrial policy",
+   "q": {
+    "ta": "எந்த தொழிற்கொள்கையானது இந்தியாவில் MRTP 1969 சட்டத்தை ஒழித்தது?",
+    "en": "The Industrial Policy of India, which abolished the MRTP Act in 1969 was"
+   },
+   "o": [
+    {
+     "ta": "1991 ஆம் ஆண்டின் தொழிற் கொள்கை",
+     "en": "1991 Industrial Policy"
+    },
+    {
+     "ta": "1977 ஆம் ஆண்டின் தொழிற் கொள்கை",
+     "en": "1977 Industrial Policy"
+    },
+    {
+     "ta": "1980 ஆம் ஆண்டின் தொழிற் கொள்கை",
+     "en": "1980 Industrial Policy"
+    },
+    {
+     "ta": "1990 ஆம் ஆண்டின் தொழிற் கொள்கை",
+     "en": "1990 Industrial Policy"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "1991 புதிய தொழிற்கொள்கை: உரிமம் தளர்வு, MRTP கட்டுப்பாடுகள் நீக்கம், அந்நிய முதலீடு. (MRTP சட்டத்துக்குப் பதிலாகப் போட்டிச் சட்டம் 2002.)",
+    "en": "The New Industrial Policy of 1991 removed licensing and the MRTP limits and opened up foreign investment. (The Competition Act 2002 later replaced the MRTP Act.)"
+   },
+   "status": "ok"
+  },
+  {
+   "n": 119,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Agriculture: Kisan Credit Card",
+   "q": {
+    "ta": "உழவர் கடன் அட்டை (KCC) 1998-ல் யாரால் தொடங்கப்பட்டது?",
+    "en": "Kisan Credit Card (KCC) was launched in 1998 by"
+   },
+   "o": [
+    {
+     "ta": "மைய வங்கி",
+     "en": "Reserve Bank of India"
+    },
+    {
+     "ta": "நபார்டு வங்கி",
+     "en": "NABARD Bank"
+    },
+    {
+     "ta": "இந்திய அரசு",
+     "en": "Govt. of India"
+    },
+    {
+     "ta": "மைய வங்கி மற்றும் நபார்டு வங்கி",
+     "en": "Reserve Bank of India and NABARD Bank"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "KCC 1998: இந்திய ரிசர்வ் வங்கியும் நபார்டும் இணைந்து (ஆர்.வி. குப்தா குழு பரிந்துரை).",
+    "en": "The KCC was introduced in 1998 by the RBI and NABARD together, on the R.V. Gupta committee's recommendation."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 120,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Education: Ministry of Education",
+   "q": {
+    "ta": "கூற்று [A] : மத்தியக்கல்வி அமைச்சகம் (இதற்கு முன் மனிதவள மேம்பாட்டு அமைச்சகம்–MHRD) நம் நாட்டின் கல்விக் கொள்கைகளையும் திட்டங்களையும் வகுத்து நடைமுறைப்படுத்தி வருகிறது.\nகாரணம் [R] : மத்தியக் கல்வி அமைச்சகம் கல்விக்கான வரவு செலவு திட்டத்தை முடிவு செய்கிறது.",
+    "en": "Assertion [A] : The Ministry of Education (Formerly Human Resource Development–MHRD) in India formulates education Policy in India and also undertakes Education Programs.\nReason [R] : The centre is represented by the Ministry of Education decides the India’s Education budget."
+   },
+   "o": [
+    {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரியானது, மற்றும் [R], [A] வை விளக்குகிறது",
+     "en": "Both [A] and [R] are true and [R] explains [A]"
+    },
+    {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரியானது, மற்றும் [R], [A] வை விளக்கவில்லை",
+     "en": "Both [A] and [R] are true and [R] does not explains [A]"
+    },
+    {
+     "ta": "[A] சரியானது மற்றும் [R] தவறானது",
+     "en": "[A] is correct and [R] is false"
+    },
+    {
+     "ta": "[A] தவறானது மற்றும் [R] சரியானது",
+     "en": "[A] is false and [R] is true"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "MHRD 2020-இல் (தேசியக் கல்விக் கொள்கை 2020) மீண்டும் ‘கல்வி அமைச்சகம்’ எனப் பெயர் மாற்றப்பட்டது. விடை மூலத்தில் குறிக்கப்பட்டபடி.",
+    "en": "The MHRD was renamed the Ministry of Education in 2020 with the National Education Policy 2020. The answer is as marked in the source."
+   },
+   "status": "unverified"
+  },
+  {
+   "n": 121,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "TN in the freedom struggle: V.O.C.",
+   "q": {
+    "ta": "சுதேசி நீராவிக் கப்பல் கம்பெனியின் ஆரம்ப மொத்த முதலீட்டு தொகை",
+    "en": "“The Swadeshi Steam Navigation Company” started with capital amount of"
+   },
+   "o": [
+    {
+     "ta": "ரூ. 2 இலட்சம்",
+     "en": "Rs. 2 lakh"
+    },
+    {
+     "ta": "ரூ. 5 இலட்சம்",
+     "en": "Rs. 5 lakh"
+    },
+    {
+     "ta": "ரூ. 8 இலட்சம்",
+     "en": "Rs. 8 lakh"
+    },
+    {
+     "ta": "ரூ. 10 இலட்சம்",
+     "en": "Rs. 10 lakh"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "வ.உ.சி., 1906, தூத்துக்குடி: ரூ. 25 மதிப்புள்ள 40,000 பங்குகள் = ரூ. 10 இலட்சம்; கப்பல்கள் காலியா, லாவோ.",
+    "en": "V.O. Chidambaram, 1906, Thoothukudi: 40,000 shares of Rs. 25 make Rs. 10 lakh; the ships were Gallia and Lawoe."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 122,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "National movement: revolutionaries",
+   "q": {
+    "ta": "__________ புரட்சிகர நடவடிக்கைகளுக்காக ராம்பிரசாத் பிஸ்மில் மற்றும் அஷ்ஃபாகுல்லா கானும் கைது செய்யப்பட்டு சிறைத்தண்டனை விதிக்கப்பட்டது.",
+    "en": "Ram Prasad Bismil and Ashfaqulla Khan were arrested and tried in the __________ case."
+   },
+   "o": [
+    {
+     "ta": "சிட்டகாங் ஆயுதக்கிடங்கு மீதானத் தாக்குதல்",
+     "en": "Chittagong Armoury raid"
+    },
+    {
+     "ta": "காகோரி சதி வழக்கு",
+     "en": "Kakori conspiracy case"
+    },
+    {
+     "ta": "லாகூர் சதி வழக்கு",
+     "en": "Lahore conspiracy case"
+    },
+    {
+     "ta": "மத்தியச் சட்டப் பேரவையில் புகைக்குண்டு வீசியதற்காக",
+     "en": "Bomb Throwing in the Central Legislative Assembly"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "காகோரி இரயில் கொள்ளை, 1925 (இந்துஸ்தான் குடியரசு சங்கம்). சிட்டகாங் – சூர்யா சென் (1930).",
+    "en": "The Kakori train robbery, 1925 (Hindustan Republican Association). Chittagong was Surya Sen's raid (1930)."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 123,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "National movement: Alipore case",
+   "q": {
+    "ta": "அலிப்பூர் குண்டு வெடிப்பு வழக்கில் புரட்சிகர தேசியவாதிகளுக்காக வாதாடியவர் யார்?",
+    "en": "Who appeared in the court in defence of revolutionary nationalists in the Alipur blast case?"
+   },
+   "o": [
+    {
+     "ta": "சித்தரஞ்சன் தாஸ்",
+     "en": "Chittaranjan Dass"
+    },
+    {
+     "ta": "பாலகங்காதர திலகர்",
+     "en": "Bala Gangadhar Tilak"
+    },
+    {
+     "ta": "வ.உ. சிதம்பரம்",
+     "en": "V.O. Chidambaram"
+    },
+    {
+     "ta": "G. சுப்ரமணியம்",
+     "en": "G. Subramaniyam"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "அலிப்பூர் வழக்கு (1908): அரவிந்த கோஷுக்காக வாதாடியவர் சி.ஆர். தாஸ்.",
+    "en": "Alipore case (1908): C.R. Das defended Aurobindo Ghose."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 124,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Social reformers: Rettaimalai Srinivasan",
+   "q": {
+    "ta": "தன்னலமற்ற சேவைக்காக ராவ் சாகிப் (1926), ராவ் பகதூர் (1930), திவான் பகதூர் (1936) ஆகிய பட்டங்களைப் பெற்றவர் யார்?",
+    "en": "Who was honoured with such titles as Rao Sahib (1926), Rao Bahadur (1930) and Divan Bahadur (1936) for his selfless social services?"
+   },
+   "o": [
+    {
+     "ta": "இரட்டைமலை சீனிவாசன்",
+     "en": "Rettaimalai Srinivasan"
+    },
+    {
+     "ta": "மயிலை சின்னதம்பி ராஜா",
+     "en": "Mylai Chinnathambi Raja"
+    },
+    {
+     "ta": "ம. சிங்கார வேலர்",
+     "en": "M. Singaravelar"
+    },
+    {
+     "ta": "டாக்டர். சி. நடேசனார்",
+     "en": "Dr. C. Natesanar"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "இரட்டைமலை சீனிவாசன்: ‘பறையன்’ இதழ் (1893), ஆதிதிராவிட மகாஜன சபை, வட்டமேசை மாநாடுகளில் பங்கேற்பு; சுயசரிதை ‘ஜீவிய சரித்திர சுருக்கம்’.",
+    "en": "Rettaimalai Srinivasan ran the paper Parayan (1893), founded the Adi Dravida Mahajana Sabha and attended the Round Table Conferences; his autobiography is Jeeviya Saritha Surukkam."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 125,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Thirukkural: meaning of a couplet (Kural 299)",
+   "q": {
+    "ta": "அகத்தின் இருளைப் போக்கும் விளக்காக வள்ளுவர் எதனைக் கூறுகின்றார்?",
+    "en": "What removes inner negativity of a Mankind like a lamp according to Valluvar?"
+   },
+   "o": [
+    {
+     "ta": "தவ விளக்கு",
+     "en": "Lamp of Penance"
+    },
+    {
+     "ta": "அருள் விளக்கு",
+     "en": "Blessed Lamp"
+    },
+    {
+     "ta": "குடும்ப விளக்கு",
+     "en": "Light of the Family"
+    },
+    {
+     "ta": "பொய்யா விளக்கு",
+     "en": "Lamp with truth’s pure radiance"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "குறள் 299 (வாய்மை): சான்றோர்க்குப் பொய்யா விளக்கே விளக்கு.",
+    "en": "Kural 299 (truthfulness): for the wise, the only true lamp is the lamp of not lying."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 126,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Compound interest",
+   "q": {
+    "ta": "ஒருவர் ரூ. 12,000 ஐ 5% கூட்டுவட்டி விகிதத்தில் 2 ஆண்டுகளுக்கு நிரந்தர வைப்பு திட்டத்தில் செலுத்துகிறார். நிரந்தர வைப்பு முதிர்வு தொகையாக அவர் எவ்வளவு பெறுவார்?",
+    "en": "A person invested Rs.12,000 in a fixed deposit scheme for 2 years at the rate of 5% compound interest. How much amount will be got on maturity of the fixed deposit?"
+   },
+   "o": [
+    {
+     "ta": "ரூ. 13,200",
+     "en": "Rs.13,200"
+    },
+    {
+     "ta": "ரூ. 13,430",
+     "en": "Rs.13,430"
+    },
+    {
+     "ta": "ரூ. 13,230",
+     "en": "Rs.13,230"
+    },
+    {
+     "ta": "ரூ. 12,600",
+     "en": "Rs.12,600"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "12000 × (21/20)² = 12000 × 441/400 = 30 × 441 = ரூ. 13,230.",
+    "en": "12000 × (21/20)² = 12000 × 441/400 = 30 × 441 = Rs. 13,230."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 127,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Sangam age: ports",
+   "q": {
+    "ta": "ரோம் நாட்டைச் சேர்ந்த மூத்த பிளினி தன்னுடைய இயற்கை வரலாறு எனும் நூலில் __________ இந்தியாவின் முதல் பேரங்காடி எனக் குறிப்பிட்டுள்ளார்.",
+    "en": "The Roman Writer Piliny the Elder writes of __________’s, in his Natural History as the first emporium of India."
+   },
+   "o": [
+    {
+     "ta": "காவிரிபூம்பட்டினம்",
+     "en": "Kaveripumpattinam"
+    },
+    {
+     "ta": "நாகப்பட்டினம்",
+     "en": "Nagapattinam"
+    },
+    {
+     "ta": "முசிறி",
+     "en": "Musiri"
+    },
+    {
+     "ta": "கொற்கை",
+     "en": "Korkai"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "முசிறி – சேரர் துறைமுகம்; பிளினி ‘இந்தியாவின் முதல் பேரங்காடி’ என்றார்.",
+    "en": "Musiri was the Chera port; Pliny called it 'the first emporium of India'."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 128,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Social reformers: Iyothee Thass",
+   "q": {
+    "ta": "1891 இல் அயோத்தி தாசரால் நிறுவப்பட்ட திராவிட மகாஜனசபையின் முதல் மாநாடு நடைபெற்ற இடம்",
+    "en": "Iyothee Thassar founded the Dravida Mahajana Sabha in 1891 and organised the First Conference of the association at"
+   },
+   "o": [
+    {
+     "ta": "சேலம்",
+     "en": "Salem"
+    },
+    {
+     "ta": "திருச்சி",
+     "en": "Trichy"
+    },
+    {
+     "ta": "நீலகிரி",
+     "en": "Nilgiris"
+    },
+    {
+     "ta": "மதுரை",
+     "en": "Madurai"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "திராவிட மகாஜன சபை, 1891; முதல் மாநாடு நீலகிரியில் (உதகை).",
+    "en": "Dravida Mahajana Sabha, 1891; its first conference was in the Nilgiris (Ooty)."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 129,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Thirukkural: praise by scholars",
+   "q": {
+    "ta": "வள்ளுவன் செய்த திருக்குறளை நன்கு கற்றுணர்ந்தோர் உள்ளுவரோ மனுவாதி நூல்களை என்று திருக்குறளைப் புகழ்ந்துரைத்தவர் யார்?",
+    "en": "Who did eulogise Thirukkural as given below?\n“Will any other didactic book is needed if one knows Thirukkural”."
+   },
+   "o": [
+    {
+     "ta": "ஔவையார்",
+     "en": "Avvaiyaar"
+    },
+    {
+     "ta": "பேரா. சுந்தரம் பிள்ளை",
+     "en": "Prof. Sundarampillai"
+    },
+    {
+     "ta": "பாரதியார்",
+     "en": "Bharathiyaar"
+    },
+    {
+     "ta": "சுத்தானந்த பாரதியார்",
+     "en": "Shuddhananda Bharathi"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "மனோன்மணீயம் பெ. சுந்தரம் பிள்ளை (தமிழ்த்தாய் வாழ்த்தின் ஆசிரியர்).",
+    "en": "Manonmaniam P. Sundaram Pillai, who also wrote the Tamil Thai Vazhthu."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 130,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Thirukkural: meaning of a couplet (Kural 484)",
+   "q": {
+    "ta": "“ஞாலம் கருதினும் கை கூடும்” –\nமேற்கூறிய திருக்குறளின்படி ஒருவர் உலகம் முழுவதையும் கைப்பற்றக் கருதினாலும் அவர் எந்த இரண்டை அறிந்து செயல்பட வேண்டும்?",
+    "en": "What are the two things that one should keep in mind when setting out to conquer the world in the Kural?\n“Gnalam Karuthinum Kaikoodum”"
+   },
+   "o": [
+    {
+     "ta": "செல்வமும், வீரமும்",
+     "en": "Wealth and Bravery / courage"
+    },
+    {
+     "ta": "காலமும், இடமும்",
+     "en": "Time and Place"
+    },
+    {
+     "ta": "சகோதர – சகோதரி உதவி",
+     "en": "Brother-sister help"
+    },
+    {
+     "ta": "தாய், தந்தை உதவி",
+     "en": "Father, mother help"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "குறள் 484 (காலமறிதல்): காலம் கருதி இடத்தாற் செயின் உலகமே கைகூடும்.",
+    "en": "Kural 484 (knowing the right time): act at the right time and in the right place and even the world can be won."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 131,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Health schemes: Anemia Mukt Bharat",
+   "q": {
+    "ta": "தமிழ்நாட்டில் இரத்த சோகை முக்த் பாரத் திட்டம் எந்த ஆண்டு தொடங்கப்பட்டது?",
+    "en": "Anemia Mukt Bharat was implemented in Tamil Nadu in the year"
+   },
+   "o": [
+    {
+     "ta": "2010"
+    },
+    {
+     "ta": "2015"
+    },
+    {
+     "ta": "2018"
+    },
+    {
+     "ta": "2020"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "இரத்தசோகை இல்லா இந்தியா (Anemia Mukt Bharat): 2018, போஷன் அபியானின் கீழ்.",
+    "en": "Anemia Mukt Bharat began in 2018 under the POSHAN Abhiyaan."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 132,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "TN health projects: JICA",
+   "q": {
+    "ta": "ஜப்பான் பன்னாட்டு கூட்டுறவு முகமை நிதி உதவியுடன் செயல்படும் தமிழ்நாடு நகர்ப்புற சுகாதாரத் திட்டத்தின் செயலாக்கக் காலம் __________ ஆண்டுகள்.",
+    "en": "Implementation of the Tamil Nadu Urban Healthcare project funded by the Japan International Corporation agency for __________ years."
+   },
+   "o": [
+    {
+     "ta": "5"
+    },
+    {
+     "ta": "6"
+    },
+    {
+     "ta": "7"
+    },
+    {
+     "ta": "8"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "JICA நிதியுதவியுடன் தமிழ்நாடு நகர்ப்புற சுகாதாரத் திட்டம் – 7 ஆண்டுகள். விடை மூலத்தில் குறிக்கப்பட்டபடி.",
+    "en": "The JICA-funded Tamil Nadu Urban Healthcare Project runs for 7 years. The answer is as marked in the source."
+   },
+   "status": "unverified"
+  },
+  {
+   "n": 133,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Agriculture: national year of millets",
+   "q": {
+    "ta": "இந்தியா 2018 ஆம் ஆண்டை எந்தப் பயிரின் தேசிய ஆண்டாக கடைபிடித்தது?",
+    "en": "India observed 2018 as the national year of which crop?"
+   },
+   "o": [
+    {
+     "ta": "தினை வகைகள்",
+     "en": "Millets"
+    },
+    {
+     "ta": "எண்ணெய் வித்துக்கள்",
+     "en": "Oil seeds"
+    },
+    {
+     "ta": "கரும்பு",
+     "en": "Sugarcane"
+    },
+    {
+     "ta": "பருத்தி",
+     "en": "Cotton"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "2018 – தேசிய சிறுதானிய ஆண்டு; 2023 – பன்னாட்டு சிறுதானிய ஆண்டு (ஐ.நா.).",
+    "en": "2018 was India's National Year of Millets; 2023 was the UN's International Year of Millets."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 134,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "TN education schemes: Thiranari Thervu",
+   "q": {
+    "ta": "கூற்று [A] : 2023 ஆம் ஆண்டு திறனறித் தேர்வுத் திட்டம் தொடங்கப்பட்டது.\nகாரணம் [R] : அரசுப் பள்ளி மாணவர்களை முதன்மை கல்வி நிறுவனத்தில் உயர்கல்வி பயில ஊக்குவிக்க உருவாக்கப்பட்டது.",
+    "en": "Assertion [A] : “Thiranari Thaervu Thittam” was launched in the year 2023.\nReason [R] : To encourage the government school students to pursue higher education in premier institution."
+   },
+   "o": [
+    {
+     "ta": "[A] சரி, ஆனால் [R] தவறு",
+     "en": "[A] is true, but [R] is false"
+    },
+    {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி, [R]-என்பது [A]-வின் சரியான விளக்கம்",
+     "en": "Both [A] and [R] are true, [R] is the correct explanation of [A]"
+    },
+    {
+     "ta": "[A] தவறு, [R] சரி",
+     "en": "[A] is false, [R] is true"
+    },
+    {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி, ஆனால் [R]-என்பது [A]-வின் சரியான விளக்கம் இல்லை",
+     "en": "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "தமிழ்நாடு முதலமைச்சரின் திறனாய்வுத் தேர்வு (2023): அரசுப் பள்ளி 11-ஆம் வகுப்பு மாணவர்கள் 1000 பேருக்கு மாதம் ரூ. 1000 உதவித்தொகை.",
+    "en": "Tamil Nadu Chief Minister's Talent Search Examination (2023): 1000 government-school Class 11 students get Rs. 1000 a month."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 135,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "TN budget 2023-24: Adi Dravidar welfare",
+   "q": {
+    "ta": "ஆதிதிராவிடர் மற்றும் பழங்குடியின மக்களின் ஒட்டு மொத்த வளர்ச்சியை மேம்படுத்த பல்வேறு நலத்திட்டங்கள், 2023-2024ஆம் ஆண்டுக்கான வரவு செலவு மதிப்பீட்டில் ரூ. __________ கோடிகள் ஒதுக்கீடு செய்யப்பட்டுள்ளது.",
+    "en": "Various welfare schemes to enhance the overall development of Adi Dravidar and Scheduled Tribe people, a sum of Rs. __________ crores has been allocated in the Budget Estimate for the year 2023-2024."
+   },
+   "o": [
+    {
+     "ta": "ரூ. 3012.85",
+     "en": "Rs. 3012.85"
+    },
+    {
+     "ta": "ரூ. 3212.85",
+     "en": "Rs. 3212.85"
+    },
+    {
+     "ta": "ரூ. 3512.85",
+     "en": "Rs. 3512.85"
+    },
+    {
+     "ta": "ரூ. 3552.85",
+     "en": "Rs. 3552.85"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "மூலத்தில் குறிக்கப்பட்ட விடை: ரூ. 3512.85 கோடி. (அந்த ஆண்டின் நிதிநிலை அறிக்கை எண்ணே கேட்கப்படுகிறது.)",
+    "en": "As marked in the source: Rs. 3512.85 crore. (The paper asks for the exact figure from that year's budget.)"
+   },
+   "status": "unverified"
+  },
+  {
+   "n": 136,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Area and volume: cone",
+   "q": {
+    "ta": "கித்தானைக் கொண்டு 700 செ.மீ ஆரமும் 24 மீ உயரமும் உடைய ஒரு கூம்பு வடிவக் கூடாரம் உருவாக்கப்படுகிறது. செவ்வக வடிவக் கித்தானின் அகலம் 4 மீ எனில் அதன் நீளம் காண்க.",
+    "en": "The radius of a conical tent is 700 cm and the height is 24 m. Calculate the length of the canvas used to make the tent if the width of the rectangular canvas is 4 m."
+   },
+   "o": [
+    {
+     "ta": "137.5 மீ",
+     "en": "137.5 m"
+    },
+    {
+     "ta": "13.75 மீ",
+     "en": "13.75 m"
+    },
+    {
+     "ta": "1.375 மீ",
+     "en": "1.375 m"
+    },
+    {
+     "ta": "1.037 மீ",
+     "en": "1.037 m"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "r = 7 மீ, h = 24 மீ ⇒ l = √(49 + 576) = 25 மீ. வளைபரப்பு = πrl = 22/7 × 7 × 25 = 550 மீ². நீளம் = 550 ÷ 4 = 137.5 மீ.",
+    "en": "r = 7 m, h = 24 m, so l = √(49 + 576) = 25 m. Curved area = πrl = 22/7 × 7 × 25 = 550 m². Length = 550 ÷ 4 = 137.5 m."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 137,
+   "subject": "apt",
+   "unit": 2,
+   "topic": "Number series",
+   "q": {
+    "ta": "அடுத்த எண்ணைக் காண்க :\n1, 2, 6, 24, 120, ?",
+    "en": "Find the next number :\n1, 2, 6, 24, 120, ?"
+   },
+   "o": [
+    {
+     "ta": "135"
+    },
+    {
+     "ta": "146"
+    },
+    {
+     "ta": "720"
+    },
+    {
+     "ta": "438"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "×2, ×3, ×4, ×5, ×6 (காரணியப் பெருக்கம்): 120 × 6 = 720.",
+    "en": "×2, ×3, ×4, ×5, ×6 (factorials): 120 × 6 = 720."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 138,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Ratio and proportion",
+   "q": {
+    "ta": "x : y = 2 : 1 எனில் (x² – y²) : (x² + y²) என்பது",
+    "en": "If x : y = 2 : 1, then (x² – y²) : (x² + y²) is"
+   },
+   "o": [
+    {
+     "ta": "5 : 3"
+    },
+    {
+     "ta": "1 : 3"
+    },
+    {
+     "ta": "3 : 1"
+    },
+    {
+     "ta": "3 : 5"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "x = 2, y = 1: (4 − 1) : (4 + 1) = 3 : 5.",
+    "en": "With x = 2, y = 1: (4 − 1) : (4 + 1) = 3 : 5."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 139,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Percentage: discount",
+   "q": {
+    "ta": "குமரன் 20% தள்ளுபடியுடன் ஒரு ரெயின்கோட்டை வாங்கி ரூ. 25 யை சேமித்தார் எனில், ரெயின்கோட்டின் அசல் விலை என்ன?",
+    "en": "Kumaran bought a raincoat and saved Rs. 25 with discount of 20%. What was the original price of the raincoat?"
+   },
+   "o": [
+    {
+     "ta": "ரூ. 125",
+     "en": "Rs. 125"
+    },
+    {
+     "ta": "ரூ. 250",
+     "en": "Rs. 250"
+    },
+    {
+     "ta": "ரூ. 175",
+     "en": "Rs. 175"
+    },
+    {
+     "ta": "ரூ. 150",
+     "en": "Rs. 150"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "20% = ரூ. 25 ⇒ 100% = 25 × 5 = ரூ. 125.",
+    "en": "20% is Rs. 25, so 100% is 25 × 5 = Rs. 125."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 140,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "HCF and LCM with letter values",
+   "q": {
+    "ta": "A = 1, B = 2, C = 3, .... Z = 26 எனக் கொண்டால் H, C, F–ன் மீ.சி.ம எதற்குச் சமமில்லை?",
+    "en": "If A = 1, B = 2, C = 3, .... Z = 26 then L.C.M. of H, C, F is not equal to"
+   },
+   "o": [
+    {
+     "ta": "X"
+    },
+    {
+     "ta": "E + S"
+    },
+    {
+     "ta": "A + C + H"
+    },
+    {
+     "ta": "A × C × H"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "H = 8, C = 3, F = 6 ⇒ மீ.சி.ம = 24. X = 24; E + S = 5 + 19 = 24; A × C × H = 24; A + C + H = 12.",
+    "en": "H = 8, C = 3, F = 6, so the LCM = 24. X = 24; E + S = 5 + 19 = 24; A × C × H = 24; but A + C + H = 12."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 141,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: nested roots",
+   "q": {
+    "ta": "மதிப்பு காண்க √(5√(5√(5 ....)))",
+    "en": "Find the value of √(5√(5√(5 ....)))"
+   },
+   "o": [
+    {
+     "ta": "5³"
+    },
+    {
+     "ta": "5⁰"
+    },
+    {
+     "ta": "5²"
+    },
+    {
+     "ta": "5¹"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "x = √(5x) ⇒ x² = 5x ⇒ x = 5 = 5¹.",
+    "en": "Let x = √(5x); then x² = 5x, so x = 5 = 5¹."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 142,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Volume: sphere and hemisphere",
+   "q": {
+    "ta": "ஒரு அரைக்கோளத்தில் காணப்படும் மீப்பெரு வட்டங்களின் எண்ணிக்கை எத்தனை?",
+    "en": "How many great circles can a hemisphere have?"
+   },
+   "o": [
+    {
+     "ta": "1",
+     "en": "1"
+    },
+    {
+     "ta": "0",
+     "en": "0"
+    },
+    {
+     "ta": "எண்ணற்றவை",
+     "en": "uncountable"
+    },
+    {
+     "ta": "2",
+     "en": "2"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "கோளத்தில் மீப்பெரு வட்டங்கள் எண்ணற்றவை; அரைக்கோளத்தில் அதன் அடிப்பக்க வட்டம் ஒன்றே.",
+    "en": "A sphere has countless great circles; a hemisphere has just one, its base."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 143,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Volume: cylinder",
+   "q": {
+    "ta": "உயரம் 4 மீ மற்றும் அடிப்பரப்பு 500 ச.மீ கொண்ட ஓர் உருளையின் கனஅளவைக் காண்க.",
+    "en": "Find the volume of a cylinder whose height is 4 m and whose base area is 500 m²."
+   },
+   "o": [
+    {
+     "ta": "2000 மீ³",
+     "en": "2000 m³"
+    },
+    {
+     "ta": "2500 மீ³",
+     "en": "2500 m³"
+    },
+    {
+     "ta": "2100 மீ³",
+     "en": "2100 m³"
+    },
+    {
+     "ta": "2700 மீ³",
+     "en": "2700 m³"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "கனஅளவு = அடிப்பரப்பு × உயரம் = 500 × 4 = 2000 மீ³.",
+    "en": "Volume = base area × height = 500 × 4 = 2000 m³."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 144,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Ratio and proportion",
+   "q": {
+    "ta": "3x + 4y : 4x + 6y = 22 : 32 எனில் x : y என்பது",
+    "en": "If 3x + 4y : 4x + 6y = 22 : 32 then x : y is"
+   },
+   "o": [
+    {
+     "ta": "1 : 2"
+    },
+    {
+     "ta": "1 : 4"
+    },
+    {
+     "ta": "2 : 1"
+    },
+    {
+     "ta": "3 : 1"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "32(3x + 4y) = 22(4x + 6y) ⇒ 96x + 128y = 88x + 132y ⇒ 8x = 4y ⇒ x : y = 1 : 2.",
+    "en": "32(3x + 4y) = 22(4x + 6y) gives 96x + 128y = 88x + 132y, so 8x = 4y and x : y = 1 : 2."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 145,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "HCF and LCM",
+   "q": {
+    "ta": "a மற்றும் b என்னும் இரு எண்கள் m : n என்னும் விகிதத்தில் அமைந்துள்ளன எனில் a மற்றும் b யின் மீ.பொ.ம எது?",
+    "en": "If the two numbers a and b are in the ratio m : n. Then the LCM of a and b is"
+   },
+   "o": [
+    {
+     "ta": "ma"
+    },
+    {
+     "ta": "nb"
+    },
+    {
+     "ta": "mb"
+    },
+    {
+     "ta": "ab"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "a = mk, b = nk (m, n சார்பகா எண்கள்) ⇒ மீ.சி.ம = mnk = m × b (= n × a).",
+    "en": "a = mk and b = nk with m, n coprime, so the LCM = mnk = m × b (also n × a)."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 146,
+   "subject": "apt",
+   "unit": 2,
+   "topic": "Puzzles",
+   "q": {
+    "ta": "ஒரு புத்திசாலி மனிதன் மூட்டைக்கு 30 மாம்பழங்கள் வீதம் 3 மூட்டைகள் எடுத்துச் செல்கிறான். ஒவ்வொரு சுங்கச் சாவடியைத் தாண்டும் பொழுதும் மூட்டைக்கு 1 மாம்பழம் தர வேண்டும். 30 சுங்கச் சாவடிகளைத் தாண்டும் பொழுது அவனிடம் எத்தனை மாம்பழங்கள் மீதம் இருக்கும்?",
+    "en": "An intelligent man carries 3 sacks with 30 mangoes each. As he crosses each toll, he has to give 1 mango for each sack. He crosses 30 tolls. How many mangoes he will have at the end?"
+   },
+   "o": [
+    {
+     "ta": "0"
+    },
+    {
+     "ta": "10"
+    },
+    {
+     "ta": "20"
+    },
+    {
+     "ta": "25"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "முதல் 10 சாவடி: 3 மூட்டை, 30 பழம் போகும்; மீதி 60 = 2 மூட்டை. அடுத்த 15 சாவடி: 30 பழம் போகும்; மீதி 30 = 1 மூட்டை. கடைசி 5 சாவடி: 5 போகும்; மீதி 25.",
+    "en": "First 10 tolls with 3 sacks cost 30, leaving 60, which fit in 2 sacks. The next 15 tolls cost 30, leaving 30 in 1 sack. The last 5 tolls cost 5, leaving 25."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 147,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Volume: cuboid diagonal",
+   "q": {
+    "ta": "24 மீ நீளம், 18 மீ அகலம் மற்றும் 16 மீ உயரம் உள்ள ஒரு அறையினுள் வைக்க முடிந்த மிகப் பெரிய கம்பியின் நீளம் என்ன?",
+    "en": "Find the length of the longest pole that can be placed in a room 24 m long, 18 m broad and 16 m high."
+   },
+   "o": [
+    {
+     "ta": "14 மீ",
+     "en": "14 m"
+    },
+    {
+     "ta": "24 மீ",
+     "en": "24 m"
+    },
+    {
+     "ta": "34 மீ",
+     "en": "34 m"
+    },
+    {
+     "ta": "44 மீ",
+     "en": "44 m"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "மூலைவிட்டம் = √(24² + 18² + 16²) = √(576 + 324 + 256) = √1156 = 34 மீ.",
+    "en": "Diagonal = √(24² + 18² + 16²) = √(576 + 324 + 256) = √1156 = 34 m."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 148,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Physiology: teeth",
+   "q": {
+    "ta": "பாலூட்டிகளில் பால்பற்களின் அமைவில் காணப்படாதது.",
+    "en": "Identify the teeth absent in milk dentition in mammals."
+   },
+   "o": [
+    {
+     "ta": "முன்கடைவாய் பற்கள்",
+     "en": "Premolars"
+    },
+    {
+     "ta": "பின்கடைவாய் பற்கள்",
+     "en": "Molars"
+    },
+    {
+     "ta": "கோரைப் பற்கள்",
+     "en": "Canines"
+    },
+    {
+     "ta": "வெட்டுப் பற்கள்",
+     "en": "Incisors"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "மனிதனின் 20 பால்பற்கள்: வெட்டுப்பற்கள் 8, கோரைப்பற்கள் 4, கடைவாய்ப் பற்கள் 8. பெரும்பாலான பாடநூல்கள் பால்பற்களில் இல்லாதவை ‘முன்கடைவாய்ப் பற்கள்’ என்கின்றன; அதன்படி (A). மூலத்தில் குறிக்கப்பட்ட விடை (B).",
+    "en": "The 20 human milk teeth are 8 incisors, 4 canines and 8 molars. Most textbooks say it is the premolars that are missing from the milk set, which would make (A) the answer. The source marks (B)."
+   },
+   "status": "doubtful"
+  },
+  {
+   "n": 149,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Botany: transport in plants",
+   "q": {
+    "ta": "கீழ்க்காண்பவற்றில் எந்த வகை உணவுப் பொருள் ஃபுளோய உணவேற்றம் மூலம் கடத்தப்படுகிறது?",
+    "en": "Which of the following food material is translocated by phloem loading?"
+   },
+   "o": [
+    {
+     "ta": "குளுக்கோஸ்",
+     "en": "Glucose"
+    },
+    {
+     "ta": "ஸ்டார்ச்",
+     "en": "Starch"
+    },
+    {
+     "ta": "ப்ரக்டோஸ்",
+     "en": "Fructose"
+    },
+    {
+     "ta": "சுக்ரோஸ்",
+     "en": "Sucrose"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "தாவரங்களில் உணவு சுக்ரோஸ் வடிவில் ஃபுளோயம் வழியே கடத்தப்படுகிறது.",
+    "en": "Plants move food through the phloem in the form of sucrose."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 150,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Physics: sound, Doppler effect",
+   "q": {
+    "ta": "எக்கூற்று தவறானது : “டாப்ளர் விளைவு நடைபெறாமல் இருக்க நிபந்தனைகள்”\n1. கேட்குநர் ஓய்வு நிலையிலும், ஒலி மூலம் கேட்குநரை நோக்கி நகர்கிறது\n2. ஒலி மூலம் (S) மற்றும் கேட்குநர் (L) சம இடைவெளியில் நகரும்போது\n3. ஒலி மூலம் (S) மற்றும் கேட்குநர் (L) ஒன்றுக்கொன்று செங்குத்தாக நகரும்போது\n4. ஒலி மூலமானது வட்டப்பாதையின் மையப்பகுதியில் அமைந்து, கேட்குநர் வட்டப்பாதையில் நகரும்போது",
+    "en": "Which of the following statements are false about “conditions for no Doppler effect”?\n1. Listener at rest and Source moves towards the Listener\n2. S and L move in such a way that distance between them remains constant\n3. S and L are moving in mutually perpendicular directions\n4. The Source is situated at the centre of the circle along which the Listener is moving"
+   },
+   "o": [
+    {
+     "ta": "1 மட்டும்",
+     "en": "1 only"
+    },
+    {
+     "ta": "1 மற்றும் 2 மட்டும்",
+     "en": "1 and 2 only"
+    },
+    {
+     "ta": "1 மற்றும் 4 மட்டும்",
+     "en": "1 and 4 only"
+    },
+    {
+     "ta": "3 மற்றும் 4 மட்டும்",
+     "en": "3 and 4 only"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "ஒலிமூலம் கேட்குநரை நோக்கி நகர்ந்தால் டாப்ளர் விளைவு ஏற்படும் (அதிர்வெண் கூடும்). மற்ற மூன்றிலும் இடைத்தொலைவு மாறாததால் விளைவு இல்லை.",
+    "en": "If the source moves towards the listener there is a Doppler effect (the pitch rises). In the other three the distance between them does not change, so there is none."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 151,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Botany: plant fossils",
+   "q": {
+    "ta": "சரியாக பொருந்திய தொல்லுயிரினை தேர்ந்தெடுக்க :",
+    "en": "Identify the correctly matched Fossil :"
+   },
+   "o": [
+    {
+     "ta": "பாசி – பர்குலா",
+     "en": "Alga – Furcula"
+    },
+    {
+     "ta": "பிரையோஃபைட் – நயடைட்டா",
+     "en": "Bryophyte – Naiadita"
+    },
+    {
+     "ta": "டெரிடோஃபைட் – லெப்பிடோகார்பான்",
+     "en": "Pteridophyte – Lepidocarpon"
+    },
+    {
+     "ta": "ஜிம்னோஸ்பெர்ம் – ரைனியா",
+     "en": "Gymnosperm – Rhynia"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "பிரையோஃபைட் – நயடைட்டா; டெரிடோஃபைட் – ரைனியா, குக்சோனியா; ஜிம்னோஸ்பெர்ம் – லெப்பிடோகார்பான், வில்லியம்சோனியா; பாசி – பேலியோபொரெல்லா.",
+    "en": "Bryophyte: Naiadita. Pteridophytes: Rhynia, Cooksonia. Gymnosperms: Lepidocarpon, Williamsonia. Alga: Palaeoporella."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 152,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Chemistry: acid-base indicators",
+   "q": {
+    "ta": "சரியான இணைகளை தேர்ந்தெடு :\n1. பினாப்தலீன் – அமில ஊடகத்தில் நிறமற்றது, கார ஊடகத்தில் இளஞ்சிவப்பு நிறத்தை உருவாக்கும்\n2. மெத்தைல் ஆரஞ்சு – கார ஊடகத்தில் இளஞ்சிவப்பு நிறம், அமில ஊடகத்தில் மஞ்சள் நிறத்தை உருவாக்கும்\n3. சிவப்பு லிட்மஸ் தாள் – கார ஊடகத்தில் நீல நிறமாக மாறும்\n4. நீல லிட்மஸ் தாள் – கார ஊடகத்தில் சிவப்பு நிறமாக மாறும்",
+    "en": "Choose the correct pairs :\n1. Phenolphthalein – Colourless in acidic medium and pink in basic medium\n2. Methyl orange – Pink in basic medium and yellow in acid medium\n3. Red litmus paper – Turns blue in basic medium\n4. Blue litmus paper – Turns red in basic medium"
+   },
+   "o": [
+    {
+     "ta": "1 மற்றும் 2 சரியானது",
+     "en": "1 and 2 are correct"
+    },
+    {
+     "ta": "1 மற்றும் 3 சரியானது",
+     "en": "1 and 3 are correct"
+    },
+    {
+     "ta": "2 மற்றும் 3 சரியானது",
+     "en": "2 and 3 are correct"
+    },
+    {
+     "ta": "3 மற்றும் 4 சரியானது",
+     "en": "3 and 4 are correct"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "மெத்தில் ஆரஞ்சு: அமிலத்தில் இளஞ்சிவப்பு, காரத்தில் மஞ்சள். நீல லிட்மஸ் அமிலத்தில் தான் சிவப்பாகும்.",
+    "en": "Methyl orange is pink in acid and yellow in base. Blue litmus turns red in acid, not in base."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 153,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Current affairs: science",
+   "q": {
+    "ta": "அண்மையில் தாவரங்களில் நோய் ஏற்படுத்தும் பூஞ்சையானது மனிதர்களைத் தாக்கி நோய்த்தொற்று ஏற்படுத்தியதாக தெரியவந்துள்ளது. இதற்கு காரணமான பூஞ்சை எது?",
+    "en": "A fungus causing disease in plants is reported recently to cause infection in man is"
+   },
+   "o": [
+    {
+     "ta": "பிளாஸ்மோடையோபோரா பிராசிக்கே",
+     "en": "Plasmodiophora brassicae"
+    },
+    {
+     "ta": "காண்ட்ரோஸ்டிரியம் பர்பூரியம்",
+     "en": "Chondrostereum purpureum"
+    },
+    {
+     "ta": "டாப்ரினா டிபார்மன்ஸ்",
+     "en": "Taphrina deformans"
+    },
+    {
+     "ta": "பக்சினியா கிராமினிஸ் வார்-டிரிட்டிசை",
+     "en": "Puccinia graminis var-tritici"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "2023, கொல்கத்தா: ‘வெள்ளி இலை’ நோய்ப் பூஞ்சை மனிதரைத் தாக்கிய உலகின் முதல் நிகழ்வு.",
+    "en": "Kolkata, 2023: the first known human infection by the 'silver leaf' fungus."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 154,
+   "subject": "gs",
+   "unit": 2,
+   "topic": "Wildlife: state animals",
+   "q": {
+    "ta": "பின்வருவனவற்றில் எந்த மாநிலம் சதுப்புநில மானை மாநில விலங்காகக் கொண்டுள்ளது?",
+    "en": "Which one of the state has swamp deer as its state animal?"
+   },
+   "o": [
+    {
+     "ta": "கேரளா",
+     "en": "Kerala"
+    },
+    {
+     "ta": "நாகாலாந்து",
+     "en": "Nagaland"
+    },
+    {
+     "ta": "ஹரியானா",
+     "en": "Haryana"
+    },
+    {
+     "ta": "மகாராஷ்டிரா",
+     "en": "Maharashtra"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "சதுப்புநில மான் (பாராசிங்கா) மத்தியப் பிரதேசம், உத்தரப் பிரதேசம் ஆகியவற்றின் மாநில விலங்கு; நான்கு விடைகளிலும் அவை இல்லை. மகாராஷ்டிராவின் மாநில விலங்கு இந்திய மலை அணில். மூலத்தில் குறிக்கப்பட்ட விடை (D).",
+    "en": "The swamp deer (barasingha) is the state animal of Madhya Pradesh and Uttar Pradesh, and neither is among the options. Maharashtra's state animal is the Indian giant squirrel. The source marks (D)."
+   },
+   "status": "doubtful"
+  },
+  {
+   "n": 155,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Current affairs: summits",
+   "q": {
+    "ta": "எந்த நாட்டில் (2023ஆம் ஆண்டு) 49-வது G7 உச்சி மாநாடு நடைபெற்றது?",
+    "en": "In which country the 49th G7 summit (2023) was held?"
+   },
+   "o": [
+    {
+     "ta": "அமெரிக்கா",
+     "en": "USA"
+    },
+    {
+     "ta": "தென்ஆப்பிரிக்கா",
+     "en": "South Africa"
+    },
+    {
+     "ta": "பிரேசில்",
+     "en": "Brazil"
+    },
+    {
+     "ta": "ஜப்பான்",
+     "en": "Japan"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "49-வது G7 மாநாடு: ஹிரோஷிமா, ஜப்பான், மே 2023.",
+    "en": "The 49th G7 summit was at Hiroshima, Japan, in May 2023."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 156,
+   "subject": "gs",
+   "unit": 2,
+   "topic": "Forest and wildlife: conservation",
+   "q": {
+    "ta": "சரியான வாக்கியங்களைத் தேர்ந்தெடு :\n(i) இந்திய அரசு 1972-இல் வனவிலங்கு பாதுகாப்புச் சட்டத்தை இயற்றியது.\n(ii) புலிகள் பாதுகாப்பு திட்டம் ஏப்ரல் 1974-இல் தொடங்கப்பட்டது.\n(iii) இந்திய அரசாங்கம் 16 உயிர்க்கோள காப்பகங்களை ஏற்படுத்தியுள்ளது.",
+    "en": "Choose the correct statements :\n(i) The Government of India enacted Wildlife Protection Act in 1972.\n(ii) Project Tiger was launched in April 1974.\n(iii) The Indian Government has established 16 Biosphere Reserves."
+   },
+   "o": [
+    {
+     "ta": "(i) மட்டும்",
+     "en": "(i) only"
+    },
+    {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "புலிகள் பாதுகாப்புத் திட்டம் ஏப்ரல் 1973; உயிர்க்கோளக் காப்பகங்கள் 18.",
+    "en": "Project Tiger began in April 1973, and India has 18 biosphere reserves."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 157,
+   "subject": "gs",
+   "unit": 1,
+   "topic": "Current affairs: technology",
+   "q": {
+    "ta": "தண்டவாளங்களில் யானை விபத்துக்களைத் தடுக்க இந்திய ரயில்வே __________ என்ற அதி நவீன AI தொழில்நுட்பத்துடன் இயங்கும் முறையை அறிமுகப்படுத்தியுள்ளது.",
+    "en": "Indian Railways has introduced a cutting-edge AI based technology called __________ to prevent elephant accidents on railway tracks."
+   },
+   "o": [
+    {
+     "ta": "ஹத்தி போர்ட்",
+     "en": "Hatti port"
+    },
+    {
+     "ta": "ரேடியோ காலக்ஸி",
+     "en": "Radio galaxy"
+    },
+    {
+     "ta": "கஜ்ராஜ் சுரக்ஷா",
+     "en": "Gajraj Suraksha"
+    },
+    {
+     "ta": "ஜியோக்ளிப் சேவர்",
+     "en": "Geoglyph saver"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "கஜ்ராஜ் சுரக்ஷா (2023): ஒளியிழை உணரிகள் மூலம் யானைகளின் நடமாட்டத்தைக் கண்டறியும் AI அமைப்பு.",
+    "en": "Gajraj Suraksha (2023) is an AI system that detects elephants near the track through optical-fibre sensors."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 158,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Guptas: rock-cut caves",
+   "q": {
+    "ta": "கீழ்கண்டவற்றுள் எது குப்தர் காலத்துக் குடைவரைக் கோயில் இல்லை?",
+    "en": "Which one of the following is the wrong option for the rock-cut cave temple of Gupta period?"
+   },
+   "o": [
+    {
+     "ta": "உதயகிரி குகை (ஒடிசா)",
+     "en": "Udayagiri Cave (Odisha)"
+    },
+    {
+     "ta": "அஜந்தா – எல்லோரா குகை (மகாராஷ்டிரா)",
+     "en": "Ajanta and Ellora Caves (Maharashtra)"
+    },
+    {
+     "ta": "எலிபண்டா குகை (மகாராஷ்டிரா)",
+     "en": "Elephanta Cave (Maharashtra)"
+    },
+    {
+     "ta": "பாக் குகை (மத்திய பிரதேசம்)",
+     "en": "Bagh Cave (Madhya Pradesh)"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "பாடநூல்படி குப்தர் காலக் குடைவரைகள்: அஜந்தா, எல்லோரா, பாக், உதயகிரி. எலிபண்டா பிற்காலத்தது.",
+    "en": "By the textbook the Gupta rock-cut caves are Ajanta, Ellora, Bagh and Udayagiri. Elephanta is later."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 159,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "National movement: Partition of Bengal",
+   "q": {
+    "ta": "வங்கப் பிரிவினையின் போது ரக்ஷாபந்தன் விழாவை பெருமளவில் மக்கள் பங்கேற்பை தொடக்கி வைத்தவர்",
+    "en": "__________ started a mass Raksha Bandan festival during Partition of Bengal."
+   },
+   "o": [
+    {
+     "ta": "M.K. காந்தி",
+     "en": "M.K. Gandhi"
+    },
+    {
+     "ta": "ஜவஹர்லால் நேரு",
+     "en": "Jawaharlal Nehru"
+    },
+    {
+     "ta": "சுரேந்திரநாத் பானர்ஜி",
+     "en": "Surendranath Banerjee"
+    },
+    {
+     "ta": "ரவீந்திரநாத் தாகூர்",
+     "en": "Rabindranath Tagore"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "1905 வங்கப் பிரிவினையை எதிர்த்து, இந்து–முஸ்லிம் ஒற்றுமைக்காகத் தாகூர் ரக்ஷாபந்தன் விழா நடத்தினார்.",
+    "en": "In 1905 Tagore used Raksha Bandhan to show Hindu–Muslim unity against the Partition of Bengal."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 160,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "South Indian history: Bahmani kingdom",
+   "q": {
+    "ta": "தான் பெற்ற வெற்றிகளை நினைவு கூறும் வகையில் தன் நாணயங்களில் தன்னுடைய பெயரை இரண்டாம் அலெக்சாண்டர் என்று பொறித்துக் கொண்ட அரசர்",
+    "en": "A king who emerged victorious in all his expeditions and engraved the title Second Alexander on his coins"
+   },
+   "o": [
+    {
+     "ta": "பாமன் ஷா",
+     "en": "Bahman Shah"
+    },
+    {
+     "ta": "முகமது கவான்",
+     "en": "Mohammed Gawan"
+    },
+    {
+     "ta": "கிருஷ்ணதேவராயர்",
+     "en": "Krishnadevaraya"
+    },
+    {
+     "ta": "சமுத்திர குப்தர்",
+     "en": "Samudragupta"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "பாமினி அரசை நிறுவிய அலாவுதீன் ஹசன் பாமன் ஷா (1347); தலைநகர் குல்பர்கா. பாடநூல் வரி.",
+    "en": "Alauddin Hasan Bahman Shah, founder of the Bahmani kingdom (1347) with his capital at Gulbarga. This is a textbook line."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 161,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "Indus Valley Civilisation",
+   "q": {
+    "ta": "கீழே கொடுக்கப்பட்டுள்ள எந்த கல்வெட்டுக் குறிப்புகள் மெசபடோமியாவுக்கும், ஹரப்பாவுக்கும் இடையேயான வணிகத் தொடர்புகளைக் குறிப்பிடுகின்றன?",
+    "en": "Which among the following inscriptions mention the trade contacts between Mesopotamia and Harappan civilisation?"
+   },
+   "o": [
+    {
+     "ta": "தேவநாகரி",
+     "en": "Devanagiri"
+    },
+    {
+     "ta": "கரோஷ்டி",
+     "en": "Kharoshti"
+    },
+    {
+     "ta": "க்யூனிபார்ம்",
+     "en": "Cuneiform"
+    },
+    {
+     "ta": "ஹைரோக்ளைபிக்ஸ்",
+     "en": "Hieroglyphics"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "மெசபடோமியாவின் கியூனிஃபார்ம் (ஆப்பெழுத்து) குறிப்புகளில் சிந்துப் பகுதி ‘மெலுகா’ எனக் குறிக்கப்படுகிறது.",
+    "en": "Mesopotamian cuneiform texts refer to the Indus region as 'Meluhha'."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 162,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Directive Principles of State Policy",
+   "q": {
+    "ta": "கீழ்க்காணும் கூற்றுகளில் அரசு நெறிமுறையுறுத்தும் கோட்பாடுகளை பற்றிய சரியான கூற்றை கண்டறிக :\n(i) சட்டப்பிரிவு 36 – லிருந்து 51 வரை அரசு நெறிமுறையுறுத்தும் கோட்பாடுகள் பற்றி கூறியுள்ளது.\n(ii) டாக்டர் B.R. அம்பேத்கர் இதனை இந்திய அரசியலமைப்பின் புதுமையான சிறப்பம்சம் என விவரிக்கிறார்.\n(iii) இந்த கொள்கைகளை நீதிமன்றத்தால் வலுக்கட்டாயமாக செயல்படுத்த முடியும்.",
+    "en": "Which of the following statements are true about Directive Principles of state policy?\n(i) Article 36 to 51 deals with directive principles of state policy.\n(ii) Dr. B.R. Ambedkar described it as “novel features” of the Indian Constitution.\n(iii) These principles are enforceable by the courts."
+   },
+   "o": [
+    {
+     "ta": "(i) மட்டும்",
+     "en": "(i) only"
+    },
+    {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "வழிகாட்டு நெறிமுறைகளை நீதிமன்றம் மூலம் செயல்படுத்த முடியாது (உறுப்பு 37).",
+    "en": "The Directive Principles cannot be enforced by a court (Article 37)."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 163,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Panchayat Raj: three tiers",
+   "q": {
+    "ta": "அரசமைப்பு சட்டத்தின் படி மூன்று அடுக்குகளை கொண்ட பஞ்சாயத்து ராஜ் அமைப்பினை பொருத்துக.",
+    "en": "Arrange the three tier Panchayat Raj system as per the constitutional provisions."
+   },
+   "o": [
+    {
+     "ta": "கிராமப் பஞ்சாயத்து – இடைநிலைப் பஞ்சாயத்து – மாவட்டப் பஞ்சாயத்து",
+     "en": "Village Panchayat – Intermediate Panchayat – District Panchayat"
+    },
+    {
+     "ta": "ஊராட்சி ஒன்றியம் – மாவட்டப் பஞ்சாயத்து – கிராமப் பஞ்சாயத்து",
+     "en": "Panchayat Union – District Panchayat – Village Panchayat"
+    },
+    {
+     "ta": "மாவட்டப் பஞ்சாயத்து – கிராமப் பஞ்சாயத்து – இடைநிலைப் பஞ்சாயத்து",
+     "en": "District Panchayat – Village Panchayat – Intermediate Panchayat"
+    },
+    {
+     "ta": "கிராமப் பஞ்சாயத்து – நகரப் பஞ்சாயத்து – மாவட்டப் பஞ்சாயத்து",
+     "en": "Village Panchayat – Town Panchayat – District Panchayat"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "73-வது திருத்தம் (1992): கிராமம், இடைநிலை (ஊராட்சி ஒன்றியம்), மாவட்டம்.",
+    "en": "73rd Amendment (1992): village, intermediate (panchayat union) and district levels."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 164,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Centre–State relations: Article 249",
+   "q": {
+    "ta": "கூற்று [A] : அரசமைப்பின் 249-வது உறுப்பின்படி ஒரு அதிகாரத்தை மாநில பட்டியலிலிருந்து மத்திய பட்டியலுக்கு நாடாளுமன்றத்தால் மாற்ற முடியும்.\nகாரணம் [R] : தேசிய நலன் கருதி நாடாளுமன்றம் இம்மாற்றத்தை செய்யலாம்.",
+    "en": "Assertion [A] : Article 249 of the constitution enables the Parliament to transfer a subject from the state list to the union list.\nReason [R] : It is for the purpose of legislation by parliament on grounds of national interest"
+   },
+   "o": [
+    {
+     "ta": "[A] சரி, ஆனால் [R] தவறு",
+     "en": "[A] is true, but [R] is false"
+    },
+    {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி; மேலும் [R] என்பது [A]விற்கு சரியான விளக்கமாகும்",
+     "en": "Both [A] and [R] are true; and [R] is the correct explanation of [A]"
+    },
+    {
+     "ta": "[A] தவறு, ஆனால் [R] சரி",
+     "en": "[A] is false, but [R] is true"
+    },
+    {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி; ஆனால் [R] என்பது [A]விற்கு சரியான விளக்கமல்ல",
+     "en": "Both [A] and [R] are true; but [R] is not the correct explanation of [A]"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "உறுப்பு 249: மாநிலங்களவை 2/3 பெரும்பான்மைத் தீர்மானம் நிறைவேற்றினால், தேசிய நலனுக்காக மாநிலப் பட்டியல் பொருளில் நாடாளுமன்றம் சட்டம் இயற்றலாம்.",
+    "en": "Article 249: if the Rajya Sabha passes a resolution by a two-thirds majority, Parliament may legislate on a State List subject in the national interest."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 165,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Important days",
+   "q": {
+    "ta": "‘வெளிநாடு வாழ் இந்தியர்கள் தினம்’ எந்த நாளில் கொண்டாடப்படுகிறது?",
+    "en": "Which day is celebrated as overseas Indian’s day?"
+   },
+   "o": [
+    {
+     "ta": "நவம்பர்-9",
+     "en": "November-9"
+    },
+    {
+     "ta": "டிசம்பர்-9",
+     "en": "December-9"
+    },
+    {
+     "ta": "ஜனவரி-9",
+     "en": "January-9"
+    },
+    {
+     "ta": "பிப்ரவரி-9",
+     "en": "February-9"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "பிரவாசி பாரதிய திவஸ் – ஜனவரி 9 (1915-இல் காந்தி தென்னாப்பிரிக்காவிலிருந்து திரும்பிய நாள்).",
+    "en": "Pravasi Bharatiya Divas is 9 January, the day Gandhi returned from South Africa in 1915."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 166,
+   "subject": "gs",
+   "unit": 4,
+   "topic": "Constitution: making",
+   "q": {
+    "ta": "யார் இந்திய அரசியலமைப்பின் சிற்பி எனக் கருதப்படுகிறார்?",
+    "en": "Who is considered to be the Architect of the Constitution of India?"
+   },
+   "o": [
+    {
+     "ta": "டாக்டர். பி.ஆர். அம்பேத்கர்",
+     "en": "Dr. B.R. Ambedkar"
+    },
+    {
+     "ta": "டாக்டர். இராஜேந்திர பிரசாத்",
+     "en": "Dr. Rajendra Prasad"
+    },
+    {
+     "ta": "எச்.சி. முகர்ஜி",
+     "en": "H.C. Mukherjee"
+    },
+    {
+     "ta": "வி.டி. கிருஷ்ணமாச்சாரி",
+     "en": "V.T. Krishnamachari"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "வரைவுக்குழுத் தலைவர் அம்பேத்கர்; அரசமைப்பு நிர்ணய சபைத் தலைவர் இராஜேந்திர பிரசாத்.",
+    "en": "Ambedkar chaired the Drafting Committee; Rajendra Prasad was President of the Constituent Assembly."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 167,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Industrial growth: jute",
+   "q": {
+    "ta": "1855-ல் மேற்கு வங்க மாநிலத்திலுள்ள __________ என்னும் ஊரில் நவீனமயமாக்கப்பட்ட சணல் தொழிற்சாலை முதல் முறையாக உருவாக்கப்பட்டது.",
+    "en": "The first modernised Jute Industrial Unit was established at __________ in West Bengal in 1855."
+   },
+   "o": [
+    {
+     "ta": "பர்ன்பூர்",
+     "en": "Burnpur"
+    },
+    {
+     "ta": "செராம்பூர்",
+     "en": "Serampur"
+    },
+    {
+     "ta": "குளோஸ்டர்",
+     "en": "Cloaster"
+    },
+    {
+     "ta": "ரிஷ்ரா",
+     "en": "Rishra"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "முதல் சணல் ஆலை: ரிஷ்ரா (கொல்கத்தா அருகே), 1855.",
+    "en": "The first jute mill was at Rishra near Kolkata in 1855."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 168,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Human Development Index",
+   "q": {
+    "ta": "மனித மேம்பாட்டுக் குறியீட்டில் அதிக புள்ளிகள் பெற்ற நாடுகளை மேலிருந்து கீழாக வரிசைப்படுத்துக. (2016 ஆம் ஆண்டின் படி)\n1. நார்வே\n2. ஸ்விட்சர்லாந்து\n3. இந்தியா\n4. ஆஸ்திரேலியா",
+    "en": "Arrange the chronological order. Following countries got highest point in the human development index in descending order (As on 2016)\n1. Norway\n2. Switzerland\n3. India\n4. Australia"
+   },
+   "o": [
+    {
+     "ta": "1 4 2 3"
+    },
+    {
+     "ta": "4 2 1 3"
+    },
+    {
+     "ta": "2 1 4 3"
+    },
+    {
+     "ta": "2 1 3 4"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "2016 அறிக்கை: நார்வே 1, ஆஸ்திரேலியா 2, சுவிட்சர்லாந்து 2 (இணை), இந்தியா 131.",
+    "en": "2016 report: Norway 1st, Australia 2nd, Switzerland joint 2nd, India 131st."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 169,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Sources of revenue: Union and State taxes",
+   "q": {
+    "ta": "தவறான இணையைக் கண்டுபிடி:\n(i) வேளாண் வருமான வரி – மாநிலம்\n(ii) நிலம் மற்றும் கட்டிடங்கள் மீதான வரி – மாநிலம்\n(iii) மின்சார நுகர்வு அல்லது விற்பனைக்கான வரி – ஒன்றிய அரசு\n(iv) நில வருவாய் – ஒன்றிய அரசு",
+    "en": "Which of the following is incorrectly paired?\n(i) Taxes on Agricultural income – State\n(ii) Taxes on land and buildings – State\n(iii) Taxes on the consumption or sale of Electricity – Centre\n(iv) Land Revenue – Centre"
+   },
+   "o": [
+    {
+     "ta": "(i) மற்றும் (ii)",
+     "en": "(i) and (ii)"
+    },
+    {
+     "ta": "(ii) மற்றும் (iii)",
+     "en": "(ii) and (iii)"
+    },
+    {
+     "ta": "(iii) மற்றும் (iv)",
+     "en": "(iii) and (iv)"
+    },
+    {
+     "ta": "(i) மற்றும் (iv)",
+     "en": "(i) and (iv)"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "மின்சார வரியும் நில வருவாயும் மாநிலப் பட்டியலில் உள்ளவை.",
+    "en": "Electricity duty and land revenue are both in the State List."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 170,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "NITI Aayog",
+   "q": {
+    "ta": "நிதி ஆயோக்கின் நிர்வாக தலைவர் யார்?",
+    "en": "The functional head of NITI Aayog"
+   },
+   "o": [
+    {
+     "ta": "தலைவர்",
+     "en": "Chairman"
+    },
+    {
+     "ta": "அதிகாரப்பூர்வ உறுப்பினர்கள்",
+     "en": "Ex-officio members"
+    },
+    {
+     "ta": "துணைத் தலைவர்",
+     "en": "Vice-Chairman"
+    },
+    {
+     "ta": "இந்திய ஜனாதிபதி",
+     "en": "President of India"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "நிதி ஆயோக் (1 ஜனவரி 2015): தலைவர் பிரதமர்; அன்றாடப் பணிகளை வழிநடத்துபவர் துணைத் தலைவர்; தலைமைச் செயல் அலுவலர் (CEO) தனி.",
+    "en": "NITI Aayog (1 January 2015): the Prime Minister is Chairperson, the Vice-Chairperson runs it day to day, and there is a separate CEO."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 171,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Women reformers: Moovalur Ramamirtham",
+   "q": {
+    "ta": "தேவதாசி முறை ஒழிப்பு சட்டம் கொண்டு வர டாக்டர். முத்துலட்சுமி அம்மையாருக்கு ஆணிவேராக இருந்த பெண் சீர்திருத்தவாதி",
+    "en": "A woman reformer who was instrumental in Dr. Muthulakshmi’s introduction of the Devadasi Abolition Act"
+   },
+   "o": [
+    {
+     "ta": "மூவலூர் இராமாமிர்தம் அம்மையார்",
+     "en": "Moovalur Ramamirtham Ammaiyar"
+    },
+    {
+     "ta": "அன்னிபெசன்ட் அம்மையார்",
+     "en": "Annie Besant Ammaiyar"
+    },
+    {
+     "ta": "டாக்டர். தர்மாம்பாள் அம்மையார்",
+     "en": "Dr. Dharmambal Ammaiyar"
+    },
+    {
+     "ta": "நாகம்மையார்",
+     "en": "Nagammaiyar"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "மூவலூர் இராமாமிர்தம்: ‘தாசிகளின் மோசவலை அல்லது மதி பெற்ற மைனர்’ நூலின் ஆசிரியர்.",
+    "en": "Moovalur Ramamirtham wrote the novel 'Dasigalin Mosavalai allathu Mathi Petra Minor'."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 172,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "National leaders: books",
+   "q": {
+    "ta": "“நான் ஏன் நாத்திகனாக இருக்கிறேன்”? என்ற புத்தகத்தின் ஆசிரியர்",
+    "en": "The author of the book “Why I am an Atheist”?"
+   },
+   "o": [
+    {
+     "ta": "ஈ.வே.ரா. பெரியார்",
+     "en": "E.V.R. Periyar"
+    },
+    {
+     "ta": "சி.என். அண்ணாதுரை",
+     "en": "C.N. Annadurai"
+    },
+    {
+     "ta": "பகத்சிங்",
+     "en": "Bhagat Singh"
+    },
+    {
+     "ta": "ராஜகுரு",
+     "en": "Rajaguru"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "பகத்சிங், 1930, லாகூர் சிறையில் எழுதியது.",
+    "en": "Bhagat Singh wrote it in Lahore jail in 1930."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 173,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "National movement: economic critique",
+   "q": {
+    "ta": "“இந்தியாவில் வறுமையும் பிரிட்டிஷ் தன்மையற்ற ஆட்சியும்” என்ற நூலின் ஆசிரியர்",
+    "en": "Name the author of book “Poverty and Un-British Rule in India”."
+   },
+   "o": [
+    {
+     "ta": "பால கங்காதர திலகர்",
+     "en": "Bala Gangadhar Tilak"
+    },
+    {
+     "ta": "கோபால கிருஷ்ண கோகலே",
+     "en": "Gopala Krishna Gokhale"
+    },
+    {
+     "ta": "தாதாபாய் நௌரோஜி",
+     "en": "Dadabhai Naoroji"
+    },
+    {
+     "ta": "எம்.ஜி. ரானடே",
+     "en": "M.G. Ranade"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "தாதாபாய் நௌரோஜி (1901) – செல்வச் சுரண்டல் கோட்பாடு.",
+    "en": "Dadabhai Naoroji (1901), who set out the Drain of Wealth theory."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 174,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Early resistance: Theeran Chinnamalai",
+   "q": {
+    "ta": "பின்வரும் கூற்றுகளில் தீரன் சின்னமலைப் பற்றிய சரியான கூற்று எது?\n(i) தீரன் சின்னமலை ஆங்கிலேயக் கிழக்கிந்தியக் கம்பெனியை எதிர்த்துப் போரிட்ட கொங்கு நாட்டு பாளையக்காரர் ஆவார்.\n(ii) இவர் பிரெஞ்சுக்காரர்களாலும், திப்புவாலும் பயிற்சி அளிக்கப்பட்ட பாளையக்காரர் ஆவார்.\n(iii) 1800 லிருந்து அவர் தூக்கிலிடப்பட்ட 1805 ஜூலை 31 வரை பிரெஞ்சுக்காரர்களுக்கு எதிராகப் போராடினார்.",
+    "en": "Which of the following statements are true about Theeran Chinnamalai?\n(i) Theeran Chinnamalai was a Palayakkarar of Kongu country who fought against the British East India Company.\n(ii) He was trained by the French and Tipu.\n(iii) From 1800 to July 31, 1805 (ie) the day of his hanging, Theeran Chinnamalai ceaselessly fought against the French."
+   },
+   "o": [
+    {
+     "ta": "(i) மட்டும்",
+     "en": "(i) only"
+    },
+    {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "அவர் போராடியது ஆங்கிலேயருக்கு எதிராக; 31 ஜூலை 1805 சங்ககிரிக் கோட்டையில் தூக்கிலிடப்பட்டார்.",
+    "en": "He fought the British, not the French, and was hanged at Sankagiri fort on 31 July 1805."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 175,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "TN in the freedom struggle: labour movement",
+   "q": {
+    "ta": "தொழிலாளன் (worker) என்ற தமிழ் பத்திரிக்கையை வெளியிட்டவர் யார்?",
+    "en": "Who published the Tamil newspaper Thozhilalan (worker)?"
+   },
+   "o": [
+    {
+     "ta": "ம. சிங்காரவேலர்",
+     "en": "M. Singaravelar"
+    },
+    {
+     "ta": "எம்.சி. ராஜா",
+     "en": "M.C. Rajah"
+    },
+    {
+     "ta": "இரட்டைமலை சீனிவாசன்",
+     "en": "Rettaimalai Srinivasan"
+    },
+    {
+     "ta": "மூவலூர் இராமாமிர்தம்",
+     "en": "Moovalur Ramamirtham"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "சிங்காரவேலர்: தென்னிந்தியாவின் முதல் பொதுவுடைமைவாதி; 1923-இல் இந்தியாவில் முதல் மே தினம்.",
+    "en": "Singaravelar was South India's first communist and held India's first May Day in 1923."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 176,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "HCF and LCM",
+   "q": {
+    "ta": "இரு எண்களின் மீ.சி.ம ஆனது மீ.பெ.கா-வின் 6 மடங்காகும். மீ.பெ.கா 12 மற்றும் ஓர் எண் 36 எனில், மற்றோர் எண்ணைக் காண்க.",
+    "en": "The LCM of two numbers is 6 times their HCF. If the HCF is 12 and one of the numbers is 36, then find the other number."
+   },
+   "o": [
+    {
+     "ta": "24"
+    },
+    {
+     "ta": "34"
+    },
+    {
+     "ta": "12"
+    },
+    {
+     "ta": "6"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "மீ.சி.ம = 6 × 12 = 72. மற்ற எண் = (12 × 72) ÷ 36 = 24.",
+    "en": "LCM = 6 × 12 = 72. Other number = (12 × 72) ÷ 36 = 24."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 177,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "South Indian history: Vijayanagar",
+   "q": {
+    "ta": "விஜய நகரப் பேரரசில் அறிமுகமான __________ நாணயம் பகோடா எனப்பட்டது.",
+    "en": "Pagoda was a __________ coin of Vijayanagar descent."
+   },
+   "o": [
+    {
+     "ta": "வெள்ளி",
+     "en": "Silver"
+    },
+    {
+     "ta": "செம்பு",
+     "en": "Copper"
+    },
+    {
+     "ta": "வெண்கலம்",
+     "en": "Bronze"
+    },
+    {
+     "ta": "தங்கம்",
+     "en": "Gold"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "விஜயநகரத் தங்க நாணயம் – வராகன் (பகோடா).",
+    "en": "The Vijayanagar gold coin was the varaha, called the pagoda."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 178,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "TN in the freedom struggle: V.O.C.",
+   "q": {
+    "ta": "கீழ்கண்ட கூற்றுகளில் வ.உ. சிதம்பரம் பிள்ளையை பற்றிய சரியான வாக்கியங்கள் எவை?\n(i) கோபாலகிருஷ்ண கோகலேவின் சீடர் ஆவார்.\n(ii) இவர் செக்கிழுத்த செம்மல் என்று அழைக்கப்பட்டார்.\n(iii) இந்திய பணியாளர் சங்கத்தை தோற்றுவித்தார்.\n(iv) வழக்கறிஞர் ஆவார்",
+    "en": "Which of the following statements are true about V.O. Chidambaram Pillai?\n(i) He was a follower of Gopalakrishna Gokhale.\n(ii) He was known as Chekkiluththa Chemmal.\n(iii) He founded the servants of India Society.\n(iv) He was a lawyer."
+   },
+   "o": [
+    {
+     "ta": "(iii) மற்றும் (iv) மட்டும்",
+     "en": "(iii) and (iv) only"
+    },
+    {
+     "ta": "(ii), (iii) மற்றும் (iv) மட்டும்",
+     "en": "(ii), (iii) and (iv) only"
+    },
+    {
+     "ta": "(ii) மற்றும் (iv) மட்டும்",
+     "en": "(ii) and (iv) only"
+    },
+    {
+     "ta": "(i), (ii) மற்றும் (iv) மட்டும்",
+     "en": "(i), (ii) and (iv) only"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "வ.உ.சி. திலகரின் சீடர். இந்திய ஊழியர் சங்கத்தை (1905) நிறுவியவர் கோகலே.",
+    "en": "V.O.C. was a follower of Tilak. The Servants of India Society (1905) was founded by Gokhale."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 179,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Sangam age: Ashokan inscriptions",
+   "q": {
+    "ta": "அசோகர் கல்வெட்டில் குறிப்பிடப்படும் “சத்யபுத்ரா”",
+    "en": "The term “Satyaputra” found in the Ashokan Inscription refers to"
+   },
+   "o": [
+    {
+     "ta": "அதியமான்",
+     "en": "Adiyaman"
+    },
+    {
+     "ta": "கரிகாலன்",
+     "en": "Karikalan"
+    },
+    {
+     "ta": "பாரி",
+     "en": "Pari"
+    },
+    {
+     "ta": "நெடுஞ்சேரலாதன்",
+     "en": "Neduncheralathan"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "அசோகரின் இரண்டாம் பாறைக் கல்வெட்டு: சோழ, பாண்டிய, கேரளபுத்திர, சத்தியபுத்திரர். சத்தியபுத்திரர் = அதியமான்கள் (ஜம்பை கல்வெட்டு).",
+    "en": "Ashoka's Rock Edict II names the Cholas, Pandyas, Keralaputras and Satyaputras. The Satyaputras are the Adiyamans (Jambai inscription)."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 180,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Thirukkural: word meaning in a couplet (Kural 1148)",
+   "q": {
+    "ta": "“நெய்யால் எரிநுதுப்பேம் என்றற்றால் கௌவையால்\nகாமம் நுதுப்பேம் எனல்”\nஎன்னும் குறளில் நுதுப்பேம் என்பதன் பொருள் என்ன?",
+    "en": "What is the meaning of the word “Extinguish” when Valluvar tries to compare lust to “Pouring Ghee to Fire”?"
+   },
+   "o": [
+    {
+     "ta": "அவித்தல்",
+     "en": "Put out"
+    },
+    {
+     "ta": "முறைமை",
+     "en": "System"
+    },
+    {
+     "ta": "ஆயுள்",
+     "en": "Life"
+    },
+    {
+     "ta": "பயில்வுடைமை",
+     "en": "Expertise"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "நுதுப்பேம் = அவிப்போம், அணைப்போம். நெய்யால் நெருப்பை அணைக்க முயல்வது போன்றது என்பது பொருள்.",
+    "en": "'Nuthuppem' means 'we will put out'. The couplet says it is like trying to put out a fire with ghee."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 181,
+   "subject": "gs",
+   "unit": 6,
+   "topic": "Thirukkural: meaning of a couplet (Kural 972)",
+   "q": {
+    "ta": "பிறப்பினால் எல்லா உயிர்களும் சமம் எனக் கருதும் வள்ளுவர் எதன் வழி அவற்றை வேறுபடுத்துகிறார்?",
+    "en": "Which of the traits differentiates all living things from human beings as according to Thiruvalluvar?"
+   },
+   "o": [
+    {
+     "ta": "தொழில்",
+     "en": "Actions"
+    },
+    {
+     "ta": "உணவு",
+     "en": "Foods"
+    },
+    {
+     "ta": "உடை",
+     "en": "Dress"
+    },
+    {
+     "ta": "இடம்",
+     "en": "Place"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "குறள் 972 (பெருமை): பிறப்பொக்கும் எல்லா உயிர்க்கும்; சிறப்பு செய்தொழில் வேற்றுமையால் வேறுபடும்.",
+    "en": "Kural 972 (greatness): all are equal by birth; distinction comes only from the difference in what they do."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 182,
+   "subject": "gs",
+   "unit": 2,
+   "topic": "India: borders",
+   "q": {
+    "ta": "அக்சாய் சின் __________ மற்றும் சீனாவிற்கு இடையே சர்ச்சைக்குரிய பகுதியாக உள்ளது.",
+    "en": "Aksai Chin remains a disputed area between China and __________."
+   },
+   "o": [
+    {
+     "ta": "வங்கதேசம்",
+     "en": "Bangladesh"
+    },
+    {
+     "ta": "இந்தியா",
+     "en": "India"
+    },
+    {
+     "ta": "நேபாளம்",
+     "en": "Nepal"
+    },
+    {
+     "ta": "ஜப்பான்",
+     "en": "Japan"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "அக்சாய் சின் – லடாக்கின் பகுதி; 1962 முதல் சீனாவின் கட்டுப்பாட்டில்.",
+    "en": "Aksai Chin is part of Ladakh, held by China since 1962."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 183,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "Industrial growth: cement",
+   "q": {
+    "ta": "கூற்று [A] : பொருளாதாரத்தில் பொதுவான மந்தநிலை இருந்த போதிலும் சிமெண்ட் உற்பத்தி மற்றும் நுகர்வு தொடர்ந்து வளர்ந்து வருகிறது.\nகாரணம் [R] : இந்தியா மிகப்பெரிய சிமெண்ட் உற்பத்தியாளர்களில் ஒன்றாகும் மற்றும் உலகில் முதல் இடத்தில் உள்ளது.",
+    "en": "Assertion [A] : Cement production and consumption continue to grow despite the general recession in the economy.\nReason [R] : India is one of the largest cement producers and ranked first in the world."
+   },
+   "o": [
+    {
+     "ta": "[A] சரி ஆனால் [R] தவறு",
+     "en": "[A] is true but [R] is false"
+    },
+    {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி; மேலும் [R]-ஆனது [A]-க்கான சரியான விளக்கம் ஆகும்",
+     "en": "Both [A] and [R] are true; and [R] is the correct explanation of [A]"
+    },
+    {
+     "ta": "[A] தவறு, [R] சரி",
+     "en": "[A] is false, [R] is true"
+    },
+    {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி, ஆனால் [R]-ஆனது [A]-க்கான சரியான விளக்கம் அல்ல",
+     "en": "Both [A] and [R] are true, but [R] is not the correct explanation of [A]"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "சிமெண்ட் உற்பத்தியில் இந்தியா உலகில் இரண்டாம் இடம் (முதலிடம் சீனா).",
+    "en": "India is the world's second largest cement producer, after China."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 184,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "TN education: Education Development Day",
+   "q": {
+    "ta": "தமிழக அரசு __________ ஆம் தேதியை கல்வி வளர்ச்சி நாளாக அறிவித்துள்ளது.",
+    "en": "Tamil Nadu Government declares __________ as Education Development Day."
+   },
+   "o": [
+    {
+     "ta": "15 பிப்ரவரி",
+     "en": "15th February"
+    },
+    {
+     "ta": "15 ஜூன்",
+     "en": "15th June"
+    },
+    {
+     "ta": "15 ஜூலை",
+     "en": "15th July"
+    },
+    {
+     "ta": "15 நவம்பர்",
+     "en": "15th November"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "காமராஜர் பிறந்த நாள், ஜூலை 15 – கல்வி வளர்ச்சி நாள்.",
+    "en": "15 July, Kamarajar's birthday, is Education Development Day."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 185,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "TN economy: GSDP growth",
+   "q": {
+    "ta": "2022-2023 ஆம் ஆண்டிற்கான தமிழ்நாட்டின் மொத்த மாநில உள்நாட்டு உற்பத்தி (GSDP) அதே கால கட்டத்தில் இந்தியாவின் GDP வளர்ச்சி விகிதமாக 7.24%க்கு எதிராக __________% வளர்ச்சியடைந்தது.",
+    "en": "Tamil Nadu Gross State Domestic Product (GSDP) has grown at the rate of __________% for the year 2022-2023 as against India’s GDP growth rate of 7.24% during the same period."
+   },
+   "o": [
+    {
+     "ta": "8.10"
+    },
+    {
+     "ta": "8.12"
+    },
+    {
+     "ta": "8.15"
+    },
+    {
+     "ta": "8.19"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "2022-23: தமிழ்நாடு 8.19%, இந்தியா 7.24%.",
+    "en": "2022-23: Tamil Nadu 8.19%, India 7.24%."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 186,
+   "subject": "gs",
+   "unit": 5,
+   "topic": "TN welfare schemes: Mangala Malai",
+   "q": {
+    "ta": "கூற்று [A] : “மங்கள மாலை திட்டம்” 2012-2013இல் அறிமுகப்படுத்தப்பட்டது.\nகாரணம் [R] : அனாதை பெண்களுக்கு தகுந்த மணமகன் கிடைக்க வழிவகை செய்கிறது.",
+    "en": "Assertion [A] : “Mangala Malai” scheme was introduced during 2012-2013.\nReason [R] : To facilitate the orphan girls to get a suitable bridegroom."
+   },
+   "o": [
+    {
+     "ta": "[A] சரி, [R] தவறு",
+     "en": "[A] is true, [R] is false"
+    },
+    {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி, [R]-என்பது [A]-வின் சரியான விளக்கம்",
+     "en": "Both [A] and [R] are true, [R] is the correct explanation of [A]"
+    },
+    {
+     "ta": "[A] தவறு, [R] சரி",
+     "en": "[A] is false, [R] is true"
+    },
+    {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி, [R]-என்பது [A]-வின் சரியான விளக்கம் இல்லை",
+     "en": "Both [A] and [R] are true, [R] is not the correct explanation of [A]"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "மங்கள மாலை: அரசு இல்லங்களில் வளர்ந்த ஆதரவற்ற பெண்களுக்கு மணமகன் தேட உதவும் சமூக நலத்துறைத் திட்டம். விடை மூலத்தில் குறிக்கப்பட்டபடி.",
+    "en": "Mangala Malai is a Social Welfare Department scheme that helps orphan girls from government homes find a bridegroom. The answer is as marked in the source."
+   },
+   "status": "unverified"
+  },
+  {
+   "n": 187,
+   "subject": "gs",
+   "unit": 3,
+   "topic": "National movement: Home Rule",
+   "q": {
+    "ta": "அதிநவீன வசதிகளுடன் கூடிய ரயிலில் அடிமைகளாக இருப்பதை விட சுதந்திரத்துடன் கூடிய மாட்டு வண்டியே சிறந்தது எனக் கூறியவர்",
+    "en": "Who said “Better Bullock carts and freedom than a train deluxe with subjection”?"
+   },
+   "o": [
+    {
+     "ta": "M. வீரராகவாச்சாரி",
+     "en": "M. Veeraraghavachari"
+    },
+    {
+     "ta": "B.P. வாடியா",
+     "en": "B.P. Wadia"
+    },
+    {
+     "ta": "G.S. அருண்டேல்",
+     "en": "G.S. Arundale"
+    },
+    {
+     "ta": "அன்னிபெசன்ட்",
+     "en": "Annie Besant"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "அன்னிபெசன்ட்: தன்னாட்சி இயக்கம் (1916), ‘நியூ இந்தியா’, ‘காமன்வீல்’ இதழ்கள்.",
+    "en": "Annie Besant: Home Rule League (1916), and the papers New India and Commonweal."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 188,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "HCF and LCM",
+   "q": {
+    "ta": "இரு எண்களின் மீ.பொ.வ 11 மற்றும் அவற்றின் மீ.சி.ம. 693. ஓர் எண் 77 எனில் மற்றொரு எண் என்ன?",
+    "en": "The H.C.F. of two numbers is 11 and their L.C.M is 693. If one of the number is 77, find the other"
+   },
+   "o": [
+    {
+     "ta": "79"
+    },
+    {
+     "ta": "88"
+    },
+    {
+     "ta": "99"
+    },
+    {
+     "ta": "77"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "இரு எண்களின் பெருக்கல் = மீ.பொ.வ × மீ.சி.ம. மற்ற எண் = (11 × 693) ÷ 77 = 99.",
+    "en": "Product of the numbers = HCF × LCM. Other number = (11 × 693) ÷ 77 = 99."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 189,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "HCF and LCM",
+   "q": {
+    "ta": "வியாபாரி ஒருவர் இரண்டு வகையான எண்ணெய்களை முறையே 120 லி, 180 லி என இரு கலங்களில் வைத்துள்ளார். சம அளவு கொண்ட கலனில் அந்த இரண்டு எண்ணெய்களை நிரப்பி விற்க விரும்பினார். கலன் கொள்ளும் அதிகபட்ச கொள்ளளவு என்ன?",
+    "en": "A merchant has 120 ltrs and 180 ltrs of two kinds of oil. He wants to sell oil by filling the two kinds of oil in tins of equal volumes. What is the greatest capacity of such a tin?"
+   },
+   "o": [
+    {
+     "ta": "10 லி",
+     "en": "10 ltrs"
+    },
+    {
+     "ta": "30 லி",
+     "en": "30 ltrs"
+    },
+    {
+     "ta": "60 லி",
+     "en": "60 ltrs"
+    },
+    {
+     "ta": "90 லி",
+     "en": "90 ltrs"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "மீ.பொ.வ (120, 180) = 60 லிட்டர்.",
+    "en": "HCF(120, 180) = 60 litres."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 190,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simplification: sums of series",
+   "q": {
+    "ta": "1³ + 2³ + 3³ + ... + K³ = 72900 எனில், 1 + 2 + 3 + ... + K யின் மதிப்பு காண்க.",
+    "en": "If 1³ + 2³ + 3³ + ... + K³ = 72900 then find 1 + 2 + 3 + ... + K."
+   },
+   "o": [
+    {
+     "ta": "220"
+    },
+    {
+     "ta": "370"
+    },
+    {
+     "ta": "270"
+    },
+    {
+     "ta": "170"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "கனங்களின் கூடுதல் = (1 + 2 + … + K)². √72900 = 270.",
+    "en": "The sum of cubes = (1 + 2 + … + K)², and √72900 = 270."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 191,
+   "subject": "apt",
+   "unit": 2,
+   "topic": "Number series",
+   "q": {
+    "ta": "2, 3, 5, 9, x, 33, y, ..... என்ற தொடரில் x + y ன் மதிப்பு என்ன?",
+    "en": "In the series 2, 3, 5, 9, x, 33, y, ..... what is the value of x + y?"
+   },
+   "o": [
+    {
+     "ta": "65"
+    },
+    {
+     "ta": "72"
+    },
+    {
+     "ta": "75"
+    },
+    {
+     "ta": "82"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "வித்தியாசங்கள் 1, 2, 4, 8, 16, 32: x = 17, y = 65. x + y = 82.",
+    "en": "The differences are 1, 2, 4, 8, 16, 32, so x = 17 and y = 65, and x + y = 82."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 192,
+   "subject": "apt",
+   "unit": 2,
+   "topic": "Alphanumeric reasoning: letter sequence",
+   "q": {
+    "ta": "AZBYCX ..... YBZA என்றவாறு எழுதும் போது ஆங்கில உயிரெழுத்திற்கு இடது புறம் அருகில் வரக்கூடிய உயிரெழுத்து அல்லாத எழுத்துக்கள் எத்தனை?",
+    "en": "When we write AZBYCX ..... YBZA how many consonants will appear to the left of the vowels?"
+   },
+   "o": [
+    {
+     "ta": "7"
+    },
+    {
+     "ta": "8"
+    },
+    {
+     "ta": "9"
+    },
+    {
+     "ta": "10"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "முழுத் தொடர்: AZ BY CX DW EV FU GT HS IR JQ KP LO MN NM OL PK QJ RI SH TG UF VE WD XC YB ZA. உயிரெழுத்துக்கு உடனே இடப்புறம் உள்ள மெய்: WE, FU, SI, LO, MO, RI, GU, VE, ZA – 9. (முதல் A-க்கு இடப்புறம் எதுவும் இல்லை.)",
+    "en": "Full string: AZ BY CX DW EV FU GT HS IR JQ KP LO MN NM OL PK QJ RI SH TG UF VE WD XC YB ZA. A consonant sits just left of a vowel in WE, FU, SI, LO, MO, RI, GU, VE, ZA: nine. (The first A has nothing to its left.)"
+   },
+   "status": "ok"
+  },
+  {
+   "n": 193,
+   "subject": "apt",
+   "unit": 2,
+   "topic": "Logical reasoning: blood relations",
+   "q": {
+    "ta": "ரமீலா கூறுகையில், “எனது மாமனாரான ராமனாதனின் ஒரே மகனான ராமன் ராகவியின் தந்தை”, ரமணி, ராகவியின் சகோதரி என்றால் ரமணி ராமனாதனுக்கு என்ன உறவு?",
+    "en": "If Rameela says, “Ragavi’s father Raman is the only son of my father-in-law Ramanathan”, then how is Ramani, who is the sister of Ragavi, related to Ramanathan?"
+   },
+   "o": [
+    {
+     "ta": "மனைவி",
+     "en": "Wife"
+    },
+    {
+     "ta": "சகோதரி",
+     "en": "Sister"
+    },
+    {
+     "ta": "மகள்",
+     "en": "Daughter"
+    },
+    {
+     "ta": "பேத்தி",
+     "en": "Grand Daughter"
+    }
+   ],
+   "a": 3,
+   "x": {
+    "ta": "ராமன் ராமனாதனின் மகன்; ராகவியும் ரமணியும் ராமனின் மகள்கள்; எனவே ரமணி ராமனாதனின் பேத்தி.",
+    "en": "Raman is Ramanathan's son, and Ragavi and Ramani are Raman's daughters, so Ramani is Ramanathan's granddaughter."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 194,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Time and work: wages",
+   "q": {
+    "ta": "3 ஆண்கள் மற்றும் 4 பெண்கள் 7 நாள்களில் ரூ.3,780 சம்பாதிக்கின்றனர். 11 ஆண்கள் மற்றும் 13 பெண்கள் சேர்ந்து 8 நாள்களில் ரூ.15,040 சம்பாதிக்கின்றனர் எனில் 7 ஆண்கள் மற்றும் 9 பெண்கள் சேர்ந்து எவ்வளவு நாள்களில் ரூ.12,400 சம்பாதிப்பர்?",
+    "en": "3 men and 4 women can earn Rs. 3,780 in 7 days. 11 men and 13 women earn Rs. 15,040 in 8 days. In what time will 7 men and 9 women earn Rs. 12,400?"
+   },
+   "o": [
+    {
+     "ta": "9 நாள்கள்",
+     "en": "9 days"
+    },
+    {
+     "ta": "12 நாள்கள்",
+     "en": "12 days"
+    },
+    {
+     "ta": "10 நாள்கள்",
+     "en": "10 days"
+    },
+    {
+     "ta": "11 நாள்கள்",
+     "en": "11 days"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "ஒரு நாளுக்கு: 3M + 4W = 540; 11M + 13W = 1880 ⇒ W = 60, M = 100. 7M + 9W = 1240. 12400 ÷ 1240 = 10 நாள்கள்.",
+    "en": "Per day: 3M + 4W = 540 and 11M + 13W = 1880, giving W = 60 and M = 100. 7M + 9W = 1240, and 12400 ÷ 1240 = 10 days."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 195,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Compound interest",
+   "q": {
+    "ta": "அசல் தொகை ரூ. 10,000 ஆனது 15% ஆண்டு வட்டியில் 3 ஆண்டுகளுக்கு கிடைக்கும் கூட்டு வட்டிக்கும், தனி வட்டிக்கும் இடையேயான வித்தியாசம் காண்க.",
+    "en": "For the principal Rs.10,000 the rate of interest is 15 p.a. for 3 years. Find the difference between C.I and S.I."
+   },
+   "o": [
+    {
+     "ta": "70.86"
+    },
+    {
+     "ta": "708"
+    },
+    {
+     "ta": "708.75"
+    },
+    {
+     "ta": "775"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "3 ஆண்டு வித்தியாசம் = P × r² × (3 + r) = 10000 × 0.0225 × 3.15 = 708.75.",
+    "en": "Three-year difference = P × r² × (3 + r) = 10000 × 0.0225 × 3.15 = 708.75."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 196,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simple interest",
+   "q": {
+    "ta": "ஒருவர் ரூ. 2,000 ஐ 6% தனிவட்டிக்கு கடன் வாங்குகிறார். ஓர் ஆண்டு முடிவில் ரூ. 1,000 ஐ திருப்பி செலுத்துகிறார் எனில் அவர் அக்கடனை இரண்டாம் ஆண்டு முடிவில் முழுவதுமாக முடிக்க எவ்வளவு தொகை செலுத்த வேண்டும்?",
+    "en": "A person takes a loan of Rs.2,000 at 6% simple interest. He returns Rs.1,000 at the end of one year. In order to clear his dues at the end of 2 years how much he would pay?"
+   },
+   "o": [
+    {
+     "ta": "ரூ. 1,240",
+     "en": "Rs. 1,240"
+    },
+    {
+     "ta": "ரூ. 1,180",
+     "en": "Rs. 1,180"
+    },
+    {
+     "ta": "ரூ. 1,120",
+     "en": "Rs. 1,120"
+    },
+    {
+     "ta": "ரூ. 1,200",
+     "en": "Rs. 1,200"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "முதல் ஆண்டு வட்டி: 2000-க்கு 120. அசலில் 1000 திருப்பிய பின் இரண்டாம் ஆண்டு வட்டி: 1000-க்கு 60. செலுத்த வேண்டியது = 1000 + 120 + 60 = ரூ. 1,180.",
+    "en": "Year 1 interest on 2000 is 120. After 1000 of principal is repaid, year 2 interest on 1000 is 60. Amount due = 1000 + 120 + 60 = Rs. 1,180."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 197,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Simple interest",
+   "q": {
+    "ta": "விக்னேஷ் 2 ஆண்டுகளுக்கு 4% வட்டிவீதத்தில் ரூ. 10,000 கடனாக பெற்றார். இந்தப் பணத்தை சஞ்சையிடம் 2 ஆண்டுகளுக்கு 6% வட்டிவீதத்தில் கடனாகக் கொடுத்தார். இந்தப் பரிமாற்றத்தில் அவருக்குக் கிடைத்த ஓர் ஆண்டின் லாபம் என்ன?",
+    "en": "Vignesh borrows Rs.10,000 for 2 years at 4% p.a. simple interest. He lends it to Sanjay at 6% p.a. for 2 years. Find his gain in this transaction per year."
+   },
+   "o": [
+    {
+     "ta": "200"
+    },
+    {
+     "ta": "400"
+    },
+    {
+     "ta": "600"
+    },
+    {
+     "ta": "800"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "ஆண்டுக்கு வித்தியாசம் 6% − 4% = 2%. 10000-இல் 2% = ரூ. 200.",
+    "en": "The yearly difference is 6% − 4% = 2%, and 2% of 10000 = Rs. 200."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 198,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "HCF and LCM",
+   "q": {
+    "ta": "7 மற்றும் 13 ஆகிய எண்களின் மீ.பொ.வ மற்றும் மீ.சி.ம வின் விகிதத்தைக் காண்க.",
+    "en": "Find the ratio between HCF and LCM of the numbers 7 and 13."
+   },
+   "o": [
+    {
+     "ta": "1 : 91"
+    },
+    {
+     "ta": "13 : 7"
+    },
+    {
+     "ta": "91 : 10"
+    },
+    {
+     "ta": "7 : 13"
+    }
+   ],
+   "a": 0,
+   "x": {
+    "ta": "இரண்டும் பகா எண்கள்: மீ.பொ.வ = 1, மீ.சி.ம = 91.",
+    "en": "Both are primes, so HCF = 1 and LCM = 91."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 199,
+   "subject": "apt",
+   "unit": 1,
+   "topic": "Percentage",
+   "q": {
+    "ta": "கயல் 5 டசன் முட்டைகளை வாங்கினார். அதில் 45 முட்டைகள் நல்ல முட்டைகள், எனில் கெட்டுவிட்ட முட்டைகளின் சதவீதத்தைக் காண்க.",
+    "en": "Kayal bought 5 dozen eggs. Out of that 45 eggs are good eggs. Express the number of rotten eggs in percentage."
+   },
+   "o": [
+    {
+     "ta": "45%"
+    },
+    {
+     "ta": "35%"
+    },
+    {
+     "ta": "25%"
+    },
+    {
+     "ta": "15%"
+    }
+   ],
+   "a": 2,
+   "x": {
+    "ta": "மொத்தம் 60; கெட்டவை 15. 15/60 × 100 = 25%.",
+    "en": "60 eggs in all, 15 rotten: 15/60 × 100 = 25%."
+   },
+   "status": "ok"
+  },
+  {
+   "n": 200,
+   "subject": "apt",
+   "unit": 2,
+   "topic": "Alphanumeric reasoning: coding",
+   "q": {
+    "ta": "Sunday = 2, Tuesday = 3, Thursday = 2 எனில் Monday வின் மதிப்பு என்ன?",
+    "en": "If Sunday = 2, Tuesday = 3, Thursday = 2. What is the value of Monday?"
+   },
+   "o": [
+    {
+     "ta": "1"
+    },
+    {
+     "ta": "2"
+    },
+    {
+     "ta": "3"
+    },
+    {
+     "ta": "4"
+    }
+   ],
+   "a": 1,
+   "x": {
+    "ta": "சொல்லில் உள்ள ஆங்கில உயிரெழுத்துகளின் எண்ணிக்கை: Sunday (u, a) 2; Tuesday (u, e, a) 3; Monday (o, a) 2.",
+    "en": "The value is the number of vowels in the word: Sunday (u, a) 2, Tuesday (u, e, a) 3, Monday (o, a) 2."
+   },
+   "status": "ok"
+  }
+ ]
+}
