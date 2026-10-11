@@ -1,7 +1,7 @@
 {
  "paper": "TNPSC Group IV 2025 (CCSEIVGT/2025), Part B: General Studies and Part C: Aptitude and Mental Ability, questions 101 to 200",
  "source": "Scanned booklet with hand-marked answers from tnpscstudymaterial.com; answers are that site's marking, not TNPSC's published key. Each was also answered independently: status ok = agrees, doubtful = the question or key looks questionable, unverified = could not be confirmed independently.",
- "note": "Questions, options and explanations are in the day-file shape ({\"ta\",\"en\"}), so a question can be copied into a test by adding an id. \"subject\" is gs or apt. The printed paper has a fifth option (E) \"Answer not known\" on every question; it is omitted here. Unit and topic tags were assigned during transcription. Two questions (151 dice, 189 field book) have a figure in the booklet; here the figure is described in words inside the question.",
+ "note": "Questions, options and explanations are in the day-file shape ({\"ta\",\"en\"}), so a question can be copied into a test by adding an id. \"subject\" is gs or apt. The printed paper has a fifth option (E) \"Answer not known\" on every question; it is omitted here. Unit and topic tags were assigned during transcription. Two questions (151 dice, 189 field book) have a figure in the booklet; here the figure is described in words inside the question. \"use\" says whether a question may be reused in her tests after she has taken this paper as a full test: ok = still true and inside the 2026 syllabus; stale = right in its year but outdated now; off = topic not in the 2026 syllabus; void = flawed question; figure = needs a drawing the site cannot show.",
  "units": {
   "gs": {
    "1": "General Science",
@@ -45,7 +45,8 @@
     "ta": "பிற்காப்பு இல்லம் (After-Care Home) 18–21 வயதினருக்கானது என்பது உறுதி; மற்ற இணைகள் மூலத்தில் குறிக்கப்பட்டபடி.",
     "en": "The after-care home is for ages 18 to 21, which is certain; the other pairs are as marked in the source."
    },
-   "status": "unverified"
+   "status": "unverified",
+   "use": "ok"
   },
   {
    "n": 102,
@@ -75,7 +76,8 @@
     "ta": "மூலத்தில் குறிக்கப்பட்ட விடை. ஒரு எக்டருக்கான விளைச்சல்: நெல் < மக்காச்சோளம் < கரும்பு.",
     "en": "As marked in the source. Yield per hectare: paddy is below maize, and sugarcane is far above both."
    },
-   "status": "unverified"
+   "status": "unverified",
+   "use": "stale"
   },
   {
    "n": 103,
@@ -109,7 +111,8 @@
     "ta": "உலக வங்கிக் கடன் மற்றும் மாநில அரசின் பங்கில் இயங்குகிறது (60 : 40 மத்திய–மாநிலப் பங்கு அல்ல); இலக்கு SDG 3 (நலவாழ்வு), SDG 9 அல்ல.",
     "en": "It runs on a World Bank loan plus the State's share, not a 60 : 40 Centre–State split; its goal is SDG 3 (health), not SDG 9."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 104,
@@ -143,7 +146,8 @@
     "ta": "செங்கல்பட்டு ஆட்சியர் திரமென்ஹீரின் அறிக்கை (1891) 1892-இல் ஏற்கப்பட்டு, பஞ்சமி நிலங்கள் வழங்கப்பட்டன. விடை மூலத்தில் குறிக்கப்பட்டபடி.",
     "en": "The report of Tremenheere, Collector of Chengalpattu (1891), was accepted in 1892 and led to the assignment of Panchami lands. The answer is as marked in the source."
    },
-   "status": "unverified"
+   "status": "unverified",
+   "use": "ok"
   },
   {
    "n": 105,
@@ -177,7 +181,8 @@
     "ta": "தமிழ் செம்மொழியாக அறிவிக்கப்பட்டது 12 அக்டோபர் 2004; தேசிய ஒருங்கிணைப்புக் குழு அமைக்கப்பட்டது 1961.",
     "en": "Tamil was declared a classical language on 12 October 2004, and the National Integration Council was set up in 1961."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 106,
@@ -211,7 +216,8 @@
     "ta": "2024-இல் தொடங்கப்பட்டது; ஒரு கோடி வீடுகளுக்குக் கூரை சூரிய மின்தகடுகள், மாதம் 300 யூனிட் வரை இலவச மின்சாரம்.",
     "en": "Launched in 2024: rooftop solar for one crore homes, with up to 300 free units of electricity a month."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 107,
@@ -245,7 +251,8 @@
     "ta": "1793 நிலையான நிலவரித் திட்டம் (காரன்வாலிஸ்): ஜமீன்தார்கள் நிலத்தின் உரிமையாளர்களாக அறிவிக்கப்பட்டனர்.",
     "en": "The Permanent Settlement of 1793 (Cornwallis) made the zamindars the owners of the land."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 108,
@@ -279,7 +286,8 @@
     "ta": "GST 1 ஜூலை 2017 முதல் நடைமுறை; இரண்டு கூற்றுகளும் சரி. விடை மூலத்தில் குறிக்கப்பட்டபடி (B).",
     "en": "GST came into force on 1 July 2017 and both statements are true; the source marks (B)."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 109,
@@ -309,7 +317,8 @@
     "ta": "நெடுஞ்செழியன் (1970, 80களில்) → ஓ. பன்னீர்செல்வம் → பழனிவேல் தியாகராஜன் (2021–23) → தங்கம் தென்னரசு (2023 முதல்).",
     "en": "Nedunchezhiyan (1970s and 80s), then O. Panneerselvam, then Palanivel Thiagarajan (2021–23), then Thangam Thennarasu (from 2023)."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 110,
@@ -343,7 +352,8 @@
     "ta": "மூன்றாம் திட்டம் சீனப் போர் (1962), பாகிஸ்தான் போர் (1965), வறட்சி ஆகியவற்றால் தோல்வியடைந்ததால் 1966–69 இல் மூன்று ஆண்டுத் திட்டங்கள்.",
     "en": "The Third Plan failed because of the wars with China (1962) and Pakistan (1965) and drought, so 1966–69 had three annual plans."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 111,
@@ -377,7 +387,8 @@
     "ta": "திருக்குறளில் எந்த மன்னர், நாடு, மொழியின் பெயரும் இல்லை; ஆனால் பொருட்பாலில் அரசனின் ஆட்சித்திறம் பொதுவாகப் பேசப்படுகிறது.",
     "en": "The Kural names no king, country or language, but its Porutpal does discuss a king's qualities of rule in general terms."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 112,
@@ -407,7 +418,8 @@
     "ta": "அறத்துப்பால்: பாயிரவியல் 4, இல்லறவியல் 20, துறவறவியல் 13, ஊழியல் 1 அதிகாரங்கள்.",
     "en": "Arathuppal has 4 chapters of introduction, 20 on domestic virtue, 13 on ascetic virtue and 1 on fate."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 113,
@@ -441,7 +453,8 @@
     "ta": "‘வள்ளுவரும் குறளும்’ – முத்தமிழ்க் காவலர் கி.ஆ.பெ. விசுவநாதம் எழுதிய நூல்.",
     "en": "'Valluvarum Kuralum' was written by Ki.Aa.Pe. Viswanatham."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 114,
@@ -475,7 +488,8 @@
     "ta": "இன்று அரசு ஏற்றுள்ள திருவள்ளுவர் உருவப்படத்தை வரைந்தவர் கே.ஆர். வேணுகோபால சர்மா.",
     "en": "The portrait of Thiruvalluvar now officially used was painted by K.R. Venugopal Sharma."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 115,
@@ -509,7 +523,8 @@
     "ta": "நியூ இந்தியா – அன்னிபெசன்ட் (பாரதியார் அல்ல). நவசக்தி – திரு.வி.க. தேசபக்தனைத் தொடங்கியவர் திரு.வி.க.; வ.வே.சு. ஐயர் பின்னர் அதன் ஆசிரியர். தி இந்து – ஜி. சுப்பிரமணிய ஐயர் என்பதும் சரியே; எனவே (C)-யும் பொருந்தும். மூலத்தில் குறிக்கப்பட்ட விடை (B).",
     "en": "New India was Annie Besant's, not Bharathi's. Nava Sakthi was Thiru. Vi. Ka's. Desabhaktan was started by Thiru. Vi. Ka, with V.V.S. Iyer as a later editor. The Hindu and G. Subramania Iyer is also a correct pair, so (C) is defensible too. The source marks (B)."
    },
-   "status": "doubtful"
+   "status": "doubtful",
+   "use": "ok"
   },
   {
    "n": 116,
@@ -543,7 +558,8 @@
     "ta": "1875 நியூயார்க்கில் தோற்றம்; தலைமையகம் அடையாறு. அன்னிபெசன்ட் இங்கிலாந்தில் சபையில் சேர்ந்து 1893-இல் இந்தியா வந்தார்.",
     "en": "Founded in New York in 1875, with headquarters at Adyar. Annie Besant joined in England and came to India in 1893."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 117,
@@ -577,7 +593,8 @@
     "ta": "சுயமரியாதை இயக்கத்தின் இதழ் ‘குடி அரசு’ (1925). நியூ இந்தியா அன்னிபெசன்ட்டின் இதழ்.",
     "en": "The movement's paper was Kudi Arasu (1925). New India was Annie Besant's paper."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 118,
@@ -611,7 +628,8 @@
     "ta": "பானர்மேனின் இறுதி எச்சரிக்கை 1 செப்டம்பர் 1799; கயத்தாறு விசாரணை 16 அக்டோபர் 1799 (17 அக்டோபர் தூக்கிலிடப்பட்டார்).",
     "en": "Bannerman's ultimatum was on 1 September 1799, and the trial at Kayathar was on 16 October 1799 (he was hanged on 17 October)."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 119,
@@ -645,7 +663,8 @@
     "ta": "1923 தேர்தலில் காங்கிரஸ் பங்கேற்கவில்லை; சுயராஜ்யக் கட்சி 11 இடங்கள்; நீதிக்கட்சி அமைச்சரவை அமைத்தது. ஒத்துழையாமை இயக்கத்தைத் தமிழகத்தில் வழிநடத்தியவர்கள் இராஜாஜி, பெரியார்.",
     "en": "Congress stayed out of the 1923 election, the Swarajists won 11 seats and the Justice Party formed the ministry. Non-Cooperation in Tamil Nadu was led by Rajaji and Periyar, not Kamaraj."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 120,
@@ -675,7 +694,8 @@
     "ta": "காரைக்கால் அம்மையார் – மூத்த திருப்பதிகம்; ஆண்டாள் – திருப்பாவை; பூண்டி அரங்கநாத முதலியார் – கச்சிக்கலம்பகம்; சேரமான் பெருமாள் – பொன்வண்ணத்தந்தாதி.",
     "en": "Karaikkal Ammaiyar wrote the Mootha Thiruppathigam, Andal the Thiruppavai, Poondi Aranganatha Mudaliyar the Kachikalambagam and Seraman Perumal the Ponvannathanthathi."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 121,
@@ -709,7 +729,8 @@
     "ta": "சிவகளை (தூத்துக்குடி) தாமிரபரணியின் வடகரையில்; இங்குக் கிடைத்த இரும்பின் காலம் கி.மு. 3345 வரை செல்கிறது. தங்கப் பொருள்கள் கிடைத்தது ஆதிச்சநல்லூரில்.",
     "en": "Sivakalai (Thoothukudi) is on the north bank of the Thamirabarani, and its iron has been dated as far back as 3345 BCE. Gold objects were found at Adichanallur, not here."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 122,
@@ -743,7 +764,8 @@
     "ta": "குறியிடாத RNA-க்கள் புரதமாக மொழிபெயர்க்கப்படுவதில்லை; அவை மரபணு வெளிப்பாட்டை ஒழுங்குபடுத்துகின்றன.",
     "en": "Non-coding RNAs are not translated into protein; they regulate gene expression."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 123,
@@ -777,7 +799,8 @@
     "ta": "லின்னேயஸ் – இரண்டுலகம்; ஹெக்கேல் – மூன்றுலகம்; கோப்லேண்ட் – நான்குலகம்; விட்டாக்கெர் – ஐந்துலகம்.",
     "en": "Linnaeus proposed two kingdoms, Haeckel three, Copeland four and Whittaker five."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 124,
@@ -807,7 +830,8 @@
     "ta": "Ka = Cα² = 0.10 × (0.012)² = 0.10 × 1.44 × 10⁻⁴ = 1.44 × 10⁻⁵.",
     "en": "Ka = Cα² = 0.10 × (0.012)² = 0.10 × 1.44 × 10⁻⁴ = 1.44 × 10⁻⁵."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 125,
@@ -841,7 +865,8 @@
     "ta": "GSLV-F15 / NVS-02: 29 ஜனவரி 2025; ஸ்ரீஹரிகோட்டாவிலிருந்து 100-வது ஏவுதல்.",
     "en": "GSLV-F15 with NVS-02 flew on 29 January 2025, the 100th launch from Sriharikota."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "stale"
   },
   {
    "n": 126,
@@ -875,7 +900,8 @@
     "ta": "கனேடியன் பசிபிக் இருப்புப்பாதை அட்லாண்டிக் கரையையும் பசிபிக் கரையையும் (வான்கூவர்) இணைக்கிறது; இந்தியப் பெருங்கடல் அல்ல.",
     "en": "The Canadian Pacific Railway joins the Atlantic coast to the Pacific coast (Vancouver), not the Indian Ocean."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 127,
@@ -909,7 +935,8 @@
     "ta": "42-வது திருத்தம் (1976): ‘சமதர்ம, சமயச்சார்பற்ற, ஒருமைப்பாடு’ சொற்கள் முகவுரையில் சேர்ப்பு; அடிப்படைக் கடமைகள் சேர்ப்பு.",
     "en": "The 42nd Amendment (1976) added 'socialist, secular' and 'integrity' to the Preamble and added the Fundamental Duties."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 128,
@@ -943,7 +970,8 @@
     "ta": "மகேந்திரவர்மனின் மண்டகப்பட்டு கல்வெட்டு: செங்கல், மரம், உலோகம், சுதை இன்றிக் கோவில். கற்றளி – கற்களை அடுக்கிக் கட்டிய கட்டுமானக் கோவில் (இராஜசிம்மன்).",
     "en": "Mahendravarman's Mandagapattu inscription speaks of a temple made without brick, timber, metal or mortar. A katrali is a structural temple of stacked stone (Rajasimha)."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 129,
@@ -973,7 +1001,8 @@
     "ta": "முண்டா ஆஸ்திரோ-ஆசிய மொழிக் குடும்பம்; திராவிட மொழி அல்ல. திராவிட மொழிகள் தென், நடு, வட திராவிடம் என மூன்று பிரிவு.",
     "en": "Munda belongs to the Austroasiatic family and is not Dravidian. The Dravidian languages are grouped as South, Central and North."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 130,
@@ -1007,7 +1036,8 @@
     "ta": "ஜாலியன் வாலாபாக் படுகொலையைக் கண்டித்துத் தாகூர் ‘சர்’ (நைட்ஹூட்) பட்டத்தையும், காந்தி ‘கெய்சர்-இ-ஹிந்த்’ பதக்கத்தையும் திருப்பி அளித்தனர்.",
     "en": "In protest at the massacre Tagore gave up his knighthood and Gandhi returned his Kaiser-i-Hind medal."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 131,
@@ -1041,7 +1071,8 @@
     "ta": "முதல் மாநாடு: 28 டிசம்பர் 1885, பம்பாய், 72 பிரதிநிதிகள், தலைவர் W.C. பானர்ஜி. பத்தாம் வகுப்புப் பாடநூல் சென்னை மாகாணத்திலிருந்து 22 பேர் என்கிறது; அதன்படி (A) பொருந்தும். மூலத்தில் குறிக்கப்பட்ட விடை (D).",
     "en": "First session: 28 December 1885, Bombay, 72 delegates, W.C. Bonnerjee presiding. The Class 10 textbook gives 22 delegates from Madras, which would make (A) the answer. The source marks (D)."
    },
-   "status": "doubtful"
+   "status": "doubtful",
+   "use": "ok"
   },
   {
    "n": 132,
@@ -1075,7 +1106,8 @@
     "ta": "1920களில் அகழாய்வு: ஜான் மார்ஷல் (வீலர் 1940களில்). ‘மெலுகா’ மெசபடோமிய கியூனிஃபார்ம் எழுத்துகளில் வருகிறது, பிராகிருதத்தில் அல்ல.",
     "en": "The 1920s excavations were under John Marshall (Wheeler came in the 1940s). 'Meluhha' occurs in Mesopotamian cuneiform texts, not Prakrit ones."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 133,
@@ -1109,7 +1141,8 @@
     "ta": "ஞானேஷ் குமார் 1988 தொகுதி கேரளப் பிரிவு ஐ.ஏ.எஸ். அதிகாரி; எனவே (ii) தவறு.",
     "en": "Gyanesh Kumar is a 1988-batch Kerala-cadre IAS officer, so (ii) is wrong."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 134,
@@ -1139,7 +1172,8 @@
     "ta": "பொருட்கள் விற்பனைச் சட்டம் 1930; மருந்துக் கட்டுப்பாடு சட்டம் 1950; MRTP சட்டம் 1969; நுகர்வோர் பாதுகாப்புச் சட்டம் 1986, விதிகள் 1987.",
     "en": "Sale of Goods Act 1930, Drugs (Control) Act 1950, MRTP Act 1969; Consumer Protection Act 1986 with its Rules in 1987."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 135,
@@ -1173,7 +1207,8 @@
     "ta": "விதி 124: நீதிபதிகள் நியமனத்தில் கலந்தாலோசிக்கப்பட வேண்டியவர் இந்தியத் தலைமை நீதிபதி (கொலீஜியம்); சட்ட அமைச்சர் அல்ல.",
     "en": "Under Article 124 it is the Chief Justice of India (the collegium) who must be consulted, not the Law Minister."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 136,
@@ -1203,7 +1238,8 @@
     "ta": "இராஜமன்னார் (1969) → சர்க்காரியா (1983) → வெங்கடசெல்லையா (2000) → புன்ச்சி (2007).",
     "en": "Rajamannar (1969), Sarkaria (1983), Venkatachaliah (2000), Punchhi (2007)."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 137,
@@ -1237,7 +1273,8 @@
     "ta": "உச்ச நீதிமன்ற நீதிபதி ஓய்வு 65 வயது; மக்களவை உறுப்பினர் குறைந்தபட்ச வயது 25.",
     "en": "Supreme Court judges retire at 65, and the minimum age for the Lok Sabha is 25."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 138,
@@ -1267,7 +1304,8 @@
     "ta": "நான்கு விருதுகளும் 1954-இல் நிறுவப்பட்டவை; உயர்வு வரிசை: பாரத ரத்னா, பத்ம விபூஷன், பத்ம பூஷன், பத்மஸ்ரீ.",
     "en": "All four were instituted in 1954; the answer follows their rank: Bharat Ratna, Padma Vibhushan, Padma Bhushan, Padma Shri."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 139,
@@ -1297,7 +1335,8 @@
     "ta": "1950 அரசமைப்பு: பகுதி A – முன்னாள் ஆளுநர் மாகாணங்கள் (மேற்கு வங்காளம்); B – சுதேச அரசுகள் (இராஜஸ்தான்); C – தலைமை ஆணையர் மாகாணங்கள் (இமாச்சலப் பிரதேசம்); D – அந்தமான் நிக்கோபர்.",
     "en": "In the 1950 Constitution Part A held the former Governors' provinces (West Bengal), Part B the princely states (Rajasthan), Part C the Chief Commissioners' provinces (Himachal Pradesh) and Part D the Andaman and Nicobar Islands."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 140,
@@ -1331,7 +1370,8 @@
     "ta": "P 8 நாளில் 8/20 = 2/5 வேலை; மீதி 3/5 இருவரும் சேர்ந்து: ஒரு நாள் வேலை 1/20 + 1/40 = 3/40; (3/5) ÷ (3/40) = 8 நாட்கள்.",
     "en": "P alone does 8/20 = 2/5 in 8 days; the other 3/5 was done together at 1/20 + 1/40 = 3/40 a day, so (3/5) ÷ (3/40) = 8 days."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 141,
@@ -1365,7 +1405,8 @@
     "ta": "A(1.04)⁶ = B(1.04)⁸ ⇒ A = B × (1.04)² = 1.0816B. A + B = 2.0816B = 2602 ⇒ B = 1250, A = 1352.",
     "en": "A(1.04)⁶ = B(1.04)⁸, so A = B × (1.04)² = 1.0816B. A + B = 2.0816B = 2602, so B = 1250 and A = 1352."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 142,
@@ -1399,7 +1440,8 @@
     "ta": "16⅔% = 1/6; 9 மாதம் = 3/4 ஆண்டு. தனிவட்டி = 68000 × 1/6 × 3/4 = 68000/8 = ரூ. 8,500.",
     "en": "16⅔% = 1/6 and 9 months = 3/4 year. SI = 68000 × 1/6 × 3/4 = 68000/8 = Rs. 8,500."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 143,
@@ -1429,7 +1471,8 @@
     "ta": "a : b : c = 3 : 7 : 6 ⇒ c : a = 6 : 3 = 2 : 1.",
     "en": "a : b : c = 3 : 7 : 6, so c : a = 6 : 3 = 2 : 1."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 144,
@@ -1459,7 +1502,8 @@
     "ta": "எண்கள் 3×4 = 12, 4×4 = 16. மீ.சி.ம = 3 × 4 × 4 = 48.",
     "en": "The numbers are 12 and 16, so the LCM = 3 × 4 × 4 = 48."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 145,
@@ -1489,7 +1533,8 @@
     "ta": "மீ.சி.ம (16, 24, 32) = 96. x = 96k + 6: 102, 198, 294, 390 … இவற்றில் 13 ஆல் வகுபடும் முதல் எண் 390 = 13 × 30.",
     "en": "LCM(16, 24, 32) = 96. x = 96k + 6 gives 102, 198, 294, 390 …; the first divisible by 13 is 390 = 13 × 30."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 146,
@@ -1519,7 +1564,8 @@
     "ta": "வந்தவர்கள் 75%: 80 × 3/4 = 60.",
     "en": "75% were present: 80 × 3/4 = 60."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 147,
@@ -1549,7 +1595,8 @@
     "ta": "தோல்வி = (5 × 16 + 3 × 8) ÷ 8 = 104 ÷ 8 = 13%. தேர்ச்சி = 87%.",
     "en": "Failed = (5 × 16 + 3 × 8) ÷ 8 = 13%, so passed = 87%."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 148,
@@ -1579,7 +1626,8 @@
     "ta": "உறுப்புகள் n = (55 + 1)/2 = 28. முதல் n ஒற்றை எண்களின் கூடுதல் = n² = 28² = 784.",
     "en": "Number of terms n = (55 + 1)/2 = 28. The sum of the first n odd numbers is n² = 28² = 784."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 149,
@@ -1609,7 +1657,8 @@
     "ta": "nⁿ − n: 1¹−1 = 0, 2²−2 = 2, 3³−3 = 24, 4⁴−4 = 252, 5⁵−5 = 3120, 6⁶−6 = 46656 − 6 = 46650.",
     "en": "The rule is nⁿ − n: 0, 2, 24, 252, 3120, then 6⁶ − 6 = 46656 − 6 = 46650."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 150,
@@ -1643,7 +1692,8 @@
     "ta": "அடுத்தடுத்த இணைகள்: (6, 4), (4, 2), (5, 3) – மூன்று.",
     "en": "The successive pairs with a difference of 2 are (6, 4), (4, 2) and (5, 3): three."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 151,
@@ -1674,7 +1724,8 @@
     "en": "Faces seen next to 2 are 3 and 5 (position 1), 1 (position 2) and 6 (position 4). The one left over, 4, is opposite."
    },
    "status": "ok",
-   "figure": "described in words"
+   "figure": "described in words",
+   "use": "ok"
   },
   {
    "n": 152,
@@ -1704,7 +1755,8 @@
     "ta": "இரு தொடர்கள் மாறி மாறி: 7, 19, 43, 91 (×2 + 5) மற்றும் 12, 24, 48 (×2).",
     "en": "Two series alternate: 7, 19, 43, 91 (×2 + 5) and 12, 24, 48 (×2)."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 153,
@@ -1738,7 +1790,8 @@
     "ta": "MAITRI: ஆஸ்திரேலியாவின் Space Machines நிறுவனமும் இந்தியாவின் NSIL-உம் இணைந்த திட்டம் (SSLV ஏவுதல்); நோக்கம் விண்வெளிக் குப்பை மேலாண்மை, நிலைத்தன்மை. விடை மூலத்தில் குறிக்கப்பட்டபடி.",
     "en": "MAITRI pairs Australia's Space Machines Company with India's NSIL (an SSLV launch); its focus is debris management and sustainability. The answer is as marked in the source."
    },
-   "status": "unverified"
+   "status": "unverified",
+   "use": "stale"
   },
   {
    "n": 154,
@@ -1772,7 +1825,8 @@
     "ta": "நெல் பரப்பில் முதலிடம் திருவாரூர் / தஞ்சாவூர் (காவிரி டெல்டா); மக்காச்சோளம் – பெரம்பலூர்; கரும்பு – கள்ளக்குறிச்சி. விடை மூலத்தில் குறிக்கப்பட்டபடி.",
     "en": "Paddy area is led by Thiruvarur and Thanjavur in the Cauvery delta; maize by Perambalur; sugarcane by Kallakurichi. The answer is as marked in the source."
    },
-   "status": "unverified"
+   "status": "unverified",
+   "use": "stale"
   },
   {
    "n": 155,
@@ -1806,7 +1860,8 @@
     "ta": "தமிழ்நாட்டின் முதல் பொருளாதார ஆய்வறிக்கை (2024-25) மார்ச் 2025-இல் வெளியானது. விடை மூலத்தில் குறிக்கப்பட்டபடி.",
     "en": "Tamil Nadu's first Economic Survey (2024-25) was released in March 2025. The answer is as marked in the source."
    },
-   "status": "unverified"
+   "status": "unverified",
+   "use": "stale"
   },
   {
    "n": 156,
@@ -1840,7 +1895,8 @@
     "ta": "இல்லம் தேடிக் கல்வி (2021): 1–8 வகுப்பு மாணவர்களுக்குத் தன்னார்வலர்கள் மாலை நேரத்தில் குடியிருப்புப் பகுதிகளிலேயே கற்பிக்கின்றனர்.",
     "en": "Illam Thedi Kalvi (2021): volunteers teach Class 1–8 children in the evenings in their own neighbourhoods."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 157,
@@ -1874,7 +1930,8 @@
     "ta": "மண்டல் ஆணையம் (1979–80): 11 அளவுகோல்கள் – சமூகம் 4, கல்வி 3, பொருளாதாரம் 4. பிற்படுத்தப்பட்டோருக்கு 27% இட ஒதுக்கீடு பரிந்துரை.",
     "en": "The Mandal Commission (1979–80) used 11 criteria: 4 social, 3 educational and 4 economic. It recommended 27% reservation for backward classes."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 158,
@@ -1908,7 +1965,8 @@
     "ta": "அதிக தேவையும் குறைவான உற்பத்தியும் கூடப் பணவீக்கத்துக்குக் காரணங்களே; வினா தெளிவற்றது. மூலத்தில் குறிக்கப்பட்ட விடை (B): ரூபாய் மதிப்பு குறைந்தால் இறக்குமதி (எரிபொருள்) விலை உயரும்.",
     "en": "High demand and low production also cause inflation, so the question is loose. The source marks (B): a weaker rupee raises the price of imports such as fuel."
    },
-   "status": "doubtful"
+   "status": "doubtful",
+   "use": "ok"
   },
   {
    "n": 159,
@@ -1938,7 +1996,8 @@
     "ta": "பாரத் நிர்மான் (2005) → ராஜீவ் ஆவாஸ் யோஜனா (2009) → தேசிய ஊரக வாழ்வாதார இயக்கம் (2011) → தேசிய உணவுப் பாதுகாப்பு (2013).",
     "en": "Bharat Nirman (2005), Rajiv Awas Yojana (2009), National Rural Livelihood Mission (2011), National Food Security (2013)."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 160,
@@ -1972,7 +2031,8 @@
     "ta": "DDP – பாலைவன வளர்ச்சித் திட்டம் (Desert Development Programme); மலைப்பகுதித் திட்டம் HADP (Hill Area Development Programme).",
     "en": "DDP is the Desert Development Programme, and the hill scheme is HADP, the Hill Area Development Programme."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 161,
@@ -2006,7 +2066,8 @@
     "ta": "IMIS – Integrated Management Information System (ஒருங்கிணைந்த மேலாண்மைத் தகவல் முறை). NIC – National Informatics Centre.",
     "en": "IMIS is the Integrated Management Information System. NIC is strictly the National Informatics Centre."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 162,
@@ -2040,7 +2101,8 @@
     "ta": "பதினொன்றாம் வகுப்புப் பொருளியல் பாடநூல்படி: பாம்பே திட்டம் 1940, காந்தியத் திட்டம் (எஸ்.என். அகர்வால்) 1944, மக்கள் திட்டம் (எம்.என். ராய்) 1945, சர்வோதயத் திட்டம் (ஜே.பி. நாராயண்) 1950. (வரலாற்றில் பாம்பே திட்டம் வெளியானது 1944.)",
     "en": "By the Class 11 Economics textbook: Bombay Plan 1940, Gandhian Plan (S.N. Agarwal) 1944, People's Plan (M.N. Roy) 1945, Sarvodaya Plan (J.P. Narayan) 1950. (Historically the Bombay Plan was published in 1944; the exam follows the textbook.)"
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 163,
@@ -2074,7 +2136,8 @@
     "ta": "குறள் 490, ‘காலமறிதல்’ அதிகாரம் (தெரிந்து தெளிதல் அல்ல). ‘வாடி இருக்குமாம் கொக்கு’ ஔவையாரின் மூதுரை – அதே கருத்து.",
     "en": "Kural 490 is in the chapter 'Kaalam Arithal' (knowing the right time), not 'Therinthu Thelithal'. 'Vaadi irukkumaam kokku' is from Avvaiyar's Moothurai and carries the same idea."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 164,
@@ -2108,7 +2171,8 @@
     "ta": "குறள் 295 (வாய்மை அதிகாரம்): மனமார உண்மை பேசுபவன் தவமும் தானமும் செய்பவரைவிடச் சிறந்தவன்.",
     "en": "Kural 295 (chapter on truthfulness): one who speaks the truth from the heart is greater than those who do penance and give charity."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 165,
@@ -2138,7 +2202,8 @@
     "ta": "அயோத்திதாசர் – ஒரு பைசாத் தமிழன் (1907); வள்ளலார் – திருவருட்பா; ஜோதிபா பூலே – குலாம்கிரி (1873); சர் சையது அகமது கான் – தஹ்ஜிப்-உல்-அக்லாக்.",
     "en": "Iyothee Thass ran Oru Paisa Tamilan (1907), Vallalar wrote the Thiruvarutpa, Jyotiba Phule wrote Gulamgiri (1873) and Sir Syed Ahmed Khan ran Tahzib-ul-Akhlaq."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 166,
@@ -2172,7 +2237,8 @@
     "ta": "டாக்டர் சி. நடேசனார்: 1912-இல் சென்னை ஐக்கிய சங்கம் (பின்னர் சென்னை திராவிடர் சங்கம்) தொடங்கியவர்; நீதிக்கட்சியின் நிறுவனர்களில் ஒருவர். விடை மூலத்தில் குறிக்கப்பட்டபடி.",
     "en": "Dr C. Natesan founded the Madras United League in 1912 (later the Madras Dravidian Association) and was a founder of the Justice Party. The answer is as marked in the source."
    },
-   "status": "unverified"
+   "status": "unverified",
+   "use": "ok"
   },
   {
    "n": 167,
@@ -2206,7 +2272,8 @@
     "ta": "வள்ளலார்: சமரச சுத்த சன்மார்க்க சங்கம் (1865), வடலூர் சத்திய தருமசாலை (1867); சீவகாருண்யமே இறைவனை அடையும் வழி. விடை மூலத்தில் குறிக்கப்பட்டபடி.",
     "en": "Vallalar founded the Samarasa Suddha Sanmarga Sangam (1865) and the Sathya Dharmasalai at Vadalur (1867), and taught that compassion to living beings is the way to God. The answer is as marked in the source."
    },
-   "status": "unverified"
+   "status": "unverified",
+   "use": "ok"
   },
   {
    "n": 168,
@@ -2240,7 +2307,8 @@
     "ta": "டாக்டர் முத்துலட்சுமி: சென்னை சட்டமன்றத்தின் முதல் பெண் உறுப்பினர்; 1930 மசோதா; தேவதாசி ஒழிப்புச் சட்டம் 1947.",
     "en": "Dr Muthulakshmi was the first woman member of the Madras legislature; her 1930 Bill became the Devadasi Abolition Act in 1947."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 169,
@@ -2274,7 +2342,8 @@
     "ta": "சென்னையில் சைமன் குழு புறக்கணிப்புக் குழுவின் தலைவர் எஸ். சத்தியமூர்த்தி; இராஜாஜி அல்ல. குழுவின் ஏழு உறுப்பினர்களும் ஆங்கிலேயர்.",
     "en": "The Simon boycott committee in Madras was led by S. Satyamurti, not Rajaji. All seven members of the Commission were British."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 170,
@@ -2304,7 +2373,8 @@
     "ta": "வெற்றிவேற்கை (நறுந்தொகை) – அதிவீரராம பாண்டியர்; நன்னெறி – சிவப்பிரகாசர்; நீதிநெறி விளக்கம் – குமரகுருபரர்; நல்வழி – ஔவையார்.",
     "en": "Vetriverkai (Narunthogai) is by Athiveerarama Pandiyar, Nanneri by Sivaprakasar, Neethineri Vilakkam by Kumaraguruparar and Nalvazhi by Avvaiyar."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 171,
@@ -2334,7 +2404,8 @@
     "ta": "அழகன்குளம் – இராமநாதபுரம்; வசவசமுத்திரம் – காஞ்சிபுரம்; கொடுமணல் – ஈரோடு; கீழடி – சிவகங்கை.",
     "en": "Azhagankulam is in Ramanathapuram, Vasavasamudram in Kanchipuram, Kodumanal in Erode and Keezhadi in Sivagangai."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 172,
@@ -2364,7 +2435,8 @@
     "ta": "பாடநூல் அட்டவணை: டெங்கு – தோல், இரத்தம்; போலியோ – குடல், மூளை, தண்டுவடம்; தட்டம்மை – தோல், சுவாசப்பாதை; சின்னம்மை – சுவாசப்பாதை, தோல், நரம்பு மண்டலம்.",
     "en": "From the textbook table: dengue affects skin and blood; polio the intestine, brain and spinal cord; measles the skin and respiratory tract; chickenpox the respiratory tract, skin and nervous system."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 173,
@@ -2398,7 +2470,8 @@
     "ta": "கதிரியக்க ஐசோடோப்புகள்: Co-60 – புற்றுநோய்; I-131 – தைராய்டு; Na-24 – இதயம்; Fe-59 – இரத்தசோகை; P-32 – தோல் நோய்.",
     "en": "Radioisotopes: Co-60 for cancer, I-131 for the thyroid, Na-24 for the heart, Fe-59 for anaemia, P-32 for skin disease."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 174,
@@ -2432,7 +2505,8 @@
     "ta": "மகளிருக்கான கட்டணமில்லாப் பேருந்துப் பயணம்: 8 மே 2021 முதல்.",
     "en": "Free bus travel for women began on 8 May 2021."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 175,
@@ -2466,7 +2540,8 @@
     "ta": "பிறப்பு, இறப்பு விகிதங்களும் இடப்பெயர்வும் மக்கள்தொகை மாற்றத்தையும் பரவலையும் பாதிக்கின்றன.",
     "en": "Birth rate, death rate and migration all affect population change and distribution."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 176,
@@ -2496,7 +2571,8 @@
     "ta": "லடாங் – மலேசியா / இந்தோனேசியா; மில்பா – மெக்ஸிகோ; ரோக்கா – பிரேசில்; ரே – வியட்நாம். (இந்தியா: ஜூம், பொடு, பொன்னம்.)",
     "en": "Ladang is used in Malaysia and Indonesia, Milpa in Mexico, Roca in Brazil and Ray in Vietnam. (In India: Jhum, Podu, Ponam.)"
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 177,
@@ -2526,7 +2602,8 @@
     "ta": "இராஷ்டிரகூடர் காலம்: அமோகவர்ஷர் – கவிராஜமார்க்கம் (கன்னடம்); ஜீனசேனர் – ஆதிபுராணம்; குணபத்ரர் – மகாபுராணம். பாணர் (ஹர்ஷர் அவை) – காதம்பரி, ஹர்ஷசரிதம்.",
     "en": "Rashtrakuta period: Amoghavarsha wrote the Kavirajamarga (Kannada), Jinasena the Adipurana and Gunabhadra the Mahapurana. Bana, at Harsha's court, wrote the Kadambari and Harshacharita."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 178,
@@ -2560,7 +2637,8 @@
     "ta": "செல்லமுத்து சேதுபதி இராமநாதபுரம் அரசர்; கணவர் முத்துவடுகநாதர் (சிவகங்கை) 1772 காளையார்கோவில் போரில் கொல்லப்பட்டார்; வேலுநாச்சியார் இறப்பு 1796.",
     "en": "Chellamuthu Sethupathi was the Raja of Ramanathapuram. Her husband Muthuvadugananthar of Sivagangai was killed at Kalaiyarkoil in 1772, and she died in 1796."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 179,
@@ -2594,7 +2672,8 @@
     "ta": "காந்தி–இர்வின் ஒப்பந்தம் (5 மார்ச் 1931): வன்முறையில் ஈடுபடாத கைதிகள் விடுதலை; சொந்தப் பயன்பாட்டுக்கு உப்பு; அமைதியான மறியல். பகத்சிங்கின் தண்டனை குறைக்கப்படவில்லை.",
     "en": "Gandhi–Irwin Pact (5 March 1931): release of prisoners not guilty of violence, salt for personal use and peaceful picketing. Bhagat Singh's sentence was not commuted."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 180,
@@ -2628,7 +2707,8 @@
     "ta": "பி.பி. வாடியா 1918-இல் சென்னை தொழிலாளர் சங்கத்தைத் (Madras Labour Union) தொடங்கியவர்; மதுரை ஹார்வி மில் சங்கத் தலைவர் அல்ல. வரதராசுலு நாயுடு ‘பிரபஞ்ச மித்திரன்’ இதழை நடத்தினார். விடை மூலத்தில் குறிக்கப்பட்டபடி.",
     "en": "B.P. Wadia founded the Madras Labour Union in 1918 and did not lead the Madurai Harvey Mill union. Varadarajulu Naidu ran the paper Prapancha Mitran. The answer is as marked in the source."
    },
-   "status": "unverified"
+   "status": "unverified",
+   "use": "ok"
   },
   {
    "n": 181,
@@ -2662,7 +2742,8 @@
     "ta": "போஸ் பிறந்த ஊர் கட்டாக் (ஒடிசா). ஜனவரி 23 ‘பராக்கிரம திவஸ்’ (2021 முதல்); தேசிய விடுமுறை அல்ல.",
     "en": "Bose was born at Cuttack in Odisha. 23 January is Parakram Diwas (since 2021) but is not a national holiday."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 182,
@@ -2692,7 +2773,8 @@
     "ta": "2007 – புடின் (கலாம்); 2015 – ஒபாமா (பிரணாப்); 2019 – ராமபோசா (கோவிந்த்); 2025 – இந்தோனேசிய அதிபர் பிரபோவோ சுபியாண்டோ (முர்மு).",
     "en": "2007 Putin (Kalam), 2015 Obama (Pranab Mukherjee), 2019 Ramaphosa (Kovind), 2025 Indonesia's President Prabowo Subianto (Murmu)."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 183,
@@ -2722,7 +2804,8 @@
     "ta": "ஊழல் புகார் இலவச எண்: 1064 (மற்றும் 1965).",
     "en": "The toll-free anti-corruption numbers are 1064 and 1965."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 184,
@@ -2756,7 +2839,8 @@
     "ta": "2004 மக்களவைத் தேர்தலில் பயன்படுத்தப்பட்டவை ஒரு மில்லியனுக்கும் (10 இலட்சம்) அதிகமான இயந்திரங்கள்; இரண்டு மில்லியன் அல்ல.",
     "en": "The 2004 Lok Sabha election used a little over one million EVMs, not two million."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 185,
@@ -2790,7 +2874,8 @@
     "ta": "புள்ளியியல் சீரமைப்புக் குழு (1960) – வி.கே. ராவ்; பயிற்சி மையங்கள் குழு (1965) – ஜி. ராமச்சந்திரன். (2), (3) இடம் மாறியுள்ளன.",
     "en": "The statistics committee (1960) was under V.K. Rao and the training centres committee (1965) under G. Ramachandran; (2) and (3) are swapped."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 186,
@@ -2824,7 +2909,8 @@
     "ta": "பகுதி IV, உறுப்புகள் 36–51; அயர்லாந்து அரசமைப்பிலிருந்து பெறப்பட்டது. ‘அரசமைப்பின் இதயமும் ஆன்மாவும்’ என அம்பேத்கர் குறிப்பிட்டது உறுப்பு 32; எனவே (iii) விவாதத்துக்குரியது. விடை மூலத்தில் குறிக்கப்பட்டபடி.",
     "en": "Part IV, Articles 36–51, borrowed from the Irish Constitution. Ambedkar's 'heart and soul of the Constitution' was Article 32, so (iii) is arguable. The answer is as marked in the source."
    },
-   "status": "unverified"
+   "status": "unverified",
+   "use": "ok"
   },
   {
    "n": 187,
@@ -2858,7 +2944,8 @@
     "ta": "இந்தியாவில் ஒற்றைக் குடியுரிமை (பிரிட்டனிலிருந்து பெறப்பட்டது); இரட்டைக் குடியுரிமை அமெரிக்காவில்.",
     "en": "India has single citizenship (taken from Britain); dual citizenship is the American model."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 188,
@@ -2892,7 +2979,8 @@
     "ta": "உறுப்பு 368: சில பகுதிகள் எளிய பெரும்பான்மை, சில சிறப்புப் பெரும்பான்மை. 106 திருத்தங்கள்; அடிப்படைக் கட்டமைப்பை மாற்ற முடியாது (கேசவானந்த பாரதி, 1973).",
     "en": "Article 368: some parts change by simple majority and some by special majority. There have been 106 amendments, and the basic structure cannot be altered (Kesavananda Bharati, 1973)."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 189,
@@ -2927,7 +3015,8 @@
     "en": "Left side: ½×50×30 + ½×(30+20)×70 + ½×30×20 = 750 + 1750 + 300 = 2800. Right side: ½×80×50 + ½×70×50 = 2000 + 1750 = 3750. Total 6550 m²."
    },
    "status": "ok",
-   "figure": "described in words"
+   "figure": "described in words",
+   "use": "ok"
   },
   {
    "n": 190,
@@ -2957,7 +3046,8 @@
     "ta": "மீ.சி.ம (3, 4, 5, 6) = 60 ஆல் பெருக்க: 20 : 15 : 12 : 10. கூடுதல் = 57.",
     "en": "Multiply by LCM(3, 4, 5, 6) = 60 to get 20 : 15 : 12 : 10, which add to 57."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 191,
@@ -2987,7 +3077,8 @@
     "ta": "2 : 5 = x : 20 ⇒ 5x = 40 ⇒ x = 8.",
     "en": "2 : 5 = x : 20, so 5x = 40 and x = 8."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 192,
@@ -3017,7 +3108,8 @@
     "ta": "108 = 2²×3³, 234 = 2×3²×13 ⇒ மீ.பொ.வ = 18. 23x − 51 = 18 ⇒ x = 3.",
     "en": "108 = 2²×3³ and 234 = 2×3²×13, so the HCF = 18. 23x − 51 = 18 gives x = 3."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 193,
@@ -3047,7 +3139,8 @@
     "ta": "x³ + x² − x + 2 = (x + 2)(x² − x + 1); 2x³ − 5x² + 5x − 3 = (2x − 3)(x² − x + 1). பொதுக் காரணி x² − x + 1.",
     "en": "x³ + x² − x + 2 = (x + 2)(x² − x + 1) and 2x³ − 5x² + 5x − 3 = (2x − 3)(x² − x + 1). The common factor is x² − x + 1."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 194,
@@ -3077,7 +3170,8 @@
     "ta": "எந்த எண்ணின் அடுக்கு 0 = 1. 1/4 + 1/16 + 1/64 = (16 + 4 + 1)/64 = 21/64.",
     "en": "Anything to the power 0 is 1. 1/4 + 1/16 + 1/64 = (16 + 4 + 1)/64 = 21/64."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 195,
@@ -3107,7 +3201,8 @@
     "ta": "வித்தியாசம் 96 − 69 = 27. சராசரி உயர்வு = 27 ÷ 25 = 1.08. சரியான சராசரி = 78.4 + 1.08 = 79.48.",
     "en": "The difference is 96 − 69 = 27, which raises the mean by 27 ÷ 25 = 1.08. Correct mean = 78.4 + 1.08 = 79.48."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 196,
@@ -3137,7 +3232,8 @@
     "ta": "வரிசை: F, H, I/M, M/I, G, D. F-க்கு வலப்புறம் H.",
     "en": "The row is F, H, then I and M in the middle, then G, D. H sits to the right of F."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 197,
@@ -3167,7 +3263,8 @@
     "ta": "எழுத்துகளின் தலைகீழ் வரிசை எண் (A = 26 … Z = 1): S 8 + U 6 + N 13 = 27. C 24 + A 26 + T 7 = 57.",
     "en": "Letters are numbered in reverse (A = 26 … Z = 1): S 8 + U 6 + N 13 = 27, so C 24 + A 26 + T 7 = 57."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 198,
@@ -3201,7 +3298,8 @@
     "ta": "a ≠ b, b ≠ c என்பது மட்டுமே தெரியும்; a, c பற்றி எதுவும் சொல்லப்படவில்லை – சமமாகவும் இருக்கலாம், இல்லாமலும் இருக்கலாம்.",
     "en": "We only know a ≠ b and b ≠ c; nothing is said about a and c, which may or may not be equal."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 199,
@@ -3231,7 +3329,8 @@
     "ta": "முதல் எண்: +5, +7, +9, +11 → 34. எழுத்து: 4 எழுத்து பின்னோக்கி X, T, P, L, H. கடைசி எண்: ×2, ×3, ×4, ×5 → 48 × 5 = 240.",
     "en": "First number: +5, +7, +9, +11 gives 34. Letter: back four each time, X, T, P, L, H. Last number: ×2, ×3, ×4, ×5 gives 48 × 5 = 240."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   },
   {
    "n": 200,
@@ -3261,7 +3360,8 @@
     "ta": "பெருக்கல் 4: (1,4), (2,2), (4,1) – 3. வித்தியாசம் 5: (1,6), (6,1) – 2. மொத்தம் 5; நிகழ்தகவு 5/36.",
     "en": "Product 4: (1,4), (2,2), (4,1), three ways. Difference 5: (1,6), (6,1), two ways. Five in all, so 5/36."
    },
-   "status": "ok"
+   "status": "ok",
+   "use": "ok"
   }
  ]
 }
