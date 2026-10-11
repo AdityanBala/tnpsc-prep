@@ -1661,6 +1661,308 @@
      "x": {
       "ta": "20000 × 1.1 × 1.1 = 24200."
      }
+    },
+    {
+     "id": "d003-daily-p011",
+     "subject": "tamil",
+     "q": {
+      "ta": "'பைந்தமிழ்' என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது"
+     },
+     "o": [
+      {
+       "ta": "பைம் + தமிழ்"
+      },
+      {
+       "ta": "பை + தமிழ்"
+      },
+      {
+       "ta": "பசுமை + தமிழ்"
+      },
+      {
+       "ta": "பசு + தமிழ்"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "பண்புப்பெயரான 'பசுமை' என்பதில் 'மை' கெட்டு, 'பசு' என்பது 'பை' ஆனது."
+     }
+    },
+    {
+     "id": "d003-daily-p012",
+     "subject": "tamil",
+     "q": {
+      "ta": "'நானிலம்' என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது"
+     },
+     "o": [
+      {
+       "ta": "நான்கு + நிலம்"
+      },
+      {
+       "ta": "நான் + நிலம்"
+      },
+      {
+       "ta": "நா + நிலம்"
+      },
+      {
+       "ta": "நால் + இலம்"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "எண்ணுப்பெயரான 'நான்கு' என்பது திரிந்து 'நிலம்' என்பதோடு சேர்ந்தது."
+     }
+    },
+    {
+     "id": "d003-daily-p013",
+     "subject": "tamil",
+     "q": {
+      "ta": "'மாவிலை' என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது"
+     },
+     "o": [
+      {
+       "ta": "மாவ் + இலை"
+      },
+      {
+       "ta": "மாவு + இலை"
+      },
+      {
+       "ta": "மா + விலை"
+      },
+      {
+       "ta": "மா + இலை"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "'மா', 'இலை' என்னும் இரு சொற்களுக்கு இடையில் 'வ்' புதிதாகத் தோன்றியது; அது நிலைமொழியின் பகுதி அல்ல."
+     }
+    },
+    {
+     "id": "d003-daily-p014",
+     "subject": "gs",
+     "q": {
+      "ta": "திருக்குறளில் இடம்பெறும் ஒரே விதை",
+      "en": "The only seed mentioned in the Thirukkural is"
+     },
+     "o": [
+      {
+       "ta": "நெருஞ்சி",
+       "en": "Nerunji"
+      },
+      {
+       "ta": "குன்றிமணி",
+       "en": "Kundrimani"
+      },
+      {
+       "ta": "அனிச்சம்",
+       "en": "Anicham"
+      },
+      {
+       "ta": "குவளை",
+       "en": "Kuvalai"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "ஒரே விதை குன்றிமணி; ஒரே பழம் நெருஞ்சிப்பழம்; இரு மலர்கள் அனிச்சம், குவளை.",
+      "en": "The only seed is the kundrimani, the only fruit the nerunji, and the two flowers are anicham and kuvalai."
+     }
+    },
+    {
+     "id": "d003-daily-p015",
+     "subject": "gs",
+     "q": {
+      "ta": "திருக்குறளை இலத்தீன் மொழியில் மொழிபெயர்த்தவர்",
+      "en": "Who translated the Thirukkural into Latin?"
+     },
+     "o": [
+      {
+       "ta": "ஜி.யு. போப்",
+       "en": "G.U. Pope"
+      },
+      {
+       "ta": "எல்லிஸ்",
+       "en": "Ellis"
+      },
+      {
+       "ta": "பரிமேலழகர்",
+       "en": "Parimelazhagar"
+      },
+      {
+       "ta": "வீரமாமுனிவர்",
+       "en": "Veeramamunivar"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "வீரமாமுனிவர் இலத்தீனிலும் ஜி.யு. போப் ஆங்கிலத்திலும் மொழிபெயர்த்தனர்.",
+      "en": "Veeramamunivar translated it into Latin and G.U. Pope into English."
+     }
+    },
+    {
+     "id": "d003-daily-p016",
+     "subject": "gs",
+     "q": {
+      "ta": "திருக்குறள் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) 'அ' என்னும் எழுத்தில் தொடங்கி 'ன்' என்னும் எழுத்தில் முடிகிறது.\n(ii) ஒவ்வோர் அதிகாரத்திலும் 10 குறட்பாக்கள் உள்ளன.\n(iii) முதல் அதிகாரம் வான்சிறப்பு.",
+      "en": "Which of these statements about the Thirukkural are correct?\n(i) It begins with the letter 'அ' and ends with the letter 'ன்'.\n(ii) Every chapter has 10 couplets.\n(iii) The first chapter is Vaansirappu."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "முதல் அதிகாரம் கடவுள் வாழ்த்து.",
+      "en": "The first chapter is Kadavul Vaazhthu."
+     }
+    },
+    {
+     "id": "d003-daily-p017",
+     "subject": "apt",
+     "q": {
+      "ta": "A-யின் வருமானம் B-யின் வருமானத்தை விட 50% குறைவு எனில், B-யின் வருமானம் A-யின் வருமானத்தை விட எத்தனை விழுக்காடு அதிகம்?",
+      "en": "If A's income is 50% less than B's, by what percentage is B's income more than A's?"
+     },
+     "o": [
+      {
+       "ta": "50%"
+      },
+      {
+       "ta": "75%"
+      },
+      {
+       "ta": "100%"
+      },
+      {
+       "ta": "150%"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "B = 100 எனில் A = 50; வேறுபாடு 50 என்பது 50-இன் 100%.",
+      "en": "If B = 100 then A = 50; the difference 50 is 100% of 50."
+     }
+    },
+    {
+     "id": "d003-daily-p018",
+     "subject": "apt",
+     "q": {
+      "ta": "30 லிட்டர் கலவையில் 20% நீர் உள்ளது. நீரின் அளவை 40% ஆக்க எத்தனை லிட்டர் நீர் சேர்க்க வேண்டும்?",
+      "en": "A 30-litre mixture contains 20% water. How many litres of water must be added to make the water 40%?"
+     },
+     "o": [
+      {
+       "ta": "6"
+      },
+      {
+       "ta": "10"
+      },
+      {
+       "ta": "12"
+      },
+      {
+       "ta": "8"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "மற்றப் பொருள் 24 லிட்டர்; அது புதிய கலவையின் 60%; புதிய கலவை 40 லிட்டர்; சேர்க்க வேண்டியது 10 லிட்டர்.",
+      "en": "The other part is 24 litres, which must be 60% of the new mixture; the new mixture is 40 litres, so 10 litres are added."
+     }
+    },
+    {
+     "id": "d003-daily-p019",
+     "subject": "apt",
+     "q": {
+      "ta": "எண்ணெயின் விலை 50% உயர்ந்தது. செலவு மாறாமல் இருக்க நுகர்வை எத்தனை விழுக்காடு குறைக்க வேண்டும்?",
+      "en": "The price of oil rises by 50%. By what percentage must consumption be reduced so that the expenditure does not change?"
+     },
+     "o": [
+      {
+       "ta": "33 1/3%"
+      },
+      {
+       "ta": "50%"
+      },
+      {
+       "ta": "25%"
+      },
+      {
+       "ta": "66 2/3%"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "100 × 50 ÷ 150 = 33 1/3%."
+     }
+    },
+    {
+     "id": "d003-daily-p020",
+     "subject": "apt",
+     "q": {
+      "ta": "கோதுமையின் விலை 10% குறைந்ததால் ஒருவரால் ரூ. 450-க்கு 2 கிலோ கூடுதலாக வாங்க முடிந்தது. ஒரு கிலோ கோதுமையின் பழைய விலை (ரூபாயில்)",
+      "en": "Because the price of wheat fell by 10%, a man could buy 2 kg more for Rs. 450. The original price of wheat per kg (in rupees) was"
+     },
+     "o": [
+      {
+       "ta": "22.50"
+      },
+      {
+       "ta": "20"
+      },
+      {
+       "ta": "27.50"
+      },
+      {
+       "ta": "25"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "450-இன் 10% = 45; அது 2 கிலோவின் விலை; புதிய விலை 22.50; பழைய விலை 22.50 ÷ 0.9 = 25.",
+      "en": "10% of 450 = 45 is the price of 2 kg, so the new price is 22.50 and the old price is 22.50 ÷ 0.9 = 25."
+     }
+    },
+    {
+     "id": "d003-daily-p021",
+     "subject": "apt",
+     "q": {
+      "ta": "ஒரு தேர்தலில் பதிவான 12,000 வாக்குகளில் 15% செல்லாதவை. செல்லத்தக்க வாக்குகளில் 60% பெற்றவர் பெற்ற வாக்குகள்",
+      "en": "In an election 15% of the 12,000 votes polled were invalid. How many votes did a candidate who got 60% of the valid votes receive?"
+     },
+     "o": [
+      {
+       "ta": "7200"
+      },
+      {
+       "ta": "6120"
+      },
+      {
+       "ta": "5400"
+      },
+      {
+       "ta": "6000"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "செல்லத்தக்கவை 10,200; அதில் 60% = 6,120.",
+      "en": "Valid votes 10,200; 60% of that is 6,120."
+     }
     }
    ]
   }

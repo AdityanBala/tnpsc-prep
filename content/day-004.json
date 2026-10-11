@@ -1680,6 +1680,307 @@
       "ta": "முழு எண்கள் 1 + 2 = 3; 2/3 + 3/4 = 17/12 = 1 5/12; மொத்தம் 4 5/12.",
       "en": "Whole parts 1 + 2 = 3; 2/3 + 3/4 = 17/12 = 1 5/12; total 4 5/12."
      }
+    },
+    {
+     "id": "d004-daily-p011",
+     "subject": "tamil",
+     "q": {
+      "ta": "'ஆறு + சுவை' என்பதைச் சேர்த்து எழுதக் கிடைக்கும் சொல்"
+     },
+     "o": [
+      {
+       "ta": "ஆறுசுவை"
+      },
+      {
+       "ta": "அறுசுவை"
+      },
+      {
+       "ta": "ஆற்சுவை"
+      },
+      {
+       "ta": "அறுச்சுவை"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "எண்ணுப்பெயரான 'ஆறு' என்பது 'அறு' எனக் குறுகியது."
+     }
+    },
+    {
+     "id": "d004-daily-p012",
+     "subject": "tamil",
+     "q": {
+      "ta": "'பசுமை + கூழ்' என்பதைச் சேர்த்து எழுதக் கிடைக்கும் சொல்"
+     },
+     "o": [
+      {
+       "ta": "பசுங்கூழ்"
+      },
+      {
+       "ta": "பசுமைக்கூழ்"
+      },
+      {
+       "ta": "பைக்கூழ்"
+      },
+      {
+       "ta": "பைங்கூழ்"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "'மை' கெட்டு, 'பசு' என்பது 'பை' ஆகி, இன மெல்லினம் தோன்றியது."
+     }
+    },
+    {
+     "id": "d004-daily-p013",
+     "subject": "tamil",
+     "q": {
+      "ta": "'தீ + அணைப்பு' என்பதைச் சேர்த்து எழுதக் கிடைக்கும் சொல்"
+     },
+     "o": [
+      {
+       "ta": "தீயணைப்பு"
+      },
+      {
+       "ta": "தீவணைப்பு"
+      },
+      {
+       "ta": "தீஅணைப்பு"
+      },
+      {
+       "ta": "தீணைப்பு"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "'ஈ' என்பதை அடுத்து உயிர் வந்ததால் 'ய்' தோன்றியது."
+     }
+    },
+    {
+     "id": "d004-daily-p014",
+     "subject": "gs",
+     "q": {
+      "ta": "களப்பிரர் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) வேள்விக்குடிச் செப்பேடுகள் களப்பிரரைக் குறிப்பிடுகின்றன.\n(ii) வச்சிரநந்தி மதுரையில் திராவிட சங்கத்தை நிறுவினார்.\n(iii) பாண்டிய நாட்டில் களப்பிரரை வென்றவர் நெடுஞ்செழியன்.",
+      "en": "Which of these statements about the Kalabhras are correct?\n(i) The Velvikudi copper plates mention the Kalabhras.\n(ii) Vajranandi founded the Dravida Sangha at Madurai.\n(iii) Nedunchezhiyan defeated the Kalabhras in the Pandya country."
+     },
+     "o": [
+      {
+       "ta": "(i) மட்டும்",
+       "en": "(i) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "பாண்டிய நாட்டில் களப்பிரரை வென்றவர் கடுங்கோன்; நெடுஞ்செழியன் சங்க கால மன்னன்.",
+      "en": "It was Kadungon who defeated the Kalabhras in the Pandya country; Nedunchezhiyan was a Sangam-age king."
+     }
+    },
+    {
+     "id": "d004-daily-p015",
+     "subject": "gs",
+     "q": {
+      "ta": "மாமல்லபுரம் கடற்கரைக் கோயிலைக் கட்டிய பல்லவ மன்னர்",
+      "en": "Which Pallava king built the Shore Temple at Mamallapuram?"
+     },
+     "o": [
+      {
+       "ta": "முதலாம் மகேந்திரவர்மன்",
+       "en": "Mahendravarman I"
+      },
+      {
+       "ta": "இரண்டாம் நரசிம்மவர்மன் (ராஜசிம்மன்)",
+       "en": "Narasimhavarman II (Rajasimha)"
+      },
+      {
+       "ta": "சிம்மவிஷ்ணு",
+       "en": "Simhavishnu"
+      },
+      {
+       "ta": "மூன்றாம் நந்திவர்மன்",
+       "en": "Nandivarman III"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "கடற்கரைக் கோயிலும் காஞ்சி கைலாசநாதர் கோயிலும் ராஜசிம்மன் கட்டிய கட்டுமானக் கோயில்கள்.",
+      "en": "The Shore Temple and the Kailasanatha temple at Kanchi are structural temples built by Rajasimha."
+     }
+    },
+    {
+     "id": "d004-daily-p016",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: பரஞ்சோதி பின்னாளில் சிறுத்தொண்டர் என்னும் நாயனாராகப் போற்றப்பட்டார்.\nகாரணம்: பரஞ்சோதி முதலாம் மகேந்திரவர்மனின் படைத்தலைவர்.",
+      "en": "Assertion: Paranjothi was later revered as the Nayanar Siruthondar.\nReason: Paranjothi was the general of Mahendravarman I."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "பரஞ்சோதி முதலாம் நரசிம்மவர்மனின் படைத்தலைவர்.",
+      "en": "Paranjothi was the general of Narasimhavarman I."
+     }
+    },
+    {
+     "id": "d004-daily-p017",
+     "subject": "apt",
+     "q": {
+      "ta": "2/3, 5/7, 7/10, 3/5 ஆகியவற்றுள் மிகப்பெரிய பின்னம்",
+      "en": "The largest of the fractions 2/3, 5/7, 7/10, 3/5 is"
+     },
+     "o": [
+      {
+       "ta": "2/3"
+      },
+      {
+       "ta": "7/10"
+      },
+      {
+       "ta": "5/7"
+      },
+      {
+       "ta": "3/5"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "0.667, 0.714, 0.7, 0.6; பெரியது 5/7.",
+      "en": "0.667, 0.714, 0.7, 0.6; the largest is 5/7."
+     }
+    },
+    {
+     "id": "d004-daily-p018",
+     "subject": "apt",
+     "q": {
+      "ta": "0.3, 0.03, 0.303, 0.033 ஆகியவற்றின் இறங்குவரிசை",
+      "en": "The descending order of 0.3, 0.03, 0.303, 0.033 is"
+     },
+     "o": [
+      {
+       "ta": "0.3, 0.303, 0.033, 0.03"
+      },
+      {
+       "ta": "0.303, 0.3, 0.03, 0.033"
+      },
+      {
+       "ta": "0.303, 0.033, 0.3, 0.03"
+      },
+      {
+       "ta": "0.303, 0.3, 0.033, 0.03"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "0.300, 0.030, 0.303, 0.033 என எழுதினால் இறங்குவரிசை 0.303, 0.300, 0.033, 0.030.",
+      "en": "Written as 0.300, 0.030, 0.303, 0.033 the descending order is 0.303, 0.300, 0.033, 0.030."
+     }
+    },
+    {
+     "id": "d004-daily-p019",
+     "subject": "apt",
+     "q": {
+      "ta": "ஒரு கம்பத்தின் 1/6 பங்கு சேற்றிலும், 1/2 பங்கு நீரிலும் உள்ளது. மீதி 4 மீட்டர் நீருக்கு மேல் தெரிகிறது. கம்பத்தின் நீளம் (மீட்டரில்)",
+      "en": "1/6 of a pole is in mud and 1/2 of it is in water. The remaining 4 metres are above the water. The length of the pole (in metres) is"
+     },
+     "o": [
+      {
+       "ta": "12"
+      },
+      {
+       "ta": "8"
+      },
+      {
+       "ta": "24"
+      },
+      {
+       "ta": "16"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "மீதிப் பங்கு 1 − 1/6 − 1/2 = 1/3; 1/3 = 4 எனில் கம்பம் 12 மீட்டர்.",
+      "en": "The remaining part is 1 − 1/6 − 1/2 = 1/3; if 1/3 is 4, the pole is 12 metres."
+     }
+    },
+    {
+     "id": "d004-daily-p020",
+     "subject": "apt",
+     "q": {
+      "ta": "4 1/2 ÷ 1 1/8 = ?",
+      "en": "4 1/2 ÷ 1 1/8 = ?"
+     },
+     "o": [
+      {
+       "ta": "3"
+      },
+      {
+       "ta": "4"
+      },
+      {
+       "ta": "5 1/16"
+      },
+      {
+       "ta": "3 1/2"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "9/2 × 8/9 = 4."
+     }
+    },
+    {
+     "id": "d004-daily-p021",
+     "subject": "apt",
+     "q": {
+      "ta": "0.08 × 0.5 ÷ 0.004 = ?",
+      "en": "0.08 × 0.5 ÷ 0.004 = ?"
+     },
+     "o": [
+      {
+       "ta": "1"
+      },
+      {
+       "ta": "0.1"
+      },
+      {
+       "ta": "10"
+      },
+      {
+       "ta": "100"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "0.04 ÷ 0.004 = 10."
+     }
     }
    ]
   }
