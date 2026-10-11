@@ -1,0 +1,1686 @@
+{
+ "n": 9,
+ "title": {
+  "ta": "வினைமுற்று, வினையெச்சம் · சமூக சீர்திருத்தவாதிகள் · மீ.பொ.வ",
+  "en": "Finite verb and verbal participle · Social reformers · HCF"
+ },
+ "plan": {
+  "ta": "முதல் 15 நிமிடம் முந்தைய தேர்வுகளில் தவறான விடைகளை மீண்டும் பார்க்கவும்; அதன் பிறகே இன்றைய பாடம்.\n\n| பகுதி | நேரம் | பாடம் | செய்ய வேண்டியது |\n| --- | --- | --- | --- |\n| காலை | 3 மணி | தமிழ்: வினைமுற்று, வினையெச்சம் | குறிப்புகள் 1 மணி, பாடநூல் 1 மணி, அட்டவணையில் ஒவ்வொரு வேர்ச்சொல்லுக்கும் இரு வடிவங்களையும் சொல்லிப் பார்த்தல் 1 மணி |\n| நண்பகல் | 2.5 மணி | பொது அறிவு: சமூக சீர்திருத்தவாதிகள் | குறிப்புகள், பின் நால்வருக்கும் அமைப்பு, இதழ், நூல், ஆண்டு ஆகியவற்றை நினைவிலிருந்து எழுதிப் பார்த்தல் |\n| பிற்பகல் | 45 நிமிடம் | திறனறிவு: மீப்பெரு பொது வகுத்தி | விதிகள் 15 நிமிடம், பயிற்சி 30 நிமிடம் |\n| மாலை | 45 நிமிடம் | தேர்வு | 50 வினாக்கள், 45 நிமிடம்; பின் தவறான விடைகளையும் விளக்கங்களையும் பார்த்தல் |"
+ },
+ "notes": [
+  {
+   "id": "tamil",
+   "subject": "tamil",
+   "title": {
+    "ta": "வேர்ச்சொல்லிலிருந்து வினைமுற்று, வினையெச்சம்"
+   },
+   "md": {
+    "ta": "நேற்று ஒரு சொல்லிலிருந்து வேர்ச்சொல்லைக் கண்டீர்கள். இன்று மறுபக்கம்: வேர்ச்சொல்லைத் தந்து அதன் வினைமுற்று வடிவத்தையோ வினையெச்ச வடிவத்தையோ கேட்பார்கள்; அல்லது ஒரு சொல்லைத் தந்து அது எந்த வகை என்று கேட்பார்கள்.\n\n### வினைமுற்று\n\n- செயல் முடிந்ததைக் காட்டி, பொருள் முற்றுப்பெற்று நிற்கும் வினைச்சொல் வினைமுற்று. அது தொடரின் இறுதியில் வரும்: கண்ணன் பாடம் படித்தான்.\n- வினைமுற்று காலத்தையும், செயலைச் செய்தவர் யார் என்பதையும் காட்டும்.\n\n| காலம் | எடுத்துக்காட்டு |\n| --- | --- |\n| இறந்த காலம் | படித்தான், படித்தாள், படித்தனர், படித்தது |\n| நிகழ்காலம் | படிக்கிறான், படிக்கிறாள், படிக்கின்றனர் |\n| எதிர்காலம் | படிப்பான், படிப்பாள், படிப்பார்கள் |\n\n- இறுதியில் ஆன், ஆள், ஆர், அனர், அது, அன, ஏன், ஆய், ஓம் போன்றவை இருந்தால் அது வினைமுற்று.\n\n### வினையெச்சம்\n\n- பொருள் முற்றுப்பெறாமல் நின்று, வேறொரு வினைச்சொல்லைக் கொண்டு முடியும் சொல் வினையெச்சம்: படித்து முடித்தான்; ஓடி வந்தான்.\n- வினையெச்சம் செய்தவர் யார் என்பதைக் காட்டாது: 'படித்து' என்பது அவன், அவள், அவர்கள் எல்லோருக்கும் ஒன்றே.\n\n| வடிவம் | எடுத்துக்காட்டு |\n| --- | --- |\n| 'உ' என முடிவது | படித்து, வந்து, சென்று, கண்டு, கேட்டு |\n| 'இ' என முடிவது | ஓடி, பாடி, எழுதி, சொல்லி |\n| 'ய்' என முடிவது | போய், ஆய் |\n| 'அ' என முடிவது | படிக்க, வர, செல்ல |\n| 'ஆல்' என முடிவது | படித்தால், வந்தால் |\n| 'ஆமல்' என முடிவது | படிக்காமல், வராமல் |\n\n### வேர்ச்சொல்லிலிருந்து இரு வடிவங்கள்\n\n| வேர்ச்சொல் | வினைமுற்று | வினையெச்சம் |\n| --- | --- | --- |\n| படி | படித்தான் | படித்து |\n| வா | வந்தான் | வந்து |\n| செல் | சென்றான் | சென்று |\n| காண் | கண்டான் | கண்டு |\n| தா | தந்தான் | தந்து |\n| கேள் | கேட்டான் | கேட்டு |\n| நில் | நின்றான் | நின்று |\n| வில் | விற்றான் | விற்று |\n| கல் | கற்றான் | கற்று |\n| பெறு | பெற்றான் | பெற்று |\n| செய் | செய்தான் | செய்து |\n| எழுது | எழுதினான் | எழுதி |\n| ஓடு | ஓடினான் | ஓடி |\n| சொல் | சொன்னான் | சொல்லி |\n| போ | போனான் | போய் |\n\n### குழப்பும் விடைகள்\n\nவிடைகளில் இந்த நான்கு வகைகளும் கலந்து தரப்படும். பெயரெச்சமும் வினையாலணையும் பெயரும் நாளைய பாடம்; இன்று அவற்றை அடையாளம் கண்டு விலக்கினால் போதும்.\n\n| வகை | அடையாளம் | எடுத்துக்காட்டு |\n| --- | --- | --- |\n| வினைமுற்று | பொருள் முற்றுப்பெறும்; செய்தவரைக் காட்டும் | தந்தான் |\n| வினையெச்சம் | வினைச்சொல்லைக் கொண்டு முடியும் | தந்து (சென்றான்) |\n| பெயரெச்சம் | பெயர்ச்சொல்லைக் கொண்டு முடியும் | தந்த (பரிசு) |\n| தொழிற்பெயர் | செயலின் பெயர் | தருதல் |\n\n- 'படிக்க வந்தான்' என்பதில் 'படிக்க' வினையெச்சம்: அதை அடுத்து வருவது வினைச்சொல். 'படித்த பையன்' என்பதில் 'படித்த' பெயரெச்சம்: அதை அடுத்து வருவது பெயர்ச்சொல்.\n\n### தேர்வில் கவனிக்க\n\n- 'வினைமுற்று' கேட்டால் ஆன், ஆள், ஆர், அது என முடியும் விடையைத் தேடவும்.\n- 'வினையெச்சம்' கேட்டால் அச்சொல்லை அடுத்து 'வந்தான்' என்று சேர்த்துப் பார்க்கவும்: 'படித்து வந்தான்' பொருந்தும்; 'படித்த வந்தான்' பொருந்தாது."
+   }
+  },
+  {
+   "id": "gs",
+   "subject": "gs",
+   "title": {
+    "ta": "சமூக சீர்திருத்தவாதிகள்",
+    "en": "Social reformers"
+   },
+   "md": {
+    "ta": "பத்தொன்பதாம் நூற்றாண்டிலும் இருபதாம் நூற்றாண்டின் தொடக்கத்திலும் தமிழகத்தில் சாதி வேறுபாட்டையும் மூடநம்பிக்கைகளையும் எதிர்த்த நான்கு சீர்திருத்தவாதிகள் இன்றைய பாடம். ஒவ்வொருவருக்கும் அமைப்பு, இதழ் அல்லது நூல், ஆண்டு ஆகியவை முக்கியம்.\n\n### வள்ளலார் (இராமலிங்க அடிகள்), 1823–1874\n\n- பிறந்த இடம்: சிதம்பரம் அருகே மருதூர்.\n- கொள்கை: ஜீவகாருண்யம் (எல்லா உயிர்களிடமும் இரக்கம்); சாதி, சமய வேறுபாடுகளை எதிர்த்தார்; இறைவனை ஒளி வடிவில் (அருட்பெருஞ்சோதி) வழிபட வேண்டும் என்றார்.\n- 1865: சமரச வேத சன்மார்க்க சங்கத்தை நிறுவினார்; அது பின்னர் சமரச சுத்த சன்மார்க்க சத்திய சங்கம் எனப் பெயர் மாற்றப்பட்டது.\n- 1867: வடலூரில் சத்திய தருமச்சாலையை நிறுவிப் பசித்தோர்க்கு உணவளித்தார்.\n- 1872: வடலூரில் சத்திய ஞான சபையை நிறுவினார்.\n- பாடல்களின் தொகுப்பு: திருவருட்பா. உரைநடை நூல்கள்: மனுமுறை கண்ட வாசகம், ஜீவகாருண்ய ஒழுக்கம்.\n- 'வாடிய பயிரைக் கண்டபோதெல்லாம் வாடினேன்' என்று பாடியவர்.\n\n### வைகுண்ட சுவாமிகள், 1809–1851\n\n- பிறந்த இடம்: கன்னியாகுமரி அருகே சாஸ்தான்கோவில்விளை (இன்றைய சாமித்தோப்பு).\n- இயற்பெயர் முடிசூடும் பெருமாள்; பின்னர் முத்துக்குட்டி என்று அழைக்கப்பட்டார்.\n- அவர் காட்டிய நெறி 'அய்யா வழி'. நூல்: அகிலத்திரட்டு.\n- சமத்துவ சங்கத்தை நிறுவினார். எல்லாச் சாதியினரும் ஒன்றாக அமர்ந்து உண்ணும் சமபந்தி உணவு முறையை ஊக்குவித்தார்.\n- வழிபாட்டு இடங்கள் 'நிழல் தாங்கல்கள்' எனப்பட்டன.\n- திருவிதாங்கூர் அரசரின் ஆட்சியைக் 'கறுப்புப் பேய்களின் ஆட்சி' என்றும் ஆங்கிலேயர் ஆட்சியை 'வெள்ளைப் பேய்களின் ஆட்சி' என்றும் கண்டித்தார்.\n\n### அயோத்திதாசர், 1845–1914\n\n- சென்னையைச் சேர்ந்த சித்த மருத்துவர்; இயற்பெயர் காத்தவராயன்.\n- 1876: அத்வைதானந்த சபையை நிறுவினார்.\n- 1885: ஜான் ரத்தினத்துடன் இணைந்து 'திராவிட பாண்டியன்' இதழைத் தொடங்கினார்.\n- 1891: திராவிட மகாஜன சபையை நிறுவினார்.\n- 1898: இலங்கை சென்று பௌத்தத்தைத் தழுவினார்; அதே ஆண்டில் சென்னையில் தென்னிந்திய சாக்கிய பௌத்த சங்கத்தை நிறுவினார்.\n- 1907: 'ஒரு பைசாத் தமிழன்' என்னும் வார இதழைத் தொடங்கினார்; அது பின்னர் 'தமிழன்' என்னும் பெயரில் வெளிவந்தது.\n\n### இரட்டைமலை சீனிவாசன், 1859–1945\n\n- பிறந்த இடம்: காஞ்சிபுரம் பகுதி.\n- 1893: 'பறையன்' என்னும் இதழைத் தொடங்கினார்; அதே ஆண்டில் ஆதி திராவிட மகாஜன சபையை நிறுவினார்.\n- 1923: சென்னை சட்டமன்ற மேலவை உறுப்பினர் ஆனார்.\n- 1930, 1931: இலண்டனில் நடந்த முதல் இரண்டு வட்டமேசை மாநாடுகளில் அம்பேத்கருடன் ஒடுக்கப்பட்டோர் சார்பில் பங்கேற்றார்.\n- 1932: பூனா ஒப்பந்தத்தில் கையெழுத்திட்டவர்களுள் ஒருவர்.\n- பட்டங்கள்: ராவ் சாகிப், ராவ் பகதூர், திவான் பகதூர்.\n- சுயசரிதை: ஜீவிய சரித்திர சுருக்கம் (1939).\n- குழப்பும் விடை: அகில இந்திய ஒடுக்கப்பட்டோர் சங்கத்தின் தலைவர் எம்.சி. ராஜா.\n\n### ஒரே பார்வையில்\n\n| சீர்திருத்தவாதி | அமைப்பு | இதழ் அல்லது நூல் |\n| --- | --- | --- |\n| வள்ளலார் | சமரச சுத்த சன்மார்க்க சத்திய சங்கம்; சத்திய தருமச்சாலை; சத்திய ஞான சபை | திருவருட்பா |\n| வைகுண்ட சுவாமிகள் | சமத்துவ சங்கம் | அகிலத்திரட்டு |\n| அயோத்திதாசர் | அத்வைதானந்த சபை; திராவிட மகாஜன சபை; சாக்கிய பௌத்த சங்கம் | ஒரு பைசாத் தமிழன் |\n| இரட்டைமலை சீனிவாசன் | ஆதி திராவிட மகாஜன சபை | பறையன்; ஜீவிய சரித்திர சுருக்கம் |\n\n### தேர்வில் மாற்றிக் கேட்கப்படும் விவரங்கள்\n\n- வள்ளலார்: 1865 சங்கம், 1867 தருமச்சாலை, 1872 ஞான சபை; மூன்றும் வரிசையாக.\n- திராவிட மகாஜன சபை (1891) அயோத்திதாசருடையது; ஆதி திராவிட மகாஜன சபை (1893) இரட்டைமலை சீனிவாசனுடையது.\n- 'ஒரு பைசாத் தமிழன்' 1907; 'பறையன்' 1893.\n- வட்டமேசை மாநாடுகள் 1930, 1931; பூனா ஒப்பந்தம் 1932: இரட்டைமலை சீனிவாசன்.\n- இயற்பெயர்கள்: காத்தவராயன் – அயோத்திதாசர்; முடிசூடும் பெருமாள் – வைகுண்ட சுவாமிகள்; தீர்த்தகிரி – தீரன் சின்னமலை.\n- அய்யா வழி, அகிலத்திரட்டு: வைகுண்ட சுவாமிகள். திருவருட்பா: வள்ளலார்.",
+    "en": "Today's lesson is on four reformers who opposed caste distinctions and superstition in Tamil Nadu in the nineteenth and early twentieth centuries. For each, the organisation, the journal or book and the year matter.\n\n### Vallalar (Ramalinga Adigal), 1823–1874\n\n- Born at Marudhur near Chidambaram.\n- Ideas: jeevakarunyam (compassion for all living beings); he opposed distinctions of caste and religion and taught that God should be worshipped in the form of light (Arutperunjothi).\n- 1865: founded the Samarasa Vedha Sanmarga Sangam, later renamed the Samarasa Suddha Sanmarga Sathya Sangam.\n- 1867: founded the Sathya Dharma Salai at Vadalur to feed the hungry.\n- 1872: founded the Sathya Gnana Sabai at Vadalur.\n- His songs are collected as the Thiruvarutpa. Prose works: Manumurai Kanda Vasagam and Jeevakarunya Ozhukkam.\n- He is the one who sang that he withered every time he saw a withered crop.\n\n### Vaikunda Swamigal, 1809–1851\n\n- Born at Sastankoilvilai (the present Swamithoppu) near Kanyakumari.\n- Original name Mudisoodum Perumal; later called Muthukutty.\n- The path he showed is 'Ayya Vazhi'. Book: Akilathirattu.\n- He founded the Samathuva Sangam and encouraged samapanthi bhojanam, in which people of all castes sit and eat together.\n- The places of worship were called 'Nizhal Thangals'.\n- He condemned the rule of the Raja of Travancore as the 'rule of black devils' and British rule as the 'rule of white devils'.\n\n### Iyothee Thassar, 1845–1914\n\n- A Siddha physician of Madras; original name Kathavarayan.\n- 1876: founded the Advaidananda Sabha.\n- 1885: with John Rathinam started the journal 'Dravida Pandian'.\n- 1891: founded the Dravida Mahajana Sabha.\n- 1898: went to Sri Lanka and embraced Buddhism; in the same year founded the South Indian Sakya Buddhist Society at Madras.\n- 1907: started the weekly 'Oru Paisa Tamilan', later published as 'Tamilan'.\n\n### Rettaimalai Srinivasan, 1859–1945\n\n- Born in the Kanchipuram region.\n- 1893: started the journal 'Paraiyan'; in the same year founded the Adi Dravida Mahajana Sabha.\n- 1923: became a member of the Madras Legislative Council.\n- 1930, 1931: took part with Ambedkar, on behalf of the Depressed Classes, in the first two Round Table Conferences in London.\n- 1932: one of the signatories of the Poona Pact.\n- Titles: Rao Sahib, Rao Bahadur, Diwan Bahadur.\n- Autobiography: Jeeviya Saritha Surukkam (1939).\n- A confusing option: the leader of the All India Depressed Classes Association was M.C. Rajah.\n\n### At a glance\n\n| Reformer | Organisation | Journal or book |\n| --- | --- | --- |\n| Vallalar | Samarasa Suddha Sanmarga Sathya Sangam; Sathya Dharma Salai; Sathya Gnana Sabai | Thiruvarutpa |\n| Vaikunda Swamigal | Samathuva Sangam | Akilathirattu |\n| Iyothee Thassar | Advaidananda Sabha; Dravida Mahajana Sabha; Sakya Buddhist Society | Oru Paisa Tamilan |\n| Rettaimalai Srinivasan | Adi Dravida Mahajana Sabha | Paraiyan; Jeeviya Saritha Surukkam |\n\n### Details that get altered in the exam\n\n- Vallalar: Sangam 1865, Dharma Salai 1867, Gnana Sabai 1872, in that order.\n- The Dravida Mahajana Sabha (1891) was Iyothee Thassar's; the Adi Dravida Mahajana Sabha (1893) was Rettaimalai Srinivasan's.\n- 'Oru Paisa Tamilan' 1907; 'Paraiyan' 1893.\n- Round Table Conferences 1930 and 1931, Poona Pact 1932: Rettaimalai Srinivasan.\n- Original names: Kathavarayan – Iyothee Thassar; Mudisoodum Perumal – Vaikunda Swamigal; Theerthagiri – Dheeran Chinnamalai.\n- Ayya Vazhi and Akilathirattu: Vaikunda Swamigal. Thiruvarutpa: Vallalar."
+   }
+  },
+  {
+   "id": "apt",
+   "subject": "apt",
+   "title": {
+    "ta": "மீப்பெரு பொது வகுத்தி (மீ.பொ.வ)",
+    "en": "Highest common factor (HCF)"
+   },
+   "md": {
+    "ta": "இரண்டு அல்லது அதற்கு மேற்பட்ட எண்களை மீதியின்றி வகுக்கும் எண்களுள் மிகப்பெரியது மீப்பெரு பொது வகுத்தி (மீ.பொ.வ). மீ.பொ.வ, மீ.சி.ம ஆகியவை உண்மையான தேர்வில் மிகுதியாகக் கேட்கப்படும் தலைப்பு.\n\n### காணும் முறைகள்\n\n| முறை | செய்ய வேண்டியது | எடுத்துக்காட்டு |\n| --- | --- | --- |\n| பகாக் காரணி முறை | பொதுவான பகாக் காரணிகளை மிகக்குறைந்த அடுக்குடன் பெருக்கவும் | 36 = 2² × 3²; 84 = 2² × 3 × 7; மீ.பொ.வ = 2² × 3 = 12 |\n| வகுத்தல் முறை | பெரிய எண்ணைச் சிறிய எண்ணால் வகுக்கவும்; பின் வகுத்தியை மீதியால் வகுக்கவும்; மீதி 0 ஆகும்போது கடைசி வகுத்தியே விடை | 667 ÷ 391 மீதி 276; 391 ÷ 276 மீதி 115; 276 ÷ 115 மீதி 46; 115 ÷ 46 மீதி 23; 46 ÷ 23 மீதி 0; மீ.பொ.வ = 23 |\n| மூன்று எண்கள் | முதல் இரண்டின் மீ.பொ.வ காணவும்; பின் அதற்கும் மூன்றாம் எண்ணுக்கும் | 144, 180, 192: (144, 180) = 36; (36, 192) = 12 |\n\n- சார்பகா எண்களின் மீ.பொ.வ 1.\n- ஓர் எண் மற்றொன்றின் காரணி எனில் சிறிய எண்ணே மீ.பொ.வ: (12, 60) = 12.\n- மீ.பொ.வ எப்போதும் எண்களின் வேறுபாட்டையும் வகுக்கும்: அடுத்தடுத்த இரு இரட்டை எண்களின் மீ.பொ.வ 2.\n\n### பின்னத்தைச் சுருக்குதல்\n\n- தொகுதியையும் பகுதியையும் அவற்றின் மீ.பொ.வ-ஆல் வகுக்கவும்: 391/667 என்பதில் மீ.பொ.வ 23; 391 ÷ 23 = 17; 667 ÷ 23 = 29; விடை 17/29.\n\n### மீதியுடன் வரும் கணக்குகள்\n\n| கணக்கு | செய்ய வேண்டியது | எடுத்துக்காட்டு |\n| --- | --- | --- |\n| a, b என்பவற்றை வகுத்து ஒரே மீதி r தரும் மிகப்பெரிய எண் | (a − r), (b − r) என்பவற்றின் மீ.பொ.வ | 245, 1029; மீதி 5: (240, 1024) = 16 |\n| வெவ்வேறு மீதிகள் r₁, r₂ | (a − r₁), (b − r₂) என்பவற்றின் மீ.பொ.வ | 77, 123; மீதிகள் 2, 3: (75, 120) = 15 |\n| மீதி தெரியாது; எல்லாவற்றிலும் ஒரே மீதி | எண்களுக்கிடையிலான வேறுபாடுகளின் மீ.பொ.வ | 62, 132, 237: வேறுபாடுகள் 70, 105; (70, 105) = 35 |\n\n### சொற்கணக்குகள்\n\n- 'மிகப்பெரிய', 'அதிகபட்ச', 'மிக நீளமான' அளவு எனக் கேட்டால் மீ.பொ.வ.\n- 120, 168, 216 லிட்டர் கொள்ளும் மூன்று கலன்களை முழுமையாக அளக்கக்கூடிய மிகப்பெரிய அளவு: மீ.பொ.வ = 24 லிட்டர்.\n- 5.6 மீ × 4.2 மீ அறைக்குப் பதிக்கக்கூடிய மிகப்பெரிய சதுர ஓடு: 560, 420 செ.மீ என்பவற்றின் மீ.பொ.வ = 140 செ.மீ.\n- கூலிக் கணக்கு: ஒருவர் சில நாள் வேலைக்கு ரூ. 1430 பெற்றார்; எல்லா நாளும் வேலை செய்திருந்தால் ரூ. 1870 பெற்றிருப்பார். நாள் கூலி இரண்டையும் வகுக்க வேண்டும்; மீ.பொ.வ (1430, 1870) = 110; வேலை செய்த நாள்கள் 1430 ÷ 110 = 13.\n\n### மீ.பொ.வ, மீ.சி.ம தொடர்பு\n\n- இரண்டு எண்களின் பொது மடங்குகளுள் மிகச்சிறியது மீச்சிறு பொது மடங்கு (மீ.சி.ம); விரிவான பாடம் நாளை.\n- இரண்டு எண்களுக்கு: மீ.பொ.வ × மீ.சி.ம = இரு எண்களின் பெருக்கற்பலன். மீ.பொ.வ 12, மீ.சி.ம 180, ஓர் எண் 36 எனில் மற்ற எண் 12 × 180 ÷ 36 = 60.\n- இந்தத் தொடர்பு இரண்டு எண்களுக்கு மட்டுமே பொருந்தும்.\n\n### இயற்கணித உறுப்புகளின் மீ.பொ.வ\n\n- எண் கெழுக்களின் மீ.பொ.வ-ஐயும், பொதுவான மாறிகளை மிகக்குறைந்த அடுக்குடனும் எடுக்கவும்: 12x²y, 18xy² என்பவற்றின் மீ.பொ.வ 6xy.",
+    "en": "The highest common factor (HCF) is the largest of the numbers that divide two or more numbers without remainder. HCF and LCM together are the most frequently asked topic in the real paper.\n\n### Methods\n\n| Method | What to do | Example |\n| --- | --- | --- |\n| Prime factor method | Multiply the common prime factors with their lowest powers | 36 = 2² × 3²; 84 = 2² × 3 × 7; HCF = 2² × 3 = 12 |\n| Division method | Divide the larger by the smaller, then the divisor by the remainder; when the remainder is 0 the last divisor is the answer | 667 ÷ 391 rem 276; 391 ÷ 276 rem 115; 276 ÷ 115 rem 46; 115 ÷ 46 rem 23; 46 ÷ 23 rem 0; HCF = 23 |\n| Three numbers | Find the HCF of the first two, then of that and the third | 144, 180, 192: (144, 180) = 36; (36, 192) = 12 |\n\n- The HCF of co-prime numbers is 1.\n- If one number is a factor of the other, the smaller number is the HCF: (12, 60) = 12.\n- The HCF always divides the difference of the numbers too: the HCF of two consecutive even numbers is 2.\n\n### Reducing a fraction\n\n- Divide the numerator and denominator by their HCF: for 391/667 the HCF is 23; 391 ÷ 23 = 17 and 667 ÷ 23 = 29, giving 17/29.\n\n### Sums with remainders\n\n| Sum | What to do | Example |\n| --- | --- | --- |\n| Greatest number dividing a and b leaving the same remainder r | HCF of (a − r) and (b − r) | 245, 1029; remainder 5: (240, 1024) = 16 |\n| Different remainders r₁, r₂ | HCF of (a − r₁) and (b − r₂) | 77, 123; remainders 2, 3: (75, 120) = 15 |\n| Remainder unknown but the same for all | HCF of the differences between the numbers | 62, 132, 237: differences 70, 105; (70, 105) = 35 |\n\n### Word problems\n\n- When the question asks for the 'greatest', 'maximum' or 'longest' measure, it is an HCF sum.\n- The greatest measure that can exactly measure three tins of 120, 168 and 216 litres: HCF = 24 litres.\n- The largest square tile for a room 5.6 m × 4.2 m: HCF of 560 and 420 cm = 140 cm.\n- A wages sum: a man was paid Rs. 1430 for some days; had he worked every day he would have got Rs. 1870. The daily wage must divide both; HCF (1430, 1870) = 110; days worked 1430 ÷ 110 = 13.\n\n### HCF and LCM\n\n- The least of the common multiples of two numbers is the lowest common multiple (LCM); the full lesson is tomorrow.\n- For two numbers: HCF × LCM = product of the two numbers. If the HCF is 12, the LCM 180 and one number 36, the other is 12 × 180 ÷ 36 = 60.\n- This relation holds for two numbers only.\n\n### HCF of algebraic terms\n\n- Take the HCF of the numerical coefficients and the common variables with their lowest powers: the HCF of 12x²y and 18xy² is 6xy."
+   }
+  }
+ ],
+ "tests": [
+  {
+   "id": "daily",
+   "kind": "daily",
+   "title": {
+    "ta": "இன்றைய தேர்வு",
+    "en": "Today's test"
+   },
+   "minutes": 45,
+   "questions": [
+    {
+     "id": "d009-daily-001",
+     "subject": "tamil",
+     "q": {
+      "ta": "'வா' என்னும் வேர்ச்சொல்லின் வினைமுற்று வடிவம்"
+     },
+     "o": [
+      {
+       "ta": "வந்து"
+      },
+      {
+       "ta": "வந்த"
+      },
+      {
+       "ta": "வந்தான்"
+      },
+      {
+       "ta": "வருதல்"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "பொருள் முற்றுப்பெற்று, செய்தவரையும் காட்டுவது 'வந்தான்'."
+     }
+    },
+    {
+     "id": "d009-daily-002",
+     "subject": "tamil",
+     "q": {
+      "ta": "'படி' என்னும் வேர்ச்சொல்லின் வினையெச்ச வடிவம்"
+     },
+     "o": [
+      {
+       "ta": "படித்து"
+      },
+      {
+       "ta": "படித்த"
+      },
+      {
+       "ta": "படித்தான்"
+      },
+      {
+       "ta": "படித்தல்"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "'படித்து முடித்தான்' என வினையைக் கொண்டு முடிவதால் 'படித்து' வினையெச்சம்."
+     }
+    },
+    {
+     "id": "d009-daily-003",
+     "subject": "tamil",
+     "q": {
+      "ta": "'செல்' என்னும் வேர்ச்சொல்லின் வினையெச்ச வடிவம்"
+     },
+     "o": [
+      {
+       "ta": "சென்ற"
+      },
+      {
+       "ta": "சென்றான்"
+      },
+      {
+       "ta": "செல்லுதல்"
+      },
+      {
+       "ta": "சென்று"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "'சென்று பார்த்தான்' என வினையைக் கொண்டு முடியும்."
+     }
+    },
+    {
+     "id": "d009-daily-004",
+     "subject": "tamil",
+     "q": {
+      "ta": "'காண்' என்னும் வேர்ச்சொல்லின் வினைமுற்று வடிவம்"
+     },
+     "o": [
+      {
+       "ta": "கண்டு"
+      },
+      {
+       "ta": "கண்டான்"
+      },
+      {
+       "ta": "கண்ட"
+      },
+      {
+       "ta": "காட்சி"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "கண்டான் – வினைமுற்று; கண்டு – வினையெச்சம்; கண்ட – பெயரெச்சம்; காட்சி – பெயர்ச்சொல்."
+     }
+    },
+    {
+     "id": "d009-daily-005",
+     "subject": "tamil",
+     "q": {
+      "ta": "'எழுது' என்னும் வேர்ச்சொல்லின் வினையெச்ச வடிவம்"
+     },
+     "o": [
+      {
+       "ta": "எழுதிய"
+      },
+      {
+       "ta": "எழுதினான்"
+      },
+      {
+       "ta": "எழுதி"
+      },
+      {
+       "ta": "எழுத்து"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "'எழுதி முடித்தான்' என வினையைக் கொண்டு முடியும்."
+     }
+    },
+    {
+     "id": "d009-daily-006",
+     "subject": "tamil",
+     "q": {
+      "ta": "'போ' என்னும் வேர்ச்சொல்லின் வினையெச்ச வடிவம்"
+     },
+     "o": [
+      {
+       "ta": "போய்"
+      },
+      {
+       "ta": "போன"
+      },
+      {
+       "ta": "போனான்"
+      },
+      {
+       "ta": "போதல்"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "'போய்ப் பார்த்தான்' என வினையைக் கொண்டு முடியும்."
+     }
+    },
+    {
+     "id": "d009-daily-007",
+     "subject": "tamil",
+     "q": {
+      "ta": "'கேள்' என்னும் வேர்ச்சொல்லின் வினைமுற்று வடிவம்"
+     },
+     "o": [
+      {
+       "ta": "கேட்டு"
+      },
+      {
+       "ta": "கேட்ட"
+      },
+      {
+       "ta": "கேட்டல்"
+      },
+      {
+       "ta": "கேட்டாள்"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "'ஆள்' என முடிந்து செய்தவரைக் காட்டுவதால் 'கேட்டாள்' வினைமுற்று."
+     }
+    },
+    {
+     "id": "d009-daily-008",
+     "subject": "tamil",
+     "q": {
+      "ta": "'தந்து' என்னும் சொல்லின் வகை"
+     },
+     "o": [
+      {
+       "ta": "வினைமுற்று"
+      },
+      {
+       "ta": "வினையெச்சம்"
+      },
+      {
+       "ta": "பெயரெச்சம்"
+      },
+      {
+       "ta": "தொழிற்பெயர்"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "'தந்து சென்றான்' என வினையைக் கொண்டு முடிவதால் வினையெச்சம்."
+     }
+    },
+    {
+     "id": "d009-daily-009",
+     "subject": "tamil",
+     "q": {
+      "ta": "'பாடினாள்' என்னும் சொல்லின் வகை"
+     },
+     "o": [
+      {
+       "ta": "வினைமுற்று"
+      },
+      {
+       "ta": "வினையெச்சம்"
+      },
+      {
+       "ta": "பெயரெச்சம்"
+      },
+      {
+       "ta": "தொழிற்பெயர்"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "பொருள் முற்றுப்பெற்று, காலத்தையும் செய்தவரையும் காட்டுவதால் வினைமுற்று."
+     }
+    },
+    {
+     "id": "d009-daily-010",
+     "subject": "tamil",
+     "q": {
+      "ta": "பின்வருவனவற்றுள் வினையெச்சம் எது?"
+     },
+     "o": [
+      {
+       "ta": "ஓடிய"
+      },
+      {
+       "ta": "ஓடினான்"
+      },
+      {
+       "ta": "ஓட்டம்"
+      },
+      {
+       "ta": "ஓடி"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "'ஓடி வந்தான்' என வினையைக் கொண்டு முடியும்; 'ஓடிய' பெயரெச்சம்."
+     }
+    },
+    {
+     "id": "d009-daily-011",
+     "subject": "tamil",
+     "q": {
+      "ta": "பின்வருவனவற்றுள் வினைமுற்று அல்லாதது"
+     },
+     "o": [
+      {
+       "ta": "வந்தான்"
+      },
+      {
+       "ta": "வருகிறாள்"
+      },
+      {
+       "ta": "வந்து"
+      },
+      {
+       "ta": "வருவார்"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "'வந்து' வினையெச்சம்; மற்ற மூன்றும் மூன்று காலங்களுக்கான வினைமுற்றுகள்."
+     }
+    },
+    {
+     "id": "d009-daily-012",
+     "subject": "tamil",
+     "q": {
+      "ta": "'கண்ணன் பாடத்தைப் _____ முடித்தான்' என்னும் தொடரின் கோடிட்ட இடத்துக்குப் பொருத்தமான சொல்"
+     },
+     "o": [
+      {
+       "ta": "படித்த"
+      },
+      {
+       "ta": "படித்து"
+      },
+      {
+       "ta": "படித்தான்"
+      },
+      {
+       "ta": "படிப்பு"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "அடுத்து 'முடித்தான்' என்னும் வினை வருவதால் வினையெச்சமான 'படித்து' பொருந்தும்."
+     }
+    },
+    {
+     "id": "d009-daily-013",
+     "subject": "tamil",
+     "q": {
+      "ta": "'அவள் நேற்று ஊருக்குச் _____' என்னும் தொடரின் கோடிட்ட இடத்துக்குப் பொருத்தமான சொல்"
+     },
+     "o": [
+      {
+       "ta": "சென்றாள்"
+      },
+      {
+       "ta": "சென்று"
+      },
+      {
+       "ta": "சென்ற"
+      },
+      {
+       "ta": "செல்ல"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "தொடர் முடியும் இடத்தில் வினைமுற்று வர வேண்டும்."
+     }
+    },
+    {
+     "id": "d009-daily-014",
+     "subject": "tamil",
+     "q": {
+      "ta": "பொருத்துக.\n(a) நில்\n(b) வில்\n(c) சொல்\n(d) கல்\n1. கற்று\n2. சொல்லி\n3. நின்று\n4. விற்று"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 1, (b) 2, (c) 3, (d) 4"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "நில் – நின்று; வில் – விற்று; சொல் – சொல்லி; கல் – கற்று."
+     }
+    },
+    {
+     "id": "d009-daily-015",
+     "subject": "tamil",
+     "q": {
+      "ta": "பொருத்துக.\n(a) தந்தான்\n(b) தந்து\n(c) தந்த\n(d) தருதல்\n1. வினையெச்சம்\n2. வினைமுற்று\n3. தொழிற்பெயர்\n4. பெயரெச்சம்"
+     },
+     "o": [
+      {
+       "ta": "(a) 1, (b) 2, (c) 4, (d) 3"
+      },
+      {
+       "ta": "(a) 2, (b) 1, (c) 3, (d) 4"
+      },
+      {
+       "ta": "(a) 2, (b) 4, (c) 1, (d) 3"
+      },
+      {
+       "ta": "(a) 2, (b) 1, (c) 4, (d) 3"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "தந்தான் – வினைமுற்று; தந்து – வினையெச்சம்; தந்த – பெயரெச்சம்; தருதல் – தொழிற்பெயர்."
+     }
+    },
+    {
+     "id": "d009-daily-016",
+     "subject": "tamil",
+     "q": {
+      "ta": "பொருத்துக.\n(a) பெறு\n(b) வெல்\n(c) ஆள்\n(d) சா\n1. செத்தான்\n2. ஆண்டான்\n3. வென்றான்\n4. பெற்றான்"
+     },
+     "o": [
+      {
+       "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 2, (b) 1, (c) 4, (d) 3"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "பெறு – பெற்றான்; வெல் – வென்றான்; ஆள் – ஆண்டான்; சா – செத்தான்."
+     }
+    },
+    {
+     "id": "d009-daily-017",
+     "subject": "tamil",
+     "q": {
+      "ta": "கூற்று: 'ஓடி வந்தான்' என்னும் தொடரில் 'ஓடி' என்பது வினையெச்சம்.\nகாரணம்: வினையெச்சம் வேறொரு வினைச்சொல்லைக் கொண்டு முடியும்."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "'ஓடி' என்பது 'வந்தான்' என்னும் வினையைக் கொண்டு முடிகிறது; கூற்றும் காரணமும் சரி."
+     }
+    },
+    {
+     "id": "d009-daily-018",
+     "subject": "tamil",
+     "q": {
+      "ta": "கூற்று: 'படித்தான்' என்பது வினையெச்சம்.\nகாரணம்: வினைமுற்று காலத்தையும் செய்தவரையும் காட்டிப் பொருள் முற்றுப்பெற்று நிற்கும்."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "'படித்தான்' பொருள் முற்றுப்பெற்ற வினைமுற்று; கூற்று தவறு, காரணம் சரி."
+     }
+    },
+    {
+     "id": "d009-daily-019",
+     "subject": "tamil",
+     "q": {
+      "ta": "கூற்று: 'வந்து' என்பது வினையெச்சம்.\nகாரணம்: வினையெச்சம் பெயர்ச்சொல்லைக் கொண்டு முடியும்."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "வினையெச்சம் வினைச்சொல்லைக் கொண்டு முடியும்; பெயர்ச்சொல்லைக் கொண்டு முடிவது பெயரெச்சம்."
+     }
+    },
+    {
+     "id": "d009-daily-020",
+     "subject": "tamil",
+     "q": {
+      "ta": "'படிக்க வந்தான்' என்னும் தொடரில் 'படிக்க' என்னும் சொல்லின் வகை"
+     },
+     "o": [
+      {
+       "ta": "வினைமுற்று"
+      },
+      {
+       "ta": "வினையெச்சம்"
+      },
+      {
+       "ta": "பெயரெச்சம்"
+      },
+      {
+       "ta": "தொழிற்பெயர்"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "அடுத்து 'வந்தான்' என்னும் வினை வருவதால் 'படிக்க' வினையெச்சம்."
+     }
+    },
+    {
+     "id": "d009-daily-021",
+     "subject": "gs",
+     "q": {
+      "ta": "வள்ளலார் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) சிதம்பரம் அருகே மருதூரில் பிறந்தார்.\n(ii) 1867-இல் வடலூரில் சத்திய தருமச்சாலையை நிறுவினார்.\n(iii) அவருடைய பாடல்களின் தொகுப்பு திருவருட்பா.\n(iv) 1865-இல் சத்திய ஞான சபையை நிறுவினார்.",
+      "en": "Which of these statements about Vallalar are correct?\n(i) He was born at Marudhur near Chidambaram.\n(ii) He founded the Sathya Dharma Salai at Vadalur in 1867.\n(iii) His songs are collected as the Thiruvarutpa.\n(iv) He founded the Sathya Gnana Sabai in 1865."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iii), (iv) மட்டும்",
+       "en": "(ii), (iii) and (iv) only"
+      },
+      {
+       "ta": "(i), (iv) மட்டும்",
+       "en": "(i) and (iv) only"
+      },
+      {
+       "ta": "(i), (ii), (iii), (iv)",
+       "en": "(i), (ii), (iii) and (iv)"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "சத்திய ஞான சபை 1872-இல் நிறுவப்பட்டது; 1865-இல் நிறுவப்பட்டது சமரச வேத சன்மார்க்க சங்கம்.",
+      "en": "The Sathya Gnana Sabai was founded in 1872; what was founded in 1865 was the Samarasa Vedha Sanmarga Sangam."
+     }
+    },
+    {
+     "id": "d009-daily-022",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வருவனவற்றுள் எந்த சபை இரட்டைமலை சீனிவாசனால் துவங்கப்பட்டது?",
+      "en": "Which of the following was founded by Rettaimalai Srinivasan?"
+     },
+     "o": [
+      {
+       "ta": "சாக்கிய பௌத்த சங்கம்",
+       "en": "Sakya Buddhist Society"
+      },
+      {
+       "ta": "அத்வைதானந்த சபா",
+       "en": "Advaidananda Sabha"
+      },
+      {
+       "ta": "அகில இந்திய ஒடுக்கப்பட்டோர் சங்கம்",
+       "en": "All India Depressed Classes Association"
+      },
+      {
+       "ta": "ஆதி திராவிட மகாஜன சபை",
+       "en": "Adi Dravida Mahajana Sabha"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "TNPSC குரூப் 4, 2022. இரட்டைமலை சீனிவாசன் – ஆதி திராவிட மகாஜன சபை (1893). சாக்கிய பௌத்த சங்கம், அத்வைதானந்த சபை – அயோத்திதாசர். அகில இந்திய ஒடுக்கப்பட்டோர் சங்கம் – எம்.சி. ராஜா.",
+      "en": "TNPSC Group 4, 2022. Rettaimalai Srinivasan founded the Adi Dravida Mahajana Sabha (1893). The Sakya Buddhist Society and Advaidananda Sabha were Iyothee Thass's; the All India Depressed Classes Association was M.C. Rajah's."
+     }
+    },
+    {
+     "id": "d009-daily-023",
+     "subject": "gs",
+     "q": {
+      "ta": "வைகுண்ட சுவாமிகள் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) அவருடைய நூல் அகிலத்திரட்டு.\n(ii) சமத்துவ சங்கத்தை நிறுவினார்.\n(iii) வடலூரில் பிறந்தார்.",
+      "en": "Which of these statements about Vaikunda Swamigal are correct?\n(i) His book is the Akilathirattu.\n(ii) He founded the Samathuva Sangam.\n(iii) He was born at Vadalur."
+     },
+     "o": [
+      {
+       "ta": "(i) மட்டும்",
+       "en": "(i) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "அவர் பிறந்த இடம் கன்னியாகுமரி அருகே சாஸ்தான்கோவில்விளை (சாமித்தோப்பு).",
+      "en": "He was born at Sastankoilvilai (Swamithoppu) near Kanyakumari."
+     }
+    },
+    {
+     "id": "d009-daily-024",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: வள்ளலார் வடலூரில் சத்திய தருமச்சாலையை நிறுவினார்.\nகாரணம்: பசித்தோர்க்கு உணவளிப்பதை அவர் தலையாய அறமாகக் கருதினார்.",
+      "en": "Assertion: Vallalar founded the Sathya Dharma Salai at Vadalur.\nReason: He held feeding the hungry to be the highest virtue."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "ஜீவகாருண்யம் அவருடைய அடிப்படைக் கொள்கை; அதன்படி 1867-இல் தருமச்சாலையை நிறுவினார்.",
+      "en": "Compassion for all beings was his basic principle, and on it he founded the Dharma Salai in 1867."
+     }
+    },
+    {
+     "id": "d009-daily-025",
+     "subject": "gs",
+     "q": {
+      "ta": "பொருத்துக.\n(a) சமரச சுத்த சன்மார்க்க சத்திய சங்கம்\n(b) சமத்துவ சங்கம்\n(c) சாக்கிய பௌத்த சங்கம்\n(d) ஆதி திராவிட மகாஜன சபை\n1. அயோத்திதாசர்\n2. இரட்டைமலை சீனிவாசன்\n3. வள்ளலார்\n4. வைகுண்ட சுவாமிகள்",
+      "en": "Match the organisation with its founder.\n(a) Samarasa Suddha Sanmarga Sathya Sangam\n(b) Samathuva Sangam\n(c) Sakya Buddhist Society\n(d) Adi Dravida Mahajana Sabha\n1. Iyothee Thassar\n2. Rettaimalai Srinivasan\n3. Vallalar\n4. Vaikunda Swamigal"
+     },
+     "o": [
+      {
+       "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 1, (c) 4, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "வள்ளலார், வைகுண்ட சுவாமிகள், அயோத்திதாசர், இரட்டைமலை சீனிவாசன் என்னும் வரிசை.",
+      "en": "In order: Vallalar, Vaikunda Swamigal, Iyothee Thassar, Rettaimalai Srinivasan."
+     }
+    },
+    {
+     "id": "d009-daily-026",
+     "subject": "gs",
+     "q": {
+      "ta": "அயோத்திதாசர் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) சித்த மருத்துவர்.\n(ii) 1907-இல் 'ஒரு பைசாத் தமிழன்' என்னும் வார இதழைத் தொடங்கினார்.\n(iii) 1898-இல் பௌத்தத்தைத் தழுவினார்.",
+      "en": "Which of these statements about Iyothee Thassar are correct?\n(i) He was a Siddha physician.\n(ii) He started the weekly 'Oru Paisa Tamilan' in 1907.\n(iii) He embraced Buddhism in 1898."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "மூன்று கூற்றுகளும் சரி.",
+      "en": "All three statements are correct."
+     }
+    },
+    {
+     "id": "d009-daily-027",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: அயோத்திதாசர் திராவிட மகாஜன சபையை நிறுவினார்.\nகாரணம்: அவர் 1923-இல் சென்னை சட்டமன்ற மேலவை உறுப்பினர் ஆனார்.",
+      "en": "Assertion: Iyothee Thassar founded the Dravida Mahajana Sabha.\nReason: He became a member of the Madras Legislative Council in 1923."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "1923-இல் மேலவை உறுப்பினர் ஆனவர் இரட்டைமலை சீனிவாசன்; அயோத்திதாசர் 1914-இல் மறைந்தார்.",
+      "en": "It was Rettaimalai Srinivasan who became a Council member in 1923; Iyothee Thassar died in 1914."
+     }
+    },
+    {
+     "id": "d009-daily-028",
+     "subject": "gs",
+     "q": {
+      "ta": "இரட்டைமலை சீனிவாசன் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) 'ஒரு பைசாத் தமிழன்' இதழைத் தொடங்கினார்.\n(ii) 1930, 1931 ஆண்டுகளில் நடந்த வட்டமேசை மாநாடுகளில் பங்கேற்றார்.\n(iii) 1932-இல் பூனா ஒப்பந்தத்தில் கையெழுத்திட்டார்.",
+      "en": "Which of these statements about Rettaimalai Srinivasan are correct?\n(i) He started the journal 'Oru Paisa Tamilan'.\n(ii) He took part in the Round Table Conferences of 1930 and 1931.\n(iii) He signed the Poona Pact in 1932."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "'ஒரு பைசாத் தமிழன்' அயோத்திதாசரின் இதழ்; இரட்டைமலை சீனிவாசனின் இதழ் 'பறையன்'.",
+      "en": "'Oru Paisa Tamilan' was Iyothee Thassar's journal; Rettaimalai Srinivasan's was 'Paraiyan'."
+     }
+    },
+    {
+     "id": "d009-daily-029",
+     "subject": "gs",
+     "q": {
+      "ta": "பொருத்துக.\n(a) திருவருட்பா\n(b) அகிலத்திரட்டு\n(c) ஒரு பைசாத் தமிழன்\n(d) ஜீவிய சரித்திர சுருக்கம்\n1. இரட்டைமலை சீனிவாசன்\n2. அயோத்திதாசர்\n3. வைகுண்ட சுவாமிகள்\n4. வள்ளலார்",
+      "en": "Match the following.\n(a) Thiruvarutpa\n(b) Akilathirattu\n(c) Oru Paisa Tamilan\n(d) Jeeviya Saritha Surukkam\n1. Rettaimalai Srinivasan\n2. Iyothee Thassar\n3. Vaikunda Swamigal\n4. Vallalar"
+     },
+     "o": [
+      {
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 1, (b) 2, (c) 3, (d) 4"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "திருவருட்பா – வள்ளலார்; அகிலத்திரட்டு – வைகுண்ட சுவாமிகள்; ஒரு பைசாத் தமிழன் – அயோத்திதாசர்; ஜீவிய சரித்திர சுருக்கம் – இரட்டைமலை சீனிவாசன்.",
+      "en": "Thiruvarutpa – Vallalar; Akilathirattu – Vaikunda Swamigal; Oru Paisa Tamilan – Iyothee Thassar; Jeeviya Saritha Surukkam – Rettaimalai Srinivasan."
+     }
+    },
+    {
+     "id": "d009-daily-030",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: 'அய்யா வழி' வள்ளலாரால் தோற்றுவிக்கப்பட்டது.\nகாரணம்: வைகுண்ட சுவாமிகள் சமபந்தி உணவு முறையை ஊக்குவித்தார்.",
+      "en": "Assertion: 'Ayya Vazhi' was founded by Vallalar.\nReason: Vaikunda Swamigal encouraged samapanthi bhojanam (inter-dining)."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "'அய்யா வழி' வைகுண்ட சுவாமிகள் காட்டிய நெறி.",
+      "en": "'Ayya Vazhi' is the path shown by Vaikunda Swamigal."
+     }
+    },
+    {
+     "id": "d009-daily-031",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வரும் நிகழ்வுகளைக் கால வரிசைப்படுத்துக.\n1. வடலூரில் சத்திய தருமச்சாலை\n2. 'ஒரு பைசாத் தமிழன்' இதழ்\n3. 'பறையன்' இதழ்\n4. பூனா ஒப்பந்தம்",
+      "en": "Arrange these events in chronological order.\n1. Sathya Dharma Salai at Vadalur\n2. The journal 'Oru Paisa Tamilan'\n3. The journal 'Paraiyan'\n4. Poona Pact"
+     },
+     "o": [
+      {
+       "ta": "1, 2, 3, 4"
+      },
+      {
+       "ta": "3, 1, 2, 4"
+      },
+      {
+       "ta": "1, 3, 2, 4"
+      },
+      {
+       "ta": "1, 3, 4, 2"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "1867, 1893, 1907, 1932.",
+      "en": "1867, 1893, 1907, 1932."
+     }
+    },
+    {
+     "id": "d009-daily-032",
+     "subject": "gs",
+     "q": {
+      "ta": "அயோத்திதாசரின் இயற்பெயர்",
+      "en": "The original name of Iyothee Thassar was"
+     },
+     "o": [
+      {
+       "ta": "முத்துக்குட்டி",
+       "en": "Muthukutty"
+      },
+      {
+       "ta": "தீர்த்தகிரி",
+       "en": "Theerthagiri"
+      },
+      {
+       "ta": "இராமலிங்கம்",
+       "en": "Ramalingam"
+      },
+      {
+       "ta": "காத்தவராயன்",
+       "en": "Kathavarayan"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "காத்தவராயன் – அயோத்திதாசர்; முத்துக்குட்டி – வைகுண்ட சுவாமிகள்; தீர்த்தகிரி – தீரன் சின்னமலை.",
+      "en": "Kathavarayan – Iyothee Thassar; Muthukutty – Vaikunda Swamigal; Theerthagiri – Dheeran Chinnamalai."
+     }
+    },
+    {
+     "id": "d009-daily-033",
+     "subject": "gs",
+     "q": {
+      "ta": "'முடிசூடும் பெருமாள்' என்னும் இயற்பெயர் கொண்டவர்",
+      "en": "Whose original name was 'Mudisoodum Perumal'?"
+     },
+     "o": [
+      {
+       "ta": "வள்ளலார்",
+       "en": "Vallalar"
+      },
+      {
+       "ta": "வைகுண்ட சுவாமிகள்",
+       "en": "Vaikunda Swamigal"
+      },
+      {
+       "ta": "அயோத்திதாசர்",
+       "en": "Iyothee Thassar"
+      },
+      {
+       "ta": "இரட்டைமலை சீனிவாசன்",
+       "en": "Rettaimalai Srinivasan"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "வைகுண்ட சுவாமிகளின் இயற்பெயர் முடிசூடும் பெருமாள்; பின்னர் முத்துக்குட்டி.",
+      "en": "Vaikunda Swamigal's original name was Mudisoodum Perumal, later Muthukutty."
+     }
+    },
+    {
+     "id": "d009-daily-034",
+     "subject": "gs",
+     "q": {
+      "ta": "'வாடிய பயிரைக் கண்டபோதெல்லாம் வாடினேன்' என்று பாடியவர்",
+      "en": "Who sang that he withered every time he saw a withered crop?"
+     },
+     "o": [
+      {
+       "ta": "வள்ளலார்",
+       "en": "Vallalar"
+      },
+      {
+       "ta": "வைகுண்ட சுவாமிகள்",
+       "en": "Vaikunda Swamigal"
+      },
+      {
+       "ta": "அயோத்திதாசர்",
+       "en": "Iyothee Thassar"
+      },
+      {
+       "ta": "திருவள்ளுவர்",
+       "en": "Thiruvalluvar"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "எல்லா உயிர்களிடமும் இரக்கம் என்னும் ஜீவகாருண்யக் கொள்கையை வெளிப்படுத்தும் வள்ளலாரின் அடி.",
+      "en": "The line is Vallalar's and expresses his principle of compassion for all living beings."
+     }
+    },
+    {
+     "id": "d009-daily-035",
+     "subject": "gs",
+     "q": {
+      "ta": "அகில இந்திய ஒடுக்கப்பட்டோர் சங்கத்தின் தலைவராக இருந்தவர்",
+      "en": "Who was the leader of the All India Depressed Classes Association?"
+     },
+     "o": [
+      {
+       "ta": "அயோத்திதாசர்",
+       "en": "Iyothee Thassar"
+      },
+      {
+       "ta": "ஜான் ரத்தினம்",
+       "en": "John Rathinam"
+      },
+      {
+       "ta": "எம்.சி. ராஜா",
+       "en": "M.C. Rajah"
+      },
+      {
+       "ta": "வைகுண்ட சுவாமிகள்",
+       "en": "Vaikunda Swamigal"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "எம்.சி. ராஜா; இரட்டைமலை சீனிவாசன் நிறுவியது ஆதி திராவிட மகாஜன சபை.",
+      "en": "M.C. Rajah; what Rettaimalai Srinivasan founded was the Adi Dravida Mahajana Sabha."
+     }
+    },
+    {
+     "id": "d009-daily-036",
+     "subject": "apt",
+     "q": {
+      "ta": "36, 84 ஆகியவற்றின் மீ.பொ.வ",
+      "en": "The HCF of 36 and 84 is"
+     },
+     "o": [
+      {
+       "ta": "6"
+      },
+      {
+       "ta": "18"
+      },
+      {
+       "ta": "12"
+      },
+      {
+       "ta": "4"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "36 = 2² × 3²; 84 = 2² × 3 × 7; மீ.பொ.வ = 2² × 3 = 12.",
+      "en": "36 = 2² × 3²; 84 = 2² × 3 × 7; HCF = 2² × 3 = 12."
+     }
+    },
+    {
+     "id": "d009-daily-037",
+     "subject": "apt",
+     "q": {
+      "ta": "ஒருவர் ஒரு குறிப்பிட்ட வேலைக்காக பணியமர்த்தப்பட்டார். ஆனால் அவர் சில நாட்கள் வேலைக்கு வராமல், வேலை செய்த நாட்களுக்கான ஊதியமாக ரூ. 1,387 பெற்றார். அவர் அனைத்து நாட்களிலும் வேலை செய்திருந்தால் ஊதியமாக ரூ. 1,752 பெற்றிருப்பார் எனில் அவர் வேலை செய்த நாட்களைக் காண்க.",
+      "en": "A worker was engaged for a certain number of days. But he remained absent for some days and was paid Rs. 1,387. Had he worked all the days, he would have earned Rs. 1,752. How many days did he work for?"
+     },
+     "o": [
+      {
+       "ta": "19"
+      },
+      {
+       "ta": "21"
+      },
+      {
+       "ta": "24"
+      },
+      {
+       "ta": "29"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "TNPSC குரூப் 4, 2022. ஒரு நாள் ஊதியம் = மீ.பொ.வ (1387, 1752) = 73. வேலை செய்த நாட்கள் = 1387 ÷ 73 = 19.",
+      "en": "TNPSC Group 4, 2022. Daily wage = HCF(1387, 1752) = 73. Days worked = 1387 ÷ 73 = 19."
+     }
+    },
+    {
+     "id": "d009-daily-038",
+     "subject": "apt",
+     "q": {
+      "ta": "144, 180, 192 ஆகியவற்றின் மீ.பொ.வ",
+      "en": "The HCF of 144, 180 and 192 is"
+     },
+     "o": [
+      {
+       "ta": "12"
+      },
+      {
+       "ta": "24"
+      },
+      {
+       "ta": "36"
+      },
+      {
+       "ta": "6"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "(144, 180) = 36; (36, 192) = 12."
+     }
+    },
+    {
+     "id": "d009-daily-039",
+     "subject": "apt",
+     "q": {
+      "ta": "391, 667 ஆகியவற்றின் மீ.பொ.வ",
+      "en": "The HCF of 391 and 667 is"
+     },
+     "o": [
+      {
+       "ta": "17"
+      },
+      {
+       "ta": "29"
+      },
+      {
+       "ta": "13"
+      },
+      {
+       "ta": "23"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "391 = 17 × 23; 667 = 23 × 29; மீ.பொ.வ = 23.",
+      "en": "391 = 17 × 23; 667 = 23 × 29; HCF = 23."
+     }
+    },
+    {
+     "id": "d009-daily-040",
+     "subject": "apt",
+     "q": {
+      "ta": "62, 132, 237 ஆகிய எண்களை வகுத்து ஒவ்வொன்றிலும் ஒரே மீதியைத் தரும் மிகப்பெரிய எண்",
+      "en": "The greatest number that divides 62, 132 and 237 leaving the same remainder in each case is"
+     },
+     "o": [
+      {
+       "ta": "15"
+      },
+      {
+       "ta": "35"
+      },
+      {
+       "ta": "25"
+      },
+      {
+       "ta": "45"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "வேறுபாடுகள் 70, 105, 175; அவற்றின் மீ.பொ.வ 35.",
+      "en": "The differences are 70, 105 and 175, whose HCF is 35."
+     }
+    },
+    {
+     "id": "d009-daily-041",
+     "subject": "apt",
+     "q": {
+      "ta": "90, 150, 225 ஆகிய எண்களின் மீ.பொ.வ மற்றும் மீ.பொ.ம",
+      "en": "The G.C.D. and L.C.M. of 90, 150, 225 is"
+     },
+     "o": [
+      {
+       "ta": "15, 450"
+      },
+      {
+       "ta": "450, 15"
+      },
+      {
+       "ta": "90, 225"
+      },
+      {
+       "ta": "225, 150"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "TNPSC குரூப் 4, 2018. 90 = 2×3²×5; 150 = 2×3×5²; 225 = 3²×5². மீ.பொ.வ = 3×5 = 15; மீ.சி.ம = 2×3²×5² = 450.",
+      "en": "TNPSC Group 4, 2018. 90 = 2×3²×5, 150 = 2×3×5², 225 = 3²×5². HCF = 3×5 = 15 and LCM = 2×3²×5² = 450."
+     }
+    },
+    {
+     "id": "d009-daily-042",
+     "subject": "apt",
+     "q": {
+      "ta": "245, 1029 ஆகிய எண்களை வகுத்து ஒவ்வொன்றிலும் 5 மீதி தரும் மிகப்பெரிய எண்",
+      "en": "The greatest number that divides 245 and 1029 leaving remainder 5 in each case is"
+     },
+     "o": [
+      {
+       "ta": "15"
+      },
+      {
+       "ta": "12"
+      },
+      {
+       "ta": "16"
+      },
+      {
+       "ta": "8"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "(240, 1024) என்பவற்றின் மீ.பொ.வ 16.",
+      "en": "The HCF of 240 and 1024 is 16."
+     }
+    },
+    {
+     "id": "d009-daily-043",
+     "subject": "apt",
+     "q": {
+      "ta": "5.6 மீ நீளமும் 4.2 மீ அகலமும் உள்ள அறையின் தரையில் வெட்டாமல் பதிக்கக்கூடிய மிகப்பெரிய சதுர ஓட்டின் பக்க அளவு (செ.மீ.)",
+      "en": "The side (in cm) of the largest square tile that can pave, without cutting, the floor of a room 5.6 m long and 4.2 m wide is"
+     },
+     "o": [
+      {
+       "ta": "70"
+      },
+      {
+       "ta": "120"
+      },
+      {
+       "ta": "280"
+      },
+      {
+       "ta": "140"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "560, 420 என்பவற்றின் மீ.பொ.வ 140.",
+      "en": "The HCF of 560 and 420 is 140."
+     }
+    },
+    {
+     "id": "d009-daily-044",
+     "subject": "apt",
+     "q": {
+      "ta": "120, 168, 216 லிட்டர் கொள்ளும் மூன்று கலன்களை முழுமையாக அளக்கக்கூடிய மிகப்பெரிய அளவு (லிட்டரில்)",
+      "en": "The greatest measure (in litres) that can exactly measure three tins holding 120, 168 and 216 litres is"
+     },
+     "o": [
+      {
+       "ta": "24"
+      },
+      {
+       "ta": "12"
+      },
+      {
+       "ta": "36"
+      },
+      {
+       "ta": "8"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "(120, 168) = 24; (24, 216) = 24."
+     }
+    },
+    {
+     "id": "d009-daily-045",
+     "subject": "apt",
+     "q": {
+      "ta": "2³ × 3² × 5, 2² × 3³ × 7 ஆகியவற்றின் மீ.பொ.வ",
+      "en": "The HCF of 2³ × 3² × 5 and 2² × 3³ × 7 is"
+     },
+     "o": [
+      {
+       "ta": "72"
+      },
+      {
+       "ta": "36"
+      },
+      {
+       "ta": "108"
+      },
+      {
+       "ta": "12"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "பொதுக் காரணிகள் மிகக்குறைந்த அடுக்குடன்: 2² × 3² = 36.",
+      "en": "Common factors with the lowest powers: 2² × 3² = 36."
+     }
+    },
+    {
+     "id": "d009-daily-046",
+     "subject": "apt",
+     "q": {
+      "ta": "p மற்றும் q-ன் மீப்பெரு பொது வகுத்தி x மற்றும் q = xy எனில், p மற்றும் q-ன் மீச்சிறு பொது மடங்கை கீழேயுள்ளவற்றிலிருந்து காண்க.",
+      "en": "If H.C.F. of p and q is x and q = xy, find the L.C.M of p and q from the following"
+     },
+     "o": [
+      {
+       "ta": "pq"
+      },
+      {
+       "ta": "qy"
+      },
+      {
+       "ta": "xy"
+      },
+      {
+       "ta": "py"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "TNPSC குரூப் 4, 2022. மீ.சி.ம = (p × q) ÷ மீ.பொ.வ = (p × xy) ÷ x = py.",
+      "en": "TNPSC Group 4, 2022. LCM = (p × q) ÷ HCF = (p × xy) ÷ x = py."
+     }
+    },
+    {
+     "id": "d009-daily-047",
+     "subject": "apt",
+     "q": {
+      "ta": "இரண்டு எண்களின் மீ.பொ.வ 12, மீ.சி.ம 180. அவற்றுள் ஓர் எண் 36 எனில் மற்ற எண்",
+      "en": "The HCF of two numbers is 12 and their LCM is 180. If one of the numbers is 36, the other is"
+     },
+     "o": [
+      {
+       "ta": "45"
+      },
+      {
+       "ta": "72"
+      },
+      {
+       "ta": "60"
+      },
+      {
+       "ta": "90"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "12 × 180 ÷ 36 = 60."
+     }
+    },
+    {
+     "id": "d009-daily-048",
+     "subject": "apt",
+     "q": {
+      "ta": "391/667 என்னும் பின்னத்தின் எளிய வடிவம்",
+      "en": "The fraction 391/667 in its lowest terms is"
+     },
+     "o": [
+      {
+       "ta": "17/29"
+      },
+      {
+       "ta": "23/29"
+      },
+      {
+       "ta": "17/23"
+      },
+      {
+       "ta": "13/29"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "மீ.பொ.வ 23; 391 ÷ 23 = 17; 667 ÷ 23 = 29.",
+      "en": "The HCF is 23; 391 ÷ 23 = 17 and 667 ÷ 23 = 29."
+     }
+    },
+    {
+     "id": "d009-daily-049",
+     "subject": "apt",
+     "q": {
+      "ta": "12x²y, 18xy² ஆகியவற்றின் மீ.பொ.வ",
+      "en": "The HCF of 12x²y and 18xy² is"
+     },
+     "o": [
+      {
+       "ta": "6x²y²"
+      },
+      {
+       "ta": "36x²y²"
+      },
+      {
+       "ta": "3xy"
+      },
+      {
+       "ta": "6xy"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "(12, 18) = 6; பொது மாறிகள் மிகக்குறைந்த அடுக்குடன் x, y; விடை 6xy.",
+      "en": "(12, 18) = 6; the common variables with their lowest powers are x and y, giving 6xy."
+     }
+    },
+    {
+     "id": "d009-daily-050",
+     "subject": "apt",
+     "q": {
+      "ta": "அடுத்தடுத்த இரண்டு இரட்டை எண்களின் மீ.பொ.வ",
+      "en": "The HCF of two consecutive even numbers is"
+     },
+     "o": [
+      {
+       "ta": "1"
+      },
+      {
+       "ta": "2"
+      },
+      {
+       "ta": "4"
+      },
+      {
+       "ta": "0"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "அவற்றின் வேறுபாடு 2; இரண்டும் 2-ஆல் வகுபடும்; எனவே மீ.பொ.வ 2.",
+      "en": "Their difference is 2 and both are divisible by 2, so the HCF is 2."
+     }
+    }
+   ],
+   "pool": [
+    {
+     "id": "d009-daily-p001",
+     "subject": "tamil",
+     "q": {
+      "ta": "'செய்' என்னும் வேர்ச்சொல்லின் வினையெச்ச வடிவம்"
+     },
+     "o": [
+      {
+       "ta": "செய்த"
+      },
+      {
+       "ta": "செய்தான்"
+      },
+      {
+       "ta": "செய்து"
+      },
+      {
+       "ta": "செயல்"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "'செய்து முடித்தான்' என வினையைக் கொண்டு முடியும்."
+     }
+    },
+    {
+     "id": "d009-daily-p002",
+     "subject": "tamil",
+     "q": {
+      "ta": "'ஓடு' என்னும் வேர்ச்சொல்லின் வினைமுற்று வடிவம்"
+     },
+     "o": [
+      {
+       "ta": "ஓடினான்"
+      },
+      {
+       "ta": "ஓடி"
+      },
+      {
+       "ta": "ஓடிய"
+      },
+      {
+       "ta": "ஓட்டம்"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "'ஆன்' என முடிந்து செய்தவரைக் காட்டுவதால் வினைமுற்று."
+     }
+    },
+    {
+     "id": "d009-daily-p003",
+     "subject": "tamil",
+     "q": {
+      "ta": "'சென்றனர்' என்னும் சொல்லின் வகை"
+     },
+     "o": [
+      {
+       "ta": "வினைமுற்று"
+      },
+      {
+       "ta": "வினையெச்சம்"
+      },
+      {
+       "ta": "பெயரெச்சம்"
+      },
+      {
+       "ta": "தொழிற்பெயர்"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "'அனர்' என முடிந்து, பொருள் முற்றுப்பெற்று நிற்பதால் வினைமுற்று."
+     }
+    },
+    {
+     "id": "d009-daily-p004",
+     "subject": "tamil",
+     "q": {
+      "ta": "பின்வருவனவற்றுள் வினையெச்சம் அல்லாதது"
+     },
+     "o": [
+      {
+       "ta": "கண்டு"
+      },
+      {
+       "ta": "கேட்டு"
+      },
+      {
+       "ta": "சொல்லி"
+      },
+      {
+       "ta": "பார்த்த"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "'பார்த்த பையன்' எனப் பெயரைக் கொண்டு முடிவதால் 'பார்த்த' பெயரெச்சம்."
+     }
+    },
+    {
+     "id": "d009-daily-p005",
+     "subject": "gs",
+     "q": {
+      "ta": "வள்ளலார் வடலூரில் சத்திய ஞான சபையை நிறுவிய ஆண்டு",
+      "en": "In which year did Vallalar found the Sathya Gnana Sabai at Vadalur?"
+     },
+     "o": [
+      {
+       "ta": "1865"
+      },
+      {
+       "ta": "1872"
+      },
+      {
+       "ta": "1867"
+      },
+      {
+       "ta": "1874"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "1865 சங்கம்; 1867 தருமச்சாலை; 1872 ஞான சபை.",
+      "en": "1865 the Sangam, 1867 the Dharma Salai, 1872 the Gnana Sabai."
+     }
+    },
+    {
+     "id": "d009-daily-p006",
+     "subject": "gs",
+     "q": {
+      "ta": "வைகுண்ட சுவாமிகள் பிறந்த சாஸ்தான்கோவில்விளை (சாமித்தோப்பு) எந்தப் பகுதியில் உள்ளது?",
+      "en": "Sastankoilvilai (Swamithoppu), the birthplace of Vaikunda Swamigal, is near"
+     },
+     "o": [
+      {
+       "ta": "சிதம்பரம்",
+       "en": "Chidambaram"
+      },
+      {
+       "ta": "காஞ்சிபுரம்",
+       "en": "Kanchipuram"
+      },
+      {
+       "ta": "ஈரோடு",
+       "en": "Erode"
+      },
+      {
+       "ta": "கன்னியாகுமரி",
+       "en": "Kanyakumari"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "சாமித்தோப்பு கன்னியாகுமரி அருகே உள்ளது.",
+      "en": "Swamithoppu is near Kanyakumari."
+     }
+    },
+    {
+     "id": "d009-daily-p007",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: இரட்டைமலை சீனிவாசன் 1932-இல் பூனா ஒப்பந்தத்தில் கையெழுத்திட்டார்.\nகாரணம்: அவர் அம்பேத்கருடன் வட்டமேசை மாநாடுகளில் ஒடுக்கப்பட்டோர் சார்பில் பங்கேற்றவர்.",
+      "en": "Assertion: Rettaimalai Srinivasan signed the Poona Pact in 1932.\nReason: He had taken part with Ambedkar in the Round Table Conferences on behalf of the Depressed Classes."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "1930, 1931 வட்டமேசை மாநாடுகளில் பங்கேற்ற அவர் 1932 பூனா ஒப்பந்தத்திலும் கையெழுத்திட்டார்.",
+      "en": "Having attended the Round Table Conferences of 1930 and 1931, he also signed the Poona Pact of 1932."
+     }
+    },
+    {
+     "id": "d009-daily-p008",
+     "subject": "apt",
+     "q": {
+      "ta": "105, 175 ஆகியவற்றின் மீ.பொ.வ",
+      "en": "The HCF of 105 and 175 is"
+     },
+     "o": [
+      {
+       "ta": "5"
+      },
+      {
+       "ta": "7"
+      },
+      {
+       "ta": "35"
+      },
+      {
+       "ta": "25"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "105 = 3 × 5 × 7; 175 = 5² × 7; மீ.பொ.வ = 35.",
+      "en": "105 = 3 × 5 × 7; 175 = 5² × 7; HCF = 35."
+     }
+    },
+    {
+     "id": "d009-daily-p009",
+     "subject": "apt",
+     "q": {
+      "ta": "48 மீ, 72 மீ நீளமுள்ள இரண்டு கயிறுகளை மீதியின்றிச் சம நீளத் துண்டுகளாக வெட்ட வேண்டும். ஒரு துண்டின் அதிகபட்ச நீளம் (மீட்டரில்)",
+      "en": "Two ropes 48 m and 72 m long are to be cut into pieces of equal length with nothing left over. The greatest possible length of a piece (in metres) is"
+     },
+     "o": [
+      {
+       "ta": "24"
+      },
+      {
+       "ta": "12"
+      },
+      {
+       "ta": "8"
+      },
+      {
+       "ta": "36"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "(48, 72) என்பவற்றின் மீ.பொ.வ 24.",
+      "en": "The HCF of 48 and 72 is 24."
+     }
+    },
+    {
+     "id": "d009-daily-p010",
+     "subject": "apt",
+     "q": {
+      "ta": "77, 123 ஆகிய எண்களை வகுத்து முறையே 2, 3 என்னும் மீதிகளைத் தரும் மிகப்பெரிய எண்",
+      "en": "The greatest number that divides 77 and 123 leaving remainders 2 and 3 respectively is"
+     },
+     "o": [
+      {
+       "ta": "5"
+      },
+      {
+       "ta": "25"
+      },
+      {
+       "ta": "45"
+      },
+      {
+       "ta": "15"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "(75, 120) என்பவற்றின் மீ.பொ.வ 15.",
+      "en": "The HCF of 75 and 120 is 15."
+     }
+    }
+   ]
+  }
+ ]
+}
