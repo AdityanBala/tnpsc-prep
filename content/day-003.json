@@ -2208,6 +2208,251 @@
       "ta": "மற்றப் பொருள் 45 லிட்டர்; அது மாறாது. அது புதிய கலவையின் 60% எனில் புதிய கலவை 75 லிட்டர்; சேர்க்க வேண்டியது 15 லிட்டர்.",
       "en": "The other part is 45 litres and does not change. If it is 60% of the new mixture, the new mixture is 75 litres; add 15 litres."
      }
+    },
+    {
+     "id": "d003-daily-p031",
+     "subject": "tamil",
+     "q": {
+      "ta": "'நிலவென்று' என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது"
+     },
+     "o": [
+      {
+       "ta": "நில + வென்று"
+      },
+      {
+       "ta": "நிலவு + என்று"
+      },
+      {
+       "ta": "நிலவ் + என்று"
+      },
+      {
+       "ta": "நிலா + என்று"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "உகரம் மறைந்து சேர்ந்தது; பிரிக்கும்போது உகரத்தை மீண்டும் சேர்க்கவும்: நிலவு + என்று."
+     }
+    },
+    {
+     "id": "d003-daily-p032",
+     "subject": "tamil",
+     "q": {
+      "ta": "'கலையழகு' என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது"
+     },
+     "o": [
+      {
+       "ta": "கலைய + அழகு"
+      },
+      {
+       "ta": "கலை + யழகு"
+      },
+      {
+       "ta": "கலைய் + அழகு"
+      },
+      {
+       "ta": "கலை + அழகு"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "ஐகாரத்தை அடுத்து உயிர் வந்ததால் இடையில் 'ய்' தோன்றியது; பிரிக்கும்போது அதை நீக்கவும்: கலை + அழகு."
+     }
+    },
+    {
+     "id": "d003-daily-p033",
+     "subject": "tamil",
+     "q": {
+      "ta": "கூற்று: 'எந்நாள்' என்னும் சொல் 'எ + நாள்' எனப் பிரியும்.\nகாரணம்: வினா எழுத்தை அடுத்து மெய் வந்தால் அந்த மெய் இரட்டிக்கும்."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "எ + நாள்: 'ந்' இரட்டித்து 'எந்நாள்' ஆனது. இரண்டும் சரி."
+     }
+    },
+    {
+     "id": "d003-daily-p034",
+     "subject": "gs",
+     "q": {
+      "ta": "திருக்குறளின் பால்களை அவற்றின் இயல்களின் எண்ணிக்கையுடன் பொருத்துக.\n(a) அறத்துப்பால்\n(b) பொருட்பால்\n(c) இன்பத்துப்பால்\n(d) மூன்று பால்களும் சேர்ந்து\n1. 9\n2. 2\n3. 3\n4. 4",
+      "en": "Match the sections of the Thirukkural with their number of iyals.\n(a) Arathuppal\n(b) Porutpal\n(c) Inbathuppal\n(d) All three together\n1. 9\n2. 2\n3. 3\n4. 4"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 2, (c) 3, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "அறத்துப்பால் 4, பொருட்பால் 3, இன்பத்துப்பால் 2; மொத்தம் 9 இயல்கள்.",
+      "en": "Arathuppal 4, Porutpal 3, Inbathuppal 2; 9 iyals in all."
+     }
+    },
+    {
+     "id": "d003-daily-p035",
+     "subject": "gs",
+     "q": {
+      "ta": "திருக்குறள் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) அது பதினெண்கீழ்க்கணக்கு நூல்களுள் ஒன்று.\n(ii) ஒவ்வொரு குறளிலும் ஏழு சீர்கள் உள்ளன.\n(iii) பழங்காலத்தில் திருக்குறளுக்கு உரை எழுதிய பதின்மருள் ஒருவர் ஜி.யு. போப்.",
+      "en": "Which of these statements about the Thirukkural are correct?\n(i) It is one of the eighteen minor works (Pathinenkilkanakku).\n(ii) Each kural has seven feet (seers).\n(iii) G.U. Pope was one of the ten old commentators on the Thirukkural."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "ஜி.யு. போப் திருக்குறளை ஆங்கிலத்தில் மொழிபெயர்த்தவர்; பழைய உரையாசிரியர்களுள் சிறந்தவர் பரிமேலழகர். எனவே (iii) தவறு.",
+      "en": "G.U. Pope translated the Thirukkural into English; the best known of the old commentators is Parimelazhagar. So (iii) is wrong."
+     }
+    },
+    {
+     "id": "d003-daily-p036",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: திருக்குறளில் 'தமிழ்' என்னும் சொல் இடம்பெறவில்லை.\nகாரணம்: அது எந்த ஒரு மொழியையோ இனத்தையோ குறிப்பிடாமல் எல்லோருக்கும் பொதுவான அறத்தைக் கூறுகிறது.",
+      "en": "Assertion: The word 'Tamil' does not occur in the Thirukkural.\nReason: It teaches ethics common to all, without naming any language or race."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "இரண்டும் சரி; இதனாலேயே அது உலகப் பொதுமறை எனப்படுகிறது.",
+      "en": "Both are true; this is why it is called the universal scripture."
+     }
+    },
+    {
+     "id": "d003-daily-p037",
+     "subject": "apt",
+     "q": {
+      "ta": "ஒரு தேர்வில் தேர்ச்சி பெற 40% மதிப்பெண் தேவை. ஒருவர் 210 மதிப்பெண் பெற்று 30 மதிப்பெண்ணில் தோல்வியுற்றார். தேர்வின் மொத்த மதிப்பெண்",
+      "en": "40% is needed to pass an examination. A candidate got 210 marks and failed by 30 marks. The maximum marks are"
+     },
+     "o": [
+      {
+       "ta": "500"
+      },
+      {
+       "ta": "550"
+      },
+      {
+       "ta": "600"
+      },
+      {
+       "ta": "650"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "தேர்ச்சி மதிப்பெண் 210 + 30 = 240 = 40%; மொத்தம் 240 × 100 ÷ 40 = 600.",
+      "en": "The pass mark is 210 + 30 = 240, which is 40%; the maximum is 240 × 100 ÷ 40 = 600."
+     }
+    },
+    {
+     "id": "d003-daily-p038",
+     "subject": "apt",
+     "q": {
+      "ta": "ஒரு தேர்வில் 25% மதிப்பெண் பெற்றவர் 30 மதிப்பெண்ணில் தோல்வியுற்றார். 40% பெற்றவர் தேர்ச்சி மதிப்பெண்ணை விட 15 கூடுதலாகப் பெற்றார். தேர்ச்சிக்குத் தேவையான மதிப்பெண் விழுக்காடு",
+      "en": "In an examination a candidate who got 25% failed by 30 marks, and another who got 40% got 15 marks more than the pass mark. The pass mark as a percentage is"
+     },
+     "o": [
+      {
+       "ta": "30%"
+      },
+      {
+       "ta": "33%"
+      },
+      {
+       "ta": "35%"
+      },
+      {
+       "ta": "36%"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "15% = 30 + 15 = 45; மொத்தம் 300. தேர்ச்சி = 75 + 30 = 105; 105 ÷ 300 = 35%.",
+      "en": "15% = 30 + 15 = 45, so the maximum is 300. Pass mark = 75 + 30 = 105; 105 ÷ 300 = 35%."
+     }
+    },
+    {
+     "id": "d003-daily-p039",
+     "subject": "apt",
+     "q": {
+      "ta": "ஓர் எண்ணின் 25%-இலிருந்து 30-ஐக் கழித்தால் 45 கிடைக்கிறது. அந்த எண்",
+      "en": "If 30 is subtracted from 25% of a number, the result is 45. The number is"
+     },
+     "o": [
+      {
+       "ta": "300"
+      },
+      {
+       "ta": "250"
+      },
+      {
+       "ta": "280"
+      },
+      {
+       "ta": "320"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "25% = 45 + 30 = 75; எண் = 75 × 4 = 300.",
+      "en": "25% = 45 + 30 = 75; the number is 75 × 4 = 300."
+     }
     }
    ]
   }

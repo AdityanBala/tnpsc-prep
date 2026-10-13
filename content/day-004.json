@@ -1981,6 +1981,284 @@
      "x": {
       "ta": "0.04 ÷ 0.004 = 10."
      }
+    },
+    {
+     "id": "d004-daily-p022",
+     "subject": "tamil",
+     "q": {
+      "ta": "'பொன் + ஆடை' என்பதைச் சேர்த்து எழுதக் கிடைக்கும் சொல்"
+     },
+     "o": [
+      {
+       "ta": "பொனாடை"
+      },
+      {
+       "ta": "பொற்றாடை"
+      },
+      {
+       "ta": "பொன்ஆடை"
+      },
+      {
+       "ta": "பொன்னாடை"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "தனிக்குறிலை அடுத்த மெய் உயிர் வரும்போது இரட்டிக்கும்: பொன் + ஆடை = பொன்னாடை."
+     }
+    },
+    {
+     "id": "d004-daily-p023",
+     "subject": "tamil",
+     "q": {
+      "ta": "'மூன்று + தமிழ்' என்பதைச் சேர்த்து எழுதக் கிடைக்கும் சொல்"
+     },
+     "o": [
+      {
+       "ta": "மூன்றுதமிழ்"
+      },
+      {
+       "ta": "முத்தமிழ்"
+      },
+      {
+       "ta": "மூத்தமிழ்"
+      },
+      {
+       "ta": "முந்தமிழ்"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "எண்ணுப்பெயர் திரியும்: மூன்று + தமிழ் = முத்தமிழ்; மூன்று + வேந்தர் = மூவேந்தர்."
+     }
+    },
+    {
+     "id": "d004-daily-p024",
+     "subject": "tamil",
+     "q": {
+      "ta": "'செம்மை + தமிழ்' என்பதைச் சேர்த்து எழுதக் கிடைக்கும் சொல்"
+     },
+     "o": [
+      {
+       "ta": "செந்தமிழ்"
+      },
+      {
+       "ta": "செம்தமிழ்"
+      },
+      {
+       "ta": "செத்தமிழ்"
+      },
+      {
+       "ta": "செம்மைத்தமிழ்"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "'மை' கெட்டு 'ம்' இன மெல்லினமாகத் திரிந்தது: செம்மை + தமிழ் = செந்தமிழ்."
+     }
+    },
+    {
+     "id": "d004-daily-p025",
+     "subject": "tamil",
+     "q": {
+      "ta": "கூற்று: 'பால் + ஆடை' என்பதைச் சேர்த்தால் 'பால்லாடை' என்று வரும்.\nகாரணம்: நெடிலை அடுத்த மெய், உயிர் வரும்போது இரட்டிக்காது."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "நெடிலை அடுத்த மெய் இரட்டிக்காது; எனவே சரியான வடிவம் 'பாலாடை'. கூற்று தவறு, காரணம் சரி."
+     }
+    },
+    {
+     "id": "d004-daily-p026",
+     "subject": "gs",
+     "q": {
+      "ta": "முதலாம் மகேந்திரவர்மனின் பட்டங்களுள் ஒன்று அல்லாதது",
+      "en": "Which of these is not a title of Mahendravarman I?"
+     },
+     "o": [
+      {
+       "ta": "விசித்திரசித்தன்",
+       "en": "Vichitrachitta"
+      },
+      {
+       "ta": "மத்தவிலாசன்",
+       "en": "Mattavilasa"
+      },
+      {
+       "ta": "மாமல்லன்",
+       "en": "Mamalla"
+      },
+      {
+       "ta": "குணபரன்",
+       "en": "Gunabhara"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "'மாமல்லன்' முதலாம் நரசிம்மவர்மனின் பட்டம். மற்றவை மகேந்திரவர்மனின் பட்டங்கள்.",
+      "en": "'Mamalla' is the title of Narasimhavarman I; the others are Mahendravarman's titles."
+     }
+    },
+    {
+     "id": "d004-daily-p027",
+     "subject": "gs",
+     "q": {
+      "ta": "பல்லவ மன்னர்களை அவர்களோடு தொடர்புடையவற்றுடன் பொருத்துக.\n(a) ராஜசிம்மன்\n(b) இரண்டாம் நந்திவர்மன்\n(c) மூன்றாம் நந்திவர்மன்\n(d) முதலாம் மகேந்திரவர்மன்\n1. மண்டகப்பட்டுக் குடைவரை\n2. நந்திக்கலம்பகம்\n3. வைகுண்டப்பெருமாள் கோயில்\n4. கைலாசநாதர் கோயில்",
+      "en": "Match the Pallava kings with what they are linked to.\n(a) Rajasimha\n(b) Nandivarman II\n(c) Nandivarman III\n(d) Mahendravarman I\n1. Mandagapattu cave temple\n2. Nandikkalambagam\n3. Vaikunta Perumal temple\n4. Kailasanatha temple"
+     },
+     "o": [
+      {
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 2, (c) 3, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "ராஜசிம்மன் – காஞ்சி கைலாசநாதர்; இரண்டாம் நந்திவர்மன் – வைகுண்டப்பெருமாள்; மூன்றாம் நந்திவர்மன் – நந்திக்கலம்பகம்; மகேந்திரவர்மன் – மண்டகப்பட்டு.",
+      "en": "Rajasimha – Kailasanatha at Kanchi; Nandivarman II – Vaikunta Perumal; Nandivarman III – Nandikkalambagam; Mahendravarman – Mandagapattu."
+     }
+    },
+    {
+     "id": "d004-daily-p028",
+     "subject": "gs",
+     "q": {
+      "ta": "பல்லவர் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) பல்லவர்களின் தலைநகர் காஞ்சிபுரம்.\n(ii) கடைசிப் பல்லவ மன்னன் அபராஜிதன்.\n(iii) மூன்றாம் நந்திவர்மன் 'வாதாபி கொண்டான்' என்று அழைக்கப்பட்டான்.",
+      "en": "Which of these statements about the Pallavas are correct?\n(i) The Pallava capital was Kanchipuram.\n(ii) The last Pallava king was Aparajita.\n(iii) Nandivarman III was called 'Vatapi Kondan'."
+     },
+     "o": [
+      {
+       "ta": "(i) மட்டும்",
+       "en": "(i) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "'வாதாபி கொண்டான்' முதலாம் நரசிம்மவர்மன்; மூன்றாம் நந்திவர்மன் 'தெள்ளாறு எறிந்தவன்'. எனவே (iii) தவறு.",
+      "en": "'Vatapi Kondan' was Narasimhavarman I; Nandivarman III was 'Tellaru Erindhavan'. So (iii) is wrong."
+     }
+    },
+    {
+     "id": "d004-daily-p029",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: தொண்டை நாட்டில் களப்பிரரை வென்றவன் சிம்மவிஷ்ணு.\nகாரணம்: பாண்டிய நாட்டில் களப்பிரரை வென்றவனும் சிம்மவிஷ்ணுவே.",
+      "en": "Assertion: Simhavishnu defeated the Kalabhras in Thondai Nadu.\nReason: It was also Simhavishnu who defeated the Kalabhras in the Pandya country."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "கூற்று சரி. பாண்டிய நாட்டில் களப்பிரரை வென்றவன் கடுங்கோன்; எனவே காரணம் தவறு.",
+      "en": "The Assertion is true. In the Pandya country it was Kadungon who defeated the Kalabhras, so the Reason is false."
+     }
+    },
+    {
+     "id": "d004-daily-p030",
+     "subject": "apt",
+     "q": {
+      "ta": "0.6 + 0.66 + 0.666 = ?",
+      "en": "0.6 + 0.66 + 0.666 = ?"
+     },
+     "o": [
+      {
+       "ta": "1.916"
+      },
+      {
+       "ta": "1.836"
+      },
+      {
+       "ta": "1.926"
+      },
+      {
+       "ta": "1.966"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "தசமப் புள்ளிகளை ஒரே நிரலில் வைத்துக் கூட்டவும்: 0.600 + 0.660 + 0.666 = 1.926.",
+      "en": "Line up the decimal points: 0.600 + 0.660 + 0.666 = 1.926."
+     }
+    },
+    {
+     "id": "d004-daily-p031",
+     "subject": "apt",
+     "q": {
+      "ta": "ஒருவர் தம் சம்பளத்தில் 1/4 பங்கை வாடகைக்கும் 1/5 பங்கை உணவுக்கும் செலவிட்ட பின் ரூ. 2,200 மீதி இருந்தது. அவரது சம்பளம்",
+      "en": "After spending 1/4 of his salary on rent and 1/5 on food, a man had Rs. 2,200 left. His salary is"
+     },
+     "o": [
+      {
+       "ta": "ரூ. 4,400",
+       "en": "Rs. 4,400"
+      },
+      {
+       "ta": "ரூ. 4,000",
+       "en": "Rs. 4,000"
+      },
+      {
+       "ta": "ரூ. 5,000",
+       "en": "Rs. 5,000"
+      },
+      {
+       "ta": "ரூ. 3,600",
+       "en": "Rs. 3,600"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "செலவு 1/4 + 1/5 = 9/20; மீதி 11/20 = 2,200; சம்பளம் 2,200 × 20 ÷ 11 = ரூ. 4,000.",
+      "en": "Spent 1/4 + 1/5 = 9/20; left 11/20 = 2,200; salary 2,200 × 20 ÷ 11 = Rs. 4,000."
+     }
     }
    ]
   }
