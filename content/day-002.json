@@ -3160,6 +3160,251 @@
       "ta": "எண் = 180 × 100 ÷ 60 = 300; அதன் 25% = 75.",
       "en": "The number is 180 × 100 ÷ 60 = 300; 25% of it is 75."
      }
+    },
+    {
+     "id": "d002-daily-p064",
+     "subject": "tamil",
+     "q": {
+      "ta": "'தளை' என்னும் சொல்லின் பொருள்"
+     },
+     "o": [
+      {
+       "ta": "இலை"
+      },
+      {
+       "ta": "உடல் உறுப்பு"
+      },
+      {
+       "ta": "கட்டு"
+      },
+      {
+       "ta": "கோட்டை"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "தளை (ள) – கட்டு; தலை (ல) – உடல் உறுப்பு; தழை (ழ) – இலை."
+     }
+    },
+    {
+     "id": "d002-daily-p065",
+     "subject": "tamil",
+     "q": {
+      "ta": "'அரம்' என்னும் சொல்லின் பொருள்"
+     },
+     "o": [
+      {
+       "ta": "நற்செயல்"
+      },
+      {
+       "ta": "வீரம்"
+      },
+      {
+       "ta": "கடல்"
+      },
+      {
+       "ta": "இரும்பை அராவும் கருவி"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "அரம் (இடையின ர) – இரும்பை அராவும் கருவி; அறம் (வல்லின ற) – நற்செயல்; மறம் – வீரம்."
+     }
+    },
+    {
+     "id": "d002-daily-p066",
+     "subject": "tamil",
+     "q": {
+      "ta": "'கிளி மரக்கிளையில் அமர்ந்து _____ தேடியது' என்னும் தொடரின் கோடிட்ட இடத்தில் பொருள் பொருந்த வர வேண்டியது"
+     },
+     "o": [
+      {
+       "ta": "இரை"
+      },
+      {
+       "ta": "இறை"
+      },
+      {
+       "ta": "இழை"
+      },
+      {
+       "ta": "இளை"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "இரை (ர) – விலங்கின், பறவையின் உணவு; இறை (ற) – கடவுள்."
+     }
+    },
+    {
+     "id": "d002-daily-p067",
+     "subject": "gs",
+     "q": {
+      "ta": "சங்க கால அகழாய்வு இடங்கள் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) கீழடி சிவகங்கை மாவட்டத்தில் வைகை ஆற்றங்கரையில் உள்ளது.\n(ii) அரிக்கமேட்டில் 1945-இல் மார்டிமர் வீலர் அகழாய்வு செய்தார்.\n(iii) கொடுமணல் காவிரி ஆற்றங்கரையில் உள்ளது.",
+      "en": "Which of the statements about Sangam-age excavation sites are correct?\n(i) Keezhadi lies on the bank of the Vaigai in Sivaganga district.\n(ii) Arikamedu was excavated by Mortimer Wheeler in 1945.\n(iii) Kodumanal lies on the bank of the Kaveri."
+     },
+     "o": [
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "கொடுமணல் ஈரோடு மாவட்டத்தில் நொய்யல் ஆற்றங்கரையில் உள்ளது; எனவே (iii) மட்டும் தவறு.",
+      "en": "Kodumanal lies on the bank of the Noyyal in Erode district, so only (iii) is wrong."
+     }
+    },
+    {
+     "id": "d002-daily-p068",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: கொற்கை பாண்டியரின் துறைமுகமாக விளங்கியது.\nகாரணம்: கொற்கை தாமிரபரணி முகத்துவாரத்தில் அமைந்து முத்துக்குளித்தலுக்குப் பெயர் பெற்றிருந்தது.",
+      "en": "Assertion: Korkai was the port of the Pandyas.\nReason: Korkai lay at the mouth of the Thamirabarani and was known for pearl fishing."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "இரண்டும் சரி: தூத்துக்குடி மாவட்டத்தில் தாமிரபரணி கடலில் கலக்கும் இடத்தில் உள்ள கொற்கை பாண்டியர் துறைமுகம்; முத்துக்குளித்தல் அதன் சிறப்பு.",
+      "en": "Both are true: Korkai, where the Thamirabarani meets the sea in Thoothukudi district, was the Pandya port and was known for pearl fishing."
+     }
+    },
+    {
+     "id": "d002-daily-p069",
+     "subject": "gs",
+     "q": {
+      "ta": "தமிழி கல்வெட்டு அல்லது அகழாய்வு இடத்தை அது உள்ள மாவட்டத்துடன் பொருத்துக.\n(a) மாங்குளம்\n(b) புகளூர்\n(c) புலிமான்கோம்பை\n(d) பூம்புகார்\n1. தேனி\n2. மயிலாடுதுறை\n3. மதுரை\n4. கரூர்",
+      "en": "Match the Tamili inscription or site with its district.\n(a) Mangulam\n(b) Pugalur\n(c) Pulimankombai\n(d) Poompuhar\n1. Theni\n2. Mayiladuthurai\n3. Madurai\n4. Karur"
+     },
+     "o": [
+      {
+       "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 1, (c) 4, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "மாங்குளம் – மதுரை; புகளூர் – கரூர்; புலிமான்கோம்பை – தேனி; பூம்புகார் – மயிலாடுதுறை.",
+      "en": "Mangulam – Madurai; Pugalur – Karur; Pulimankombai – Theni; Poompuhar – Mayiladuthurai."
+     }
+    },
+    {
+     "id": "d002-daily-p070",
+     "subject": "apt",
+     "q": {
+      "ta": "சர்க்கரையின் விலை 25% உயர்ந்தால், செலவு மாறாமல் இருக்க ஒரு குடும்பம் சர்க்கரைப் பயன்பாட்டை எத்தனை விழுக்காடு குறைக்க வேண்டும்?",
+      "en": "If the price of sugar rises by 25%, by what percentage must a family cut its use of sugar so that its spending does not change?"
+     },
+     "o": [
+      {
+       "ta": "20%"
+      },
+      {
+       "ta": "25%"
+      },
+      {
+       "ta": "15%"
+      },
+      {
+       "ta": "30%"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "குறைக்க வேண்டியது = 100 × 25 ÷ (100 + 25) = 2500 ÷ 125 = 20%.",
+      "en": "Cut = 100 × 25 ÷ (100 + 25) = 2500 ÷ 125 = 20%."
+     }
+    },
+    {
+     "id": "d002-daily-p071",
+     "subject": "apt",
+     "q": {
+      "ta": "A என்பது B-ஐ விட 20% குறைவு எனில், B என்பது A-ஐ விட எத்தனை விழுக்காடு அதிகம்?",
+      "en": "If A is 20% less than B, by what percentage is B more than A?"
+     },
+     "o": [
+      {
+       "ta": "20%"
+      },
+      {
+       "ta": "25%"
+      },
+      {
+       "ta": "15%"
+      },
+      {
+       "ta": "30%"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "B = 100 எனில் A = 80; வேறுபாடு 20; 20 ÷ 80 × 100 = 25%.",
+      "en": "Take B = 100, so A = 80; the difference is 20; 20 ÷ 80 × 100 = 25%."
+     }
+    },
+    {
+     "id": "d002-daily-p072",
+     "subject": "apt",
+     "q": {
+      "ta": "640-இன் 37.5%",
+      "en": "37.5% of 640"
+     },
+     "o": [
+      {
+       "ta": "224"
+      },
+      {
+       "ta": "240"
+      },
+      {
+       "ta": "256"
+      },
+      {
+       "ta": "230"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "37.5% = 3/8; 640 ÷ 8 × 3 = 240.",
+      "en": "37.5% = 3/8; 640 ÷ 8 × 3 = 240."
+     }
     }
    ]
   }
