@@ -38,8 +38,8 @@
     "en": "Highest common factor (HCF)"
    },
    "md": {
-    "ta": "இரண்டு அல்லது அதற்கு மேற்பட்ட எண்களை மீதியின்றி வகுக்கும் எண்களுள் மிகப்பெரியது மீப்பெரு பொது வகுத்தி (மீ.பொ.வ). மீ.பொ.வ, மீ.சி.ம ஆகியவை உண்மையான தேர்வில் மிகுதியாகக் கேட்கப்படும் தலைப்பு.\n\n### காணும் முறைகள்\n\n| முறை | செய்ய வேண்டியது | எடுத்துக்காட்டு |\n| --- | --- | --- |\n| பகாக் காரணி முறை | பொதுவான பகாக் காரணிகளை மிகக்குறைந்த அடுக்குடன் பெருக்கவும் | 36 = 2² × 3²; 84 = 2² × 3 × 7; மீ.பொ.வ = 2² × 3 = 12 |\n| வகுத்தல் முறை | பெரிய எண்ணைச் சிறிய எண்ணால் வகுக்கவும்; பின் வகுத்தியை மீதியால் வகுக்கவும்; மீதி 0 ஆகும்போது கடைசி வகுத்தியே விடை | 667 ÷ 391 மீதி 276; 391 ÷ 276 மீதி 115; 276 ÷ 115 மீதி 46; 115 ÷ 46 மீதி 23; 46 ÷ 23 மீதி 0; மீ.பொ.வ = 23 |\n| மூன்று எண்கள் | முதல் இரண்டின் மீ.பொ.வ காணவும்; பின் அதற்கும் மூன்றாம் எண்ணுக்கும் | 144, 180, 192: (144, 180) = 36; (36, 192) = 12 |\n\n- சார்பகா எண்களின் மீ.பொ.வ 1.\n- ஓர் எண் மற்றொன்றின் காரணி எனில் சிறிய எண்ணே மீ.பொ.வ: (12, 60) = 12.\n- மீ.பொ.வ எப்போதும் எண்களின் வேறுபாட்டையும் வகுக்கும்: அடுத்தடுத்த இரு இரட்டை எண்களின் மீ.பொ.வ 2.\n\n### பின்னத்தைச் சுருக்குதல்\n\n- தொகுதியையும் பகுதியையும் அவற்றின் மீ.பொ.வ-ஆல் வகுக்கவும்: 391/667 என்பதில் மீ.பொ.வ 23; 391 ÷ 23 = 17; 667 ÷ 23 = 29; விடை 17/29.\n\n### மீதியுடன் வரும் கணக்குகள்\n\n| கணக்கு | செய்ய வேண்டியது | எடுத்துக்காட்டு |\n| --- | --- | --- |\n| a, b என்பவற்றை வகுத்து ஒரே மீதி r தரும் மிகப்பெரிய எண் | (a − r), (b − r) என்பவற்றின் மீ.பொ.வ | 245, 1029; மீதி 5: (240, 1024) = 16 |\n| வெவ்வேறு மீதிகள் r₁, r₂ | (a − r₁), (b − r₂) என்பவற்றின் மீ.பொ.வ | 77, 123; மீதிகள் 2, 3: (75, 120) = 15 |\n| மீதி தெரியாது; எல்லாவற்றிலும் ஒரே மீதி | எண்களுக்கிடையிலான வேறுபாடுகளின் மீ.பொ.வ | 62, 132, 237: வேறுபாடுகள் 70, 105; (70, 105) = 35 |\n\n### சொற்கணக்குகள்\n\n- 'மிகப்பெரிய', 'அதிகபட்ச', 'மிக நீளமான' அளவு எனக் கேட்டால் மீ.பொ.வ.\n- 120, 168, 216 லிட்டர் கொள்ளும் மூன்று கலன்களை முழுமையாக அளக்கக்கூடிய மிகப்பெரிய அளவு: மீ.பொ.வ = 24 லிட்டர்.\n- 5.6 மீ × 4.2 மீ அறைக்குப் பதிக்கக்கூடிய மிகப்பெரிய சதுர ஓடு: 560, 420 செ.மீ என்பவற்றின் மீ.பொ.வ = 140 செ.மீ.\n- கூலிக் கணக்கு: ஒருவர் சில நாள் வேலைக்கு ரூ. 1430 பெற்றார்; எல்லா நாளும் வேலை செய்திருந்தால் ரூ. 1870 பெற்றிருப்பார். நாள் கூலி இரண்டையும் வகுக்க வேண்டும்; மீ.பொ.வ (1430, 1870) = 110; வேலை செய்த நாள்கள் 1430 ÷ 110 = 13.\n\n### மீ.பொ.வ, மீ.சி.ம தொடர்பு\n\n- இரண்டு எண்களின் பொது மடங்குகளுள் மிகச்சிறியது மீச்சிறு பொது மடங்கு (மீ.சி.ம); விரிவான பாடம் நாளை.\n- இரண்டு எண்களுக்கு: மீ.பொ.வ × மீ.சி.ம = இரு எண்களின் பெருக்கற்பலன். மீ.பொ.வ 12, மீ.சி.ம 180, ஓர் எண் 36 எனில் மற்ற எண் 12 × 180 ÷ 36 = 60.\n- இந்தத் தொடர்பு இரண்டு எண்களுக்கு மட்டுமே பொருந்தும்.\n\n### இயற்கணித உறுப்புகளின் மீ.பொ.வ\n\n- எண் கெழுக்களின் மீ.பொ.வ-ஐயும், பொதுவான மாறிகளை மிகக்குறைந்த அடுக்குடனும் எடுக்கவும்: 12x²y, 18xy² என்பவற்றின் மீ.பொ.வ 6xy.",
-    "en": "The highest common factor (HCF) is the largest of the numbers that divide two or more numbers without remainder. HCF and LCM together are the most frequently asked topic in the real paper.\n\n### Methods\n\n| Method | What to do | Example |\n| --- | --- | --- |\n| Prime factor method | Multiply the common prime factors with their lowest powers | 36 = 2² × 3²; 84 = 2² × 3 × 7; HCF = 2² × 3 = 12 |\n| Division method | Divide the larger by the smaller, then the divisor by the remainder; when the remainder is 0 the last divisor is the answer | 667 ÷ 391 rem 276; 391 ÷ 276 rem 115; 276 ÷ 115 rem 46; 115 ÷ 46 rem 23; 46 ÷ 23 rem 0; HCF = 23 |\n| Three numbers | Find the HCF of the first two, then of that and the third | 144, 180, 192: (144, 180) = 36; (36, 192) = 12 |\n\n- The HCF of co-prime numbers is 1.\n- If one number is a factor of the other, the smaller number is the HCF: (12, 60) = 12.\n- The HCF always divides the difference of the numbers too: the HCF of two consecutive even numbers is 2.\n\n### Reducing a fraction\n\n- Divide the numerator and denominator by their HCF: for 391/667 the HCF is 23; 391 ÷ 23 = 17 and 667 ÷ 23 = 29, giving 17/29.\n\n### Sums with remainders\n\n| Sum | What to do | Example |\n| --- | --- | --- |\n| Greatest number dividing a and b leaving the same remainder r | HCF of (a − r) and (b − r) | 245, 1029; remainder 5: (240, 1024) = 16 |\n| Different remainders r₁, r₂ | HCF of (a − r₁) and (b − r₂) | 77, 123; remainders 2, 3: (75, 120) = 15 |\n| Remainder unknown but the same for all | HCF of the differences between the numbers | 62, 132, 237: differences 70, 105; (70, 105) = 35 |\n\n### Word problems\n\n- When the question asks for the 'greatest', 'maximum' or 'longest' measure, it is an HCF sum.\n- The greatest measure that can exactly measure three tins of 120, 168 and 216 litres: HCF = 24 litres.\n- The largest square tile for a room 5.6 m × 4.2 m: HCF of 560 and 420 cm = 140 cm.\n- A wages sum: a man was paid Rs. 1430 for some days; had he worked every day he would have got Rs. 1870. The daily wage must divide both; HCF (1430, 1870) = 110; days worked 1430 ÷ 110 = 13.\n\n### HCF and LCM\n\n- The least of the common multiples of two numbers is the lowest common multiple (LCM); the full lesson is tomorrow.\n- For two numbers: HCF × LCM = product of the two numbers. If the HCF is 12, the LCM 180 and one number 36, the other is 12 × 180 ÷ 36 = 60.\n- This relation holds for two numbers only.\n\n### HCF of algebraic terms\n\n- Take the HCF of the numerical coefficients and the common variables with their lowest powers: the HCF of 12x²y and 18xy² is 6xy."
+    "ta": "இரண்டு அல்லது அதற்கு மேற்பட்ட எண்களை மீதியின்றி வகுக்கும் எண்களுள் மிகப்பெரியது மீப்பெரு பொது வகுத்தி (மீ.பொ.வ). மீ.பொ.வ, மீ.சி.ம ஆகியவை உண்மையான தேர்வில் மிகுதியாகக் கேட்கப்படும் தலைப்பு.\n\n### நேற்றைய பாடத்தில் கவனிக்க\n\n- சார்பகா எண்கள் என்றால் மீ.பொ.வ 1 ஆக உள்ள இரு எண்கள்; அவை பகா எண்களாக இருக்க வேண்டியதில்லை: 8, 9; 8, 15.\n- காரணிகளின் எண்ணிக்கை: பகாக் காரணிகளின் ஒவ்வோர் அடுக்கோடும் 1 கூட்டிப் பெருக்கவும். 144 = 2⁴ × 3²: (4 + 1)(2 + 1) = 15.\n- 0-க்குத் தலைகீழி இல்லை: 0-ஆல் வகுக்க முடியாது. மூன்று இலக்கப் பகா எண்களில் மிகச்சிறியது 101.\n- 'விட' என்னும் சொல்லுக்கு நேர் முன் வரும் எண்ணே அடிப்படை (100); வேறுபாட்டை அதனால் வகுக்கவும். A, B-ஐ விட 12½% அதிகம்: B = 100, A = 112.5. 'B, A-ஐ விட எத்தனை % குறைவு?' என்பதில் அடிப்படை A: 12.5 ÷ 112.5 = 11 1/9%.\n- தேர்தல்: முதலில் செல்லாத வாக்குகளை நீக்கவும். வென்றவர் 60% எனில் தோற்றவர் 40%; வேறுபாடு செல்லத்தக்க வாக்குகளின் 20%. 20% = 1,800 எனில் செல்லத்தக்கவை 9,000; 10% செல்லாதவை எனில் பதிவானவை 9,000 ÷ 0.9 = 10,000.\n- கடந்த இரண்டு தேர்வுகளிலும் சில திறனறிவு வினாக்கள் விடை இல்லாமல் விடப்பட்டன. தவறான விடைக்கு மதிப்பெண் குறைப்பு இல்லை; இரண்டு விடைகளை நீக்கிவிட்டு மீதியில் ஒன்றைத் தேர்ந்தெடுக்கவும்.\n\n### காணும் முறைகள்\n\n| முறை | செய்ய வேண்டியது | எடுத்துக்காட்டு |\n| --- | --- | --- |\n| பகாக் காரணி முறை | பொதுவான பகாக் காரணிகளை மிகக்குறைந்த அடுக்குடன் பெருக்கவும் | 36 = 2² × 3²; 84 = 2² × 3 × 7; மீ.பொ.வ = 2² × 3 = 12 |\n| வகுத்தல் முறை | பெரிய எண்ணைச் சிறிய எண்ணால் வகுக்கவும்; பின் வகுத்தியை மீதியால் வகுக்கவும்; மீதி 0 ஆகும்போது கடைசி வகுத்தியே விடை | 667 ÷ 391 மீதி 276; 391 ÷ 276 மீதி 115; 276 ÷ 115 மீதி 46; 115 ÷ 46 மீதி 23; 46 ÷ 23 மீதி 0; மீ.பொ.வ = 23 |\n| மூன்று எண்கள் | முதல் இரண்டின் மீ.பொ.வ காணவும்; பின் அதற்கும் மூன்றாம் எண்ணுக்கும் | 144, 180, 192: (144, 180) = 36; (36, 192) = 12 |\n\n- சார்பகா எண்களின் மீ.பொ.வ 1.\n- ஓர் எண் மற்றொன்றின் காரணி எனில் சிறிய எண்ணே மீ.பொ.வ: (12, 60) = 12.\n- மீ.பொ.வ எப்போதும் எண்களின் வேறுபாட்டையும் வகுக்கும்: அடுத்தடுத்த இரு இரட்டை எண்களின் மீ.பொ.வ 2.\n\n### பின்னத்தைச் சுருக்குதல்\n\n- தொகுதியையும் பகுதியையும் அவற்றின் மீ.பொ.வ-ஆல் வகுக்கவும்: 391/667 என்பதில் மீ.பொ.வ 23; 391 ÷ 23 = 17; 667 ÷ 23 = 29; விடை 17/29.\n\n### மீதியுடன் வரும் கணக்குகள்\n\n| கணக்கு | செய்ய வேண்டியது | எடுத்துக்காட்டு |\n| --- | --- | --- |\n| a, b என்பவற்றை வகுத்து ஒரே மீதி r தரும் மிகப்பெரிய எண் | (a − r), (b − r) என்பவற்றின் மீ.பொ.வ | 245, 1029; மீதி 5: (240, 1024) = 16 |\n| வெவ்வேறு மீதிகள் r₁, r₂ | (a − r₁), (b − r₂) என்பவற்றின் மீ.பொ.வ | 77, 123; மீதிகள் 2, 3: (75, 120) = 15 |\n| மீதி தெரியாது; எல்லாவற்றிலும் ஒரே மீதி | எண்களுக்கிடையிலான வேறுபாடுகளின் மீ.பொ.வ | 62, 132, 237: வேறுபாடுகள் 70, 105; (70, 105) = 35 |\n\n### சொற்கணக்குகள்\n\n- 'மிகப்பெரிய', 'அதிகபட்ச', 'மிக நீளமான' அளவு எனக் கேட்டால் மீ.பொ.வ.\n- 120, 168, 216 லிட்டர் கொள்ளும் மூன்று கலன்களை முழுமையாக அளக்கக்கூடிய மிகப்பெரிய அளவு: மீ.பொ.வ = 24 லிட்டர்.\n- 5.6 மீ × 4.2 மீ அறைக்குப் பதிக்கக்கூடிய மிகப்பெரிய சதுர ஓடு: 560, 420 செ.மீ என்பவற்றின் மீ.பொ.வ = 140 செ.மீ.\n- கூலிக் கணக்கு: ஒருவர் சில நாள் வேலைக்கு ரூ. 1430 பெற்றார்; எல்லா நாளும் வேலை செய்திருந்தால் ரூ. 1870 பெற்றிருப்பார். நாள் கூலி இரண்டையும் வகுக்க வேண்டும்; மீ.பொ.வ (1430, 1870) = 110; வேலை செய்த நாள்கள் 1430 ÷ 110 = 13.\n\n### மீ.பொ.வ, மீ.சி.ம தொடர்பு\n\n- இரண்டு எண்களின் பொது மடங்குகளுள் மிகச்சிறியது மீச்சிறு பொது மடங்கு (மீ.சி.ம); விரிவான பாடம் நாளை.\n- இரண்டு எண்களுக்கு: மீ.பொ.வ × மீ.சி.ம = இரு எண்களின் பெருக்கற்பலன். மீ.பொ.வ 12, மீ.சி.ம 180, ஓர் எண் 36 எனில் மற்ற எண் 12 × 180 ÷ 36 = 60.\n- இந்தத் தொடர்பு இரண்டு எண்களுக்கு மட்டுமே பொருந்தும்.\n\n### இயற்கணித உறுப்புகளின் மீ.பொ.வ\n\n- எண் கெழுக்களின் மீ.பொ.வ-ஐயும், பொதுவான மாறிகளை மிகக்குறைந்த அடுக்குடனும் எடுக்கவும்: 12x²y, 18xy² என்பவற்றின் மீ.பொ.வ 6xy.",
+    "en": "The highest common factor (HCF) is the largest of the numbers that divide two or more numbers without remainder. HCF and LCM together are the most frequently asked topic in the real paper.\n\n### Points from yesterday's test\n\n- Co-prime means two numbers whose HCF is 1; they need not be prime: 8, 9; 8, 15.\n- Number of factors: add 1 to each power in the prime factorisation and multiply. 144 = 2⁴ × 3²: (4 + 1)(2 + 1) = 15.\n- 0 has no reciprocal: you cannot divide by 0. The smallest three-digit prime is 101.\n- The quantity you compare with is the base (100); divide the difference by it. A is 12½% more than B: B = 100, A = 112.5. 'By what % is B less than A?' takes A as the base: 12.5 ÷ 112.5 = 11 1/9%.\n- Elections: remove the invalid votes first. If the winner has 60%, the loser has 40% and the margin is 20% of the valid votes. If 20% = 1,800, valid votes are 9,000; with 10% invalid, votes polled are 9,000 ÷ 0.9 = 10,000.\n- In both recent tests some aptitude questions were left blank. There is no penalty for a wrong answer: rule out two options and pick one of the rest.\n\n### Methods\n\n| Method | What to do | Example |\n| --- | --- | --- |\n| Prime factor method | Multiply the common prime factors with their lowest powers | 36 = 2² × 3²; 84 = 2² × 3 × 7; HCF = 2² × 3 = 12 |\n| Division method | Divide the larger by the smaller, then the divisor by the remainder; when the remainder is 0 the last divisor is the answer | 667 ÷ 391 rem 276; 391 ÷ 276 rem 115; 276 ÷ 115 rem 46; 115 ÷ 46 rem 23; 46 ÷ 23 rem 0; HCF = 23 |\n| Three numbers | Find the HCF of the first two, then of that and the third | 144, 180, 192: (144, 180) = 36; (36, 192) = 12 |\n\n- The HCF of co-prime numbers is 1.\n- If one number is a factor of the other, the smaller number is the HCF: (12, 60) = 12.\n- The HCF always divides the difference of the numbers too: the HCF of two consecutive even numbers is 2.\n\n### Reducing a fraction\n\n- Divide the numerator and denominator by their HCF: for 391/667 the HCF is 23; 391 ÷ 23 = 17 and 667 ÷ 23 = 29, giving 17/29.\n\n### Sums with remainders\n\n| Sum | What to do | Example |\n| --- | --- | --- |\n| Greatest number dividing a and b leaving the same remainder r | HCF of (a − r) and (b − r) | 245, 1029; remainder 5: (240, 1024) = 16 |\n| Different remainders r₁, r₂ | HCF of (a − r₁) and (b − r₂) | 77, 123; remainders 2, 3: (75, 120) = 15 |\n| Remainder unknown but the same for all | HCF of the differences between the numbers | 62, 132, 237: differences 70, 105; (70, 105) = 35 |\n\n### Word problems\n\n- When the question asks for the 'greatest', 'maximum' or 'longest' measure, it is an HCF sum.\n- The greatest measure that can exactly measure three tins of 120, 168 and 216 litres: HCF = 24 litres.\n- The largest square tile for a room 5.6 m × 4.2 m: HCF of 560 and 420 cm = 140 cm.\n- A wages sum: a man was paid Rs. 1430 for some days; had he worked every day he would have got Rs. 1870. The daily wage must divide both; HCF (1430, 1870) = 110; days worked 1430 ÷ 110 = 13.\n\n### HCF and LCM\n\n- The least of the common multiples of two numbers is the lowest common multiple (LCM); the full lesson is tomorrow.\n- For two numbers: HCF × LCM = product of the two numbers. If the HCF is 12, the LCM 180 and one number 36, the other is 12 × 180 ÷ 36 = 60.\n- This relation holds for two numbers only.\n\n### HCF of algebraic terms\n\n- Take the HCF of the numerical coefficients and the common variables with their lowest powers: the HCF of 12x²y and 18xy² is 6xy."
    }
   }
  ],
@@ -207,25 +207,25 @@
      "id": "d009-daily-007",
      "subject": "tamil",
      "q": {
-      "ta": "'கேள்' என்னும் வேர்ச்சொல்லின் வினைமுற்று வடிவம்"
+      "ta": "'விற்றான்' என்னும் வினைமுற்றின் வேர்ச்சொல்"
      },
      "o": [
       {
-       "ta": "கேட்டு"
+       "ta": "விற்று"
       },
       {
-       "ta": "கேட்ட"
+       "ta": "விற்"
       },
       {
-       "ta": "கேட்டல்"
+       "ta": "வில்"
       },
       {
-       "ta": "கேட்டாள்"
+       "ta": "விற்ற"
       }
      ],
-     "a": 3,
+     "a": 2,
      "x": {
-      "ta": "'ஆள்' என முடிந்து செய்தவரைக் காட்டுவதால் 'கேட்டாள்' வினைமுற்று."
+      "ta": "நில் → நின்றான், கல் → கற்றான் போல வில் → விற்றான். 'விற்று' வினையெச்சம், 'விற்ற' பெயரெச்சம்; இரண்டும் வேர்ச்சொல் அல்ல."
      }
     },
     {
@@ -1064,26 +1064,31 @@
      "id": "d009-daily-038",
      "subject": "apt",
      "q": {
-      "ta": "144, 180, 192 ஆகியவற்றின் மீ.பொ.வ",
-      "en": "The HCF of 144, 180 and 192 is"
+      "ta": "கூற்று: 8, 15 ஆகியவை சார்பகா எண்கள்.\nகாரணம்: இரண்டு எண்களும் பகா எண்களாக இருந்தால் மட்டுமே அவை சார்பகா எண்கள் ஆகும்.",
+      "en": "Assertion: 8 and 15 are co-prime.\nReason: Two numbers are co-prime only if both of them are prime."
      },
      "o": [
       {
-       "ta": "12"
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
       },
       {
-       "ta": "24"
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
       },
       {
-       "ta": "36"
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
       },
       {
-       "ta": "6"
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
       }
      ],
      "a": 0,
      "x": {
-      "ta": "(144, 180) = 36; (36, 192) = 12."
+      "ta": "8, 15 இரண்டும் பகு எண்கள்; ஆனால் அவற்றின் மீ.பொ.வ 1, எனவே சார்பகா எண்கள். சார்பகா எண்கள் பகா எண்களாக இருக்க வேண்டியதில்லை; கூற்று சரி, காரணம் தவறு.",
+      "en": "8 and 15 are both composite, but their HCF is 1, so they are co-prime. Co-prime numbers need not be prime: the Assertion is true, the Reason false."
      }
     },
     {
@@ -1225,53 +1230,54 @@
      "id": "d009-daily-044",
      "subject": "apt",
      "q": {
-      "ta": "120, 168, 216 லிட்டர் கொள்ளும் மூன்று கலன்களை முழுமையாக அளக்கக்கூடிய மிகப்பெரிய அளவு (லிட்டரில்)",
-      "en": "The greatest measure (in litres) that can exactly measure three tins holding 120, 168 and 216 litres is"
+      "ta": "இரு வேட்பாளர்கள் போட்டியிட்ட தேர்தலில் பதிவான வாக்குகளில் 20% செல்லாதவை. வென்றவர் செல்லத்தக்க வாக்குகளில் 55% பெற்று 1,600 வாக்குகள் வேறுபாட்டில் வென்றார் எனில், பதிவான மொத்த வாக்குகள்",
+      "en": "In an election between two candidates, 20% of the votes polled were invalid. The winner got 55% of the valid votes and won by 1,600 votes. The total number of votes polled was"
      },
      "o": [
       {
-       "ta": "24"
+       "ta": "20,000"
       },
       {
-       "ta": "12"
+       "ta": "16,000"
       },
       {
-       "ta": "36"
+       "ta": "18,000"
       },
       {
-       "ta": "8"
+       "ta": "32,000"
       }
      ],
      "a": 0,
      "x": {
-      "ta": "(120, 168) = 24; (24, 216) = 24."
+      "ta": "வேறுபாடு = 55% − 45% = செல்லத்தக்கவற்றின் 10% = 1,600; செல்லத்தக்கவை 16,000. அவை பதிவானவற்றின் 80% எனில் பதிவானவை 16,000 ÷ 0.8 = 20,000.",
+      "en": "The margin is 55% − 45% = 10% of the valid votes = 1,600, so valid votes are 16,000. They are 80% of the votes polled, so 16,000 ÷ 0.8 = 20,000."
      }
     },
     {
      "id": "d009-daily-045",
      "subject": "apt",
      "q": {
-      "ta": "2³ × 3² × 5, 2² × 3³ × 7 ஆகியவற்றின் மீ.பொ.வ",
-      "en": "The HCF of 2³ × 3² × 5 and 2² × 3³ × 7 is"
+      "ta": "180 என்னும் எண்ணின் காரணிகளின் எண்ணிக்கை",
+      "en": "The number of factors of 180 is"
      },
      "o": [
       {
-       "ta": "72"
-      },
-      {
-       "ta": "36"
-      },
-      {
-       "ta": "108"
-      },
-      {
        "ta": "12"
+      },
+      {
+       "ta": "18"
+      },
+      {
+       "ta": "16"
+      },
+      {
+       "ta": "20"
       }
      ],
      "a": 1,
      "x": {
-      "ta": "பொதுக் காரணிகள் மிகக்குறைந்த அடுக்குடன்: 2² × 3² = 36.",
-      "en": "Common factors with the lowest powers: 2² × 3² = 36."
+      "ta": "180 = 2² × 3² × 5; (2 + 1)(2 + 1)(1 + 1) = 18.",
+      "en": "180 = 2² × 3² × 5; (2 + 1)(2 + 1)(1 + 1) = 18."
      }
     },
     {
@@ -1331,81 +1337,85 @@
      "id": "d009-daily-048",
      "subject": "apt",
      "q": {
-      "ta": "391/667 என்னும் பின்னத்தின் எளிய வடிவம்",
-      "en": "The fraction 391/667 in its lowest terms is"
+      "ta": "ஒரு பொருளின் விலை 25% உயர்ந்தது. அதற்கான செலவு மாறாமல் இருக்க, அதன் நுகர்வை எத்தனை விழுக்காடு குறைக்க வேண்டும்?",
+      "en": "The price of an article rises by 25%. By what percentage must its consumption be cut so that the spending on it stays the same?"
      },
      "o": [
       {
-       "ta": "17/29"
+       "ta": "20%"
       },
       {
-       "ta": "23/29"
+       "ta": "25%"
       },
       {
-       "ta": "17/23"
+       "ta": "15%"
       },
       {
-       "ta": "13/29"
+       "ta": "33 1/3%"
       }
      ],
      "a": 0,
      "x": {
-      "ta": "மீ.பொ.வ 23; 391 ÷ 23 = 17; 667 ÷ 23 = 29.",
-      "en": "The HCF is 23; 391 ÷ 23 = 17 and 667 ÷ 23 = 29."
+      "ta": "பழைய விலை 100, புதிய விலை 125. குறைப்பு = 25 ÷ 125 × 100 = 20%; புதிய விலையால் வகுக்க வேண்டும், பழைய விலையால் அல்ல.",
+      "en": "Old price 100, new price 125. Cut = 25 ÷ 125 × 100 = 20%: divide by the new price, not the old one."
      }
     },
     {
      "id": "d009-daily-049",
      "subject": "apt",
      "q": {
-      "ta": "12x²y, 18xy² ஆகியவற்றின் மீ.பொ.வ",
-      "en": "The HCF of 12x²y and 18xy² is"
+      "ta": "A-யின் உயரம் B-யின் உயரத்தை விட 50% அதிகம் எனில், B-யின் உயரம் A-யின் உயரத்தை விட எத்தனை விழுக்காடு குறைவு?",
+      "en": "A is 50% taller than B. By what percentage is B shorter than A?"
      },
      "o": [
       {
-       "ta": "6x²y²"
+       "ta": "50%"
       },
       {
-       "ta": "36x²y²"
+       "ta": "25%"
       },
       {
-       "ta": "3xy"
+       "ta": "66 2/3%"
       },
       {
-       "ta": "6xy"
+       "ta": "33 1/3%"
       }
      ],
      "a": 3,
      "x": {
-      "ta": "(12, 18) = 6; பொது மாறிகள் மிகக்குறைந்த அடுக்குடன் x, y; விடை 6xy.",
-      "en": "(12, 18) = 6; the common variables with their lowest powers are x and y, giving 6xy."
+      "ta": "B = 100 எனில் A = 150. 'A-யின் உயரத்தை விட' எனக் கேட்பதால் A அடிப்படை: 50 ÷ 150 × 100 = 33 1/3%.",
+      "en": "If B = 100, A = 150. The question compares with A, so A is the base: 50 ÷ 150 × 100 = 33 1/3%."
      }
     },
     {
      "id": "d009-daily-050",
      "subject": "apt",
      "q": {
-      "ta": "அடுத்தடுத்த இரண்டு இரட்டை எண்களின் மீ.பொ.வ",
-      "en": "The HCF of two consecutive even numbers is"
+      "ta": "ஒரு செவ்வகத்தின் நீளம் 10% அதிகரிக்கப்பட்டு அகலம் 20% குறைக்கப்பட்டால், அதன் பரப்பளவு",
+      "en": "If the length of a rectangle is increased by 10% and its breadth decreased by 20%, its area"
      },
      "o": [
       {
-       "ta": "1"
+       "ta": "10% குறையும்",
+       "en": "decreases by 10%"
       },
       {
-       "ta": "2"
+       "ta": "12% குறையும்",
+       "en": "decreases by 12%"
       },
       {
-       "ta": "4"
+       "ta": "8% அதிகரிக்கும்",
+       "en": "increases by 8%"
       },
       {
-       "ta": "0"
+       "ta": "12% அதிகரிக்கும்",
+       "en": "increases by 12%"
       }
      ],
      "a": 1,
      "x": {
-      "ta": "அவற்றின் வேறுபாடு 2; இரண்டும் 2-ஆல் வகுபடும்; எனவே மீ.பொ.வ 2.",
-      "en": "Their difference is 2 and both are divisible by 2, so the HCF is 2."
+      "ta": "10 − 20 + (10 × −20) ÷ 100 = −12; எனவே 12% குறையும். சரிபார்க்க: 1.1 × 0.8 = 0.88.",
+      "en": "10 − 20 + (10 × −20) ÷ 100 = −12, so it decreases by 12%. Check: 1.1 × 0.8 = 0.88."
      }
     }
    ],
