@@ -1973,6 +1973,161 @@
       "ta": "150-இன் 40% = 60; 60 ÷ 250 × 100 = 24.",
       "en": "40% of 150 = 60; 60 ÷ 250 × 100 = 24."
      }
+    },
+    {
+     "id": "d006-daily-p022",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: முதலாம் சடையவர்மன் சுந்தரபாண்டியன் சிதம்பரம், திருவரங்கம் கோயில்களுக்குப் பொன் வேய்ந்தார்.\nகாரணம்: அவர் பிற்காலப் பாண்டியருள் தலைசிறந்தவர்.",
+      "en": "Assertion: Jatavarman Sundara Pandyan I covered the Chidambaram and Srirangam temples with gold.\nReason: He was the greatest of the later Pandyas."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "இரண்டும் சரி: சடையவர்மன் சுந்தரபாண்டியன் I (1251–1268) பிற்காலப் பாண்டியருள் தலைசிறந்தவர்; சிதம்பரம், திருவரங்கம் கோயில்களுக்குப் பொன் வேய்ந்தார்.",
+      "en": "Both are true: Jatavarman Sundara Pandyan I (1251–1268) was the greatest of the later Pandyas and covered the Chidambaram and Srirangam temples with gold."
+     }
+    },
+    {
+     "id": "d006-daily-p023",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வரும் கூற்றுகளில் சரியானவை எவை?\n(i) இராணி மங்கம்மாள் சாலைகளையும் சத்திரங்களையும் அமைத்தார்.\n(ii) மதுரை நாயக்கர்களின் கடைசி ஆட்சியாளர் இராணி மீனாட்சி.\n(iii) சரசுவதி மகால் நூலகத்தை வளர்த்த இரண்டாம் சரபோஜி ஒரு நாயக்க மன்னர்.",
+      "en": "Which of these statements are correct?\n(i) Rani Mangammal built roads and choultries.\n(ii) The last ruler of the Madurai Nayaks was Rani Meenakshi.\n(iii) Serfoji II, who developed the Saraswati Mahal Library, was a Nayak king."
+     },
+     "o": [
+      {
+       "ta": "(i) மட்டும்",
+       "en": "(i) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "இரண்டாம் சரபோஜி நாயக்கருக்குப் பின் தஞ்சாவூரை ஆண்ட மராட்டிய மன்னர்; எனவே (iii) தவறு.",
+      "en": "Serfoji II was a Maratha king who ruled Thanjavur after the Nayaks, so (iii) is wrong."
+     }
+    },
+    {
+     "id": "d006-daily-p024",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: தலைக்கோட்டைப் போர் 1565-இல் நடந்தது.\nகாரணம்: அப்போரில் விஜயநகரம் தக்காணச் சுல்தான்களைத் தோற்கடித்தது.",
+      "en": "Assertion: The battle of Talikota was fought in 1565.\nReason: In that battle Vijayanagara defeated the Deccan sultans."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "போர் 1565-இல் நடந்தது சரி; ஆனால் அதில் தக்காணச் சுல்தான்களின் கூட்டணி விஜயநகரத்தைத் தோற்கடித்தது. எனவே காரணம் தவறு.",
+      "en": "The battle was indeed in 1565, but it was the alliance of the Deccan sultans that defeated Vijayanagara. So the reason is false."
+     }
+    },
+    {
+     "id": "d006-daily-p025",
+     "subject": "gs",
+     "q": {
+      "ta": "தமிழின் முதல் புதினமும் அதன் ஆசிரியரும்",
+      "en": "The first Tamil novel and its author are"
+     },
+     "o": [
+      {
+       "ta": "பாஞ்சாலி சபதம் – பாரதியார்",
+       "en": "Panchali Sabatham – Bharathiyar"
+      },
+      {
+       "ta": "மனோன்மணீயம் – பெ. சுந்தரம் பிள்ளை",
+       "en": "Manonmaniam – P. Sundaram Pillai"
+      },
+      {
+       "ta": "சித்திரப்பாவை – அகிலன்",
+       "en": "Chithirappavai – Akilan"
+      },
+      {
+       "ta": "பிரதாப முதலியார் சரித்திரம் – மாயூரம் வேதநாயகம் பிள்ளை",
+       "en": "Prathapa Mudaliar Charithram – Mayuram Vedanayagam Pillai"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "தமிழின் முதல் புதினம் பிரதாப முதலியார் சரித்திரம் (1879), மாயூரம் வேதநாயகம் பிள்ளை எழுதியது.",
+      "en": "The first Tamil novel is Prathapa Mudaliar Charithram (1879), by Mayuram Vedanayagam Pillai."
+     }
+    },
+    {
+     "id": "d006-daily-p026",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வரும் இணைகளில் சரியானவை எவை?\n(i) பொன்னியின் செல்வன் – கல்கி\n(ii) குடும்ப விளக்கு – பாரதியார்\n(iii) சித்திரப்பாவை – அகிலன்",
+      "en": "Which of these pairs are correct?\n(i) Ponniyin Selvan – Kalki\n(ii) Kudumba Vilakku – Bharathiyar\n(iii) Chithirappavai – Akilan"
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "குடும்ப விளக்கு பாரதிதாசன் எழுதியது; எனவே (ii) தவறு.",
+      "en": "Kudumba Vilakku is by Bharathidasan, so (ii) is wrong."
+     }
     }
    ]
   }

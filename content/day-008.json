@@ -1692,6 +1692,161 @@
      "x": {
       "ta": "2 × 3 × 5 × 7 = 210."
      }
+    },
+    {
+     "id": "d008-daily-p011",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: கட்டபொம்மன் கயத்தாற்றில் தூக்கிலிடப்பட்டார்.\nகாரணம்: புதுக்கோட்டை அரசர் விஜயரகுநாத தொண்டைமான் அவரைப் பிடித்து ஆங்கிலேயரிடம் ஒப்படைத்தார்.",
+      "en": "Assertion: Kattabomman was hanged at Kayathar.\nReason: Vijaya Raghunatha Tondaiman, the Raja of Pudukkottai, captured him and handed him over to the British."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "இரண்டும் சரி: தொண்டைமான் பிடித்து ஒப்படைத்தார்; 16 அக்டோபர் 1799 விசாரணைக்குப் பின் கயத்தாற்றில் தூக்கிலிடப்பட்டார்.",
+      "en": "Both are true: Tondaiman captured and handed him over, and after the trial on 16 October 1799 he was hanged at Kayathar."
+     }
+    },
+    {
+     "id": "d008-daily-p012",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: வேலு நாச்சியார் 1780-இல் மருது சகோதரர்களின் உதவியுடன் சிவகங்கையை மீட்டார்.\nகாரணம்: அவர் சிவகங்கை அரசரின் மகள்.",
+      "en": "Assertion: Velu Nachiyar recovered Sivagangai in 1780 with the help of the Marudhu brothers.\nReason: She was the daughter of the Raja of Sivagangai."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "1780-இல் சிவகங்கையை மீட்டது சரி; ஆனால் அவர் இராமநாதபுரம் அரசர் செல்லமுத்து சேதுபதியின் மகள், சிவகங்கை அரசரின் மனைவி. எனவே காரணம் தவறு.",
+      "en": "She did recover Sivagangai in 1780, but she was the daughter of Chellamuthu Sethupathi of Ramanathapuram and the wife of the Raja of Sivagangai. So the reason is false."
+     }
+    },
+    {
+     "id": "d008-daily-p013",
+     "subject": "gs",
+     "q": {
+      "ta": "வேலூர்க் கலகத்தை (1806) அடக்கியவர்",
+      "en": "Who put down the Vellore Revolt (1806)?"
+     },
+     "o": [
+      {
+       "ta": "சர் ஜான் கிரடாக்",
+       "en": "Sir John Cradock"
+      },
+      {
+       "ta": "கர்னல் கில்லெஸ்பி",
+       "en": "Colonel Gillespie"
+      },
+      {
+       "ta": "கர்னல் பான்கோர்ட்",
+       "en": "Colonel Fancourt"
+      },
+      {
+       "ta": "மேஜர் பானர்மேன்",
+       "en": "Major Bannerman"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "ஆற்காட்டிலிருந்து வந்த கர்னல் கில்லெஸ்பி கலகத்தை அடக்கினார். பான்கோர்ட் கொல்லப்பட்ட கோட்டைத் தளபதி; கிரடாக் புதிய விதிகளை இட்ட தலைமைத் தளபதி.",
+      "en": "Colonel Gillespie, who came from Arcot, put it down. Fancourt was the fort commander who was killed; Cradock was the Commander-in-Chief whose regulations caused it."
+     }
+    },
+    {
+     "id": "d008-daily-p014",
+     "subject": "gs",
+     "q": {
+      "ta": "பூலித்தேவர் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) அவர் நெற்கட்டும்செவல் பாளையக்காரர்.\n(ii) களக்காடு போரில் மாபூஸ்கானின் படைகள் தோற்கடிக்கப்பட்டன.\n(iii) அவர் 1764-இல் தூக்கிலிடப்பட்டார்.",
+      "en": "Which of these statements about Puli Thevar are correct?\n(i) He was the palayakkarar of Nerkattumseval.\n(ii) Mahfuzkhan's troops were routed in the battle of Kalakadu.\n(iii) He was hanged in 1764."
+     },
+     "o": [
+      {
+       "ta": "(i) மட்டும்",
+       "en": "(i) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      },
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "1764-இல் தூக்கிலிடப்பட்டவர் யூசுப்கான்; அதே ஆண்டு பூலித்தேவர் நெற்கட்டும்செவலை மீட்டார், 1767-இல் இறந்தார். எனவே (iii) தவறு.",
+      "en": "It was Yusuf Khan who was hanged in 1764; that year Puli Thevar recaptured Nerkattumseval, and he died in 1767. So (iii) is wrong."
+     }
+    },
+    {
+     "id": "d008-daily-p015",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: வேலூர்க் கலகம் 1857-இல் நடந்தது.\nகாரணம்: கலகத்தில் சிப்பாய்கள் கோட்டைத் தளபதி கர்னல் பான்கோர்ட்டைக் கொன்றனர்.",
+      "en": "Assertion: The Vellore Revolt took place in 1857.\nReason: In the revolt the sepoys killed Colonel Fancourt, the commander of the fort."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "வேலூர்க் கலகம் 10 ஜூலை 1806-இல் நடந்தது; எனவே கூற்று தவறு. பான்கோர்ட் கொல்லப்பட்டது சரி.",
+      "en": "The Vellore Revolt was on 10 July 1806, so the assertion is false. Fancourt was indeed killed."
+     }
     }
    ]
   }
