@@ -3556,6 +3556,157 @@
       "ta": "(a + b)² − (a − b)² = 4ab = 4 × 28 × 12 = 1344.",
       "en": "(a + b)² − (a − b)² = 4ab = 4 × 28 × 12 = 1344."
      }
+    },
+    {
+     "id": "d001-daily-p080",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: சங்க காலச் சோழர்களின் தொடக்கத் தலைநகர் உறையூர்.\nகாரணம்: புகார் (காவிரிப்பூம்பட்டினம்) சோழர்களின் துறைமுகம்.",
+      "en": "Assertion: Uraiyur was the early capital of the Sangam-age Cholas.\nReason: Puhar (Kaveripoompattinam) was the Chola port."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "இரண்டும் சரி: சோழர் தலைநகர் உறையூர், பின்னர் புகார்; துறைமுகம் புகார்.",
+      "en": "Both are true: the Chola capital was Uraiyur and later Puhar; their port was Puhar."
+     }
+    },
+    {
+     "id": "d001-daily-p081",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வரும் கூற்றுகளில் சரியானவை எவை?\n(i) முசிறி சேரர்களின் துறைமுகம்.\n(ii) கொற்கை பாண்டியர்களின் துறைமுகம்.\n(iii) புகார் பாண்டியர்களின் தலைநகர்.",
+      "en": "Which of these statements are correct?\n(i) Musiri was a port of the Cheras.\n(ii) Korkai was the port of the Pandyas.\n(iii) Puhar was the capital of the Pandyas."
+     },
+     "o": [
+      {
+       "ta": "(i) மட்டும்",
+       "en": "(i) only"
+      },
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "பாண்டியர் தலைநகர் மதுரை; புகார் சோழர்களுடையது. எனவே (iii) தவறு.",
+      "en": "The Pandya capital was Madurai; Puhar belonged to the Cholas. So (iii) is wrong."
+     }
+    },
+    {
+     "id": "d001-daily-p082",
+     "subject": "gs",
+     "q": {
+      "ta": "பொருத்துக.\n(a) சேரர் தலைநகர்\n(b) சோழர் தொடக்கத் தலைநகர்\n(c) பாண்டியர் துறைமுகம்\n(d) சோழர் துறைமுகம்\n1. கொற்கை\n2. வஞ்சி\n3. புகார்\n4. உறையூர்",
+      "en": "Match the following.\n(a) Chera capital\n(b) Early Chola capital\n(c) Pandya port\n(d) Chola port\n1. Korkai\n2. Vanji\n3. Puhar\n4. Uraiyur"
+     },
+     "o": [
+      {
+       "ta": "(a) 2, (b) 4, (c) 1, (d) 3"
+      },
+      {
+       "ta": "(a) 4, (b) 2, (c) 1, (d) 3"
+      },
+      {
+       "ta": "(a) 2, (b) 4, (c) 3, (d) 1"
+      },
+      {
+       "ta": "(a) 2, (b) 1, (c) 4, (d) 3"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "சேரர் – வஞ்சி (கரூர்); சோழர் – உறையூர், துறைமுகம் புகார்; பாண்டியர் துறைமுகம் – கொற்கை.",
+      "en": "Cheras – Vanji (Karur); Cholas – Uraiyur, with Puhar as the port; Pandya port – Korkai."
+     }
+    },
+    {
+     "id": "d001-daily-p083",
+     "subject": "gs",
+     "q": {
+      "ta": "சங்க காலம் பற்றிய அயல்நாட்டுச் சான்று அல்லாதது எது?",
+      "en": "Which of these is not a foreign source on the Sangam age?"
+     },
+     "o": [
+      {
+       "ta": "மெகஸ்தனிஸின் இண்டிகா",
+       "en": "Megasthenes' Indica"
+      },
+      {
+       "ta": "எரித்திரியக் கடலின் பெரிப்ளஸ்",
+       "en": "The Periplus of the Erythraean Sea"
+      },
+      {
+       "ta": "ஹாத்திகும்பா கல்வெட்டு",
+       "en": "The Hathigumpha inscription"
+      },
+      {
+       "ta": "பிளினியின் நூல்கள்",
+       "en": "The works of Pliny"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "ஹாத்திகும்பா கல்வெட்டு கலிங்க அரசன் காரவேலனுடையது, இந்தியச் சான்று. மற்ற மூன்றும் அயல்நாட்டுச் சான்றுகள்.",
+      "en": "The Hathigumpha inscription is Kharavela's, king of Kalinga, an Indian source. The other three are foreign sources."
+     }
+    },
+    {
+     "id": "d001-daily-p084",
+     "subject": "gs",
+     "q": {
+      "ta": "சங்க நூல்களில் 'யவனர்' என்ற சொல் குறிப்பது",
+      "en": "In Sangam works the word 'Yavanar' refers to"
+     },
+     "o": [
+      {
+       "ta": "கிரேக்க, ரோமானிய வணிகர்கள்",
+       "en": "Greek and Roman traders"
+      },
+      {
+       "ta": "அராபிய மாலுமிகள்",
+       "en": "Arab sailors"
+      },
+      {
+       "ta": "சீனப் பயணிகள்",
+       "en": "Chinese travellers"
+      },
+      {
+       "ta": "உப்பு வணிகர்கள்",
+       "en": "salt merchants"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "யவனர் – கிரேக்க, ரோமானிய வணிகர்; உப்பு வணிகர்கள் உமணர் எனப்பட்டனர்.",
+      "en": "Yavanar were Greek and Roman traders; salt merchants were called Umanar."
+     }
     }
    ]
   }

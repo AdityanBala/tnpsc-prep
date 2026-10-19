@@ -2256,6 +2256,161 @@
       "ta": "விலை 100 → 80. அதே செலவில் வாங்கும் அளவு 100 ÷ 80; அதிகரிப்பு 20 ÷ 80 × 100 = 25%. அடிப்படை புதிய விலை 80.",
       "en": "Price 100 → 80. The same money buys 100 ÷ 80 as much; the increase is 20 ÷ 80 × 100 = 25%. The base is the new price, 80."
      }
+    },
+    {
+     "id": "d005-daily-p032",
+     "subject": "gs",
+     "q": {
+      "ta": "எந்த வரியை நீக்கியதால் முதலாம் குலோத்துங்கன் 'சுங்கம் தவிர்த்த சோழன்' எனப் பெயர் பெற்றான்?",
+      "en": "Kulottunga I was called 'Sungam Thavirtha Cholan' because he abolished"
+     },
+     "o": [
+      {
+       "ta": "நில வரி",
+       "en": "land tax"
+      },
+      {
+       "ta": "சுங்க வரி",
+       "en": "tolls"
+      },
+      {
+       "ta": "கோயில் வரி",
+       "en": "temple tax"
+      },
+      {
+       "ta": "தொழில் வரி",
+       "en": "professional tax"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "சுங்கம் என்பது சுங்க வரி (tolls). அவன் நில வரியை நீக்கவில்லை.",
+      "en": "Sungam means tolls. He did not abolish the land tax."
+     }
+    },
+    {
+     "id": "d005-daily-p033",
+     "subject": "gs",
+     "q": {
+      "ta": "சோழர் கால அவைகள் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) ஊர் என்பது வேளாளர் கிராமத்தின் அவை.\n(ii) நகரம் என்பது வணிகர்களின் அவை.\n(iii) சபை என்பது பிராமணர் கிராமத்தின் (பிரம்மதேயம்) அவை.",
+      "en": "Which statements about the Chola assemblies are correct?\n(i) The Ur was the assembly of a peasant village.\n(ii) The Nagaram was the assembly of traders.\n(iii) The Sabha was the assembly of a Brahmin village (brahmadeya)."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "மூன்றும் சரி: ஊர் – வேளாளர் கிராமம்; நகரம் – வணிகர்; சபை – பிரம்மதேயம்.",
+      "en": "All three are correct: Ur – peasant village; Nagaram – traders; Sabha – brahmadeya village."
+     }
+    },
+    {
+     "id": "d005-daily-p034",
+     "subject": "gs",
+     "q": {
+      "ta": "உத்திரமேரூர் கல்வெட்டின்படி குடவோலை முறையில் உறுப்பினராகத் தேவையான வயது",
+      "en": "Under the Uttaramerur inscription, the age required to be a member under the kudavolai system was"
+     },
+     "o": [
+      {
+       "ta": "25 முதல் 60 வரை",
+       "en": "25 to 60"
+      },
+      {
+       "ta": "30 முதல் 60 வரை",
+       "en": "30 to 60"
+      },
+      {
+       "ta": "35 முதல் 70 வரை",
+       "en": "35 to 70"
+      },
+      {
+       "ta": "40 முதல் 75 வரை",
+       "en": "40 to 75"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "தகுதி: வயது 35 முதல் 70 வரை; சொந்த நிலம், சொந்த மனையில் வீடு, வேத அறிவு.",
+      "en": "Qualifications: age 35 to 70; own land, a house on one's own site, knowledge of the Vedas."
+     }
+    },
+    {
+     "id": "d005-daily-p035",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: கங்கைகொண்ட சோழபுரம் முதலாம் இராசேந்திரன் காலத்தில் சோழர் தலைநகரானது.\nகாரணம்: முதலாம் இராசேந்திரனின் படைகள் கங்கை வரை சென்று வங்காள அரசன் மகிபாலனை வென்றன.",
+      "en": "Assertion: Gangaikonda Cholapuram became the Chola capital under Rajendra I.\nReason: Rajendra I's armies reached the Ganga and defeated Mahipala, the king of Bengal."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "இரண்டும் சரி: இராசேந்திரன் காலம் முதல் தலைநகர் கங்கைகொண்ட சோழபுரம்; கங்கை வெற்றியால் 'கங்கைகொண்டான்'.",
+      "en": "Both are true: the capital moved to Gangaikonda Cholapuram from Rajendra I; the Ganga campaign gave him the title Gangaikondan."
+     }
+    },
+    {
+     "id": "d005-daily-p036",
+     "subject": "gs",
+     "q": {
+      "ta": "சோழர் காலத்தில் கோயில்களுக்கு வழங்கப்பட்ட நிலம்",
+      "en": "In the Chola period, land granted to temples was called"
+     },
+     "o": [
+      {
+       "ta": "தேவதானம்",
+       "en": "Devadana"
+      },
+      {
+       "ta": "பிரம்மதேயம்",
+       "en": "Brahmadeya"
+      },
+      {
+       "ta": "பள்ளிச்சந்தம்",
+       "en": "Pallichchandam"
+      },
+      {
+       "ta": "வெள்ளான்வகை",
+       "en": "Vellanvagai"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "தேவதானம் – கோயில்; பிரம்மதேயம் – பிராமணர்; பள்ளிச்சந்தம் – சமண நிறுவனங்கள்; வெள்ளான்வகை – வேளாளர் நிலம்.",
+      "en": "Devadana – temples; brahmadeya – Brahmins; pallichchandam – Jain institutions; vellanvagai – peasants' land."
+     }
     }
    ]
   }

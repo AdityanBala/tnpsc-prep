@@ -2442,6 +2442,157 @@
       "ta": "இரண்டையும் 100-ஆல் பெருக்கவும்: 960 ÷ 32 = 30.",
       "en": "Multiply both by 100: 960 ÷ 32 = 30."
      }
+    },
+    {
+     "id": "d004-daily-p039",
+     "subject": "gs",
+     "q": {
+      "ta": "கடுங்கோன் களப்பிரர்களை எந்தப் பகுதியில் வென்றான்?",
+      "en": "In which region did Kadungon defeat the Kalabhras?"
+     },
+     "o": [
+      {
+       "ta": "தொண்டை நாடு",
+       "en": "Thondai Nadu"
+      },
+      {
+       "ta": "பாண்டிய நாடு",
+       "en": "The Pandya country"
+      },
+      {
+       "ta": "சோழ நாடு",
+       "en": "The Chola country"
+      },
+      {
+       "ta": "சேர நாடு",
+       "en": "The Chera country"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "கடுங்கோன் பாண்டிய நாட்டில்; சிம்மவிஷ்ணு தொண்டை நாட்டில் களப்பிரர்களை வென்றனர்.",
+      "en": "Kadungon defeated them in the Pandya country; Simhavishnu in Thondai Nadu."
+     }
+    },
+    {
+     "id": "d004-daily-p040",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: பரஞ்சோதி பல்லவப் படையை வாதாபிக்கு வழிநடத்தினார்.\nகாரணம்: பரஞ்சோதி முதலாம் நரசிம்மவர்மனின் படைத்தளபதி.",
+      "en": "Assertion: Paranjothi led the Pallava army to Vatapi.\nReason: Paranjothi was the general of Narasimhavarman I."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "இரண்டும் சரி: நரசிம்மவர்மனின் தளபதி பரஞ்சோதி வாதாபியைக் கைப்பற்றினார்; பின்னர் சிறுத்தொண்ட நாயனார் எனப் போற்றப்பட்டார்.",
+      "en": "Both are true: Narasimhavarman I's general Paranjothi took Vatapi; he was later revered as the Nayanar Siruthondar."
+     }
+    },
+    {
+     "id": "d004-daily-p041",
+     "subject": "gs",
+     "q": {
+      "ta": "சமணத் துறவி வச்சிரநந்தி திராவிட சங்கத்தை நிறுவிய இடம்",
+      "en": "Where did the Jain monk Vajranandi found the Dravida Sangha?"
+     },
+     "o": [
+      {
+       "ta": "காஞ்சிபுரம்",
+       "en": "Kanchipuram"
+      },
+      {
+       "ta": "உறையூர்",
+       "en": "Uraiyur"
+      },
+      {
+       "ta": "தஞ்சாவூர்",
+       "en": "Thanjavur"
+      },
+      {
+       "ta": "மதுரை",
+       "en": "Madurai"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "வச்சிரநந்தி களப்பிரர் காலத்தில் மதுரையில் திராவிட சங்கத்தை நிறுவினார் (காஞ்சிபுரம் அல்ல).",
+      "en": "Vajranandi founded the Dravida Sangha at Madurai in the Kalabhra period, not at Kanchipuram."
+     }
+    },
+    {
+     "id": "d004-daily-p042",
+     "subject": "gs",
+     "q": {
+      "ta": "பொருத்துக.\n(a) முதலாம் மகேந்திரவர்மன்\n(b) முதலாம் நரசிம்மவர்மன்\n(c) இரண்டாம் நரசிம்மவர்மன்\n(d) சிம்மவிஷ்ணு\n1. இராசசிம்மன்\n2. அவனிசிம்மன்\n3. விசித்திரசித்தன்\n4. மாமல்லன்",
+      "en": "Match the kings with their titles.\n(a) Mahendravarman I\n(b) Narasimhavarman I\n(c) Narasimhavarman II\n(d) Simhavishnu\n1. Rajasimha\n2. Avanisimha\n3. Vichitrachitta\n4. Mamalla"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 1, (c) 4, (d) 2"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "மகேந்திரவர்மன் – விசித்திரசித்தன்; நரசிம்மவர்மன் I – மாமல்லன்; நரசிம்மவர்மன் II – இராசசிம்மன்; சிம்மவிஷ்ணு – அவனிசிம்மன்.",
+      "en": "Mahendravarman I – Vichitrachitta; Narasimhavarman I – Mamalla; Narasimhavarman II – Rajasimha; Simhavishnu – Avanisimha."
+     }
+    },
+    {
+     "id": "d004-daily-p043",
+     "subject": "gs",
+     "q": {
+      "ta": "மாமல்லபுரம் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) இது 1984-இல் யுனெஸ்கோ உலக மரபுச் சின்னமாக அறிவிக்கப்பட்டது.\n(ii) அர்ச்சுனன் தபசு ஒரு பெரிய பாறையில் செதுக்கப்பட்ட புடைப்புச் சிற்பம்.\n(iii) பஞ்சபாண்டவர் ரதங்கள் கற்களை அடுக்கிக் கட்டப்பட்ட கட்டுமானக் கோயில்கள்.",
+      "en": "Which statements about Mamallapuram are correct?\n(i) It was declared a UNESCO World Heritage Site in 1984.\n(ii) Arjuna's Penance is a bas-relief carved on a large rock.\n(iii) The Pancha Pandava rathas are structural temples built of stone blocks."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "பஞ்சபாண்டவர் ரதங்கள் ஒவ்வொன்றும் ஒரே பாறையில் குடையப்பட்டவை (ஒற்றைக்கல் ரதங்கள்); எனவே (iii) தவறு.",
+      "en": "Each Pancha Pandava ratha is carved out of a single rock (monolithic), so (iii) is wrong."
+     }
     }
    ]
   }
