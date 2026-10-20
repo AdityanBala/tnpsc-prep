@@ -3405,6 +3405,126 @@
       "ta": "37.5% = 3/8; 640 ÷ 8 × 3 = 240.",
       "en": "37.5% = 3/8; 640 ÷ 8 × 3 = 240."
      }
+    },
+    {
+     "id": "d002-daily-p073",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வரும் கூற்றுகளில் சரியானவை எவை?\n(i) சங்க காலத்தில் உள்நாட்டு வணிகம் பெரும்பாலும் பண்டமாற்று முறையில் நடந்தது.\n(ii) சங்க காலத்தில் தங்கமும் குதிரைகளும் ஏற்றுமதி செய்யப்பட்டன.\n(iii) யவனர் என்போர் கிரேக்க, ரோமானிய வணிகர்கள்.",
+      "en": "Which statements are correct?\n(i) In the Sangam age inland trade was mostly by barter.\n(ii) Gold and horses were exported in the Sangam age.\n(iii) The Yavanas were Greek and Roman traders."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "தங்கமும் குதிரைகளும் இறக்குமதிப் பொருள்கள்; ஏற்றுமதி மிளகு, முத்து, தந்தம், சந்தனம், பருத்தித் துணி. எனவே (ii) தவறு.",
+      "en": "Gold and horses were imports; the exports were pepper, pearls, ivory, sandalwood and cotton cloth. So (ii) is wrong."
+     }
+    },
+    {
+     "id": "d002-daily-p074",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: அரிக்கமேடு ரோமானிய வணிகத் தொடர்புக்குச் சான்றாக விளங்குகிறது.\nகாரணம்: அரிக்கமேட்டில் 1945-இல் அகழாய்வு செய்தவர் அலெக்சாண்டர் ரியா.",
+      "en": "Assertion: Arikamedu is evidence of trade with Rome.\nReason: The 1945 excavation at Arikamedu was done by Alexander Rea."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "அரிக்கமேட்டில் ரோமானிய மட்பாண்டங்கள் கிடைத்தன – கூற்று சரி. 1945-இல் அகழாய்வு செய்தவர் மார்டிமர் வீலர்; அலெக்சாண்டர் ரியா ஆதிச்சநல்லூரில் அகழாய்வு செய்தவர்.",
+      "en": "Roman pottery was found at Arikamedu, so the Assertion is true. The 1945 excavation was by Mortimer Wheeler; Alexander Rea dug at Adichanallur."
+     }
+    },
+    {
+     "id": "d002-daily-p075",
+     "subject": "gs",
+     "q": {
+      "ta": "அகழாய்வு இடத்தை அதன் மாவட்டத்துடன் பொருத்துக.\n(a) கீழடி\n(b) ஆதிச்சநல்லூர்\n(c) கொடுமணல்\n(d) பூம்புகார்\n1. மயிலாடுதுறை\n2. ஈரோடு\n3. தூத்துக்குடி\n4. சிவகங்கை",
+      "en": "Match the excavation site with its district.\n(a) Keezhadi\n(b) Adichanallur\n(c) Kodumanal\n(d) Poompuhar\n1. Mayiladuthurai\n2. Erode\n3. Thoothukudi\n4. Sivagangai"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 2, (c) 3, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "கீழடி – சிவகங்கை; ஆதிச்சநல்லூர் – தூத்துக்குடி; கொடுமணல் – ஈரோடு; பூம்புகார் – மயிலாடுதுறை.",
+      "en": "Keezhadi – Sivagangai; Adichanallur – Thoothukudi; Kodumanal – Erode; Poompuhar – Mayiladuthurai."
+     }
+    },
+    {
+     "id": "d002-daily-p076",
+     "subject": "gs",
+     "q": {
+      "ta": "சங்க காலப் பெண்பாற் புலவர் அல்லாதவர்",
+      "en": "Who is not a woman poet of the Sangam age?"
+     },
+     "o": [
+      {
+       "ta": "ஔவையார்",
+       "en": "Avvaiyar"
+      },
+      {
+       "ta": "கபிலர்",
+       "en": "Kapilar"
+      },
+      {
+       "ta": "காக்கைப்பாடினியார்",
+       "en": "Kakkaipadiniyar"
+      },
+      {
+       "ta": "வெள்ளிவீதியார்",
+       "en": "Velliveethiyar"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "ஔவையார், காக்கைப்பாடினியார், வெள்ளிவீதியார், நப்பசலையார் பெண்பாற் புலவர்கள்; கபிலர் ஆண் புலவர்.",
+      "en": "Avvaiyar, Kakkaipadiniyar, Velliveethiyar and Nappasalaiyar were women poets; Kapilar was a man."
+     }
     }
    ]
   }
