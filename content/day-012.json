@@ -38,8 +38,8 @@
     "en": "Ratio"
    },
    "md": {
-    "ta": "இந்த வாரம் மீ.பொ.வ, மீ.சி.ம முடிந்து இன்று விகிதம். நாளை விகிதசமம். உண்மையான தேர்வில் விகிதக் கணக்குகள் ஒவ்வோர் ஆண்டும் இரண்டு மூன்று வருகின்றன; எல்லாமே 'பங்கு' என்ற ஒரே எண்ணத்தில் தீரும்.\n\n### விகிதம் என்றால்\n\n- a : b என்பது a ÷ b. இரண்டும் ஒரே அலகில் இருக்க வேண்டும்: 45 நிமிடம் : 2 மணி = 45 : 120 = 3 : 8.\n- இரு உறுப்புகளையும் ஒரே எண்ணால் பெருக்கினாலோ வகுத்தாலோ விகிதம் மாறாது: 12 : 18 = 2 : 3 (மீ.பொ.வ 6-ஆல் வகுத்தல்).\n- தசமம் இருந்தால் 10, 100-ஆல் பெருக்கவும்: 0.75 : 1.25 = 75 : 125 = 3 : 5.\n\n### பங்கிடுதல்\n\n| கணக்கு | செய்ய வேண்டியது | எடுத்துக்காட்டு |\n| --- | --- | --- |\n| T-ஐ a : b ஆகப் பிரித்தல் | ஒரு பங்கு = T ÷ (a + b) | 1,350, 4 : 5: ஒரு பங்கு 150; 600, 750 |\n| மூவருக்கு a : b : c | ஒரு பங்கு = T ÷ (a + b + c) | 7,800, 2 : 3 : 8: ஒரு பங்கு 600 |\n| ஒருவரின் பங்கு தெரிந்தால் | அதிலிருந்து ஒரு பங்கைக் காணவும் | 4 : 7, இரண்டாவது 77: பங்கு 11; முதல் 44 |\n| வேறுபாடு தெரிந்தால் | வேறுபாடு = (b − a) பங்குகள் | 3 : 5, வேறுபாடு 24: பங்கு 12; எண்கள் 36, 60 |\n\n### இரண்டு விகிதங்களை இணைத்தல்\n\n- A : B, B : C தரப்பட்டால் B-ஐ இரண்டிலும் ஒன்றாக்கவும் (மீ.சி.ம). A : B = 2 : 3, B : C = 4 : 5 → B = 12: A : B : C = 8 : 12 : 15.\n- a/3 = b/4 = c/7 என வந்தால் a = 3k, b = 4k, c = 7k எனக் கொள்ளவும்.\n- கூட்டு விகிதம் (பெருக்கு விகிதம்): முன் உறுப்புகளையும் பின் உறுப்புகளையும் பெருக்கவும்: 2 : 3, 9 : 4 → 18 : 12 = 3 : 2.\n- 'A-யின் x% = B-யின் y%' எனில் A : B = y : x. 15% A = 20% B → A : B = 20 : 15 = 4 : 3.\n\n### விகிதங்களை ஒப்பிடுதல்\n\n- ஒவ்வொன்றையும் தசமமாக்கவும்: 2 : 3 = 0.667, 5 : 8 = 0.625, 3 : 5 = 0.6; பெரியது 2 : 3.\n- அல்லது குறுக்குப் பெருக்கல்: 5 : 8, 3 : 5 → 5 × 5 = 25, 8 × 3 = 24; 25 பெரியது என்பதால் 5 : 8 பெரியது.\n\n### சொற்கணக்குகள்\n\n| வகை | செய்ய வேண்டியது |\n| --- | --- |\n| ஒவ்வொன்றுடனும் x கூட்டினால் புதிய விகிதம் | (a + x) : (b + x) = c : d எனச் சமன்பாடு அமைக்கவும் |\n| வயது: இப்போது a : b, n ஆண்டுக்குப் பின் c : d | (ak + n) : (bk + n) = c : d; k-ஐக் காணவும் |\n| வருமானம் a : b, செலவு c : d, சேமிப்பு தெரிந்தால் | வருமானம் ax, bx; செலவு cy, dy; ax − cy = சேமிப்பு |\n| A : B தெரிந்தால் (2A + B) : (A + 2B) | A, B-க்கு விகித எண்களையே போட்டுக் கணக்கிடவும் |\n\n- எடுத்துக்காட்டு: 7, 11-உடன் x கூட்டி 3 : 4: 4(7 + x) = 3(11 + x) → x = 5.\n- விடையைத் திரும்பப் போட்டுச் சரிபார்க்கவும்: 12 : 16 = 3 : 4. விடைகளைச் சரிபார்ப்பது சமன்பாட்டைத் தீர்ப்பதை விடப் பல நேரம் விரைவானது.\n\n### விழுக்காடு நினைவூட்டல்\n\n- விலை x% குறைந்தால் செலவு மாறாதிருக்க நுகர்வை 100x ÷ (100 − x) % கூட்டலாம்: 20% குறைவுக்கு 25%. விலை x% உயர்ந்தால் 100x ÷ (100 + x) % குறைக்க வேண்டும்.\n- செல்லாத வாக்குகள் உள்ள தேர்தல்: முதலில் செல்லத்தக்க வாக்குகளைக் காணவும்; விழுக்காடு அதன் மீது மட்டுமே.\n- தேர்ச்சி மதிப்பெண்: தேவையான % − பெற்ற % = குறைந்த மதிப்பெண்கள். 40% தேவை, 32% பெற்று 24 குறைவு: 8% = 24; மொத்தம் 300.\n\n### தேர்வு நேரம்\n\n- தமிழ் 15 நிமிடம், பொது அறிவு 13 நிமிடம், திறனறிவு 15 நிமிடம், சரிபார்க்க 2 நிமிடம். 28-ஆம் நிமிடத்துக்குள் திறனறிவைத் தொடங்கவும்.\n- எந்த வினாவையும் விடை இல்லாமல் விட வேண்டாம்.",
-    "en": "HCF and LCM are done for this week; today is ratio, and tomorrow proportion. The real paper has two or three ratio sums every year, and all of them come down to one idea: parts.\n\n### What a ratio is\n\n- a : b means a ÷ b. Both must be in the same unit: 45 minutes : 2 hours = 45 : 120 = 3 : 8.\n- Multiplying or dividing both terms by the same number does not change a ratio: 12 : 18 = 2 : 3 (dividing by the HCF, 6).\n- With decimals, multiply by 10 or 100: 0.75 : 1.25 = 75 : 125 = 3 : 5.\n\n### Dividing in a ratio\n\n| Sum | What to do | Example |\n| --- | --- | --- |\n| Divide T in a : b | One part = T ÷ (a + b) | 1,350 in 4 : 5: one part 150; 600 and 750 |\n| Three people, a : b : c | One part = T ÷ (a + b + c) | 7,800 in 2 : 3 : 8: one part 600 |\n| One share is known | Find one part from it | 4 : 7, second is 77: part 11; first 44 |\n| The difference is known | Difference = (b − a) parts | 3 : 5, difference 24: part 12; numbers 36, 60 |\n\n### Joining two ratios\n\n- Given A : B and B : C, make B the same in both (LCM). A : B = 2 : 3, B : C = 4 : 5, so B = 12: A : B : C = 8 : 12 : 15.\n- If a/3 = b/4 = c/7, take a = 3k, b = 4k, c = 7k.\n- Compound ratio: multiply the first terms and the second terms: 2 : 3 and 9 : 4 give 18 : 12 = 3 : 2.\n- If x% of A = y% of B, then A : B = y : x. 15% of A = 20% of B gives A : B = 20 : 15 = 4 : 3.\n\n### Comparing ratios\n\n- Turn each into a decimal: 2 : 3 = 0.667, 5 : 8 = 0.625, 3 : 5 = 0.6; the largest is 2 : 3.\n- Or cross-multiply: for 5 : 8 and 3 : 5, 5 × 5 = 25 and 8 × 3 = 24; 25 is bigger, so 5 : 8 is bigger.\n\n### Word problems\n\n| Type | What to do |\n| --- | --- |\n| Add x to each to get a new ratio | Set up (a + x) : (b + x) = c : d |\n| Ages: now a : b, after n years c : d | (ak + n) : (bk + n) = c : d; find k |\n| Incomes a : b, expenses c : d, savings known | Incomes ax, bx; expenses cy, dy; ax − cy = savings |\n| A : B known, find (2A + B) : (A + 2B) | Put the ratio numbers in for A and B |\n\n- Example: add x to 7 and 11 to get 3 : 4: 4(7 + x) = 3(11 + x), so x = 5.\n- Check by putting the answer back: 12 : 16 = 3 : 4. Testing the options is often faster than solving the equation.\n\n### Percentage reminder\n\n- If a price falls by x%, consumption can rise by 100x ÷ (100 − x) % for the same spending: 25% for a 20% fall. If it rises by x%, consumption must fall by 100x ÷ (100 + x) %.\n- Elections with invalid votes: first find the valid votes; the percentage is of those only.\n- Pass marks: required % − scored % = the marks short. 40% needed, 32% scored, 24 short: 8% = 24; maximum 300.\n\n### Test timing\n\n- Tamil 15 minutes, General Studies 13, aptitude 15, checking 2. Start the aptitude part by the 28th minute.\n- Do not leave any question unanswered."
+    "ta": "இந்த வாரம் மீ.பொ.வ, மீ.சி.ம முடிந்து இன்று விகிதம். நாளை விகிதசமம். உண்மையான தேர்வில் விகிதக் கணக்குகள் ஒவ்வோர் ஆண்டும் இரண்டு மூன்று வருகின்றன; எல்லாமே 'பங்கு' என்ற ஒரே எண்ணத்தில் தீரும்.\n\n### நேற்றைய பாடத்தில் கவனிக்க\n\n- 28-ஆம் நிமிடத்துக்குள் திறனறிவுப் பகுதியைத் தொடங்கவும்; எந்த வினாவையும் விடை இல்லாமல் விட வேண்டாம்.\n- மீ.சி.ம: ஒவ்வொரு பகா எண்ணின் உயர் அடுக்கை ஒரு முறை மட்டும் எடுக்கவும்; எண்களைப் பெருக்க வேண்டாம். 8, 12, 20: 2³ × 3 × 5 = 120.\n- பரப்பு மாற்றம் = a + b + (a × b) ÷ 100. சதுரத்தின் பக்கம் 10% கூடினால் பரப்பு 10 + 10 + 1 = 21% கூடும்.\n\n### விகிதம் என்றால்\n\n- a : b என்பது a ÷ b. இரண்டும் ஒரே அலகில் இருக்க வேண்டும்: 45 நிமிடம் : 2 மணி = 45 : 120 = 3 : 8.\n- இரு உறுப்புகளையும் ஒரே எண்ணால் பெருக்கினாலோ வகுத்தாலோ விகிதம் மாறாது: 12 : 18 = 2 : 3 (மீ.பொ.வ 6-ஆல் வகுத்தல்).\n- தசமம் இருந்தால் 10, 100-ஆல் பெருக்கவும்: 0.75 : 1.25 = 75 : 125 = 3 : 5.\n\n### பங்கிடுதல்\n\n| கணக்கு | செய்ய வேண்டியது | எடுத்துக்காட்டு |\n| --- | --- | --- |\n| T-ஐ a : b ஆகப் பிரித்தல் | ஒரு பங்கு = T ÷ (a + b) | 1,350, 4 : 5: ஒரு பங்கு 150; 600, 750 |\n| மூவருக்கு a : b : c | ஒரு பங்கு = T ÷ (a + b + c) | 7,800, 2 : 3 : 8: ஒரு பங்கு 600 |\n| ஒருவரின் பங்கு தெரிந்தால் | அதிலிருந்து ஒரு பங்கைக் காணவும் | 4 : 7, இரண்டாவது 77: பங்கு 11; முதல் 44 |\n| வேறுபாடு தெரிந்தால் | வேறுபாடு = (b − a) பங்குகள் | 3 : 5, வேறுபாடு 24: பங்கு 12; எண்கள் 36, 60 |\n\n### இரண்டு விகிதங்களை இணைத்தல்\n\n- A : B, B : C தரப்பட்டால் B-ஐ இரண்டிலும் ஒன்றாக்கவும் (மீ.சி.ம). A : B = 2 : 3, B : C = 4 : 5 → B = 12: A : B : C = 8 : 12 : 15.\n- a/3 = b/4 = c/7 என வந்தால் a = 3k, b = 4k, c = 7k எனக் கொள்ளவும்.\n- கூட்டு விகிதம் (பெருக்கு விகிதம்): முன் உறுப்புகளையும் பின் உறுப்புகளையும் பெருக்கவும்: 2 : 3, 9 : 4 → 18 : 12 = 3 : 2.\n- 'A-யின் x% = B-யின் y%' எனில் A : B = y : x. 15% A = 20% B → A : B = 20 : 15 = 4 : 3.\n\n### விகிதங்களை ஒப்பிடுதல்\n\n- ஒவ்வொன்றையும் தசமமாக்கவும்: 2 : 3 = 0.667, 5 : 8 = 0.625, 3 : 5 = 0.6; பெரியது 2 : 3.\n- அல்லது குறுக்குப் பெருக்கல்: 5 : 8, 3 : 5 → 5 × 5 = 25, 8 × 3 = 24; 25 பெரியது என்பதால் 5 : 8 பெரியது.\n\n### சொற்கணக்குகள்\n\n| வகை | செய்ய வேண்டியது |\n| --- | --- |\n| ஒவ்வொன்றுடனும் x கூட்டினால் புதிய விகிதம் | (a + x) : (b + x) = c : d எனச் சமன்பாடு அமைக்கவும் |\n| வயது: இப்போது a : b, n ஆண்டுக்குப் பின் c : d | (ak + n) : (bk + n) = c : d; k-ஐக் காணவும் |\n| வருமானம் a : b, செலவு c : d, சேமிப்பு தெரிந்தால் | வருமானம் ax, bx; செலவு cy, dy; ax − cy = சேமிப்பு |\n| A : B தெரிந்தால் (2A + B) : (A + 2B) | A, B-க்கு விகித எண்களையே போட்டுக் கணக்கிடவும் |\n\n- எடுத்துக்காட்டு: 7, 11-உடன் x கூட்டி 3 : 4: 4(7 + x) = 3(11 + x) → x = 5.\n- விடையைத் திரும்பப் போட்டுச் சரிபார்க்கவும்: 12 : 16 = 3 : 4. விடைகளைச் சரிபார்ப்பது சமன்பாட்டைத் தீர்ப்பதை விடப் பல நேரம் விரைவானது.\n\n### விழுக்காடு நினைவூட்டல்\n\n- விலை x% குறைந்தால் செலவு மாறாதிருக்க நுகர்வை 100x ÷ (100 − x) % கூட்டலாம்: 20% குறைவுக்கு 25%. விலை x% உயர்ந்தால் 100x ÷ (100 + x) % குறைக்க வேண்டும்.\n- செல்லாத வாக்குகள் உள்ள தேர்தல்: முதலில் செல்லத்தக்க வாக்குகளைக் காணவும்; விழுக்காடு அதன் மீது மட்டுமே.\n- தேர்ச்சி மதிப்பெண்: தேவையான % − பெற்ற % = குறைந்த மதிப்பெண்கள். 40% தேவை, 32% பெற்று 24 குறைவு: 8% = 24; மொத்தம் 300.\n\n### தேர்வு நேரம்\n\n- தமிழ் 15 நிமிடம், பொது அறிவு 13 நிமிடம், திறனறிவு 15 நிமிடம், சரிபார்க்க 2 நிமிடம். 28-ஆம் நிமிடத்துக்குள் திறனறிவைத் தொடங்கவும்.\n- எந்த வினாவையும் விடை இல்லாமல் விட வேண்டாம்.",
+    "en": "HCF and LCM are done for this week; today is ratio, and tomorrow proportion. The real paper has two or three ratio sums every year, and all of them come down to one idea: parts.\n\n### Points from yesterday\n\n- Start the aptitude part by minute 28, and leave no question unanswered.\n- LCM: take the highest power of each prime once; do not multiply the numbers together. 8, 12, 20: 2³ × 3 × 5 = 120.\n- Change in area = a + b + (a × b) ÷ 100. If the side of a square grows 10%, the area grows 10 + 10 + 1 = 21%.\n\n### What a ratio is\n\n- a : b means a ÷ b. Both must be in the same unit: 45 minutes : 2 hours = 45 : 120 = 3 : 8.\n- Multiplying or dividing both terms by the same number does not change a ratio: 12 : 18 = 2 : 3 (dividing by the HCF, 6).\n- With decimals, multiply by 10 or 100: 0.75 : 1.25 = 75 : 125 = 3 : 5.\n\n### Dividing in a ratio\n\n| Sum | What to do | Example |\n| --- | --- | --- |\n| Divide T in a : b | One part = T ÷ (a + b) | 1,350 in 4 : 5: one part 150; 600 and 750 |\n| Three people, a : b : c | One part = T ÷ (a + b + c) | 7,800 in 2 : 3 : 8: one part 600 |\n| One share is known | Find one part from it | 4 : 7, second is 77: part 11; first 44 |\n| The difference is known | Difference = (b − a) parts | 3 : 5, difference 24: part 12; numbers 36, 60 |\n\n### Joining two ratios\n\n- Given A : B and B : C, make B the same in both (LCM). A : B = 2 : 3, B : C = 4 : 5, so B = 12: A : B : C = 8 : 12 : 15.\n- If a/3 = b/4 = c/7, take a = 3k, b = 4k, c = 7k.\n- Compound ratio: multiply the first terms and the second terms: 2 : 3 and 9 : 4 give 18 : 12 = 3 : 2.\n- If x% of A = y% of B, then A : B = y : x. 15% of A = 20% of B gives A : B = 20 : 15 = 4 : 3.\n\n### Comparing ratios\n\n- Turn each into a decimal: 2 : 3 = 0.667, 5 : 8 = 0.625, 3 : 5 = 0.6; the largest is 2 : 3.\n- Or cross-multiply: for 5 : 8 and 3 : 5, 5 × 5 = 25 and 8 × 3 = 24; 25 is bigger, so 5 : 8 is bigger.\n\n### Word problems\n\n| Type | What to do |\n| --- | --- |\n| Add x to each to get a new ratio | Set up (a + x) : (b + x) = c : d |\n| Ages: now a : b, after n years c : d | (ak + n) : (bk + n) = c : d; find k |\n| Incomes a : b, expenses c : d, savings known | Incomes ax, bx; expenses cy, dy; ax − cy = savings |\n| A : B known, find (2A + B) : (A + 2B) | Put the ratio numbers in for A and B |\n\n- Example: add x to 7 and 11 to get 3 : 4: 4(7 + x) = 3(11 + x), so x = 5.\n- Check by putting the answer back: 12 : 16 = 3 : 4. Testing the options is often faster than solving the equation.\n\n### Percentage reminder\n\n- If a price falls by x%, consumption can rise by 100x ÷ (100 − x) % for the same spending: 25% for a 20% fall. If it rises by x%, consumption must fall by 100x ÷ (100 + x) %.\n- Elections with invalid votes: first find the valid votes; the percentage is of those only.\n- Pass marks: required % − scored % = the marks short. 40% needed, 32% scored, 24 short: 8% = 24; maximum 300.\n\n### Test timing\n\n- Tamil 15 minutes, General Studies 13, aptitude 15, checking 2. Start the aptitude part by the 28th minute.\n- Do not leave any question unanswered."
    }
   }
  ],
@@ -922,42 +922,41 @@
      }
     },
     {
-     "id": "d012-daily-033",
      "subject": "gs",
      "q": {
-      "ta": "சோழர் காலத்தில் சமணப் பள்ளிகளுக்கு வழங்கப்பட்ட நிலம்",
-      "en": "In the Chola period, land given to Jain institutions was called"
+      "ta": "'பறையன்' என்னும் இதழைத் தொடங்கியவர்",
+      "en": "The paper 'Paraiyan' was started by"
      },
      "o": [
       {
-       "ta": "தேவதானம்",
-       "en": "Devadana"
+       "ta": "அயோத்திதாசர்",
+       "en": "Iyothee Thassar"
       },
       {
-       "ta": "பிரம்மதேயம்",
-       "en": "Brahmadeya"
+       "ta": "எம்.சி. ராஜா",
+       "en": "M.C. Rajah"
       },
       {
-       "ta": "வெள்ளான்வகை",
-       "en": "Vellanvagai"
+       "ta": "வைகுண்ட சுவாமிகள்",
+       "en": "Vaikunda Swamigal"
       },
       {
-       "ta": "பள்ளிச்சந்தம்",
-       "en": "Pallichchandam"
+       "ta": "இரட்டைமலை சீனிவாசன்",
+       "en": "Rettaimalai Srinivasan"
       }
      ],
      "a": 3,
      "x": {
-      "ta": "பள்ளிச்சந்தம் சமணப் பள்ளிகளுக்கு; தேவதானம் கோயில்களுக்கு; பிரம்மதேயம் பிராமணர்களுக்கு.",
-      "en": "Pallichchandam went to Jain institutions; devadana to temples; brahmadeya to Brahmins."
-     }
+      "ta": "இரட்டைமலை சீனிவாசன் 1893-இல் 'பறையன்' இதழைத் தொடங்கினார். அயோத்திதாசரின் இதழ் 'ஒரு பைசாத் தமிழன்' (1907).",
+      "en": "Rettaimalai Srinivasan started 'Paraiyan' in 1893. Iyothee Thassar's paper was 'Oru Paisa Tamizhan' (1907)."
+     },
+     "id": "d012-daily-033"
     },
     {
-     "id": "d012-daily-034",
      "subject": "gs",
      "q": {
-      "ta": "கூற்று: பாண்டிய நாட்டில் களப்பிரர் ஆட்சியை முடித்தவன் கடுங்கோன்.\nகாரணம்: தொண்டை நாட்டில் களப்பிரரை வென்றவன் சிம்மவிஷ்ணு.",
-      "en": "Assertion: Kadungon ended Kalabhra rule in the Pandya country.\nReason: Simhavishnu defeated the Kalabhras in Tondai Nadu."
+      "ta": "கூற்று: தஞ்சாவூர் நாயக்கர்களுள் தலைசிறந்தவர் இரகுநாத நாயக்கர்.\nகாரணம்: தஞ்சாவூர் நாயக்கர் ஆட்சியைத் தொடங்கியவர் செவ்வப்ப நாயக்கர்.",
+      "en": "Assertion: Raghunatha Nayak was the greatest of the Thanjavur Nayaks.\nReason: Sevappa Nayak began Nayak rule in Thanjavur."
      },
      "o": [
       {
@@ -979,9 +978,10 @@
      ],
      "a": 1,
      "x": {
-      "ta": "இரண்டும் சரி. சங்க கால நெடுஞ்செழியன் களப்பிரரை வென்றவன் அல்ல.",
-      "en": "Both are true. Nedunchezhiyan of the Sangam age was not the one who defeated the Kalabhras."
-     }
+      "ta": "இரண்டும் சரி; இரண்டும் தஞ்சாவூர் நாயக்கர்கள். மதுரையில் தொடங்கியவர் விசுவநாதர், தலைசிறந்தவர் திருமலை.",
+      "en": "Both are true; both are Thanjavur Nayaks. In Madurai, Viswanatha began the line and Thirumalai was the greatest."
+     },
+     "id": "d012-daily-034"
     },
     {
      "id": "d012-daily-035",
@@ -1305,58 +1305,58 @@
      }
     },
     {
-     "id": "d012-daily-046",
      "subject": "apt",
      "q": {
-      "ta": "A : B = 3 : 4 எனில் (2A + B) : (A + 2B) =",
-      "en": "If A : B = 3 : 4, then (2A + B) : (A + 2B) ="
+      "ta": "8, 12, 20 ஆகியவற்றின் மீ.சி.ம",
+      "en": "The LCM of 8, 12 and 20 is"
      },
      "o": [
       {
-       "ta": "10 : 11"
+       "ta": "120"
       },
       {
-       "ta": "3 : 4"
+       "ta": "240"
       },
       {
-       "ta": "11 : 10"
+       "ta": "1920"
       },
       {
-       "ta": "5 : 6"
+       "ta": "60"
       }
      ],
      "a": 0,
      "x": {
-      "ta": "A = 3, B = 4 எனக் கொள்க: (6 + 4) : (3 + 8) = 10 : 11.",
-      "en": "Take A = 3 and B = 4: (6 + 4) : (3 + 8) = 10 : 11."
-     }
+      "ta": "8 = 2³, 12 = 2² × 3, 20 = 2² × 5: மீ.சி.ம = 2³ × 3 × 5 = 120.",
+      "en": "8 = 2³, 12 = 2² × 3, 20 = 2² × 5: LCM = 2³ × 3 × 5 = 120."
+     },
+     "id": "d012-daily-046"
     },
     {
-     "id": "d012-daily-047",
      "subject": "apt",
      "q": {
-      "ta": "2 : 3, 9 : 4 ஆகிய விகிதங்களின் கூட்டு விகிதம் (பெருக்கு விகிதம்)",
-      "en": "The compound ratio of 2 : 3 and 9 : 4 is"
+      "ta": "ஒரு சதுரத்தின் பக்கம் 10% அதிகரித்தால் அதன் பரப்பளவு எத்தனை விழுக்காடு அதிகரிக்கும்?",
+      "en": "If the side of a square increases by 10%, by what percentage does its area increase?"
      },
      "o": [
       {
-       "ta": "11 : 7"
+       "ta": "20%"
       },
       {
-       "ta": "3 : 2"
+       "ta": "21%"
       },
       {
-       "ta": "2 : 3"
+       "ta": "10%"
       },
       {
-       "ta": "8 : 27"
+       "ta": "11%"
       }
      ],
      "a": 1,
      "x": {
-      "ta": "முன் உறுப்புகளையும் பின் உறுப்புகளையும் பெருக்கவும்: (2 × 9) : (3 × 4) = 18 : 12 = 3 : 2.",
-      "en": "Multiply the first terms and the second terms: (2 × 9) : (3 × 4) = 18 : 12 = 3 : 2."
-     }
+      "ta": "10 + 10 + (10 × 10) ÷ 100 = 21%. சரிபார்க்க: 1.1 × 1.1 = 1.21.",
+      "en": "10 + 10 + (10 × 10) ÷ 100 = 21%. Check: 1.1 × 1.1 = 1.21."
+     },
+     "id": "d012-daily-047"
     },
     {
      "id": "d012-daily-048",
