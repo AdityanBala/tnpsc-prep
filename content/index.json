@@ -152,6 +152,14 @@
     "ta": "ஊர்ப் பெயர் மரூஉ, பேச்சு – எழுத்து வழக்கு · பிரதமர், அமைச்சரவை, தலைமை வழக்குரைஞர் · வட்டி, இலாபம் – நட்டம்",
     "en": "Place-name short forms, spoken and written forms · Prime Minister, Council of Ministers, Attorney General · Interest, profit and loss"
    }
+  },
+  {
+   "n": 20,
+   "file": "day-020.json",
+   "title": {
+    "ta": "இணைப்புச் சொற்கள், பேச்சு வழக்குத் தொடர் · நாடாளுமன்றம் · விகிதம், விழுக்காடு, வட்டி",
+    "en": "Connectives, spoken-style sentences · Parliament · Ratio, percentage, interest"
+   }
   }
  ]
 }
