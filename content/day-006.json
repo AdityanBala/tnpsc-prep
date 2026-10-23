@@ -2228,6 +2228,282 @@
      "x": {
       "ta": "அந்த, இந்த, எந்த பின் வல்லினம் மிகும்: 'அந்தப் பெட்டியைத் திற'. மற்ற மூன்றும் மிகா இடங்கள்."
      }
+    },
+    {
+     "id": "d006-daily-p031",
+     "subject": "tamil",
+     "q": {
+      "ta": "சந்திப்பிழையற்ற தொடரைத் தேர்க."
+     },
+     "o": [
+      {
+       "ta": "வளர்ப் பிறை தெரிந்தது"
+      },
+      {
+       "ta": "அன்றுச் சொன்னார்"
+      },
+      {
+       "ta": "சில பதவிகள் காலியாக உள்ளன"
+      },
+      {
+       "ta": "வாழ்கத் தமிழ்"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "'சில', 'பல' ஆகியவற்றின் பின் வல்லினம் மிகாது: சில பதவிகள். வளர்பிறை (வினைத்தொகை), அன்று சொன்னார், வாழ்க தமிழ் (வியங்கோள்) ஆகியவற்றிலும் மிகாது."
+     }
+    },
+    {
+     "id": "d006-daily-p032",
+     "subject": "tamil",
+     "q": {
+      "ta": "'சொல்' என்னும் சொல்லின் பன்மை வடிவம்"
+     },
+     "o": [
+      {
+       "ta": "சொல்கள்"
+      },
+      {
+       "ta": "சொற்கள்"
+      },
+      {
+       "ta": "சொல்லுகள்"
+      },
+      {
+       "ta": "சொற்க்கள்"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "'கள்' சேரும்போது 'ல்' என்பது 'ற்' ஆகும்: கல் – கற்கள், சொல் – சொற்கள்."
+     }
+    },
+    {
+     "id": "d006-daily-p033",
+     "subject": "tamil",
+     "q": {
+      "ta": "கூற்று: 'அவனது பை' என்னும் தொடரில் வல்லினம் மிகாது.\nகாரணம்: அது, உடைய ஆகிய உருபுகளின் பின் வல்லினம் மிகாது."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "இரண்டும் சரி: 'அது' உருபின் பின் மிகாது (அவனது பை, எனது சட்டை); 'அவனுக்குக் கொடு' என 'கு' உருபின் பின்தான் மிகும்."
+     }
+    },
+    {
+     "id": "d006-daily-p034",
+     "subject": "gs",
+     "q": {
+      "ta": "பாண்டியர் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) அரிகேசரி மாறவர்மன் (கூன் பாண்டியன்) திருஞானசம்பந்தரால் சமணத்திலிருந்து சைவத்துக்கு மாறினான்.\n(ii) மார்கோ போலோ மாறவர்மன் குலசேகர பாண்டியன் காலத்தில் வந்தார்; அப்போதைய துறைமுகம் காயல்.\n(iii) 1335-இல் மதுரை சுல்தானியத்தை நிறுவியவர் மாலிக் கபூர்.",
+      "en": "Which of the following statements about the Pandyas are correct?\n(i) Arikesari Maravarman (Koon Pandiyan) turned from Jainism to Saivism under Thirugnanasambandar.\n(ii) Marco Polo came in the reign of Maravarman Kulasekara Pandyan; the port then was Kayal.\n(iii) Malik Kafur founded the Madurai Sultanate in 1335."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "மதுரை சுல்தானியத்தை 1335-இல் நிறுவியவர் ஜலாலுதீன் அசன் ஷா; மாலிக் கபூர் 1311-இல் படையெடுத்தவர். எனவே (iii) தவறு.",
+      "en": "The Madurai Sultanate was founded in 1335 by Jalaluddin Ahsan Shah; Malik Kafur was the invader of 1311. So (iii) is wrong."
+     }
+    },
+    {
+     "id": "d006-daily-p035",
+     "subject": "gs",
+     "q": {
+      "ta": "மதுரை சுல்தானியத்தை முடிவுக்குக் கொண்டுவந்த விஜயநகர இளவரசன்",
+      "en": "The Vijayanagara prince who ended the Madurai Sultanate"
+     },
+     "o": [
+      {
+       "ta": "கிருஷ்ணதேவராயர்",
+       "en": "Krishnadevaraya"
+      },
+      {
+       "ta": "ஹரிஹரர்",
+       "en": "Harihara"
+      },
+      {
+       "ta": "குமார கம்பணன்",
+       "en": "Kumara Kampana"
+      },
+      {
+       "ta": "புக்கர்",
+       "en": "Bukka"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "குமார கம்பணன்; இதைக் கூறும் நூல் அவன் மனைவி கங்காதேவி எழுதிய 'மதுரா விஜயம்'.",
+      "en": "Kumara Kampana; the event is told in 'Madura Vijayam', written by his wife Gangadevi."
+     }
+    },
+    {
+     "id": "d006-daily-p036",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வருவனவற்றைக் கால வரிசைப்படுத்துக.\n1. துளுவ மரபு\n2. சங்கம மரபு\n3. அரவீடு மரபு\n4. சாளுவ மரபு",
+      "en": "Arrange the following in chronological order.\n1. Tuluva dynasty\n2. Sangama dynasty\n3. Aravidu dynasty\n4. Saluva dynasty"
+     },
+     "o": [
+      {
+       "ta": "2, 4, 1, 3"
+      },
+      {
+       "ta": "2, 1, 4, 3"
+      },
+      {
+       "ta": "4, 2, 1, 3"
+      },
+      {
+       "ta": "2, 4, 3, 1"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "விஜயநகரத்தின் நான்கு மரபுகள் வரிசையாக: சங்கம, சாளுவ, துளுவ (கிருஷ்ணதேவராயர்), அரவீடு.",
+      "en": "The four Vijayanagara dynasties in order: Sangama, Saluva, Tuluva (Krishnadevaraya), Aravidu."
+     }
+    },
+    {
+     "id": "d006-daily-p037",
+     "subject": "gs",
+     "q": {
+      "ta": "நூலை அதன் ஆசிரியருடன் பொருத்துக.\n(a) சீவக சிந்தாமணி\n(b) குண்டலகேசி\n(c) மணிமேகலை\n(d) திருவாசகம்\n1. நாதகுத்தனார்\n2. மாணிக்கவாசகர்\n3. திருத்தக்க தேவர்\n4. சீத்தலைச் சாத்தனார்",
+      "en": "Match the work with its author.\n(a) Seevaka Chinthamani\n(b) Kundalakesi\n(c) Manimekalai\n(d) Thiruvasagam\n1. Nathakuthanar\n2. Manikkavasagar\n3. Thiruthakka Thevar\n4. Seethalai Sathanar"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 1, (c) 2, (d) 4"
+      },
+      {
+       "ta": "(a) 1, (b) 3, (c) 4, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 1, (c) 4, (d) 2"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "சீவக சிந்தாமணி – திருத்தக்க தேவர்; குண்டலகேசி – நாதகுத்தனார்; மணிமேகலை – சீத்தலைச் சாத்தனார்; திருவாசகம் – மாணிக்கவாசகர்.",
+      "en": "Seevaka Chinthamani – Thiruthakka Thevar; Kundalakesi – Nathakuthanar; Manimekalai – Seethalai Sathanar; Thiruvasagam – Manikkavasagar."
+     }
+    },
+    {
+     "id": "d006-daily-p038",
+     "subject": "apt",
+     "q": {
+      "ta": "8 எண்களின் சராசரி 25. அவற்றில் ஓர் எண்ணை நீக்கினால் மீதி 7 எண்களின் சராசரி 24. நீக்கப்பட்ட எண்",
+      "en": "The average of 8 numbers is 25. When one is removed, the average of the other 7 is 24. The number removed is"
+     },
+     "o": [
+      {
+       "ta": "30"
+      },
+      {
+       "ta": "34"
+      },
+      {
+       "ta": "28"
+      },
+      {
+       "ta": "32"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "8 × 25 − 7 × 24 = 200 − 168 = 32.",
+      "en": "8 × 25 − 7 × 24 = 200 − 168 = 32."
+     }
+    },
+    {
+     "id": "d006-daily-p039",
+     "subject": "apt",
+     "q": {
+      "ta": "20 மாணவர்களின் சராசரி மதிப்பெண் 56 எனக் கணக்கிடப்பட்டது. ஒருவரின் மதிப்பெண் 74 என்பதற்குப் பதிலாக 47 எனத் தவறாகப் பதிவானது. சரியான சராசரி",
+      "en": "The average mark of 20 students was worked out as 56. One mark of 74 was wrongly recorded as 47. The correct average is"
+     },
+     "o": [
+      {
+       "ta": "57.35"
+      },
+      {
+       "ta": "54.65"
+      },
+      {
+       "ta": "57.5"
+      },
+      {
+       "ta": "56.27"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "சராசரி + (சரி − தவறு) ÷ எண்ணிக்கை = 56 + 27 ÷ 20 = 56 + 1.35 = 57.35.",
+      "en": "Average + (right − wrong) ÷ number = 56 + 27 ÷ 20 = 56 + 1.35 = 57.35."
+     }
+    },
+    {
+     "id": "d006-daily-p040",
+     "subject": "apt",
+     "q": {
+      "ta": "ஒரு பொருளின் விலை முதலில் 25% உயர்ந்து பின் 20% குறைந்தது. மொத்தத்தில் விலை மாற்றம்",
+      "en": "The price of an article first rises by 25% and then falls by 20%. The overall change in price is"
+     },
+     "o": [
+      {
+       "ta": "5% உயர்வு",
+       "en": "a rise of 5%"
+      },
+      {
+       "ta": "5% குறைவு",
+       "en": "a fall of 5%"
+      },
+      {
+       "ta": "மாற்றம் இல்லை",
+       "en": "no change"
+      },
+      {
+       "ta": "45% உயர்வு",
+       "en": "a rise of 45%"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "காரணிகளைப் பெருக்கவும்: 1.25 × 0.8 = 1.00; விலை மாறவில்லை.",
+      "en": "Multiply the factors: 1.25 × 0.8 = 1.00, so the price is unchanged."
+     }
     }
    ]
   }

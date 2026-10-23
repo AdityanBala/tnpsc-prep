@@ -1689,6 +1689,282 @@
       "ta": "(75, 120) என்பவற்றின் மீ.பொ.வ 15.",
       "en": "The HCF of 75 and 120 is 15."
      }
+    },
+    {
+     "id": "d009-daily-p011",
+     "subject": "tamil",
+     "q": {
+      "ta": "'கேள்' என்னும் வேர்ச்சொல்லின் வினையெச்ச வடிவம்"
+     },
+     "o": [
+      {
+       "ta": "கேட்ட"
+      },
+      {
+       "ta": "கேட்டான்"
+      },
+      {
+       "ta": "கேட்டு"
+      },
+      {
+       "ta": "கேட்டல்"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "கேள் → கேட்டு (வினையெச்சம்: கேட்டு மகிழ்ந்தான்). கேட்டான் வினைமுற்று; கேட்ட பெயரெச்சம்; கேட்டல் தொழிற்பெயர்."
+     }
+    },
+    {
+     "id": "d009-daily-p012",
+     "subject": "tamil",
+     "q": {
+      "ta": "பின்வருவனவற்றுள் வினைமுற்று எது?"
+     },
+     "o": [
+      {
+       "ta": "பாடினாள்"
+      },
+      {
+       "ta": "பாடி"
+      },
+      {
+       "ta": "பாடிய"
+      },
+      {
+       "ta": "பாடுதல்"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "'ஆள்' என முடிந்து பொருள் முற்றுப்பெறுவதால் 'பாடினாள்' வினைமுற்று. பாடி வினையெச்சம்; பாடிய பெயரெச்சம்; பாடுதல் தொழிற்பெயர்."
+     }
+    },
+    {
+     "id": "d009-daily-p013",
+     "subject": "tamil",
+     "q": {
+      "ta": "'அவன் பள்ளிக்கு வராமல் இருந்தான்' என்னும் தொடரில் 'வராமல்' என்பதன் வகை"
+     },
+     "o": [
+      {
+       "ta": "வினைமுற்று"
+      },
+      {
+       "ta": "பெயரெச்சம்"
+      },
+      {
+       "ta": "தொழிற்பெயர்"
+      },
+      {
+       "ta": "வினையெச்சம்"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "'ஆமல்' என முடிந்து 'இருந்தான்' என்னும் வினையைக் கொண்டு முடிவதால் வினையெச்சம்."
+     }
+    },
+    {
+     "id": "d009-daily-p014",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வருவனவற்றைக் கால வரிசைப்படுத்துக.\n1. அத்வைதானந்த சபை\n2. திராவிட மகாஜன சபை\n3. 'திராவிட பாண்டியன்' இதழ்\n4. 'ஒரு பைசாத் தமிழன்' இதழ்",
+      "en": "Arrange the following in chronological order.\n1. The Advaidananda Sabha\n2. The Dravida Mahajana Sabha\n3. The journal 'Dravida Pandian'\n4. The weekly 'Oru Paisa Tamilan'"
+     },
+     "o": [
+      {
+       "ta": "1, 2, 3, 4"
+      },
+      {
+       "ta": "3, 1, 2, 4"
+      },
+      {
+       "ta": "1, 3, 2, 4"
+      },
+      {
+       "ta": "1, 3, 4, 2"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "அயோத்திதாசர்: அத்வைதானந்த சபை 1876 → திராவிட பாண்டியன் 1885 → திராவிட மகாஜன சபை 1891 → ஒரு பைசாத் தமிழன் 1907.",
+      "en": "Iyothee Thassar: Advaidananda Sabha 1876 → Dravida Pandian 1885 → Dravida Mahajana Sabha 1891 → Oru Paisa Tamilan 1907."
+     }
+    },
+    {
+     "id": "d009-daily-p015",
+     "subject": "gs",
+     "q": {
+      "ta": "வள்ளலார் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) இறைவனை ஒளி வடிவில் (அருட்பெருஞ்சோதி) வழிபடக் கூறினார்.\n(ii) வாடிய பயிரைக் கண்டபோதெல்லாம் வாடியதாகப் பாடியவர் அவர்.\n(iii) அகிலத்திரட்டு அவர் எழுதிய நூல்.",
+      "en": "Which of the following statements about Vallalar are correct?\n(i) He taught that God should be worshipped in the form of light (Arutperunjothi).\n(ii) He sang that he withered every time he saw a withered crop.\n(iii) He wrote the Akilathirattu."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "அகிலத்திரட்டு வைகுண்ட சுவாமிகளுடையது; வள்ளலாரின் பாடல்கள் திருவருட்பா. எனவே (iii) தவறு.",
+      "en": "The Akilathirattu is Vaikunda Swamigal's; Vallalar's songs are the Thiruvarutpa. So (iii) is wrong."
+     }
+    },
+    {
+     "id": "d009-daily-p016",
+     "subject": "gs",
+     "q": {
+      "ta": "அகில இந்திய ஒடுக்கப்பட்டோர் சங்கத்தின் தலைவராக இருந்தவர்",
+      "en": "The leader of the All India Depressed Classes Association was"
+     },
+     "o": [
+      {
+       "ta": "இரட்டைமலை சீனிவாசன்",
+       "en": "Rettaimalai Srinivasan"
+      },
+      {
+       "ta": "எம்.சி. ராஜா",
+       "en": "M.C. Rajah"
+      },
+      {
+       "ta": "அயோத்திதாசர்",
+       "en": "Iyothee Thassar"
+      },
+      {
+       "ta": "ஜான் ரத்தினம்",
+       "en": "John Rathinam"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "எம்.சி. ராஜா. இரட்டைமலை சீனிவாசன் ஆதிதிராவிட மகாஜன சபையை நிறுவியவர்; ஜான் ரத்தினம் அயோத்திதாசருடன் 'திராவிட பாண்டியன்' தொடங்கியவர்.",
+      "en": "M.C. Rajah. Rettaimalai Srinivasan founded the Adi Dravida Mahajana Sabha; John Rathinam started 'Dravida Pandian' with Iyothee Thassar."
+     }
+    },
+    {
+     "id": "d009-daily-p017",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: வைகுண்ட சுவாமிகளின் இயற்பெயர் காத்தவராயன்.\nகாரணம்: அவருடைய வழிபாட்டிடங்கள் 'நிழல் தாங்கல்கள்' எனப்பட்டன.",
+      "en": "Assertion: Vaikunda Swamigal's original name was Kathavarayan.\nReason: His places of worship were called 'Nizhal Thangals'."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "வைகுண்ட சுவாமிகளின் இயற்பெயர் முடிசூடும் பெருமாள்; காத்தவராயன் அயோத்திதாசரின் இயற்பெயர். நிழல் தாங்கல் சரி.",
+      "en": "Vaikunda Swamigal's original name was Mudisoodum Perumal; Kathavarayan was Iyothee Thassar's. The Nizhal Thangals are right."
+     }
+    },
+    {
+     "id": "d009-daily-p018",
+     "subject": "apt",
+     "q": {
+      "ta": "84, 126, 210 லிட்டர் கொண்ட மூன்று கலன்களில் உள்ள எண்ணெயைச் சரியாக அளக்கக்கூடிய மிகப்பெரிய அளவை (லிட்டரில்)",
+      "en": "The greatest measure (in litres) that can exactly measure the oil in three tins of 84, 126 and 210 litres is"
+     },
+     "o": [
+      {
+       "ta": "21"
+      },
+      {
+       "ta": "14"
+      },
+      {
+       "ta": "42"
+      },
+      {
+       "ta": "63"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "மீ.பொ.வ (84, 126) = 42; மீ.பொ.வ (42, 210) = 42.",
+      "en": "HCF (84, 126) = 42; HCF (42, 210) = 42."
+     }
+    },
+    {
+     "id": "d009-daily-p019",
+     "subject": "apt",
+     "q": {
+      "ta": "15a³b², 25a²b³ ஆகியவற்றின் மீ.பொ.வ",
+      "en": "The HCF of 15a³b² and 25a²b³ is"
+     },
+     "o": [
+      {
+       "ta": "15a²b²"
+      },
+      {
+       "ta": "75a³b³"
+      },
+      {
+       "ta": "5ab"
+      },
+      {
+       "ta": "5a²b²"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "எண்களின் மீ.பொ.வ 5; பொது மாறிகளின் குறைந்த அடுக்குகள் a², b²: 5a²b².",
+      "en": "HCF of the numbers is 5; the common variables with their lowest powers are a² and b²: 5a²b²."
+     }
+    },
+    {
+     "id": "d009-daily-p020",
+     "subject": "apt",
+     "q": {
+      "ta": "43, 91, 183 ஆகியவற்றை வகுக்கும்போது ஒவ்வொன்றிலும் ஒரே மீதி தரும் மிகப்பெரிய எண்",
+      "en": "The greatest number that divides 43, 91 and 183 leaving the same remainder in each case is"
+     },
+     "o": [
+      {
+       "ta": "4"
+      },
+      {
+       "ta": "8"
+      },
+      {
+       "ta": "12"
+      },
+      {
+       "ta": "2"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "வேறுபாடுகள் 48, 92, 140; மீ.பொ.வ (48, 92) = 4; மீ.பொ.வ (4, 140) = 4.",
+      "en": "Differences 48, 92, 140; HCF (48, 92) = 4; HCF (4, 140) = 4."
+     }
     }
    ]
   }

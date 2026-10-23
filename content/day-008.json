@@ -1947,6 +1947,282 @@
      "x": {
       "ta": "கூற்று சரி. காரணம் தவறு: 'நட்டான்' என்பதன் வேர் 'நடு' (செடியை நடு). நடந்தான் – நட; நட்டான் – நடு."
      }
+    },
+    {
+     "id": "d008-daily-p020",
+     "subject": "tamil",
+     "q": {
+      "ta": "'கொண்டான்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "கொண்"
+      },
+      {
+       "ta": "கொள்"
+      },
+      {
+       "ta": "கொண்டு"
+      },
+      {
+       "ta": "கொல்"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "கொண்டான் – கொள் (நீ கொள்). 'கொண்டு' வினையெச்சம்; 'கொல்' என்பது கொன்றான் என்பதன் வேர்ச்சொல்."
+     }
+    },
+    {
+     "id": "d008-daily-p021",
+     "subject": "tamil",
+     "q": {
+      "ta": "'சுட்டான்' என்னும் சொல்லின் வேர்ச்சொல்"
+     },
+     "o": [
+      {
+       "ta": "சுட்"
+      },
+      {
+       "ta": "சுட்டு"
+      },
+      {
+       "ta": "சுடு"
+      },
+      {
+       "ta": "சுட"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "சுட்டான் – சுடு (நீ சுடு). 'சுட்டு' வினையெச்சம்; வேர்ச்சொல் கட்டளையாகச் சொல்லக்கூடிய சிறிய வடிவம்."
+     }
+    },
+    {
+     "id": "d008-daily-p022",
+     "subject": "tamil",
+     "q": {
+      "ta": "'தொடு' என்னும் வேர்ச்சொல்லிலிருந்து தோன்றாத சொல்"
+     },
+     "o": [
+      {
+       "ta": "தொட்டான்"
+      },
+      {
+       "ta": "தொடுதல்"
+      },
+      {
+       "ta": "தொட்ட"
+      },
+      {
+       "ta": "தொடர்ந்தான்"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "தொட்டான், தொடுதல், தொட்ட மூன்றும் 'தொடு' என்பதிலிருந்து தோன்றியவை. 'தொடர்ந்தான்' என்பதன் வேர்ச்சொல் 'தொடர்'."
+     }
+    },
+    {
+     "id": "d008-daily-p023",
+     "subject": "gs",
+     "q": {
+      "ta": "தீரன் சின்னமலை பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) அவர் 1756-இல் ஈரோடு அருகே மேலப்பாளையத்தில் பிறந்தார்.\n(ii) ஓடாநிலை (1802), அரச்சலூர் (1804) போர்களில் அவர் ஆங்கிலேயரை வென்றார்.\n(iii) அவர் 31 ஜூலை 1805 அன்று கயத்தாற்றில் தூக்கிலிடப்பட்டார்.",
+      "en": "Which of the following statements about Dheeran Chinnamalai are correct?\n(i) He was born in 1756 at Melapalayam near Erode.\n(ii) He defeated the British at Odanilai (1802) and Arachalur (1804).\n(iii) He was hanged at Kayathar on 31 July 1805."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "தீரன் சின்னமலை தூக்கிலிடப்பட்டது சங்ககிரிக் கோட்டையில்; கயத்தாறு கட்டபொம்மனுடையது. எனவே (iii) தவறு.",
+      "en": "Dheeran Chinnamalai was hanged at Sankagiri fort; Kayathar is where Kattabomman was hanged. So (iii) is wrong."
+     }
+    },
+    {
+     "id": "d008-daily-p024",
+     "subject": "gs",
+     "q": {
+      "ta": "பாளையக்காரர் முறைக்கு முடிவு கட்டிய கர்நாடக உடன்படிக்கை கையெழுத்தான நாள்",
+      "en": "The date of the Carnatic Treaty that ended the palayakkarar system"
+     },
+     "o": [
+      {
+       "ta": "24 அக்டோபர் 1801",
+       "en": "24 October 1801"
+      },
+      {
+       "ta": "31 ஜூலை 1801",
+       "en": "31 July 1801"
+      },
+      {
+       "ta": "16 நவம்பர் 1801",
+       "en": "16 November 1801"
+      },
+      {
+       "ta": "31 ஜூலை 1805",
+       "en": "31 July 1805"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "31 ஜூலை 1801: கர்நாடக உடன்படிக்கை. 24 அக்டோபர் 1801 மருது சகோதரர்கள் தூக்கிலிடப்பட்ட நாள்; 31 ஜூலை 1805 தீரன் சின்னமலை தூக்கிலிடப்பட்ட நாள்.",
+      "en": "31 July 1801: the Carnatic Treaty. 24 October 1801 is when the Marudhu brothers were hanged; 31 July 1805 when Dheeran Chinnamalai was hanged."
+     }
+    },
+    {
+     "id": "d008-daily-p025",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வருவனவற்றைக் கால வரிசைப்படுத்துக.\n1. யூசுப்கான் நெற்கட்டும்செவலைக் கைப்பற்றினார்\n2. களக்காடு போர்\n3. புலித்தேவர் நெற்கட்டும்செவலை மீட்டார்\n4. புலித்தேவர் கேம்பெல்லிடம் தோற்றார்",
+      "en": "Arrange the following in chronological order.\n1. Yusuf Khan captured Nerkattumseval\n2. The battle of Kalakadu\n3. Puli Thevar recaptured Nerkattumseval\n4. Puli Thevar was defeated by Campbell"
+     },
+     "o": [
+      {
+       "ta": "1, 2, 3, 4"
+      },
+      {
+       "ta": "2, 3, 1, 4"
+      },
+      {
+       "ta": "2, 1, 4, 3"
+      },
+      {
+       "ta": "2, 1, 3, 4"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "களக்காடு 1755 → யூசுப்கான் கைப்பற்றல் 1761 → புலித்தேவர் மீட்பு 1764 (யூசுப்கான் தூக்கிலிடப்பட்ட பின்) → கேம்பெல்லிடம் தோல்வி 1767.",
+      "en": "Kalakadu 1755 → Yusuf Khan's capture 1761 → Puli Thevar's recapture 1764 (after Yusuf Khan was hanged) → defeat by Campbell 1767."
+     }
+    },
+    {
+     "id": "d008-daily-p026",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: வேலூர்ப் புரட்சிக்குப் பின் ஆளுநர் வில்லியம் பெண்டிங்கும் கிராடக்கும் திரும்ப அழைக்கப்பட்டனர்.\nகாரணம்: சமயக் குறிகள், காதணிகள் கூடாது, தாடியை மழிக்க வேண்டும் என்னும் கிராடக்கின் புதிய இராணுவ விதிகளே புரட்சிக்குக் காரணம்.",
+      "en": "Assertion: After the Vellore Revolt, Governor William Bentinck and Cradock were recalled.\nReason: Cradock's new army regulations (no religious marks or earrings, beards to be shaved) caused the revolt."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "இரண்டும் சரி: கிராடக்கின் விதிகள் புரட்சிக்குக் காரணம்; அதன் விளைவாக பெண்டிங்கும் கிராடக்கும் திரும்ப அழைக்கப்பட்டனர்.",
+      "en": "Both are true: Cradock's regulations caused the revolt, and as a result Bentinck and Cradock were recalled."
+     }
+    },
+    {
+     "id": "d008-daily-p027",
+     "subject": "apt",
+     "q": {
+      "ta": "1 முதல் 200 வரை உள்ள எண்களில் 9-இன் மடங்குகளின் எண்ணிக்கை",
+      "en": "The number of multiples of 9 from 1 to 200 is"
+     },
+     "o": [
+      {
+       "ta": "20"
+      },
+      {
+       "ta": "22"
+      },
+      {
+       "ta": "23"
+      },
+      {
+       "ta": "21"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "200 ÷ 9 = 22.2; முழு எண் பகுதி 22. கடைசி மடங்கு 9 × 22 = 198.",
+      "en": "200 ÷ 9 = 22.2; the whole-number part is 22. The last multiple is 9 × 22 = 198."
+     }
+    },
+    {
+     "id": "d008-daily-p028",
+     "subject": "apt",
+     "q": {
+      "ta": "பின்வருவனவற்றுள் பகா எண் அல்லாதது",
+      "en": "Which of the following is not a prime number?"
+     },
+     "o": [
+      {
+       "ta": "89"
+      },
+      {
+       "ta": "83"
+      },
+      {
+       "ta": "91"
+      },
+      {
+       "ta": "79"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "91 = 7 × 13; பகா எண் போலத் தோன்றும் பகு எண். 89, 83, 79 பகா எண்கள்.",
+      "en": "91 = 7 × 13, a composite number that looks prime. 89, 83 and 79 are prime."
+     }
+    },
+    {
+     "id": "d008-daily-p029",
+     "subject": "apt",
+     "q": {
+      "ta": "2⁴ × 3 × 5² என்னும் எண்ணின் காரணிகளின் எண்ணிக்கை",
+      "en": "The number of factors of 2⁴ × 3 × 5² is"
+     },
+     "o": [
+      {
+       "ta": "30"
+      },
+      {
+       "ta": "24"
+      },
+      {
+       "ta": "40"
+      },
+      {
+       "ta": "8"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "ஒவ்வோர் அடுக்குடனும் 1 கூட்டிப் பெருக்கவும்: (4 + 1)(1 + 1)(2 + 1) = 5 × 2 × 3 = 30.",
+      "en": "Add 1 to each power and multiply: (4 + 1)(1 + 1)(2 + 1) = 5 × 2 × 3 = 30."
+     }
     }
    ]
   }
