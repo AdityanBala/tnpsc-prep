@@ -532,25 +532,25 @@
      "id": "d017-daily-020",
      "subject": "tamil",
      "q": {
-      "ta": "சந்திப்பிழை இல்லாத தொடர்"
+      "ta": "அயற்சொல்லை அதற்கு இணையான தமிழ்ச்சொல்லுடன் பொருத்துக.\n(a) ஆகாயம்\n(b) வருடம்\n(c) நதி\n(d) சபை\n1. ஆறு\n2. அவை\n3. வானம்\n4. ஆண்டு"
      },
      "o": [
       {
-       "ta": "எத்தனைப் பறவைகள் வந்தன?"
+       "ta": "(a) 3, (b) 1, (c) 4, (d) 2"
       },
       {
-       "ta": "எத்தனை பறவைகள் வந்தன?"
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
       },
       {
-       "ta": "அந்த பறவை பறந்தது."
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
       },
       {
-       "ta": "இத்தனைக் கனிகள் விழுந்தன."
+       "ta": "(a) 2, (b) 4, (c) 1, (d) 3"
       }
      ],
      "a": 1,
      "x": {
-      "ta": "எத்தனை, இத்தனை பின் வல்லினம் மிகாது; 'அந்த' பின் மிகும்: அந்தப் பறவை."
+      "ta": "ஆகாயம் – வானம், வருடம் – ஆண்டு, நதி – ஆறு, சபை – அவை. கிரந்த எழுத்து இல்லாவிட்டாலும் இடப்புறச் சொற்கள் வடசொற்கள்."
      }
     },
     {
@@ -859,8 +859,8 @@
      "id": "d017-daily-031",
      "subject": "gs",
      "q": {
-      "ta": "கூற்று: அடிப்படைக் கடமைகள் குடிமக்களுக்கும் வெளிநாட்டவருக்கும் ஒருசேரப் பொருந்தும்.\nகாரணம்: அடிப்படைக் கடமைகள் பகுதி IVA-இல் உள்ளன.",
-      "en": "Assertion: The Fundamental Duties apply to citizens and foreigners alike.\nReason: The Fundamental Duties are in Part IVA."
+      "ta": "கூற்று: திராவிட மகாஜன சபையை 1891-இல் நிறுவியவர் அயோத்திதாசர்.\nகாரணம்: 1893-இல் 'பறையன்' இதழைத் தொடங்கியவரும் அயோத்திதாசரே.",
+      "en": "Assertion: The Dravida Mahajana Sabha was founded in 1891 by Iyothee Thass.\nReason: The journal Parayan, started in 1893, was also Iyothee Thass's."
      },
      "o": [
       {
@@ -880,10 +880,10 @@
        "en": "Both Assertion and Reason are false"
       }
      ],
-     "a": 1,
+     "a": 0,
      "x": {
-      "ta": "அடிப்படைக் கடமைகள் குடிமக்களுக்கு மட்டுமே; எனவே கூற்று தவறு. அவை பகுதி IVA-இல் உள்ளன என்பது சரி.",
-      "en": "The Fundamental Duties apply only to citizens, so the assertion is false. They are in Part IVA, so the reason is true."
+      "ta": "கூற்று சரி. 'பறையன்' (1893) இரட்டைமலை சீனிவாசனுடையது; அயோத்திதாசரின் இதழ் 'ஒரு பைசாத் தமிழன்' (1907). எனவே காரணம் தவறு.",
+      "en": "The assertion is true. Parayan (1893) was Rettaimalai Srinivasan's; Iyothee Thass's paper was Oru Paisa Tamilan (1907). So the reason is false."
      }
     },
     {
@@ -1292,27 +1292,27 @@
      "id": "d017-daily-046",
      "subject": "apt",
      "q": {
-      "ta": "A-இன் சம்பளம் B-இன் சம்பளத்தை விட 25% அதிகம் எனில், B-இன் சம்பளம் A-இன் சம்பளத்தை விட எத்தனை விழுக்காடு குறைவு?",
-      "en": "A's salary is 25% more than B's. By what percentage is B's salary less than A's?"
+      "ta": "இருவர் போட்டியிட்ட ஒரு தேர்தலில் பதிவான வாக்குகளில் 10% செல்லாதவை. வென்றவர் செல்லத்தக்க வாக்குகளில் 55% பெற்று 1,350 வாக்குகள் வேறுபாட்டில் வென்றார் எனில், பதிவான மொத்த வாக்குகள்",
+      "en": "In an election between two candidates 10% of the votes polled were invalid. The winner got 55% of the valid votes and won by 1,350 votes. How many votes were polled?"
      },
      "o": [
       {
-       "ta": "20%"
+       "ta": "13,500"
       },
       {
-       "ta": "25%"
+       "ta": "14,850"
       },
       {
-       "ta": "15%"
+       "ta": "15,000"
       },
       {
-       "ta": "30%"
+       "ta": "12,150"
       }
      ],
-     "a": 0,
+     "a": 2,
      "x": {
-      "ta": "B = 100 எனில் A = 125. B, A-ஐ விட 25 ÷ 125 × 100 = 20% குறைவு.",
-      "en": "Take B = 100, so A = 125. B is less than A by 25 ÷ 125 × 100 = 20%."
+      "ta": "வேறுபாடு 55% − 45% = செல்லத்தக்கவற்றின் 10% = 1,350; செல்லத்தக்கவை 13,500. அவை பதிவானவற்றின் 90%: 13500 ÷ 0.9 = 15,000.",
+      "en": "The margin 55% − 45% = 10% of the valid votes = 1,350, so 13,500 valid. They are 90% of the votes polled: 13500 ÷ 0.9 = 15,000."
      }
     },
     {
