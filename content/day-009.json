@@ -1965,6 +1965,99 @@
       "ta": "வேறுபாடுகள் 48, 92, 140; மீ.பொ.வ (48, 92) = 4; மீ.பொ.வ (4, 140) = 4.",
       "en": "Differences 48, 92, 140; HCF (48, 92) = 4; HCF (4, 140) = 4."
      }
+    },
+    {
+     "id": "d009-daily-p021",
+     "subject": "gs",
+     "q": {
+      "ta": "வைகுண்ட சுவாமிகளின் நெறியை விளக்கும் நூல்",
+      "en": "The book that sets out Vaikunda Swamigal's teaching"
+     },
+     "o": [
+      {
+       "ta": "திருவருட்பா",
+       "en": "Thiruvarutpa"
+      },
+      {
+       "ta": "அகிலத்திரட்டு",
+       "en": "Akilathirattu"
+      },
+      {
+       "ta": "ஜீவிய சரித்திர சுருக்கம்",
+       "en": "Jeeviya Saritha Surukkam"
+      },
+      {
+       "ta": "ஒரு பைசாத் தமிழன்",
+       "en": "Oru Paisa Tamilan"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "அய்யா வழியின் நூல் அகிலத்திரட்டு. திருவருட்பா வள்ளலாருடையது; ஜீவிய சரித்திர சுருக்கம் இரட்டைமலை சீனிவாசனின் சுயசரிதை.",
+      "en": "The book of Ayya Vazhi is Akilathirattu. Thiruvarutpa is Vallalar's; Jeeviya Saritha Surukkam is Rettaimalai Srinivasan's autobiography."
+     }
+    },
+    {
+     "id": "d009-daily-p022",
+     "subject": "gs",
+     "q": {
+      "ta": "இரட்டைமலை சீனிவாசன் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) அவர் 1893-இல் 'பறையன்' இதழைத் தொடங்கினார்.\n(ii) இலண்டனில் நடந்த முதல் இரண்டு வட்டமேசை மாநாடுகளில் பங்கேற்றார்.\n(iii) அவருடைய சுயசரிதை 'திருவருட்பா'.",
+      "en": "Which of these statements about Rettaimalai Srinivasan are correct?\n(i) He started the journal Parayan in 1893.\n(ii) He took part in the first two Round Table Conferences in London.\n(iii) His autobiography is Thiruvarutpa."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "அவருடைய சுயசரிதை 'ஜீவிய சரித்திர சுருக்கம்' (1939); 'திருவருட்பா' வள்ளலாரின் பாடல் தொகுப்பு. எனவே (iii) தவறு.",
+      "en": "His autobiography is Jeeviya Saritha Surukkam (1939); Thiruvarutpa is Vallalar's collection of songs. So (iii) is wrong."
+     }
+    },
+    {
+     "id": "d009-daily-p023",
+     "subject": "gs",
+     "q": {
+      "ta": "வள்ளலார் வடலூரில் சத்திய தருமச்சாலையை நிறுவிய ஆண்டு",
+      "en": "The year Vallalar founded the Sathya Dharma Salai at Vadalur"
+     },
+     "o": [
+      {
+       "ta": "1865",
+       "en": "1865"
+      },
+      {
+       "ta": "1872",
+       "en": "1872"
+      },
+      {
+       "ta": "1874",
+       "en": "1874"
+      },
+      {
+       "ta": "1867",
+       "en": "1867"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "1865 சங்கம், 1867 தருமச்சாலை, 1872 சத்திய ஞான சபை; 1874 அவர் மறைந்த ஆண்டு.",
+      "en": "1865 the Sangam, 1867 the Dharma Salai, 1872 the Sathya Gnana Sabai; 1874 is the year he passed away."
+     }
     }
    ]
   }

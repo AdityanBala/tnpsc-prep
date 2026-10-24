@@ -1690,6 +1690,126 @@
       "ta": "பொதுவான ஒவ்வொரு மாறியின் மிகக் குறைந்த அடுக்கு: a², b².",
       "en": "Take the lowest power of each common variable: a² and b²."
      }
+    },
+    {
+     "id": "d011-daily-p011",
+     "subject": "gs",
+     "q": {
+      "ta": "பெரியார் காங்கிரசிலிருந்து விலகக் காரணமான 1925 மாநாடு நடந்த இடம்",
+      "en": "Where was the 1925 conference after which Periyar left the Congress?"
+     },
+     "o": [
+      {
+       "ta": "திருப்பூர்",
+       "en": "Tiruppur"
+      },
+      {
+       "ta": "சேலம்",
+       "en": "Salem"
+      },
+      {
+       "ta": "காஞ்சிபுரம்",
+       "en": "Kanchipuram"
+      },
+      {
+       "ta": "செங்கல்பட்டு",
+       "en": "Chengalpattu"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "1925 காஞ்சிபுரம் மாநாட்டில் வகுப்புவாரிப் பிரதிநிதித்துவத் தீர்மானத்துக்கு அனுமதி மறுக்கப்பட்டதால் விலகினார். திருப்பூர் 1922; செங்கல்பட்டு 1929.",
+      "en": "At the 1925 Kanchipuram conference he was not allowed to move the communal representation resolution, so he left. Tiruppur was 1922 and Chengalpattu 1929."
+     }
+    },
+    {
+     "id": "d011-daily-p012",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வருவனவற்றைக் கால வரிசைப்படுத்துக.\n1. 'விடுதலை' நாளிதழ்\n2. 'குடி அரசு' இதழ்\n3. நீதிக்கட்சி 'திராவிடர் கழகம்' ஆனது\n4. 'ரிவோல்ட்' ஆங்கில இதழ்",
+      "en": "Arrange in chronological order.\n1. The daily Viduthalai\n2. The journal Kudi Arasu\n3. The Justice Party becomes the Dravidar Kazhagam\n4. The English journal Revolt"
+     },
+     "o": [
+      {
+       "ta": "2, 1, 4, 3"
+      },
+      {
+       "ta": "2, 4, 3, 1"
+      },
+      {
+       "ta": "4, 2, 1, 3"
+      },
+      {
+       "ta": "2, 4, 1, 3"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "குடி அரசு 1925, ரிவோல்ட் 1928, விடுதலை 1935, திராவிடர் கழகம் 1944 (சேலம்).",
+      "en": "Kudi Arasu 1925, Revolt 1928, Viduthalai 1935, Dravidar Kazhagam 1944 (Salem)."
+     }
+    },
+    {
+     "id": "d011-daily-p013",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வரும் கூற்றுகளில் சரியானவை எவை?\n(i) 'பெரியார்' என்னும் பட்டம் 1938-இல் சென்னையில் நடந்த பெண்கள் மாநாட்டில் வழங்கப்பட்டது.\n(ii) 1967-இல் இந்து திருமணச் சட்டத்தில் செய்த திருத்தம் சுயமரியாதைத் திருமணத்துக்குச் சட்ட ஏற்பு அளித்தது.\n(iii) 1944 சேலம் மாநாட்டில் நீதிக்கட்சி 'திராவிடர் கழகம்' ஆனது.",
+      "en": "Which of these statements are correct?\n(i) The title 'Periyar' was given at a women's conference in Madras in 1938.\n(ii) A 1967 amendment to the Hindu Marriage Act gave legal recognition to self-respect marriages.\n(iii) At the 1944 Salem conference the Justice Party became the Dravidar Kazhagam."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "மூன்றும் நாள் 11 குறிப்புகளில் உள்ளபடியே சரி.",
+      "en": "All three are true, exactly as in the day 11 notes."
+     }
+    },
+    {
+     "id": "d011-daily-p014",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: பெரியார் 'வைக்கம் வீரர்' என்று அழைக்கப்படுகிறார்.\nகாரணம்: 30 மார்ச் 1924 அன்று வைக்கம் போராட்டத்தைத் தொடங்கியவர் பெரியார்.",
+      "en": "Assertion: Periyar is called 'Vaikom Veerar'.\nReason: Periyar began the Vaikom struggle on 30 March 1924."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "போராட்டத்தைத் தொடங்கியவர்கள் டி.கே. மாதவன், கே.பி. கேசவ மேனன், கே. கேளப்பன்; பெரியார் பின்னர் சென்று நடத்தி சிறை சென்றதால் 'வைக்கம் வீரர்'. எனவே காரணம் தவறு.",
+      "en": "The struggle was begun by T.K. Madhavan, K.P. Kesava Menon and K. Kelappan; Periyar went later, led it and was jailed, hence 'Vaikom Veerar'. So the reason is false."
+     }
     }
    ]
   }
