@@ -2511,6 +2511,130 @@
      "x": {
       "ta": "இரண்டும் சரி: அந்த, இந்த, எந்த ஆகியவற்றின் பின் வரும் வல்லினம் மிகும்."
      }
+    },
+    {
+     "id": "d005-daily-p041",
+     "subject": "gs",
+     "q": {
+      "ta": "'பண்டித சோழன்' என்னும் பட்டம் பெற்ற சோழ மன்னர்",
+      "en": "The Chola king who had the title 'Pandita Chola'"
+     },
+     "o": [
+      {
+       "ta": "முதலாம் ராஜராஜன்",
+       "en": "Rajaraja I"
+      },
+      {
+       "ta": "முதலாம் பராந்தகன்",
+       "en": "Parantaka I"
+      },
+      {
+       "ta": "முதலாம் ராஜேந்திரன்",
+       "en": "Rajendra I"
+      },
+      {
+       "ta": "முதலாம் குலோத்துங்கன்",
+       "en": "Kulothunga I"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "முதலாம் ராஜேந்திரனின் பட்டங்கள்: கங்கைகொண்டான், கடாரம் கொண்டான், முடிகொண்டான், பண்டித சோழன்.",
+      "en": "Rajendra I's titles: Gangaikondan, Kadaram Kondan, Mudikondan, Pandita Chola."
+     }
+    },
+    {
+     "id": "d005-daily-p042",
+     "subject": "gs",
+     "q": {
+      "ta": "கோயில் அல்லது பணியை அதைச் செய்த மன்னரோடு பொருத்துக.\n(a) தஞ்சைப் பெரிய கோயில்\n(b) கங்கைகொண்ட சோழபுரம் கோயில்\n(c) தாராசுரம் ஐராவதீஸ்வரர் கோயில்\n(d) சிதம்பரம் நடராஜர் கோயிலுக்குப் பொற்கூரை\n1. இரண்டாம் ராஜராஜன்\n2. முதலாம் பராந்தகன்\n3. முதலாம் ராஜராஜன்\n4. முதலாம் ராஜேந்திரன்",
+      "en": "Match the temple or work with the king.\n(a) The Big Temple, Thanjavur\n(b) The Gangaikonda Cholapuram temple\n(c) The Airavatesvara temple, Darasuram\n(d) The golden roof of the Chidambaram Nataraja temple\n1. Rajaraja II\n2. Parantaka I\n3. Rajaraja I\n4. Rajendra I"
+     },
+     "o": [
+      {
+       "ta": "(a) 4, (b) 3, (c) 1, (d) 2",
+       "en": "(a) 4, (b) 3, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1",
+       "en": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 1, (c) 4, (d) 2",
+       "en": "(a) 3, (b) 1, (c) 4, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2",
+       "en": "(a) 3, (b) 4, (c) 1, (d) 2"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "பெரிய கோயில் – ராஜராஜன்; கங்கைகொண்ட சோழபுரம் – ராஜேந்திரன்; தாராசுரம் – இரண்டாம் ராஜராஜன்; பொற்கூரை – பராந்தகன் (பொன்வேய்ந்த சோழன்).",
+      "en": "Big Temple – Rajaraja I; Gangaikonda Cholapuram – Rajendra I; Darasuram – Rajaraja II; golden roof – Parantaka I (Ponveyndha Cholan)."
+     }
+    },
+    {
+     "id": "d005-daily-p043",
+     "subject": "gs",
+     "q": {
+      "ta": "பின்வரும் கூற்றுகளில் சரியானவை எவை?\n(i) காந்தளூர்ச்சாலையில் வெற்றி பெற்றவன் முதலாம் ராஜராஜன்.\n(ii) 1025-இல் கடாரத்தின் மீது கடற்படையெடுப்பு நடத்தியவன் முதலாம் ராஜராஜன்.\n(iii) சோழகங்கம் ஏரியை அமைத்தவன் முதலாம் ராஜேந்திரன்.",
+      "en": "Which of the following statements are correct?\n(i) Rajaraja I won the victory at Kandalur Salai.\n(ii) Rajaraja I led the naval expedition to Kadaram in 1025.\n(iii) Rajendra I built the Cholagangam lake."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "(ii) தவறு: கடாரப் படையெடுப்பு (1025) முதலாம் ராஜேந்திரனுடையது; அதனால் 'கடாரம் கொண்டான்'.",
+      "en": "(ii) is wrong: the Kadaram expedition (1025) was Rajendra I's, hence 'Kadaram Kondan'."
+     }
+    },
+    {
+     "id": "d005-daily-p044",
+     "subject": "gs",
+     "q": {
+      "ta": "நாகப்பட்டினம் சூடாமணி விகாரத்துக்கு முதலாம் ராஜராஜன் கொடையாக அளித்த ஊர்",
+      "en": "The village Rajaraja I granted to the Chudamani Vihara at Nagapattinam"
+     },
+     "o": [
+      {
+       "ta": "உத்திரமேரூர்",
+       "en": "Uthiramerur"
+      },
+      {
+       "ta": "ஆனைமங்கலம்",
+       "en": "Anaimangalam"
+      },
+      {
+       "ta": "தாராசுரம்",
+       "en": "Darasuram"
+      },
+      {
+       "ta": "தக்கோலம்",
+       "en": "Takkolam"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "ராஜராஜன் பௌத்த விகாரமான சூடாமணி விகாரத்துக்கு ஆனைமங்கலம் ஊரைக் கொடையாக அளித்தான்.",
+      "en": "Rajaraja I granted the village of Anaimangalam to the Buddhist Chudamani Vihara."
+     }
     }
    ]
   }

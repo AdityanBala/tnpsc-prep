@@ -2693,6 +2693,130 @@
      "x": {
       "ta": "சுட்டு எழுத்தின் முன் உயிர் வந்தால் 'வ்' தோன்றி இரட்டிக்கும்: அவ்வூர் (இ + இடம் = இவ்விடம் போல)."
      }
+    },
+    {
+     "id": "d004-daily-p048",
+     "subject": "gs",
+     "q": {
+      "ta": "'சித்திரகாரப்புலி' என்னும் பட்டம் பெற்ற பல்லவ மன்னர்",
+      "en": "The Pallava king who had the title 'Chitrakarapuli'"
+     },
+     "o": [
+      {
+       "ta": "முதலாம் நரசிம்மவர்மன்",
+       "en": "Narasimhavarman I"
+      },
+      {
+       "ta": "ராஜசிம்மன்",
+       "en": "Rajasimha"
+      },
+      {
+       "ta": "முதலாம் மகேந்திரவர்மன்",
+       "en": "Mahendravarman I"
+      },
+      {
+       "ta": "மூன்றாம் நந்திவர்மன்",
+       "en": "Nandivarman III"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "முதலாம் மகேந்திரவர்மனின் பட்டங்கள்: விசித்திரசித்தன், மத்தவிலாசன், குணபரன், சித்திரகாரப்புலி.",
+      "en": "Mahendravarman I's titles: Vichitrachitta, Mattavilasa, Gunabhara, Chitrakarapuli."
+     }
+    },
+    {
+     "id": "d004-daily-p049",
+     "subject": "gs",
+     "q": {
+      "ta": "காஞ்சி வைகுண்டப்பெருமாள் கோயிலைக் கட்டிய பல்லவ மன்னர்",
+      "en": "The Pallava king who built the Vaikunta Perumal temple at Kanchi"
+     },
+     "o": [
+      {
+       "ta": "இரண்டாம் நந்திவர்மன்",
+       "en": "Nandivarman II"
+      },
+      {
+       "ta": "இரண்டாம் நரசிம்மவர்மன்",
+       "en": "Narasimhavarman II"
+      },
+      {
+       "ta": "முதலாம் மகேந்திரவர்மன்",
+       "en": "Mahendravarman I"
+      },
+      {
+       "ta": "சிம்மவிஷ்ணு",
+       "en": "Simhavishnu"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "வைகுண்டப்பெருமாள் கோயில் இரண்டாம் நந்திவர்மன் கட்டியது; கைலாசநாதர் கோயில் ராஜசிம்மன் (இரண்டாம் நரசிம்மவர்மன்) கட்டியது.",
+      "en": "The Vaikunta Perumal temple was built by Nandivarman II; the Kailasanatha temple by Rajasimha (Narasimhavarman II)."
+     }
+    },
+    {
+     "id": "d004-daily-p050",
+     "subject": "gs",
+     "q": {
+      "ta": "பல்லவ மன்னர்களைக் கால வரிசைப்படுத்துக.\n1. சிம்மவிஷ்ணு\n2. முதலாம் நரசிம்மவர்மன்\n3. முதலாம் மகேந்திரவர்மன்\n4. ராஜசிம்மன் (இரண்டாம் நரசிம்மவர்மன்)",
+      "en": "Arrange the Pallava kings in chronological order.\n1. Simhavishnu\n2. Narasimhavarman I\n3. Mahendravarman I\n4. Rajasimha (Narasimhavarman II)"
+     },
+     "o": [
+      {
+       "ta": "1, 2, 3, 4",
+       "en": "1, 2, 3, 4"
+      },
+      {
+       "ta": "3, 1, 2, 4",
+       "en": "3, 1, 2, 4"
+      },
+      {
+       "ta": "1, 3, 4, 2",
+       "en": "1, 3, 4, 2"
+      },
+      {
+       "ta": "1, 3, 2, 4",
+       "en": "1, 3, 2, 4"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "சிம்மவிஷ்ணு → அவன் மகன் முதலாம் மகேந்திரவர்மன் → அவன் மகன் முதலாம் நரசிம்மவர்மன் (மாமல்லன்) → பின்னர் ராஜசிம்மன்.",
+      "en": "Simhavishnu → his son Mahendravarman I → his son Narasimhavarman I (Mamallan) → later Rajasimha."
+     }
+    },
+    {
+     "id": "d004-daily-p051",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: மாமல்லபுரம் கடற்கரைக் கோயில் ஒரு கட்டுமானக் கோயில்.\nகாரணம்: அதை ஒரே கல்லில் செதுக்கியவன் முதலாம் நரசிம்மவர்மன்.",
+      "en": "Assertion: The Shore Temple at Mamallapuram is a structural temple.\nReason: It was carved out of a single rock by Narasimhavarman I."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both are false"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "கூற்று சரி. காரணம் தவறு: கடற்கரைக் கோயிலைக் கட்டியவன் ராஜசிம்மன்; முதலாம் நரசிம்மவர்மன் (மாமல்லன்) காலத்தவை ஒற்றைக்கல் ரதங்கள்.",
+      "en": "The assertion is true. The reason is false: the Shore Temple was built by Rajasimha; the monolithic rathas belong to Narasimhavarman I (Mamallan)."
+     }
     }
    ]
   }
