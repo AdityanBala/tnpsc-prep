@@ -991,58 +991,54 @@
      "id": "d019-daily-035",
      "subject": "gs",
      "q": {
-      "ta": "மக்களவையில் அரசு அமைக்கத் தேவையான பெரும்பான்மை இடங்கள்",
-      "en": "The number of seats needed for a majority in the Lok Sabha to form a government is"
+      "ta": "மினர்வா மில்ஸ் வழக்குத் தீர்ப்பு வழங்கப்பட்ட ஆண்டு",
+      "en": "The year of the Minerva Mills judgment"
      },
      "o": [
       {
-       "ta": "272",
-       "en": "272"
+       "ta": "1976"
       },
       {
-       "ta": "250",
-       "en": "250"
+       "ta": "1978"
       },
       {
-       "ta": "273",
-       "en": "273"
+       "ta": "1951"
       },
       {
-       "ta": "362",
-       "en": "362"
+       "ta": "1980"
       }
      ],
-     "a": 0,
+     "a": 3,
      "x": {
-      "ta": "தேர்ந்தெடுக்கப்பட்ட இடங்கள் 543; அதில் பாதிக்கு மேல், அதாவது 272.",
-      "en": "There are 543 elected seats; more than half of them is 272."
+      "ta": "மினர்வா மில்ஸ் 1980: 42-ஆவது திருத்தத்துக்கு (1976) பின், 44-ஆவது திருத்தத்துக்கும் (1978) பின். செண்பகம் துரைராஜன் 1951.",
+      "en": "Minerva Mills, 1980: after the 42nd Amendment (1976) and the 44th (1978). Champakam Dorairajan was 1951."
      }
     },
     {
      "id": "d019-daily-036",
      "subject": "apt",
      "q": {
-      "ta": "₹ 6,000-க்கு ஆண்டுக்கு 8% தனிவட்டி வீதத்தில் 3 ஆண்டுகளுக்கான தனிவட்டி",
-      "en": "The simple interest on ₹ 6,000 at 8% a year for 3 years is"
+      "ta": "₹ 8,000-க்கு முதல் ஆண்டு 5%, இரண்டாம் ஆண்டு 10% கூட்டுவட்டி எனில் 2 ஆண்டுகளுக்குப் பின் கிடைக்கும் தொகை",
+      "en": "On ₹ 8,000 compound interest is 5% for the first year and 10% for the second. The amount after 2 years is"
      },
      "o": [
       {
-       "ta": "₹ 1,440"
+       "ta": "₹ 1,240"
       },
       {
-       "ta": "₹ 1,280"
+       "ta": "₹ 9,240"
       },
       {
-       "ta": "₹ 1,560"
+       "ta": "₹ 9,200"
       },
       {
-       "ta": "₹ 480"
+       "ta": "₹ 9,261"
       }
      ],
-     "a": 0,
+     "a": 1,
      "x": {
-      "ta": "6000 × 8 × 3 ÷ 100 = ₹ 1,440. ₹ 480 என்பது ஓராண்டு வட்டி மட்டுமே.",
-      "en": "6000 × 8 × 3 ÷ 100 = ₹ 1,440. ₹ 480 is the interest for one year only."
+      "ta": "தொகை = 8000 × 1.05 × 1.10 = ₹ 9,240. ₹ 1,240 கூட்டுவட்டி மட்டுமே; ₹ 9,200 தனிவட்டித் தொகை.",
+      "en": "Amount = 8000 × 1.05 × 1.10 = ₹ 9,240. ₹ 1,240 is only the interest; ₹ 9,200 is the simple-interest amount."
      }
     },
     {
@@ -1103,27 +1099,27 @@
      "id": "d019-daily-039",
      "subject": "apt",
      "q": {
-      "ta": "₹ 5,000-க்கு 3 ஆண்டுகளில் ₹ 1,200 தனிவட்டி கிடைக்கிறது எனில் ஆண்டு வட்டி வீதம்",
-      "en": "₹ 5,000 earns ₹ 1,200 simple interest in 3 years. The rate a year is"
+      "ta": "இருவர் போட்டியிட்ட ஒரு தேர்தலில் பதிவான வாக்குகளில் 15% செல்லாதவை. வென்றவர் செல்லத்தக்க வாக்குகளில் 58% பெற்று 2,720 வாக்கு வேறுபாட்டில் வென்றார் எனில், பதிவான மொத்த வாக்குகள்",
+      "en": "In an election between two candidates 15% of the votes polled were invalid. The winner got 58% of the valid votes and won by 2,720 votes. The total number of votes polled is"
      },
      "o": [
       {
-       "ta": "6%"
+       "ta": "17,000"
       },
       {
-       "ta": "7.5%"
+       "ta": "19,550"
       },
       {
-       "ta": "9%"
+       "ta": "20,000"
       },
       {
-       "ta": "8%"
+       "ta": "23,000"
       }
      ],
-     "a": 3,
+     "a": 2,
      "x": {
-      "ta": "r = 1200 × 100 ÷ (5000 × 3) = 8%.",
-      "en": "r = 1200 × 100 ÷ (5000 × 3) = 8%."
+      "ta": "வேறுபாடு 58% − 42% = செல்லத்தக்கவற்றின் 16% = 2,720; செல்லத்தக்கவை 17,000. அவை பதிவானவற்றின் 85%: 17000 ÷ 0.85 = 20,000.",
+      "en": "Margin 58% − 42% = 16% of the valid votes = 2,720, so valid votes = 17,000. They are 85% of the votes polled: 17000 ÷ 0.85 = 20,000."
      }
     },
     {
@@ -1408,27 +1404,27 @@
      "id": "d019-daily-050",
      "subject": "apt",
      "q": {
-      "ta": "ஒரு தேர்வில் தேர்ச்சிக்கு 35% மதிப்பெண் தேவை. 120 மதிப்பெண் பெற்ற ஒருவர் 20 மதிப்பெண்ணில் தோல்வியுற்றார் எனில் மொத்த மதிப்பெண்",
-      "en": "A pass needs 35%. A candidate who got 120 marks failed by 20. The maximum marks are"
+      "ta": "அருண், பாலு ஆகியோரின் தற்போதைய வயதுகள் முறையே 20, 32. 4 ஆண்டுகளுக்குப் பின் பாலு, அருண் வயதுகளின் விகிதம்",
+      "en": "The present ages of Arun and Balu are 20 and 32. The ratio of Balu's age to Arun's age 4 years from now is"
      },
      "o": [
       {
-       "ta": "340"
+       "ta": "2 : 3"
       },
       {
-       "ta": "350"
+       "ta": "5 : 8"
       },
       {
-       "ta": "420"
+       "ta": "3 : 2"
       },
       {
-       "ta": "400"
+       "ta": "8 : 5"
       }
      ],
-     "a": 3,
+     "a": 2,
      "x": {
-      "ta": "தேர்ச்சி மதிப்பெண் 120 + 20 = 140 = 35%; மொத்தம் 140 ÷ 0.35 = 400.",
-      "en": "Pass mark 120 + 20 = 140 = 35%; maximum 140 ÷ 0.35 = 400."
+      "ta": "4 ஆண்டுகளுக்குப் பின்: பாலு 36, அருண் 24. கேட்ட வரிசை பாலு : அருண் = 36 : 24 = 3 : 2. 2 : 3 என்பது அருண் : பாலு.",
+      "en": "In 4 years Balu is 36 and Arun 24. In the order asked, Balu : Arun = 36 : 24 = 3 : 2. 2 : 3 is Arun : Balu."
      }
     }
    ],
