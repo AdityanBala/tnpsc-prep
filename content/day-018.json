@@ -38,8 +38,8 @@
     "en": "Compound interest: half-yearly, and the difference from simple interest"
    },
    "md": {
-    "ta": "நேற்று கூட்டுவட்டியின் சூத்திரம் படித்தீர்கள். இன்று அரையாண்டு, காலாண்டுக் கூட்டுவட்டியும், கூட்டுவட்டிக்கும் தனிவட்டிக்கும் உள்ள வேறுபாடும். TNPSC தேர்வுகளில் 'வேறுபாடு' கணக்கு மீண்டும் மீண்டும் கேட்கப்படுகிறது.\n\n### நேர மேலாண்மை\n\n- முந்தைய தேர்வு ஒன்றில் திறனறிவின் கடைசி வினாக்களுக்கு நேரம் போதவில்லை. 28-ஆம் நிமிடத்துக்குள் திறனறிவைத் தொடங்கவும்.\n- ஒரு கணக்குக்கு ஒன்றரை நிமிடம். அதற்கு மேல் ஆனால் ஒரு விடையைத் தேர்ந்தெடுத்துவிட்டு அடுத்ததுக்குச் செல்லவும்; நேரம் இருந்தால் இறுதியில் திரும்பவும்.\n- இன்றைய சூத்திரங்கள் கணக்கை இரண்டு வரிகளில் முடிக்க உதவுபவை; நீண்ட வழியில் CI, SI இரண்டையும் தனித்தனியாகக் கணக்கிட வேண்டாம்.\n\n### அரையாண்டு, காலாண்டுக் கூட்டுவட்டி\n\n- அரையாண்டுக்கு ஒருமுறை: வீதம் r/2, காலம் 2n முறை. A = P × (1 + r/200)^(2n).\n- காலாண்டுக்கு ஒருமுறை: வீதம் r/4, காலம் 4n முறை. A = P × (1 + r/400)^(4n).\n- ₹ 8,000; 10%; 1 ஆண்டு; அரையாண்டுக்கு ஒருமுறை: 8000 × 1.05 × 1.05 = ₹ 8,820; கூட்டுவட்டி ₹ 820. ஆண்டுக்கு ஒருமுறை என்றால் ₹ 800 மட்டுமே.\n- ₹ 16,000; 20%; 9 மாதம்; காலாண்டுக்கு ஒருமுறை: 5% வீதம், 3 முறை: 16000 × 1.05³ = ₹ 18,522.\n\n### கூட்டுவட்டி – தனிவட்டி வேறுபாடு\n\n| காலம் | வேறுபாடு | எடுத்துக்காட்டு |\n| --- | --- | --- |\n| 2 ஆண்டு | P × (r/100)² | ₹ 5,000, 10%: 5000 × 0.01 = ₹ 50 |\n| 3 ஆண்டு | P × (r/100)² × (3 + r/100) | ₹ 10,000, 10%: 10000 × 0.01 × 3.1 = ₹ 310 |\n\n- ஏன் இப்படி: 2 ஆண்டுகளில் கூடுதல் என்பது முதல் ஆண்டு வட்டிக்கு இரண்டாம் ஆண்டில் கிடைக்கும் வட்டி மட்டுமே. ₹ 5,000, 10%: முதல் ஆண்டு வட்டி 500; அதன் 10% = 50.\n- வேறுபாடு தரப்பட்டு அசல் கேட்டால் வகுக்கவும்: 2 ஆண்டு, 5%, வேறுபாடு ₹ 25: P = 25 ÷ 0.0025 = ₹ 10,000.\n\n### 2 ஆண்டுத் தனிவட்டியும் கூட்டுவட்டியும் தெரிந்தால்\n\n- ஓராண்டு வட்டி = தனிவட்டி ÷ 2. கூடுதல் (CI − SI) என்பது அந்த ஓராண்டு வட்டிக்கான வட்டி.\n- SI ₹ 400, CI ₹ 420: ஓராண்டு வட்டி 200; 20 ÷ 200 = 10%; அசல் = 200 ÷ 0.1 = ₹ 2,000.\n\n### அடுத்தடுத்த ஆண்டுகளின் தொகைகள்\n\n- 2 ஆண்டில் ₹ 4,840, 3 ஆண்டில் ₹ 5,324: 5324 ÷ 4840 = 1.1, எனவே வீதம் 10%; அசல் = 4840 ÷ 1.21 = ₹ 4,000.\n\n### சமன்பாடு நினைவூட்டல்\n\n- மாறி உள்ள உறுப்புகளை ஒரு பக்கமும் எண்களை மறுபக்கமும் கொண்டுசெல்லவும்: 2(x − 1) = x + 5 ⇒ 2x − 2 = x + 5 ⇒ x = 7.\n\n### முந்தைய தேர்வுகளில் கவனிக்க\n\n- 'விட' என்னும் சொல்லுக்கு நேர் முன் வரும் அளவே அடிப்படை (100). A, B-ஐ விட 20% அதிகம் எனில் B, A-ஐ விட 20 ÷ 120 = 16 2/3% குறைவு.\n- தேர்தல்: முதலில் செல்லாத வாக்குகளை நீக்கவும்; விழுக்காடு செல்லத்தக்க வாக்குகளின் மீது மட்டுமே.\n- தேர்ச்சி மதிப்பெண்: a% பெற்றவர் p-இல் தோல்வி, b% பெற்றவர் தேர்ச்சியை விட q அதிகம் எனில் (b − a)% = p + q.\n\n### தேர்வில் கவனிக்க\n\n- 'அரையாண்டுக்கு ஒருமுறை' என்றால் வீதத்தைப் பாதியாக்கி, முறைகளை இரு மடங்காக்கவும்; இரண்டில் ஒன்றை மட்டும் மாற்றுவது பொதுவான தவறு.\n- 'தொகை' கேட்கிறார்களா, 'கூட்டுவட்டி' மட்டும் கேட்கிறார்களா என்று பார்க்கவும்; இரண்டும் விடைகளில் இருக்கும்.",
-    "en": "Yesterday you learned the compound interest formula. Today: interest compounded half-yearly and quarterly, and the difference between compound and simple interest. The 'difference' sum is asked again and again in TNPSC papers.\n\n### Managing time\n\n- In an earlier test the time ran out for the last aptitude questions. Start the aptitude part by minute 28.\n- Allow a minute and a half per sum. If it takes longer, pick an answer and move on; come back at the end if there is time.\n- Today's formulas finish a sum in two lines; do not work out the CI and the SI separately the long way.\n\n### Half-yearly and quarterly compounding\n\n- Half-yearly: rate r/2, 2n periods. A = P × (1 + r/200)^(2n).\n- Quarterly: rate r/4, 4n periods. A = P × (1 + r/400)^(4n).\n- ₹ 8,000 at 10% for 1 year, compounded half-yearly: 8000 × 1.05 × 1.05 = ₹ 8,820; CI ₹ 820. Compounded yearly it would be only ₹ 800.\n- ₹ 16,000 at 20% for 9 months, compounded quarterly: 5% for 3 periods: 16000 × 1.05³ = ₹ 18,522.\n\n### Difference between compound and simple interest\n\n| Time | Difference | Example |\n| --- | --- | --- |\n| 2 years | P × (r/100)² | ₹ 5,000 at 10%: 5000 × 0.01 = ₹ 50 |\n| 3 years | P × (r/100)² × (3 + r/100) | ₹ 10,000 at 10%: 10000 × 0.01 × 3.1 = ₹ 310 |\n\n- Why: over 2 years the extra is only the second year's interest on the first year's interest. ₹ 5,000 at 10%: first-year interest 500; 10% of that is 50.\n- If the difference is given and the principal is asked, divide: 2 years, 5%, difference ₹ 25: P = 25 ÷ 0.0025 = ₹ 10,000.\n\n### When the 2-year SI and CI are given\n\n- One year's interest = SI ÷ 2. The extra (CI − SI) is the interest on that one year's interest.\n- SI ₹ 400, CI ₹ 420: one year's interest 200; 20 ÷ 200 = 10%; principal = 200 ÷ 0.1 = ₹ 2,000.\n\n### Amounts in successive years\n\n- ₹ 4,840 after 2 years and ₹ 5,324 after 3: 5324 ÷ 4840 = 1.1, so the rate is 10%; principal = 4840 ÷ 1.21 = ₹ 4,000.\n\n### Equations: a reminder\n\n- Move the terms with the variable to one side and the numbers to the other: 2(x − 1) = x + 5, so 2x − 2 = x + 5, so x = 7.\n\n### Points from earlier tests\n\n- The quantity just before 'than' is the base (100). If A is 20% more than B, B is 20 ÷ 120 = 16 2/3% less than A.\n- Elections: remove the invalid votes first; the percentages are of the valid votes only.\n- Pass marks: if a% fails by p and b% passes by q, then (b − a)% = p + q.\n\n### Watch for in the exam\n\n- 'Compounded half-yearly' means halve the rate and double the number of periods; changing only one of them is a common mistake.\n- Check whether they ask for the amount or only the compound interest; both will be among the options."
+    "ta": "நேற்று கூட்டுவட்டியின் சூத்திரம் படித்தீர்கள். இன்று அரையாண்டு, காலாண்டுக் கூட்டுவட்டியும், கூட்டுவட்டிக்கும் தனிவட்டிக்கும் உள்ள வேறுபாடும். TNPSC தேர்வுகளில் 'வேறுபாடு' கணக்கு மீண்டும் மீண்டும் கேட்கப்படுகிறது.\n\n\n### நேற்றைய பாடத்தில் கவனிக்க\n\n- வினா **வட்டி** கேட்கிறதா, **தொகை** கேட்கிறதா என்று முதலில் பார்க்கவும். தொகை = அசல் + வட்டி. 'கடனை அடைக்கச் செலுத்த வேண்டியது', 'கிடைக்கும் தொகை' என்றால் தொகை.\n- விடைகளில் வட்டியும் தொகையும் இரண்டுமே இருக்கும்; அதுதான் பொறி. ₹ 5,000, 20%, 3 ஆண்டு கூட்டுவட்டி: தொகை ₹ 8,640; கூட்டுவட்டி ₹ 3,640.\n- ஒவ்வோர் ஆண்டும் வெவ்வேறு வீதம்: 10000 × 1.1 × 1.2 = ₹ 13,200 (தொகை); கூட்டுவட்டி ₹ 3,200.\n- தேர்தல்: வேறுபாடு → செல்லத்தக்கவை → பதிவானவை என இரண்டு படிகள். செல்லத்தக்கவை 13,500, செல்லாதவை 10%: பதிவானவை 13,500 ÷ 0.9 = 15,000. முதல் படியில் நின்றுவிட வேண்டாம்.\n- விகிதத்தைக் கேட்ட வரிசையிலேயே எழுதவும்: 'P₁ : P₂', 'உஷா : ரீனா' என்றால் முதலில் கேட்கப்பட்டவரே முதலில். 20 P₁ = 10 P₂ எனில் P₁ : P₂ = 10 : 20 = 1 : 2.\n- வயதுக் கணக்கு: ஒவ்வொருவரின் வயதிலிருந்தும் அதே ஆண்டுகளைக் கழிக்கவும் (அல்லது கூட்டவும்), பின் விகிதம். விடைகளைப் போட்டுச் சரிபார்ப்பது விரைவானது.\n- கடந்த இரு தேர்வுகளில் நான்கு வினாக்கள் விடையின்றி விடப்பட்டன. தவறான விடைக்கு மதிப்பெண் குறைப்பு இல்லை; ஒவ்வொரு வினாவுக்கும் ஒரு விடையைத் தேர்ந்தெடுக்கவும்.\n\n### நேர மேலாண்மை\n\n- முந்தைய தேர்வு ஒன்றில் திறனறிவின் கடைசி வினாக்களுக்கு நேரம் போதவில்லை. 28-ஆம் நிமிடத்துக்குள் திறனறிவைத் தொடங்கவும்.\n- ஒரு கணக்குக்கு ஒன்றரை நிமிடம். அதற்கு மேல் ஆனால் ஒரு விடையைத் தேர்ந்தெடுத்துவிட்டு அடுத்ததுக்குச் செல்லவும்; நேரம் இருந்தால் இறுதியில் திரும்பவும்.\n- இன்றைய சூத்திரங்கள் கணக்கை இரண்டு வரிகளில் முடிக்க உதவுபவை; நீண்ட வழியில் CI, SI இரண்டையும் தனித்தனியாகக் கணக்கிட வேண்டாம்.\n\n### அரையாண்டு, காலாண்டுக் கூட்டுவட்டி\n\n- அரையாண்டுக்கு ஒருமுறை: வீதம் r/2, காலம் 2n முறை. A = P × (1 + r/200)^(2n).\n- காலாண்டுக்கு ஒருமுறை: வீதம் r/4, காலம் 4n முறை. A = P × (1 + r/400)^(4n).\n- ₹ 8,000; 10%; 1 ஆண்டு; அரையாண்டுக்கு ஒருமுறை: 8000 × 1.05 × 1.05 = ₹ 8,820; கூட்டுவட்டி ₹ 820. ஆண்டுக்கு ஒருமுறை என்றால் ₹ 800 மட்டுமே.\n- ₹ 16,000; 20%; 9 மாதம்; காலாண்டுக்கு ஒருமுறை: 5% வீதம், 3 முறை: 16000 × 1.05³ = ₹ 18,522.\n\n### கூட்டுவட்டி – தனிவட்டி வேறுபாடு\n\n| காலம் | வேறுபாடு | எடுத்துக்காட்டு |\n| --- | --- | --- |\n| 2 ஆண்டு | P × (r/100)² | ₹ 5,000, 10%: 5000 × 0.01 = ₹ 50 |\n| 3 ஆண்டு | P × (r/100)² × (3 + r/100) | ₹ 10,000, 10%: 10000 × 0.01 × 3.1 = ₹ 310 |\n\n- ஏன் இப்படி: 2 ஆண்டுகளில் கூடுதல் என்பது முதல் ஆண்டு வட்டிக்கு இரண்டாம் ஆண்டில் கிடைக்கும் வட்டி மட்டுமே. ₹ 5,000, 10%: முதல் ஆண்டு வட்டி 500; அதன் 10% = 50.\n- வேறுபாடு தரப்பட்டு அசல் கேட்டால் வகுக்கவும்: 2 ஆண்டு, 5%, வேறுபாடு ₹ 25: P = 25 ÷ 0.0025 = ₹ 10,000.\n\n### 2 ஆண்டுத் தனிவட்டியும் கூட்டுவட்டியும் தெரிந்தால்\n\n- ஓராண்டு வட்டி = தனிவட்டி ÷ 2. கூடுதல் (CI − SI) என்பது அந்த ஓராண்டு வட்டிக்கான வட்டி.\n- SI ₹ 400, CI ₹ 420: ஓராண்டு வட்டி 200; 20 ÷ 200 = 10%; அசல் = 200 ÷ 0.1 = ₹ 2,000.\n\n### அடுத்தடுத்த ஆண்டுகளின் தொகைகள்\n\n- 2 ஆண்டில் ₹ 4,840, 3 ஆண்டில் ₹ 5,324: 5324 ÷ 4840 = 1.1, எனவே வீதம் 10%; அசல் = 4840 ÷ 1.21 = ₹ 4,000.\n\n### சமன்பாடு நினைவூட்டல்\n\n- மாறி உள்ள உறுப்புகளை ஒரு பக்கமும் எண்களை மறுபக்கமும் கொண்டுசெல்லவும்: 2(x − 1) = x + 5 ⇒ 2x − 2 = x + 5 ⇒ x = 7.\n\n### முந்தைய தேர்வுகளில் கவனிக்க\n\n- 'விட' என்னும் சொல்லுக்கு நேர் முன் வரும் அளவே அடிப்படை (100). A, B-ஐ விட 20% அதிகம் எனில் B, A-ஐ விட 20 ÷ 120 = 16 2/3% குறைவு.\n- தேர்தல்: முதலில் செல்லாத வாக்குகளை நீக்கவும்; விழுக்காடு செல்லத்தக்க வாக்குகளின் மீது மட்டுமே.\n- தேர்ச்சி மதிப்பெண்: a% பெற்றவர் p-இல் தோல்வி, b% பெற்றவர் தேர்ச்சியை விட q அதிகம் எனில் (b − a)% = p + q.\n\n### தேர்வில் கவனிக்க\n\n- 'அரையாண்டுக்கு ஒருமுறை' என்றால் வீதத்தைப் பாதியாக்கி, முறைகளை இரு மடங்காக்கவும்; இரண்டில் ஒன்றை மட்டும் மாற்றுவது பொதுவான தவறு.\n- 'தொகை' கேட்கிறார்களா, 'கூட்டுவட்டி' மட்டும் கேட்கிறார்களா என்று பார்க்கவும்; இரண்டும் விடைகளில் இருக்கும்.",
+    "en": "Yesterday you learned the compound interest formula. Today: interest compounded half-yearly and quarterly, and the difference between compound and simple interest. The 'difference' sum is asked again and again in TNPSC papers.\n\n\n### From yesterday's lesson\n\n- First check whether the question asks for the **interest** or the **amount**. Amount = principal + interest. 'Paid to clear the loan' or 'the amount received' means the amount.\n- Both the interest and the amount are among the options; that is the trap. ₹ 5,000 at 20% for 3 years compound interest: amount ₹ 8,640; CI ₹ 3,640.\n- A different rate each year: 10000 × 1.1 × 1.2 = ₹ 13,200 (amount); CI ₹ 3,200.\n- Elections take two steps: margin → valid votes → votes polled. Valid votes 13,500 with 10% invalid: polled = 13,500 ÷ 0.9 = 15,000. Do not stop after the first step.\n- Write a ratio in the order asked: for 'P₁ : P₂' or 'Usha : Reena' the one named first comes first. If 20 P₁ = 10 P₂ then P₁ : P₂ = 10 : 20 = 1 : 2.\n- Age sums: subtract (or add) the same years from each person's age, then take the ratio. Trying the options is quicker.\n- Four questions were left blank in the last two tests. There is no penalty for a wrong answer; choose an answer for every question.\n\n### Managing time\n\n- In an earlier test the time ran out for the last aptitude questions. Start the aptitude part by minute 28.\n- Allow a minute and a half per sum. If it takes longer, pick an answer and move on; come back at the end if there is time.\n- Today's formulas finish a sum in two lines; do not work out the CI and the SI separately the long way.\n\n### Half-yearly and quarterly compounding\n\n- Half-yearly: rate r/2, 2n periods. A = P × (1 + r/200)^(2n).\n- Quarterly: rate r/4, 4n periods. A = P × (1 + r/400)^(4n).\n- ₹ 8,000 at 10% for 1 year, compounded half-yearly: 8000 × 1.05 × 1.05 = ₹ 8,820; CI ₹ 820. Compounded yearly it would be only ₹ 800.\n- ₹ 16,000 at 20% for 9 months, compounded quarterly: 5% for 3 periods: 16000 × 1.05³ = ₹ 18,522.\n\n### Difference between compound and simple interest\n\n| Time | Difference | Example |\n| --- | --- | --- |\n| 2 years | P × (r/100)² | ₹ 5,000 at 10%: 5000 × 0.01 = ₹ 50 |\n| 3 years | P × (r/100)² × (3 + r/100) | ₹ 10,000 at 10%: 10000 × 0.01 × 3.1 = ₹ 310 |\n\n- Why: over 2 years the extra is only the second year's interest on the first year's interest. ₹ 5,000 at 10%: first-year interest 500; 10% of that is 50.\n- If the difference is given and the principal is asked, divide: 2 years, 5%, difference ₹ 25: P = 25 ÷ 0.0025 = ₹ 10,000.\n\n### When the 2-year SI and CI are given\n\n- One year's interest = SI ÷ 2. The extra (CI − SI) is the interest on that one year's interest.\n- SI ₹ 400, CI ₹ 420: one year's interest 200; 20 ÷ 200 = 10%; principal = 200 ÷ 0.1 = ₹ 2,000.\n\n### Amounts in successive years\n\n- ₹ 4,840 after 2 years and ₹ 5,324 after 3: 5324 ÷ 4840 = 1.1, so the rate is 10%; principal = 4840 ÷ 1.21 = ₹ 4,000.\n\n### Equations: a reminder\n\n- Move the terms with the variable to one side and the numbers to the other: 2(x − 1) = x + 5, so 2x − 2 = x + 5, so x = 7.\n\n### Points from earlier tests\n\n- The quantity just before 'than' is the base (100). If A is 20% more than B, B is 20 ÷ 120 = 16 2/3% less than A.\n- Elections: remove the invalid votes first; the percentages are of the valid votes only.\n- Pass marks: if a% fails by p and b% passes by q, then (b − a)% = p + q.\n\n### Watch for in the exam\n\n- 'Compounded half-yearly' means halve the rate and double the number of periods; changing only one of them is a common mistake.\n- Check whether they ask for the amount or only the compound interest; both will be among the options."
    }
   }
  ],
@@ -532,25 +532,25 @@
      "id": "d018-daily-020",
      "subject": "tamil",
      "q": {
-      "ta": "பிழையற்ற தொடரைத் தேர்ந்தெடுக்க."
+      "ta": "அகர வரிசைப்படி அமைந்துள்ள சொற்களைத் தேர்ந்தெடுக்கவும்"
      },
      "o": [
       {
-       "ta": "நீ நாளை வருவீர்கள்."
+       "ta": "மழை, மலை, மறை, மனை"
       },
       {
-       "ta": "குழந்தைகள் தோட்டத்தில் விளையாடினர்."
+       "ta": "மலை, மழை, மறை, மனை"
       },
       {
-       "ta": "அவள் நேற்று பாடினான்."
+       "ta": "மலை, மறை, மழை, மனை"
       },
       {
-       "ta": "நான் நாளை வந்தேன்."
+       "ta": "மனை, மலை, மழை, மறை"
       }
      ],
      "a": 1,
      "x": {
-      "ta": "'குழந்தைகள்' பலர்பால்; 'விளையாடினர்' பொருந்துகிறது. நீ – வருவாய்; அவள் – பாடினாள்; நாளை – வருவேன்."
+      "ta": "முதல் எழுத்து 'ம' எல்லாவற்றிலும் ஒன்று; இரண்டாம் எழுத்தின் வரிசை ல, ழ, ற, ன (ய ர ல வ ழ ள ற ன). எனவே மலை, மழை, மறை, மனை."
      }
     },
     {
@@ -708,27 +708,31 @@
      "id": "d018-daily-026",
      "subject": "gs",
      "q": {
-      "ta": "மாநிலங்களவைக்குக் குடியரசுத் தலைவர் நியமிக்கும் உறுப்பினர்களின் எண்ணிக்கை",
-      "en": "The number of members the President nominates to the Rajya Sabha is"
+      "ta": "வள்ளலார் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) சமரச சுத்த சன்மார்க்க சத்திய சங்கத்தை 1865-இல் நிறுவினார்.\n(ii) வடலூரில் சத்திய தருமச்சாலையை 1867-இல் நிறுவினார்.\n(iii) சத்திய ஞான சபையை 1860-இல், சங்கத்துக்கு முன்பே நிறுவினார்.",
+      "en": "Which of the statements about Vallalar are correct?\n(i) He founded the Samarasa Suddha Sanmarga Sathya Sangam in 1865.\n(ii) He founded the Sathya Dharmasalai at Vadalur in 1867.\n(iii) He founded the Sathya Gnana Sabai in 1860, before the Sangam."
      },
      "o": [
       {
-       "ta": "2"
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
       },
       {
-       "ta": "12"
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
       },
       {
-       "ta": "10"
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
       },
       {
-       "ta": "14"
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
       }
      ],
-     "a": 1,
+     "a": 0,
      "x": {
-      "ta": "உறுப்பு 80: கலை, இலக்கியம், அறிவியல், சமூகசேவைத் துறைகளிலிருந்து 12 பேர். மக்களவைக்கு இரு ஆங்கிலோ-இந்தியரை நியமிக்கும் முறை 104-ஆவது திருத்தத்தால் (2019) நீக்கப்பட்டது.",
-      "en": "Article 80: 12 persons from art, literature, science and social service. The nomination of two Anglo-Indians to the Lok Sabha was ended by the 104th Amendment (2019)."
+      "ta": "(iii) தவறு: சத்திய ஞான சபை 1872-இல், மூன்றில் கடைசியாக நிறுவப்பட்டது. வரிசை: சங்கம் 1865, தருமச்சாலை 1867, ஞான சபை 1872.",
+      "en": "(iii) is wrong: the Sathya Gnana Sabai came in 1872, the last of the three. Order: Sangam 1865, Dharmasalai 1867, Gnana Sabai 1872."
      }
     },
     {
@@ -886,31 +890,31 @@
      "id": "d018-daily-032",
      "subject": "gs",
      "q": {
-      "ta": "கூற்று: திருமலை நாயக்கர் மகால் தஞ்சாவூரில் உள்ளது.\nகாரணம்: திருமலை நாயக்கர் தஞ்சாவூர் நாயக்கர்களுள் தலைசிறந்தவர்.",
-      "en": "Assertion: The Thirumalai Nayak Mahal is in Thanjavur.\nReason: Thirumalai Nayak was the greatest of the Thanjavur Nayaks."
+      "ta": "கூற்று: தேசிய நெருக்கடி நிலையின்போதும் உறுப்புகள் 20, 21 தரும் உரிமைகளை நிறுத்திவைக்க முடியாது.\nகாரணம்: 44-ஆவது அரசியலமைப்புத் திருத்தம் (1978) இந்தப் பாதுகாப்பைச் சேர்த்தது.",
+      "en": "Assertion: Even during a national emergency the rights given by Articles 20 and 21 cannot be suspended.\nReason: The 44th Constitutional Amendment (1978) added this protection."
      },
      "o": [
       {
-       "ta": "கூற்று, காரணம் இரண்டும் சரி",
-       "en": "Both Assertion and Reason are true"
-      },
-      {
        "ta": "கூற்று சரி, காரணம் தவறு",
-       "en": "Assertion is true, Reason is false"
+       "en": "The assertion is true, the reason is false"
       },
       {
-       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
-       "en": "Both Assertion and Reason are false"
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
       },
       {
        "ta": "கூற்று தவறு, காரணம் சரி",
-       "en": "Assertion is false, Reason is true"
+       "en": "The assertion is false, the reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both are false"
       }
      ],
-     "a": 2,
+     "a": 1,
      "x": {
-      "ta": "இரண்டும் தவறு. திருமலை நாயக்கர் மதுரை நாயக்கர்களுள் தலைசிறந்தவர்; மகால் மதுரையில் உள்ளது. தஞ்சாவூரின் தலைசிறந்தவர் இரகுநாத நாயக்கர்.",
-      "en": "Both are false. Thirumalai was the greatest Madurai Nayak and the Mahal is in Madurai. The greatest Thanjavur Nayak was Raghunatha."
+      "ta": "இரண்டும் சரி: 1975 நெருக்கடி நிலையின் அனுபவத்துக்குப் பின் 44-ஆவது திருத்தம் (1978) உறுப்புகள் 20, 21-ஐ நிறுத்திவைக்க முடியாதவை ஆக்கியது.",
+      "en": "Both are true: after the 1975 Emergency, the 44th Amendment (1978) made Articles 20 and 21 non-suspendable."
      }
     },
     {
@@ -1311,81 +1315,81 @@
      "id": "d018-daily-047",
      "subject": "apt",
      "q": {
-      "ta": "A-இன் வருமானம் B-இன் வருமானத்தை விட 20% குறைவு எனில், B-இன் வருமானம் A-இன் வருமானத்தை விட எத்தனை விழுக்காடு அதிகம்?",
-      "en": "A's income is 20% less than B's. By what percentage is B's income more than A's?"
+      "ta": "₹ 6,250-க்கு ஆண்டுக்கு 8% கூட்டுவட்டியில் 2 ஆண்டுகளுக்குப் பின் கிடைக்கும் தொகை",
+      "en": "The amount on ₹ 6,250 at 8% a year compound interest after 2 years is"
      },
      "o": [
       {
-       "ta": "20%"
+       "ta": "₹ 1,040"
       },
       {
-       "ta": "25%"
+       "ta": "₹ 7,250"
       },
       {
-       "ta": "16 2/3%"
+       "ta": "₹ 7,290"
       },
       {
-       "ta": "30%"
+       "ta": "₹ 1,000"
       }
      ],
-     "a": 1,
+     "a": 2,
      "x": {
-      "ta": "'விட' முன் உள்ள B அடிப்படை: B = 100, A = 80. B, A-ஐ விட 20 ÷ 80 = 25% அதிகம்.",
-      "en": "B, just before 'than', is the base: B = 100, A = 80. B is 20 ÷ 80 = 25% more than A."
+      "ta": "தொகை = 6250 × 1.08 × 1.08 = ₹ 7,290. ₹ 1,040 கூட்டுவட்டி மட்டுமே; ₹ 7,250 தனிவட்டித் தொகை.",
+      "en": "Amount = 6250 × 1.08 × 1.08 = ₹ 7,290. ₹ 1,040 is only the interest; ₹ 7,250 is the simple-interest amount."
      }
     },
     {
      "id": "d018-daily-048",
      "subject": "apt",
      "q": {
-      "ta": "இருவர் போட்டியிட்ட தேர்தலில் 12,000 வாக்குகள் பதிவாயின; அவற்றில் 5% செல்லாதவை. வென்றவர் செல்லத்தக்க வாக்குகளில் 55% பெற்றார் எனில் அவர் வென்ற வாக்கு வித்தியாசம்",
-      "en": "In an election between two candidates 12,000 votes were polled, of which 5% were invalid. The winner got 55% of the valid votes. His winning margin was"
+      "ta": "இருவர் போட்டியிட்ட ஒரு தேர்தலில் பதிவான வாக்குகளில் 20% செல்லாதவை. வென்றவர் செல்லத்தக்க வாக்குகளில் 60% பெற்று 1,600 வாக்கு வேறுபாட்டில் வென்றார் எனில், பதிவான மொத்த வாக்குகள்",
+      "en": "In an election between two candidates 20% of the votes polled were invalid. The winner got 60% of the valid votes and won by 1,600 votes. The total number of votes polled is"
      },
      "o": [
       {
-       "ta": "1,200"
+       "ta": "8,000"
       },
       {
-       "ta": "6,270"
+       "ta": "9,600"
       },
       {
-       "ta": "1,140"
+       "ta": "12,000"
       },
       {
-       "ta": "570"
+       "ta": "10,000"
       }
      ],
-     "a": 2,
+     "a": 3,
      "x": {
-      "ta": "செல்லத்தக்கவை 11,400. வித்தியாசம் = 55% − 45% = 10% × 11,400 = 1,140.",
-      "en": "Valid votes 11,400. Margin = 55% − 45% = 10% of 11,400 = 1,140."
+      "ta": "வேறுபாடு 60% − 40% = செல்லத்தக்கவற்றின் 20% = 1,600; செல்லத்தக்கவை 8,000. அவை பதிவானவற்றின் 80%: 8000 ÷ 0.8 = 10,000.",
+      "en": "Margin 60% − 40% = 20% of the valid votes = 1,600, so valid votes = 8,000. They are 80% of the votes polled: 8000 ÷ 0.8 = 10,000."
      }
     },
     {
      "id": "d018-daily-049",
      "subject": "apt",
      "q": {
-      "ta": "ஒரு தேர்வில் 30% மதிப்பெண் பெற்றவர் 30 மதிப்பெண்ணில் தோல்வியுற்றார். 42% பெற்றவர் தேர்ச்சி மதிப்பெண்ணை விட 30 மதிப்பெண் கூடுதல் பெற்றார் எனில் மொத்த மதிப்பெண்",
-      "en": "In an exam, a candidate who scored 30% failed by 30 marks, and one who scored 42% got 30 marks more than the pass mark. The maximum marks are"
+      "ta": "₹ 12,000-க்கு ஆண்டுக்கு 7½% தனிவட்டியில் 2 ஆண்டுகளுக்கான வட்டி",
+      "en": "The simple interest on ₹ 12,000 at 7½% a year for 2 years is"
      },
      "o": [
       {
-       "ta": "600"
+       "ta": "₹ 1,800"
       },
       {
-       "ta": "250"
+       "ta": "₹ 13,800"
       },
       {
-       "ta": "400"
+       "ta": "₹ 900"
       },
       {
-       "ta": "500"
+       "ta": "₹ 12,900"
       }
      ],
-     "a": 3,
+     "a": 0,
      "x": {
-      "ta": "(42 − 30)% = 30 + 30 = 60; 12% = 60, எனவே மொத்தம் 500. (தேர்ச்சி மதிப்பெண் 180.)",
-      "en": "(42 − 30)% = 30 + 30 = 60; 12% = 60, so the total is 500. (The pass mark is 180.)"
+      "ta": "வட்டி = 12000 × 7.5 × 2 ÷ 100 = ₹ 1,800. ₹ 13,800 என்பது 2 ஆண்டுத் தொகை; ₹ 900 ஓராண்டு வட்டி; ₹ 12,900 ஓராண்டுத் தொகை.",
+      "en": "Interest = 12000 × 7.5 × 2 ÷ 100 = ₹ 1,800. ₹ 13,800 is the 2-year amount; ₹ 900 is one year's interest; ₹ 12,900 is the amount after one year."
      }
     },
     {
