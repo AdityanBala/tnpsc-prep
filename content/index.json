@@ -184,6 +184,14 @@
     "ta": "தொடர் வகைகள் · நீதித்துறை · பரப்பளவு 2",
     "en": "Kinds of sentences · Judiciary · Area 2"
    }
+  },
+  {
+   "n": 24,
+   "file": "day-024.json",
+   "title": {
+    "ta": "வினை வகைகள் · உள்ளாட்சி · சுற்றளவு",
+    "en": "Kinds of verbs · Local government · Perimeter"
+   }
   }
  ]
 }
