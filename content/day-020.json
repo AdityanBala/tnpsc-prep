@@ -38,8 +38,8 @@
     "en": "Ratio, percentage and interest: mixed practice"
    },
    "md": {
-    "ta": "விகிதம் (நாள் 12, 13), விழுக்காடு (நாள் 2, 3), வட்டி (நாள் 15 முதல் 19) ஆகியவற்றைக் கலந்த பயிற்சி இன்று. உங்கள் தவறுகள் அதிகம் வந்த இரண்டு வகைகள் (வருமான–செலவு விகிதம், விலை மாறினால் நுகர்வு) முதலில்.\n\n### நேர மேலாண்மை\n\n- 28-ஆம் நிமிடத்துக்குள் திறனறிவைத் தொடங்கவும். ஒரு கணக்குக்கு ஒன்றரை நிமிடம்; நீண்டால் ஒரு விடையைத் தேர்ந்தெடுத்துவிட்டு அடுத்ததுக்குச் செல்லவும். எந்த வினாவையும் விடையின்றி விட வேண்டாம்.\n\n### வருமானம், செலவு, சேமிப்பு\n\n- வருமானம் − செலவு = சேமிப்பு. வருமானங்களை ax, bx; செலவுகளை cy, dy எனக் கொள்க.\n- எடுத்துக்காட்டு: வருமானம் 5 : 3, செலவு 9 : 5, இருவரும் ₹ 2,000 சேமிப்பு. 5x − 9y = 2000; 3x − 5y = 2000. இரண்டும் சமம் என்பதால் 5x − 9y = 3x − 5y ⇒ 2x = 4y ⇒ x = 2y. பின் 3(2y) − 5y = 2000 ⇒ y = 2000, x = 4000. A-யின் வருமானம் 5 × 4000 = ₹ 20,000.\n- விரைவுச் சோதனை: ஒவ்வொரு விடையையும் வருமானமாக வைத்து, செலவு விகிதத்துக்குப் பொருந்துகிறதா என்று பார்க்கலாம்.\n\n### விலை மாறினால் நுகர்வு\n\n| விலை மாற்றம் | செலவு மாறாமல் இருக்க நுகர்வு |\n| --- | --- |\n| r% உயர்வு | r ÷ (100 + r) × 100 குறைக்க |\n| r% குறைவு | r ÷ (100 − r) × 100 கூட்டலாம் |\n\n- 20% உயர்வு → 16 2/3% குறைப்பு; 25% உயர்வு → 20%; 50% உயர்வு → 33 1/3%. 20% குறைவு → 25% கூடுதல். அதே r% உள்ள விடை பொறி.\n- 'கூடுதலாக k கிலோ' வகை: மொத்தத் தொகையின் r% = k கிலோவின் புதிய விலை. ₹ 450, 10% குறைவு, 1 கிலோ கூடுதல்: 45 ÷ 1 = ₹ 45 புதிய விலை; பழைய விலை 45 ÷ 0.9 = ₹ 50.\n\n### அடுத்தடுத்த விழுக்காட்டு மாற்றம்\n\n- a%, பின் b% எனில் நிகர மாற்றம் a + b + ab ÷ 100. குறைவுக்கு எதிர்க்குறி.\n- 10% உயர்வு, பின் 10% குறைவு: 10 − 10 − 1 = 1% குறைவு; மாற்றம் இல்லை என்பது தவறு.\n- சேமிப்பு மாற்றம்: வருமானம் 100, செலவு 75, சேமிப்பு 25 என எண்களை வைத்துக் கணக்கிடவும்.\n\n### விகிதம்: விரைவு வழிகள்\n\n- T-ஐ a : b : c ஆகப் பிரிக்க: ஒரு பங்கு = T ÷ (a + b + c). ₹ 1,800-ஐ 2 : 3 : 4 → ஒரு பங்கு 200; C = 800.\n- A : B = 3 : 4, B : C = 6 : 7 → B-ஐ 12 ஆக்கவும்: 9 : 12 : 14.\n- இரு எண்களுக்கும் ஒரே எண்ணைக் கூட்டினால்: (3x + 10) : (5x + 10) = 5 : 7 ⇒ குறுக்குப் பெருக்கல்: 21x + 70 = 25x + 50 ⇒ x = 5.\n\n### வட்டி: நினைவூட்டல்\n\n- தனிவட்டி = P × N × R ÷ 100. கூட்டுவட்டி 2 ஆண்டு: P × (1 + R/100)² − P.\n- 2 ஆண்டுகளில் தனிவட்டி ₹ 800, கூட்டுவட்டி ₹ 840: ஓராண்டு வட்டி 400; கூடுதல் 40 என்பது 400-க்கு ஓராண்டு வட்டி ⇒ R = 40 ÷ 400 × 100 = 10%.\n- ஒரு தொகையை இரு வீதங்களில் பிரித்தால்: ஒரு பகுதி a எனக் கொண்டு மொத்த வட்டிக்குச் சமன்பாடு அமைக்கவும்.\n\n### சுருக்குதல்: தொடர்கள் (முந்தைய ஆண்டு வினாக்களுக்காக)\n\n- கூட்டுத்தொடர் (A.P.): அடுத்தடுத்த உறுப்புகளின் வேறுபாடு மாறாது. முதல், கடைசி உறுப்புகளின் கூடுதல் = இரண்டாம், இறுதிக்கு முந்தைய உறுப்புகளின் கூடுதல். 18, a, b, −3 எனில் a + b = 18 + (−3) = 15.\n- விடை எல்லாக் கூட்டுத்தொடருக்கும் ஒன்றே எனில் 1, 2, 3, 4, 5 போன்ற எளிய தொடரை வைத்துச் சோதிக்கலாம்.\n- 1 + 2 + … + n = n(n + 1) ÷ 2. 1² + 2² + … + n² = n(n + 1)(2n + 1) ÷ 6. 1³ + 2³ + … + n³ = (n(n + 1) ÷ 2)², அதாவது இயல் எண்களின் கூடுதலின் வர்க்கம்.\n- இரட்டை எண்களின் வர்க்கங்கள்: 2² + 4² + … + (2n)² = 4 × (1² + 2² + … + n²).\n\n### தேர்வில் கவனிக்க\n\n- விலை வினாவில் 'பழைய விலையா புதிய விலையா' என்று கேட்பதை அடிக்கோடிட்டுப் படிக்கவும்; இரண்டுமே விடைகளில் இருக்கும்.\n- விகிதக் கணக்கில் விடையை மீண்டும் வினாவில் வைத்துச் சோதிக்க 10 வினாடி போதும்.",
-    "en": "Today is mixed practice on ratio (days 12, 13), percentage (days 2, 3) and interest (days 15 to 19). The two types where you have slipped most (income–expenditure ratios, and consumption when the price changes) come first.\n\n### Time management\n\n- Start aptitude by minute 28. About a minute and a half a sum; if one runs long, pick an answer and move on. Do not leave any question blank.\n\n### Income, expenditure, savings\n\n- Income − expenditure = savings. Take the incomes as ax, bx and the expenditures as cy, dy.\n- Example: incomes 5 : 3, expenditures 9 : 5, each saves ₹ 2,000. 5x − 9y = 2000; 3x − 5y = 2000. Both equal 2000, so 5x − 9y = 3x − 5y ⇒ 2x = 4y ⇒ x = 2y. Then 3(2y) − 5y = 2000 ⇒ y = 2000, x = 4000. A's income is 5 × 4000 = ₹ 20,000.\n- Quick check: try each option as the income and see whether the expenditure ratio fits.\n\n### When the price changes, consumption\n\n| Price change | Consumption, to keep the expense the same |\n| --- | --- |\n| r% rise | cut by r ÷ (100 + r) × 100 |\n| r% fall | can increase by r ÷ (100 − r) × 100 |\n\n- A 20% rise → a 16 2/3% cut; 25% → 20%; 50% → 33 1/3%. A 20% fall → 25% more. The option that repeats r% is the trap.\n- \"k kg more\" sums: r% of the total money = the new price of k kg. ₹ 450, a 10% fall, 1 kg more: 45 ÷ 1 = ₹ 45 new price; old price 45 ÷ 0.9 = ₹ 50.\n\n### Successive percentage changes\n\n- a% then b%: net change a + b + ab ÷ 100, with a minus sign for a fall.\n- A 10% rise then a 10% fall: 10 − 10 − 1 = a 1% fall; \"no change\" is wrong.\n- Change in savings: work with numbers such as income 100, expense 75, savings 25.\n\n### Ratio: quick methods\n\n- To split T in a : b : c: one part = T ÷ (a + b + c). ₹ 1,800 in 2 : 3 : 4 → one part 200; C = 800.\n- A : B = 3 : 4, B : C = 6 : 7 → make B 12: 9 : 12 : 14.\n- The same number added to both: (3x + 10) : (5x + 10) = 5 : 7 ⇒ cross-multiply: 21x + 70 = 25x + 50 ⇒ x = 5.\n\n### Interest: reminders\n\n- Simple interest = P × N × R ÷ 100. Compound interest for 2 years: P × (1 + R/100)² − P.\n- SI for 2 years ₹ 800, CI ₹ 840: one year's interest 400; the extra 40 is a year's interest on 400 ⇒ R = 40 ÷ 400 × 100 = 10%.\n- A sum split at two rates: call one part a and write an equation for the total interest.\n\n### Simplification: series (for the past-paper questions)\n\n- Arithmetic progression (A.P.): the difference between consecutive terms is constant. First + last term = second + second-to-last term. If 18, a, b, −3 are in A.P., a + b = 18 + (−3) = 15.\n- If the answer must be the same for every A.P., test it with a simple one such as 1, 2, 3, 4, 5.\n- 1 + 2 + … + n = n(n + 1) ÷ 2. 1² + 2² + … + n² = n(n + 1)(2n + 1) ÷ 6. 1³ + 2³ + … + n³ = (n(n + 1) ÷ 2)², the square of the sum of the numbers.\n- Squares of even numbers: 2² + 4² + … + (2n)² = 4 × (1² + 2² + … + n²).\n\n### In the exam\n\n- In a price question, mark whether the old or the new price is asked; both will be among the options.\n- In a ratio sum, putting the answer back into the question takes ten seconds."
+    "ta": "விகிதம் (நாள் 12, 13), விழுக்காடு (நாள் 2, 3), வட்டி (நாள் 15 முதல் 19) ஆகியவற்றைக் கலந்த பயிற்சி இன்று. உங்கள் தவறுகள் அதிகம் வந்த இரண்டு வகைகள் (வருமான–செலவு விகிதம், விலை மாறினால் நுகர்வு) முதலில்.\n\n### நேர மேலாண்மை\n\n- 28-ஆம் நிமிடத்துக்குள் திறனறிவைத் தொடங்கவும். ஒரு கணக்குக்கு ஒன்றரை நிமிடம்; நீண்டால் ஒரு விடையைத் தேர்ந்தெடுத்துவிட்டு அடுத்ததுக்குச் செல்லவும். எந்த வினாவையும் விடையின்றி விட வேண்டாம்.\n\n### வருமானம், செலவு, சேமிப்பு\n\n- வருமானம் − செலவு = சேமிப்பு. வருமானங்களை ax, bx; செலவுகளை cy, dy எனக் கொள்க.\n- எடுத்துக்காட்டு: வருமானம் 5 : 3, செலவு 9 : 5, இருவரும் ₹ 2,000 சேமிப்பு. 5x − 9y = 2000; 3x − 5y = 2000. இரண்டும் சமம் என்பதால் 5x − 9y = 3x − 5y ⇒ 2x = 4y ⇒ x = 2y. பின் 3(2y) − 5y = 2000 ⇒ y = 2000, x = 4000. A-யின் வருமானம் 5 × 4000 = ₹ 20,000.\n- விரைவுச் சோதனை: ஒவ்வொரு விடையையும் வருமானமாக வைத்து, செலவு விகிதத்துக்குப் பொருந்துகிறதா என்று பார்க்கலாம்.\n\n### விலை மாறினால் நுகர்வு\n\n| விலை மாற்றம் | செலவு மாறாமல் இருக்க நுகர்வு |\n| --- | --- |\n| r% உயர்வு | r ÷ (100 + r) × 100 குறைக்க |\n| r% குறைவு | r ÷ (100 − r) × 100 கூட்டலாம் |\n\n- 20% உயர்வு → 16 2/3% குறைப்பு; 25% உயர்வு → 20%; 50% உயர்வு → 33 1/3%. 20% குறைவு → 25% கூடுதல். அதே r% உள்ள விடை பொறி.\n- 'கூடுதலாக k கிலோ' வகை: மொத்தத் தொகையின் r% = k கிலோவின் புதிய விலை. ₹ 450, 10% குறைவு, 1 கிலோ கூடுதல்: 45 ÷ 1 = ₹ 45 புதிய விலை; பழைய விலை 45 ÷ 0.9 = ₹ 50.\n\n### அடுத்தடுத்த விழுக்காட்டு மாற்றம்\n\n- a%, பின் b% எனில் நிகர மாற்றம் a + b + ab ÷ 100. குறைவுக்கு எதிர்க்குறி.\n- 10% உயர்வு, பின் 10% குறைவு: 10 − 10 − 1 = 1% குறைவு; மாற்றம் இல்லை என்பது தவறு.\n- சேமிப்பு மாற்றம்: வருமானம் 100, செலவு 75, சேமிப்பு 25 என எண்களை வைத்துக் கணக்கிடவும்.\n\n### விகிதம்: விரைவு வழிகள்\n\n- T-ஐ a : b : c ஆகப் பிரிக்க: ஒரு பங்கு = T ÷ (a + b + c). ₹ 1,800-ஐ 2 : 3 : 4 → ஒரு பங்கு 200; C = 800.\n- A : B = 3 : 4, B : C = 6 : 7 → B-ஐ 12 ஆக்கவும்: 9 : 12 : 14.\n- இரு எண்களுக்கும் ஒரே எண்ணைக் கூட்டினால்: (3x + 10) : (5x + 10) = 5 : 7 ⇒ குறுக்குப் பெருக்கல்: 21x + 70 = 25x + 50 ⇒ x = 5.\n- A-யின் x% = B-யின் y% எனில் A : B = y : x. கேட்டது B : A எனில் திருப்பி எழுதவும்: x : y.\n\n### வட்டி: நினைவூட்டல்\n\n- தனிவட்டி = P × N × R ÷ 100. கூட்டுவட்டி 2 ஆண்டு: P × (1 + R/100)² − P.\n- 2 ஆண்டுகளில் தனிவட்டி ₹ 800, கூட்டுவட்டி ₹ 840: ஓராண்டு வட்டி 400; கூடுதல் 40 என்பது 400-க்கு ஓராண்டு வட்டி ⇒ R = 40 ÷ 400 × 100 = 10%.\n- ஒரு தொகையை இரு வீதங்களில் பிரித்தால்: ஒரு பகுதி a எனக் கொண்டு மொத்த வட்டிக்குச் சமன்பாடு அமைக்கவும்.\n- அரையாண்டு: r/2 வீதம், 2n முறை; காலாண்டு: r/4 வீதம், 4n முறை. ₹ 10,000, 8%, காலாண்டு, 6 மாதம்: 2% இரு முறை ⇒ தொகை ₹ 10,404; கூட்டுவட்டி ₹ 404.\n- கேட்டது 'கூட்டுவட்டி' எனில் கடைசியில் அசலைக் கழிக்கவும்; 'தொகை' எனில் கழிக்க வேண்டாம்.\n\n### சுருக்குதல்: தொடர்கள் (முந்தைய ஆண்டு வினாக்களுக்காக)\n\n- கூட்டுத்தொடர் (A.P.): அடுத்தடுத்த உறுப்புகளின் வேறுபாடு மாறாது. முதல், கடைசி உறுப்புகளின் கூடுதல் = இரண்டாம், இறுதிக்கு முந்தைய உறுப்புகளின் கூடுதல். 18, a, b, −3 எனில் a + b = 18 + (−3) = 15.\n- விடை எல்லாக் கூட்டுத்தொடருக்கும் ஒன்றே எனில் 1, 2, 3, 4, 5 போன்ற எளிய தொடரை வைத்துச் சோதிக்கலாம்.\n- 1 + 2 + … + n = n(n + 1) ÷ 2. 1² + 2² + … + n² = n(n + 1)(2n + 1) ÷ 6. 1³ + 2³ + … + n³ = (n(n + 1) ÷ 2)², அதாவது இயல் எண்களின் கூடுதலின் வர்க்கம்.\n- இரட்டை எண்களின் வர்க்கங்கள்: 2² + 4² + … + (2n)² = 4 × (1² + 2² + … + n²).\n\n### தேர்வில் கவனிக்க\n\n- விலை வினாவில் 'பழைய விலையா புதிய விலையா' என்று கேட்பதை அடிக்கோடிட்டுப் படிக்கவும்; இரண்டுமே விடைகளில் இருக்கும்.\n- விகிதக் கணக்கில் விடையை மீண்டும் வினாவில் வைத்துச் சோதிக்க 10 வினாடி போதும்.",
+    "en": "Today is mixed practice on ratio (days 12, 13), percentage (days 2, 3) and interest (days 15 to 19). The two types where you have slipped most (income–expenditure ratios, and consumption when the price changes) come first.\n\n### Time management\n\n- Start aptitude by minute 28. About a minute and a half a sum; if one runs long, pick an answer and move on. Do not leave any question blank.\n\n### Income, expenditure, savings\n\n- Income − expenditure = savings. Take the incomes as ax, bx and the expenditures as cy, dy.\n- Example: incomes 5 : 3, expenditures 9 : 5, each saves ₹ 2,000. 5x − 9y = 2000; 3x − 5y = 2000. Both equal 2000, so 5x − 9y = 3x − 5y ⇒ 2x = 4y ⇒ x = 2y. Then 3(2y) − 5y = 2000 ⇒ y = 2000, x = 4000. A's income is 5 × 4000 = ₹ 20,000.\n- Quick check: try each option as the income and see whether the expenditure ratio fits.\n\n### When the price changes, consumption\n\n| Price change | Consumption, to keep the expense the same |\n| --- | --- |\n| r% rise | cut by r ÷ (100 + r) × 100 |\n| r% fall | can increase by r ÷ (100 − r) × 100 |\n\n- A 20% rise → a 16 2/3% cut; 25% → 20%; 50% → 33 1/3%. A 20% fall → 25% more. The option that repeats r% is the trap.\n- \"k kg more\" sums: r% of the total money = the new price of k kg. ₹ 450, a 10% fall, 1 kg more: 45 ÷ 1 = ₹ 45 new price; old price 45 ÷ 0.9 = ₹ 50.\n\n### Successive percentage changes\n\n- a% then b%: net change a + b + ab ÷ 100, with a minus sign for a fall.\n- A 10% rise then a 10% fall: 10 − 10 − 1 = a 1% fall; \"no change\" is wrong.\n- Change in savings: work with numbers such as income 100, expense 75, savings 25.\n\n### Ratio: quick methods\n\n- To split T in a : b : c: one part = T ÷ (a + b + c). ₹ 1,800 in 2 : 3 : 4 → one part 200; C = 800.\n- A : B = 3 : 4, B : C = 6 : 7 → make B 12: 9 : 12 : 14.\n- The same number added to both: (3x + 10) : (5x + 10) = 5 : 7 ⇒ cross-multiply: 21x + 70 = 25x + 50 ⇒ x = 5.\n- If x% of A = y% of B, then A : B = y : x. If B : A is asked, turn it round: x : y.\n\n### Interest: reminders\n\n- Simple interest = P × N × R ÷ 100. Compound interest for 2 years: P × (1 + R/100)² − P.\n- SI for 2 years ₹ 800, CI ₹ 840: one year's interest 400; the extra 40 is a year's interest on 400 ⇒ R = 40 ÷ 400 × 100 = 10%.\n- A sum split at two rates: call one part a and write an equation for the total interest.\n- Half-yearly: rate r/2, 2n times; quarterly: rate r/4, 4n times. ₹ 10,000 at 8%, quarterly, 6 months: 2% twice ⇒ amount ₹ 10,404; compound interest ₹ 404.\n- If the compound interest is asked, take the principal away at the end; if the amount is asked, do not.\n\n### Simplification: series (for the past-paper questions)\n\n- Arithmetic progression (A.P.): the difference between consecutive terms is constant. First + last term = second + second-to-last term. If 18, a, b, −3 are in A.P., a + b = 18 + (−3) = 15.\n- If the answer must be the same for every A.P., test it with a simple one such as 1, 2, 3, 4, 5.\n- 1 + 2 + … + n = n(n + 1) ÷ 2. 1² + 2² + … + n² = n(n + 1)(2n + 1) ÷ 6. 1³ + 2³ + … + n³ = (n(n + 1) ÷ 2)², the square of the sum of the numbers.\n- Squares of even numbers: 2² + 4² + … + (2n)² = 4 × (1² + 2² + … + n²).\n\n### In the exam\n\n- In a price question, mark whether the old or the new price is asked; both will be among the options.\n- In a ratio sum, putting the answer back into the question takes ten seconds."
    }
   }
  ],
@@ -507,25 +507,25 @@
      "id": "d020-daily-019",
      "subject": "tamil",
      "q": {
-      "ta": "கிரந்த எழுத்து இல்லாத வடசொல் எது?"
+      "ta": "பொருந்தாத இணையைக் கண்டறிக."
      },
      "o": [
       {
-       "ta": "ஜலம்"
+       "ta": "அச்சம் – உட்கு"
       },
       {
-       "ta": "புஷ்பம்"
+       "ta": "அழகு – எழில்"
       },
       {
-       "ta": "சந்தேகம்"
+       "ta": "நெருப்பு – கழல்"
       },
       {
-       "ta": "கஷ்டம்"
+       "ta": "துன்பம் – இன்னல்"
       }
      ],
      "a": 2,
      "x": {
-      "ta": "சந்தேகம் வடசொல் (தமிழில் ஐயம்); அதில் கிரந்த எழுத்து இல்லை. ஜலம் (ஜ), புஷ்பம், கஷ்டம் (ஷ) கிரந்தம் உள்ளவை."
+      "ta": "உட்கு = அச்சம்; எழில் = அழகு; இன்னல் = துன்பம். கழல் என்பது பாதம் (அடி, தாள்); நெருப்புக்கு அன்று."
      }
     },
     {
@@ -588,27 +588,31 @@
      "id": "d020-daily-022",
      "subject": "gs",
      "q": {
-      "ta": "மக்களவை உறுப்பினராவதற்கான குறைந்தபட்ச வயது",
-      "en": "The minimum age to become a member of the Lok Sabha is"
+      "ta": "பின்வரும் கூற்றுகளில் சரியானவை எவை?\n(i) உறுப்பு 1 இந்தியாவை 'மாநிலங்களின் ஒன்றியம்' என்கிறது.\n(ii) மாநிலங்களவை உறுப்பினரின் பதவிக்காலம் 6 ஆண்டுகள்.\n(iii) மக்களவை உறுப்பினராவதற்கான குறைந்தபட்ச வயது 30.",
+      "en": "Which of the following statements are correct?\n(i) Article 1 describes India as a 'Union of States'.\n(ii) The term of a member of the Rajya Sabha is 6 years.\n(iii) The minimum age to become a member of the Lok Sabha is 30."
      },
      "o": [
       {
-       "ta": "21"
+       "ta": "(i) மட்டும்",
+       "en": "(i) only"
       },
       {
-       "ta": "30"
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
       },
       {
-       "ta": "35"
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
       },
       {
-       "ta": "25"
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
       }
      ],
      "a": 3,
      "x": {
-      "ta": "மக்களவை 25; மாநிலங்களவை 30 (உறுப்பு 84). 35 குடியரசுத் தலைவருக்கு.",
-      "en": "Lok Sabha 25; Rajya Sabha 30 (Article 84). 35 is for the President."
+      "ta": "(iii) தவறு: மக்களவைக்கு 25, மாநிலங்களவைக்கு 30. (i), (ii) சரி.",
+      "en": "(iii) is wrong: 25 for the Lok Sabha, 30 for the Rajya Sabha. (i) and (ii) are correct."
      }
     },
     {
@@ -1056,27 +1060,27 @@
      "id": "d020-daily-038",
      "subject": "apt",
      "q": {
-      "ta": "இரு எண்களின் விகிதம் 3 : 5. ஒவ்வொன்றுடனும் 10 கூட்டினால் விகிதம் 5 : 7 ஆகிறது எனில் அவ்வெண்கள்",
-      "en": "Two numbers are in the ratio 3 : 5. If 10 is added to each, the ratio becomes 5 : 7. The numbers are"
+      "ta": "A-யின் 25%, B-யின் 40%-க்குச் சமம் எனில் B : A",
+      "en": "If 25% of A equals 40% of B, then B : A is"
      },
      "o": [
       {
-       "ta": "9, 15"
+       "ta": "8 : 5"
       },
       {
-       "ta": "12, 20"
+       "ta": "2 : 5"
       },
       {
-       "ta": "18, 30"
+       "ta": "5 : 2"
       },
       {
-       "ta": "15, 25"
+       "ta": "5 : 8"
       }
      ],
      "a": 3,
      "x": {
-      "ta": "7(3x + 10) = 5(5x + 10) ⇒ 21x + 70 = 25x + 50 ⇒ x = 5; எண்கள் 15, 25. சோதனை: 25 : 35 = 5 : 7.",
-      "en": "7(3x + 10) = 5(5x + 10) ⇒ 21x + 70 = 25x + 50 ⇒ x = 5; the numbers are 15 and 25. Check: 25 : 35 = 5 : 7."
+      "ta": "0.25A = 0.4B ⇒ A : B = 40 : 25 = 8 : 5. கேட்டது B : A = 5 : 8.",
+      "en": "0.25A = 0.4B ⇒ A : B = 40 : 25 = 8 : 5. B : A is asked: 5 : 8."
      }
     },
     {
@@ -1164,31 +1168,27 @@
      "id": "d020-daily-042",
      "subject": "apt",
      "q": {
-      "ta": "ஒரு பொருளின் விலை 10% உயர்ந்து, பின் 10% குறைந்தால் நிகர மாற்றம்",
-      "en": "The price of an article rises by 10% and then falls by 10%. The net change is"
+      "ta": "₹ 10,000-க்கு ஆண்டுக்கு 8% வட்டி, காலாண்டுக்கு ஒருமுறை கூட்டப்பட்டால் 6 மாதங்களுக்கான கூட்டுவட்டி",
+      "en": "The compound interest on ₹ 10,000 for 6 months at 8% per annum, compounded quarterly, is"
      },
      "o": [
       {
-       "ta": "மாற்றம் இல்லை",
-       "en": "No change"
+       "ta": "₹ 400"
       },
       {
-       "ta": "1% உயர்வு",
-       "en": "1% rise"
+       "ta": "₹ 10,404"
       },
       {
-       "ta": "2% குறைவு",
-       "en": "2% fall"
+       "ta": "₹ 408"
       },
       {
-       "ta": "1% குறைவு",
-       "en": "1% fall"
+       "ta": "₹ 404"
       }
      ],
      "a": 3,
      "x": {
-      "ta": "10 − 10 + (10 × −10) ÷ 100 = −1; 1% குறைவு. 100 → 110 → 99.",
-      "en": "10 − 10 + (10 × −10) ÷ 100 = −1, a 1% fall. 100 → 110 → 99."
+      "ta": "காலாண்டுக்கு 2%, 6 மாதத்தில் 2 முறை: 10000 × 1.02² = ₹ 10,404 (தொகை). கூட்டுவட்டி = 10404 − 10000 = ₹ 404.",
+      "en": "2% a quarter, twice in 6 months: 10000 × 1.02² = ₹ 10,404 (the amount). Compound interest = 10404 − 10000 = ₹ 404."
      }
     },
     {
