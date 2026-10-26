@@ -1690,6 +1690,114 @@
       "ta": "இரு மடங்கு: N × R = 100, R = 12.5%. நான்கு மடங்கு: வட்டி 3 மடங்கு, N × R = 300; N = 300 ÷ 12.5 = 24 ஆண்டு. 32 என்பது தவறான இரட்டிப்பு.",
       "en": "Doubling: N × R = 100, so R = 12.5%. Four times means interest of 3 times: N × R = 300, N = 300 ÷ 12.5 = 24 years. 32 is the doubling trap."
      }
+    },
+    {
+     "id": "d016-daily-p011",
+     "subject": "apt",
+     "q": {
+      "ta": "ஓர் அசல் A-க்கு 6% வீதத்தில் 4 ஆண்டுகளுக்கான தனிவட்டியும், மற்றோர் அசல் B-க்கு 8% வீதத்தில் 6 ஆண்டுகளுக்கான தனிவட்டியும் சமம் எனில் A : B",
+      "en": "The simple interest on a sum A at 6% for 4 years equals that on a sum B at 8% for 6 years. Then A : B is"
+     },
+     "o": [
+      {
+       "ta": "1 : 2"
+      },
+      {
+       "ta": "2 : 1"
+      },
+      {
+       "ta": "3 : 4"
+      },
+      {
+       "ta": "4 : 3"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "A × 24 = B × 48 ⇒ A : B = 48 : 24 = 2 : 1. கேட்ட வரிசையில் A முதலில்.",
+      "en": "A × 24 = B × 48 ⇒ A : B = 48 : 24 = 2 : 1. A comes first, as asked."
+     }
+    },
+    {
+     "id": "d016-daily-p012",
+     "subject": "apt",
+     "q": {
+      "ta": "ஓர் அசல் தனிவட்டியில் 10 ஆண்டுகளில் மூன்று மடங்காகிறது எனில் ஆண்டு வட்டி வீதம்",
+      "en": "A sum becomes three times itself at simple interest in 10 years. The rate per annum is"
+     },
+     "o": [
+      {
+       "ta": "10%"
+      },
+      {
+       "ta": "30%"
+      },
+      {
+       "ta": "20%"
+      },
+      {
+       "ta": "15%"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "மூன்று மடங்கு ⇒ வட்டி = 2 × அசல், 10 ஆண்டில் ⇒ 200% ÷ 10 = 20%.",
+      "en": "Three times ⇒ interest = 2 × principal in 10 years ⇒ 200% ÷ 10 = 20%."
+     }
+    },
+    {
+     "id": "d016-daily-p013",
+     "subject": "apt",
+     "q": {
+      "ta": "₹ 2,000-க்கு 4 ஆண்டுகளில் இரு வெவ்வேறு வீதங்களில் கிடைக்கும் தனிவட்டிகளின் வேறுபாடு ₹ 40 எனில் வீதங்களின் வேறுபாடு",
+      "en": "The difference between the simple interest on ₹ 2,000 for 4 years at two different rates is ₹ 40. The difference between the rates is"
+     },
+     "o": [
+      {
+       "ta": "1%"
+      },
+      {
+       "ta": "0.25%"
+      },
+      {
+       "ta": "2%"
+      },
+      {
+       "ta": "0.5%"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "40 × 100 ÷ (2000 × 4) = 0.5%.",
+      "en": "40 × 100 ÷ (2000 × 4) = 0.5%."
+     }
+    },
+    {
+     "id": "d016-daily-p014",
+     "subject": "apt",
+     "q": {
+      "ta": "ஒருவர் ₹ 12,000-ஐ ஆண்டுக்கு 7½% தனிவட்டிக்குக் கடன் வாங்கினார். 2 ஆண்டுகளுக்குப் பின் கடனை அடைக்க அவர் செலுத்த வேண்டிய தொகை",
+      "en": "A man borrowed ₹ 12,000 at 7½% per annum simple interest. The amount he must pay after 2 years to clear the loan is"
+     },
+     "o": [
+      {
+       "ta": "₹ 13,800"
+      },
+      {
+       "ta": "₹ 1,800"
+      },
+      {
+       "ta": "₹ 12,900"
+      },
+      {
+       "ta": "₹ 13,200"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "வட்டி = 12000 × 7.5 × 2 ÷ 100 = 1,800; கடனை அடைக்கத் தொகை = ₹ 13,800.",
+      "en": "Interest = 12000 × 7.5 × 2 ÷ 100 = 1,800; to clear the loan, the amount = ₹ 13,800."
+     }
     }
    ]
   }
