@@ -38,8 +38,8 @@
     "en": "Week 3 formula sheet: interest"
    },
    "md": {
-    "ta": "இன்று திறனறிவுத் தேர்வு இல்லை. மூன்றாம் வாரத்தின் வட்டிச் சூத்திரங்களை நினைவிலிருந்து சொல்லிப் பார்த்து, ஒவ்வொன்றுக்கும் கீழுள்ள எடுத்துக்காட்டைச் செய்து பார்க்கவும்.\n\n### தனிவட்டி (நாள் 15, 16)\n\n- I = P × N × R ÷ 100; தொகை A = P + I. மாதங்களை 12-ஆல், நாள்களை 365-ஆல் வகுக்கவும்.\n- அசல் k மடங்காகும் எனில் வட்டி (k − 1) மடங்கு: 8 ஆண்டில் இரு மடங்கு எனில் வட்டி 100% ÷ 8 = 12½%.\n- இரு காலங்களின் தொகைகள் தெரிந்தால்: வேறுபாடு ÷ கால வேறுபாடு = ஓராண்டு வட்டி. 2 ஆண்டில் ₹ 6,600, 5 ஆண்டில் ₹ 7,500: ஓராண்டு வட்டி 900 ÷ 3 = ₹ 300; அசல் 6,600 − 600 = ₹ 6,000.\n\n### கூட்டுவட்டி (நாள் 17, 18)\n\n- A = P (1 + R/100)ⁿ; கூட்டுவட்டி = A − P. முதல் ஆண்டில் கூட்டுவட்டியும் தனிவட்டியும் சமம்.\n- அரையாண்டுக்கு ஒருமுறை: வீதத்தைப் பாதியாக்கி, முறைகளை இரு மடங்காக்கவும். காலாண்டு: வீதம் ÷ 4, முறைகள் × 4.\n- கூட்டுவட்டி – தனிவட்டி வேறுபாடு: 2 ஆண்டு = P (R/100)²; 3 ஆண்டு = P (R/100)² (3 + R/100). ₹ 5,000, 10%, 2 ஆண்டு: 5000 × 0.01 = ₹ 50.\n\n### விழுக்காடு நினைவூட்டல் (நாள் 20)\n\n- விலை r% குறைந்தால், செலவு மாறாமல் இருக்க நுகர்வு r ÷ (100 − r) × 100% கூடலாம்: 20% குறைவு → 25% கூடுதல். விலை r% கூடினால் நுகர்வு r ÷ (100 + r) × 100% குறைக்க வேண்டும்: 25% கூடுதல் → 20% குறைப்பு.\n- 'A, B-ஐ விட x% குறைவு' எனில் B = 100 எனக் கொள்ளவும்; 'விட' என்பதற்கு முன் உள்ளதே அடிப்படை.\n- 0-க்குத் தலைகீழி இல்லை. முழு கனமாக்க: அடுக்கு 3-இன் மடங்காக இல்லாத காரணியை முழுதாக நீக்கவும் (3087 ÷ 9 = 343).",
-    "en": "There is no aptitude test today. Say each interest formula of week 3 from memory, then work the example under it.\n\n### Simple interest (days 15, 16)\n\n- I = P × N × R ÷ 100; amount A = P + I. Divide months by 12 and days by 365.\n- If a sum becomes k times, the interest is (k − 1) times: doubling in 8 years means a rate of 100% ÷ 8 = 12½%.\n- If you know the amounts after two different times: difference ÷ difference in years = one year's interest. ₹ 6,600 after 2 years and ₹ 7,500 after 5: one year's interest 900 ÷ 3 = ₹ 300; principal 6,600 − 600 = ₹ 6,000.\n\n### Compound interest (days 17, 18)\n\n- A = P (1 + R/100)ⁿ; compound interest = A − P. In the first year compound and simple interest are equal.\n- Half-yearly: halve the rate and double the number of periods. Quarterly: rate ÷ 4, periods × 4.\n- Difference between CI and SI: 2 years = P (R/100)²; 3 years = P (R/100)² (3 + R/100). ₹ 5,000 at 10% for 2 years: 5000 × 0.01 = ₹ 50.\n\n### Percentage reminders (day 20)\n\n- If the price falls by r%, consumption can rise by r ÷ (100 − r) × 100% for the same spending: a 20% fall → 25% more. If the price rises by r%, consumption must fall by r ÷ (100 + r) × 100%: a 25% rise → 20% less.\n- 'A is x% less than B': take B = 100; the quantity you compare with is the base.\n- Zero has no reciprocal. Making a perfect cube: remove the whole power of any factor whose index is not a multiple of 3 (3087 ÷ 9 = 343)."
+    "ta": "இன்று திறனறிவுத் தேர்வு இல்லை. மூன்றாம் வாரத்தின் வட்டிச் சூத்திரங்களை நினைவிலிருந்து சொல்லிப் பார்த்து, ஒவ்வொன்றுக்கும் கீழுள்ள எடுத்துக்காட்டைச் செய்து பார்க்கவும்.\n\n### நேற்றைய பாடத்தில் கவனிக்க\n\nநாள் 20 திறனறிவில் 15-க்கு 9. நான்கு வினாக்கள் விடையின்றி விடப்பட்டன; நேரம் 12 நிமிடம் மீதம் இருந்தது.\n\n- **வட்டியா, தொகையா?** ₹ 10,000, 8%, காலாண்டு, 6 மாதம்: 10000 × 1.02² = 10,404 என்பது **தொகை**. கேட்டது கூட்டுவட்டி: 10,404 − 10,000 = **₹ 404**. கணக்கை முடித்ததும் வினாவின் கடைசிச் சொல்லை மீண்டும் படிக்கவும்.\n- **பதிவான வாக்குகள்:** 15% செல்லாதவை, வென்றவர் 58%, வேறுபாடு 2,720. 16% = 2,720 ⇒ செல்லத்தக்கவை 17,000; இது பதிவானவற்றில் 85%: 17000 ÷ 0.85 = **20,000**. 17,000 என்பது பாதி வழிதான்.\n- **இரண்டு ஆண்டு தனிவட்டி ₹ 800, கூட்டுவட்டி ₹ 840:** ஓராண்டு தனிவட்டி 400; கூடுதல் 40 என்பது 400-க்கு ஓராண்டு வட்டி ⇒ 40 ÷ 400 × 100 = **10%**.\n- **இரு பகுதிகள், இரு வீதங்கள்:** ₹ 10,000 முழுவதும் 5% எனில் 500; கிடைத்தது 680; கூடுதல் 180 என்பது 8% பகுதியின் மீது 3% ⇒ 8% பகுதி 6,000; 5% பகுதி **₹ 4,000**. கேட்டது எந்தப் பகுதி என்று பார்க்கவும்.\n- **சேமிப்பு:** வருமானத்தை 100 எனக் கொள்ளவும்: செலவு 75, சேமிப்பு 25 → வருமானம் 120, செலவு 82.5, சேமிப்பு 37.5. உயர்வு 12.5 ÷ 25 = **50%**.\n- **விலை 10% குறைவு, ₹ 450-க்கு 1 கி.கி கூடுதல்:** 450-இன் 10% = 45 = புதிய விலை; பழைய விலை 45 ÷ 0.9 = **₹ 50**.\n- **கூட்டுவட்டியில் இரு மடங்கு 5 ஆண்டில் எனில் 8 மடங்கு:** 8 = 2 × 2 × 2, மூன்று இரட்டிப்புகள் ⇒ **15 ஆண்டு**.\n- **எதையும் விடாதீர்கள்:** தேர்வில் தவறான விடைக்கு மதிப்பெண் குறைப்பு இல்லை. தெரியாவிட்டாலும் இரண்டு விடைகளை நீக்கி மீதியில் ஒன்றைத் தேர்ந்தெடுக்கவும்.\n\n### தனிவட்டி (நாள் 15, 16)\n\n- I = P × N × R ÷ 100; தொகை A = P + I. மாதங்களை 12-ஆல், நாள்களை 365-ஆல் வகுக்கவும்.\n- அசல் k மடங்காகும் எனில் வட்டி (k − 1) மடங்கு: 8 ஆண்டில் இரு மடங்கு எனில் வட்டி 100% ÷ 8 = 12½%.\n- இரு காலங்களின் தொகைகள் தெரிந்தால்: வேறுபாடு ÷ கால வேறுபாடு = ஓராண்டு வட்டி. 2 ஆண்டில் ₹ 6,600, 5 ஆண்டில் ₹ 7,500: ஓராண்டு வட்டி 900 ÷ 3 = ₹ 300; அசல் 6,600 − 600 = ₹ 6,000.\n\n### கூட்டுவட்டி (நாள் 17, 18)\n\n- A = P (1 + R/100)ⁿ; கூட்டுவட்டி = A − P. முதல் ஆண்டில் கூட்டுவட்டியும் தனிவட்டியும் சமம்.\n- அரையாண்டுக்கு ஒருமுறை: வீதத்தைப் பாதியாக்கி, முறைகளை இரு மடங்காக்கவும். காலாண்டு: வீதம் ÷ 4, முறைகள் × 4.\n- கூட்டுவட்டி – தனிவட்டி வேறுபாடு: 2 ஆண்டு = P (R/100)²; 3 ஆண்டு = P (R/100)² (3 + R/100). ₹ 5,000, 10%, 2 ஆண்டு: 5000 × 0.01 = ₹ 50.\n\n### விழுக்காடு நினைவூட்டல் (நாள் 20)\n\n- விலை r% குறைந்தால், செலவு மாறாமல் இருக்க நுகர்வு r ÷ (100 − r) × 100% கூடலாம்: 20% குறைவு → 25% கூடுதல். விலை r% கூடினால் நுகர்வு r ÷ (100 + r) × 100% குறைக்க வேண்டும்: 25% கூடுதல் → 20% குறைப்பு.\n- 'A, B-ஐ விட x% குறைவு' எனில் B = 100 எனக் கொள்ளவும்; 'விட' என்பதற்கு முன் உள்ளதே அடிப்படை.\n- 0-க்குத் தலைகீழி இல்லை. முழு கனமாக்க: அடுக்கு 3-இன் மடங்காக இல்லாத காரணியை முழுதாக நீக்கவும் (3087 ÷ 9 = 343).",
+    "en": "There is no aptitude test today. Say each interest formula of week 3 from memory, then work the example under it.\n\n### Points from yesterday's test\n\nDay 20 aptitude was 9 out of 15. Four questions were left blank with 12 minutes still in hand.\n\n- **Interest or amount?** ₹ 10,000 at 8% compounded quarterly for 6 months: 10000 × 1.02² = 10,404 is the **amount**. The question asked for the compound interest: 10,404 − 10,000 = **₹ 404**. When you finish a sum, read the last words of the question again.\n- **Votes polled:** 15% invalid, winner 58%, margin 2,720. 16% = 2,720 ⇒ valid votes 17,000; these are 85% of the votes polled: 17000 ÷ 0.85 = **20,000**. 17,000 is only half-way.\n- **SI for 2 years ₹ 800, CI ₹ 840:** one year's SI is 400; the extra 40 is a year's interest on 400 ⇒ 40 ÷ 400 × 100 = **10%**.\n- **Two parts at two rates:** if all ₹ 10,000 were at 5% it would earn 500; it earned 680; the extra 180 is 3% on the 8% part ⇒ 8% part 6,000; 5% part **₹ 4,000**. Check which part is asked.\n- **Savings:** take income as 100: spending 75, savings 25 → income 120, spending 82.5, savings 37.5. Rise 12.5 ÷ 25 = **50%**.\n- **Price falls 10%, 1 kg more for ₹ 450:** 10% of 450 = 45 = the new price; old price 45 ÷ 0.9 = **₹ 50**.\n- **Doubles in 5 years at CI; when 8 times?** 8 = 2 × 2 × 2, three doublings ⇒ **15 years**.\n- **Leave nothing blank:** there is no negative marking. If unsure, strike out two options and pick one of the rest.\n\n### Simple interest (days 15, 16)\n\n- I = P × N × R ÷ 100; amount A = P + I. Divide months by 12 and days by 365.\n- If a sum becomes k times, the interest is (k − 1) times: doubling in 8 years means a rate of 100% ÷ 8 = 12½%.\n- If you know the amounts after two different times: difference ÷ difference in years = one year's interest. ₹ 6,600 after 2 years and ₹ 7,500 after 5: one year's interest 900 ÷ 3 = ₹ 300; principal 6,600 − 600 = ₹ 6,000.\n\n### Compound interest (days 17, 18)\n\n- A = P (1 + R/100)ⁿ; compound interest = A − P. In the first year compound and simple interest are equal.\n- Half-yearly: halve the rate and double the number of periods. Quarterly: rate ÷ 4, periods × 4.\n- Difference between CI and SI: 2 years = P (R/100)²; 3 years = P (R/100)² (3 + R/100). ₹ 5,000 at 10% for 2 years: 5000 × 0.01 = ₹ 50.\n\n### Percentage reminders (day 20)\n\n- If the price falls by r%, consumption can rise by r ÷ (100 − r) × 100% for the same spending: a 20% fall → 25% more. If the price rises by r%, consumption must fall by r ÷ (100 + r) × 100%: a 25% rise → 20% less.\n- 'A is x% less than B': take B = 100; the quantity you compare with is the base.\n- Zero has no reciprocal. Making a perfect cube: remove the whole power of any factor whose index is not a multiple of 3 (3087 ÷ 9 = 343)."
    }
   }
  ],
@@ -115,27 +115,31 @@
      "id": "d021-daily-003",
      "subject": "gs",
      "q": {
-      "ta": "திருவள்ளுவர் ஆண்டைக் கணக்கிட கிறித்துவ ஆண்டுடன் கூட்ட வேண்டிய எண்",
-      "en": "To get the Thiruvalluvar year, the number to be added to the Christian year is"
+      "ta": "நாடாளுமன்றம் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) உறுப்பு 79-இன்படி நாடாளுமன்றம் என்பது குடியரசுத் தலைவர், மக்களவை, மாநிலங்களவை ஆகியவற்றைக் கொண்டது.\n(ii) குடியரசுத் தலைவர் மக்களவையின் உறுப்பினர்.\n(iii) மாநிலங்களவை கலைக்கப்படாத நிலையான அவை.",
+      "en": "Which of the following statements about Parliament are correct?\n(i) Under Article 79, Parliament consists of the President, the Lok Sabha and the Rajya Sabha.\n(ii) The President is a member of the Lok Sabha.\n(iii) The Rajya Sabha is a permanent House that is not dissolved."
      },
      "o": [
       {
-       "ta": "30"
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
       },
       {
-       "ta": "41"
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
       },
       {
-       "ta": "31"
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
       },
       {
-       "ta": "33"
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
       }
      ],
      "a": 2,
      "x": {
-      "ta": "திருவள்ளுவர் ஆண்டு = கிறித்துவ ஆண்டு + 31. எடுத்துக்காட்டு: கி.பி. 2000 என்பது திருவள்ளுவர் ஆண்டு 2031.",
-      "en": "Thiruvalluvar year = Christian year + 31. For example, 2000 CE is Thiruvalluvar year 2031."
+      "ta": "குடியரசுத் தலைவர் நாடாளுமன்றத்தின் ஒரு பகுதி; ஆனால் எந்த அவையின் உறுப்பினரும் அல்லர். எனவே (ii) தவறு.",
+      "en": "The President is part of Parliament but a member of neither House, so (ii) is wrong."
      }
     },
     {
@@ -382,31 +386,27 @@
      "id": "d021-daily-012",
      "subject": "gs",
      "q": {
-      "ta": "உத்திரமேரூர்க் கல்வெட்டின்படி கிராம சபை உறுப்பினராவதற்கான வயது வரம்பு",
-      "en": "According to the Uthiramerur inscription, the age limit for members of the village assembly was"
+      "ta": "உறுப்பையும் அதன் பொருளையும் பொருத்துக.\n(a) உறுப்பு 1\n(b) உறுப்பு 3\n(c) உறுப்பு 79\n(d) உறுப்பு 108\n1. இரு அவைகளின் கூட்டுக் கூட்டம்\n2. இந்தியா – மாநிலங்களின் ஒன்றியம்\n3. புதிய மாநிலங்களை உருவாக்குதல்\n4. நாடாளுமன்றத்தின் அமைப்பு",
+      "en": "Match the article with its content.\n(a) Article 1\n(b) Article 3\n(c) Article 79\n(d) Article 108\n1. Joint sitting of the two Houses\n2. India, a Union of States\n3. Formation of new states\n4. Constitution of Parliament"
      },
      "o": [
       {
-       "ta": "30 முதல் 60 வரை",
-       "en": "30 to 60"
+       "ta": "(a) 3, (b) 2, (c) 4, (d) 1"
       },
       {
-       "ta": "25 முதல் 60 வரை",
-       "en": "25 to 60"
+       "ta": "(a) 2, (b) 4, (c) 3, (d) 1"
       },
       {
-       "ta": "40 முதல் 75 வரை",
-       "en": "40 to 75"
+       "ta": "(a) 2, (b) 3, (c) 4, (d) 1"
       },
       {
-       "ta": "35 முதல் 70 வரை",
-       "en": "35 to 70"
+       "ta": "(a) 2, (b) 3, (c) 1, (d) 4"
       }
      ],
-     "a": 3,
+     "a": 2,
      "x": {
-      "ta": "முதலாம் பராந்தகன் காலத்து உத்திரமேரூர்க் கல்வெட்டு: கிராமம் 30 குடும்புகள்; உறுப்பினர் வயது 35 முதல் 70.",
-      "en": "The Uthiramerur inscription of Parantaka I: the village in 30 kudumbus; members aged 35 to 70."
+      "ta": "1 – 'இந்தியா, அதாவது பாரதம், மாநிலங்களின் ஒன்றியம்'; 3 – புதிய மாநிலங்கள்; 79 – குடியரசுத் தலைவர் + இரு அவைகள்; 108 – கூட்டுக் கூட்டம்.",
+      "en": "1 – 'India, that is Bharat, shall be a Union of States'; 3 – new states; 79 – President + two Houses; 108 – joint sitting."
      }
     },
     {
@@ -618,31 +618,31 @@
      "id": "d021-daily-020",
      "subject": "gs",
      "q": {
-      "ta": "பன்னிரு ஆழ்வார்களின் நாலாயிர திவ்ய பிரபந்தத்தைத் தொகுத்தவர்",
-      "en": "The Nalayira Divya Prabandham of the twelve Alvars was compiled by"
+      "ta": "பின்வருவனவற்றில் அரசியல் உரிமை அல்லாதது எது?",
+      "en": "Which one of the following is NOT a political right?"
      },
      "o": [
       {
-       "ta": "நம்பியாண்டார் நம்பி",
-       "en": "Nambiyandar Nambi"
+       "ta": "சுரண்டலுக்கு எதிரான உரிமை",
+       "en": "Right against exploitation"
       },
       {
-       "ta": "பரிமேலழகர்",
-       "en": "Parimelazhagar"
+       "ta": "வாக்களிக்கும் உரிமை",
+       "en": "Right to vote"
       },
       {
-       "ta": "சேக்கிழார்",
-       "en": "Sekkizhar"
+       "ta": "அரசை விமர்சிக்கும் உரிமை",
+       "en": "Right to criticise the government"
       },
       {
-       "ta": "நாதமுனி",
-       "en": "Nathamuni"
+       "ta": "தேர்தலில் போட்டியிடும் உரிமை",
+       "en": "Right to contest elections"
       }
      ],
-     "a": 3,
+     "a": 0,
      "x": {
-      "ta": "நாலாயிர திவ்ய பிரபந்தம் – நாதமுனி; சைவத் திருமுறைகள் – நம்பியாண்டார் நம்பி.",
-      "en": "The Divya Prabandham was compiled by Nathamuni; the Saiva Thirumurai by Nambiyandar Nambi."
+      "ta": "அரசியல் உரிமைகள்: வாக்களித்தல், போட்டியிடுதல், பொதுப் பதவி வகித்தல், அரசை விமர்சித்தல். சுரண்டலுக்கு எதிரான உரிமை (உறுப்பு 23–24) ஓர் அடிப்படை உரிமை. 'அல்லாதது' என்ற சொல்லைக் கவனிக்கவும்.",
+      "en": "Political rights: to vote, to contest, to hold public office, to criticise the government. The right against exploitation (Articles 23–24) is a fundamental right. Note the word NOT."
      }
     },
     {
@@ -680,31 +680,31 @@
      "id": "d021-daily-022",
      "subject": "gs",
      "q": {
-      "ta": "சங்க நூல்களில் பதிற்றுப்பத்து பாடுவது எந்த மரபின் அரசர்களை மட்டும்?",
-      "en": "Among the Sangam works, the Pathitrupathu sings only of the kings of which line?"
+      "ta": "கூற்று: இரு அவைகளின் கூட்டுக் கூட்டத்திற்கு மக்களவைத் தலைவர் (சபாநாயகர்) தலைமை தாங்குவார்.\nகாரணம்: பண மசோதாவை நிறைவேற்றக் கூட்டுக் கூட்டம் கூட்டப்படலாம்.",
+      "en": "Assertion: A joint sitting of the two Houses is presided over by the Speaker of the Lok Sabha.\nReason: A joint sitting may be held to pass a Money Bill."
      },
      "o": [
       {
-       "ta": "சோழர்",
-       "en": "The Cholas"
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion is true, Reason is false"
       },
       {
-       "ta": "பாண்டியர்",
-       "en": "The Pandyas"
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion is false, Reason is true"
       },
       {
-       "ta": "சேரர்",
-       "en": "The Cheras"
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both Assertion and Reason are false"
       },
       {
-       "ta": "பல்லவர்",
-       "en": "The Pallavas"
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both Assertion and Reason are true"
       }
      ],
-     "a": 2,
+     "a": 0,
      "x": {
-      "ta": "பதிற்றுப்பத்து சேர மன்னர்களை மட்டுமே பாடுகிறது. பட்டினப்பாலை கரிகாலனை, மதுரைக்காஞ்சி நெடுஞ்செழியனைப் பாடுகின்றன.",
-      "en": "The Pathitrupathu sings only of the Chera kings. The Pattinappalai is on Karikalan and the Maduraikanchi on Nedunchezhiyan."
+      "ta": "கூற்று சரி (உறுப்பு 108; கூட்டுபவர் குடியரசுத் தலைவர்). பண மசோதாவுக்கும் அரசியலமைப்புத் திருத்த மசோதாவுக்கும் கூட்டுக் கூட்டம் இல்லை; காரணம் தவறு.",
+      "en": "The Assertion is true (Article 108; the President summons it). There is no joint sitting for a Money Bill or a Constitution Amendment Bill, so the Reason is false."
      }
     },
     {
@@ -1578,31 +1578,31 @@
      "id": "d021-daily-052",
      "subject": "gs",
      "q": {
-      "ta": "அரசியல் நிர்ணய சபை எந்தத் திட்டத்தின் கீழ் அமைக்கப்பட்டது?",
-      "en": "Under which plan was the Constituent Assembly formed?"
+      "ta": "மாநிலங்களவை பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) அதன் அவைத் தலைவர் குடியரசுத் துணைத் தலைவர்.\n(ii) அதன் உறுப்பினர்களில் மூன்றில் ஒரு பங்கினர் ஒவ்வோர் ஆண்டும் ஓய்வு பெறுவர்.\n(iii) குடியரசுத் தலைவர் 12 உறுப்பினர்களை நியமிக்கிறார்.",
+      "en": "Which of the following statements about the Rajya Sabha are correct?\n(i) Its presiding officer is the Vice-President.\n(ii) One-third of its members retire every year.\n(iii) The President nominates 12 members to it."
      },
      "o": [
       {
-       "ta": "கிரிப்ஸ் தூதுக்குழு, 1942",
-       "en": "The Cripps Mission, 1942"
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
       },
       {
-       "ta": "மவுண்ட்பேட்டன் திட்டம், 1947",
-       "en": "The Mountbatten Plan, 1947"
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
       },
       {
-       "ta": "ஆகஸ்ட் நன்கொடை, 1940",
-       "en": "The August Offer, 1940"
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
       },
       {
-       "ta": "அமைச்சரவைத் தூதுக்குழுத் திட்டம், 1946",
-       "en": "The Cabinet Mission Plan, 1946"
+       "ta": "(i) மட்டும்",
+       "en": "(i) only"
       }
      ],
-     "a": 3,
+     "a": 2,
      "x": {
-      "ta": "1946 அமைச்சரவைத் தூதுக்குழுத் திட்டப்படி அமைந்தது; உறுப்பினர்களை மாகாணச் சட்டமன்றங்கள் மறைமுகமாகத் தேர்ந்தெடுத்தன.",
-      "en": "It was formed under the Cabinet Mission Plan of 1946; the provincial assemblies elected its members indirectly."
+      "ta": "மூன்றில் ஒரு பங்கினர் ஓய்வு பெறுவது ஒவ்வோர் ஈராண்டுக்கும் ஒருமுறை; ஒவ்வோர் ஆண்டும் அல்ல. எனவே (ii) தவறு.",
+      "en": "One-third retire every second year, not every year, so (ii) is wrong."
      }
     },
     {
@@ -1725,31 +1725,31 @@
      "id": "d021-daily-057",
      "subject": "gs",
      "q": {
-      "ta": "வாக்களிக்கும் வயதை 21-இலிருந்து 18 ஆகக் குறைத்த அரசியலமைப்புத் திருத்தம்",
-      "en": "The amendment that lowered the voting age from 21 to 18"
+      "ta": "அரசியலமைப்புத் திருத்தங்கள் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) 61-ஆவது திருத்தம் (1988) வாக்களிக்கும் வயதை 21-இலிருந்து 18 ஆகக் குறைத்தது.\n(ii) 42-ஆவது திருத்தம் (1976) அடிப்படைக் கடமைகளைச் சேர்த்தது.\n(iii) 86-ஆவது திருத்தம் சொத்துரிமையை அடிப்படை உரிமைகளிலிருந்து நீக்கியது.",
+      "en": "Which of the following statements about constitutional amendments are correct?\n(i) The 61st Amendment (1988) lowered the voting age from 21 to 18.\n(ii) The 42nd Amendment (1976) added the Fundamental Duties.\n(iii) The 86th Amendment removed the right to property from the Fundamental Rights."
      },
      "o": [
       {
-       "ta": "42-ஆவது திருத்தம், 1976",
-       "en": "42nd Amendment, 1976"
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
       },
       {
-       "ta": "61-ஆவது திருத்தம், 1988",
-       "en": "61st Amendment, 1988"
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
       },
       {
-       "ta": "44-ஆவது திருத்தம், 1978",
-       "en": "44th Amendment, 1978"
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
       },
       {
-       "ta": "86-ஆவது திருத்தம், 2002",
-       "en": "86th Amendment, 2002"
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
       }
      ],
-     "a": 1,
+     "a": 0,
      "x": {
-      "ta": "61-ஆவது திருத்தம் (1988) வாக்களிக்கும் வயதை 18 ஆக்கியது. 86-ஆவது திருத்தம் கல்வி உரிமை (21A).",
-      "en": "The 61st Amendment (1988) made the voting age 18. The 86th Amendment gave the right to education (21A)."
+      "ta": "சொத்துரிமையை நீக்கியது 44-ஆவது திருத்தம் (1978); 86-ஆவது திருத்தம் (2002) கல்வி உரிமை (21A). 61-ஆவது திருத்தத்தின் ஆண்டு 1988.",
+      "en": "The right to property was removed by the 44th Amendment (1978); the 86th (2002) gave the right to education (21A). The 61st Amendment's year is 1988."
      }
     },
     {
