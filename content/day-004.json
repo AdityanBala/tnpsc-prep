@@ -2817,6 +2817,130 @@
       "ta": "கூற்று சரி. காரணம் தவறு: கடற்கரைக் கோயிலைக் கட்டியவன் ராஜசிம்மன்; முதலாம் நரசிம்மவர்மன் (மாமல்லன்) காலத்தவை ஒற்றைக்கல் ரதங்கள்.",
       "en": "The assertion is true. The reason is false: the Shore Temple was built by Rajasimha; the monolithic rathas belong to Narasimhavarman I (Mamallan)."
      }
+    },
+    {
+     "id": "d004-daily-p052",
+     "subject": "gs",
+     "q": {
+      "ta": "'குணபரன்' என்னும் பட்டம் பெற்ற பல்லவ மன்னர்",
+      "en": "Which Pallava king bore the title 'Gunabhara'?"
+     },
+     "o": [
+      {
+       "ta": "முதலாம் நரசிம்மவர்மன்",
+       "en": "Narasimhavarman I"
+      },
+      {
+       "ta": "முதலாம் மகேந்திரவர்மன்",
+       "en": "Mahendravarman I"
+      },
+      {
+       "ta": "ராஜசிம்மன்",
+       "en": "Rajasimha"
+      },
+      {
+       "ta": "மூன்றாம் நந்திவர்மன்",
+       "en": "Nandivarman III"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "விசித்திரசித்தன், மத்தவிலாசன், குணபரன், சித்திரகாரப்புலி ஆகியவை முதலாம் மகேந்திரவர்மனின் பட்டங்கள்.",
+      "en": "Vichitrachitta, Mattavilasa, Gunabhara and Chitrakarapuli are titles of Mahendravarman I."
+     }
+    },
+    {
+     "id": "d004-daily-p053",
+     "subject": "gs",
+     "q": {
+      "ta": "பல்லவர் கட்டடக் கலை பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) காஞ்சி கைலாசநாதர் கோயில் ராஜசிம்மன் பாணிக் கட்டுமானக் கோயில்.\n(ii) மண்டகப்பட்டு ஒற்றைக்கல் ரதங்களுக்கு எடுத்துக்காட்டு.\n(iii) காஞ்சி வைகுண்டப்பெருமாள் கோயிலைக் கட்டியவன் இரண்டாம் நந்திவர்மன்.",
+      "en": "Which of the statements on Pallava architecture are correct?\n(i) The Kailasanathar temple at Kanchi is a structural temple of the Rajasimha style.\n(ii) Mandagapattu is an example of the monolithic rathas.\n(iii) The Vaikunta Perumal temple at Kanchi was built by Nandivarman II."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "மண்டகப்பட்டு மகேந்திரவர்மனின் குடைவரைக் கோயில்; ஒற்றைக்கல் ரதங்கள் மாமல்லபுரத்தில் (மாமல்லன் பாணி). எனவே (ii) தவறு.",
+      "en": "Mandagapattu is Mahendravarman's rock-cut cave temple; the monolithic rathas are at Mamallapuram (Mamalla style). So (ii) is wrong."
+     }
+    },
+    {
+     "id": "d004-daily-p054",
+     "subject": "gs",
+     "q": {
+      "ta": "'தெள்ளாறு எறிந்தவன்' என்று அழைக்கப்பட்ட பல்லவ மன்னர்",
+      "en": "Which Pallava king was called 'Thellaru Erintha'?"
+     },
+     "o": [
+      {
+       "ta": "இரண்டாம் நந்திவர்மன்",
+       "en": "Nandivarman II"
+      },
+      {
+       "ta": "சிம்மவிஷ்ணு",
+       "en": "Simhavishnu"
+      },
+      {
+       "ta": "அபராஜிதன்",
+       "en": "Aparajita"
+      },
+      {
+       "ta": "மூன்றாம் நந்திவர்மன்",
+       "en": "Nandivarman III"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "தெள்ளாற்றுப் போரில் வென்ற மூன்றாம் நந்திவர்மன் 'தெள்ளாறு எறிந்தவன்'; அவனே நந்திக்கலம்பகத்தின் பாட்டுடைத் தலைவன்.",
+      "en": "Nandivarman III, victor at Thellaru, was called 'Thellaru Erintha'; he is also the hero of Nandikkalambakam."
+     }
+    },
+    {
+     "id": "d004-daily-p055",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: மாமல்லபுரம் துறைமுக நகரம் ஒரு பல்லவ மன்னனின் பட்டப்பெயரால் அமைந்தது.\nகாரணம்: முதலாம் நரசிம்மவர்மன் 'மாமல்லன்' என்று அழைக்கப்பட்டான்.",
+      "en": "Assertion: The port town of Mamallapuram is named after the title of a Pallava king.\nReason: Narasimhavarman I was called 'Mamalla'."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "Assertion true, reason false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "Assertion false, reason true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி",
+       "en": "Both assertion and reason true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both assertion and reason false"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "இரண்டும் சரி: மாமல்லன் என்னும் முதலாம் நரசிம்மவர்மனின் பெயரால் மாமல்லபுரம் அமைந்தது.",
+      "en": "Both are true: Mamallapuram is named after Narasimhavarman I, known as Mamalla."
+     }
     }
    ]
   }
