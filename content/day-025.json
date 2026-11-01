@@ -712,31 +712,27 @@
      "id": "d025-daily-026",
      "subject": "gs",
      "q": {
-      "ta": "இந்தியாவின் முதல் தலைமைத் தேர்தல் ஆணையர்",
-      "en": "Who was the first Chief Election Commissioner of India?"
+      "ta": "கலிங்க மன்னன் காரவேலனின் அத்திக்கும்பா கல்வெட்டு, தமிழ் அரசுகளின் கூட்டமைப்பு எத்தனை ஆண்டுகளாக இருந்ததாகக் கூறுகிறது?",
+      "en": "According to the Hathigumpha inscription of Kharavela of Kalinga, for how many years had the confederacy of Tamil kingdoms existed?"
      },
      "o": [
       {
-       "ta": "டி.என். சேஷன்",
-       "en": "T.N. Seshan"
+       "ta": "133"
       },
       {
-       "ta": "சுகுமார் சென்",
-       "en": "Sukumar Sen"
+       "ta": "300"
       },
       {
-       "ta": "ஞானேஷ் குமார்",
-       "en": "Gyanesh Kumar"
+       "ta": "1,300"
       },
       {
-       "ta": "ராஜீவ் குமார்",
-       "en": "Rajiv Kumar"
+       "ta": "113"
       }
      ],
-     "a": 1,
+     "a": 3,
      "x": {
-      "ta": "முதல் தலைமைத் தேர்தல் ஆணையர் சுகுமார் சென்; அவர் காலத்தில் 1951–52 முதல் பொதுத் தேர்தல் நடந்தது. ஞானேஷ் குமார் இப்போதைய (26-ஆவது) ஆணையர்.",
-      "en": "The first CEC was Sukumar Sen, who conducted the first general election of 1951–52. Gyanesh Kumar is the present (26th) CEC."
+      "ta": "அத்திக்கும்பா கல்வெட்டு 113 ஆண்டுகளாக இருந்த தமிழ் அரசுகளின் கூட்டமைப்பைக் குறிப்பிடுகிறது. 133 திருக்குறளின் அதிகார எண்ணிக்கை.",
+      "en": "The Hathigumpha inscription speaks of a confederacy of Tamil kingdoms that had lasted 113 years. 133 is the number of chapters in the Thirukkural."
      }
     },
     {
@@ -1072,27 +1068,31 @@
      "id": "d025-daily-038",
      "subject": "apt",
      "q": {
-      "ta": "a^(m–n), a^m, a^(m+n) என்ற பெருக்குத் தொடர் வரிசையின் பொது விகிதம்",
-      "en": "The common ratio of the G.P. a^(m–n), a^m, a^(m+n) is"
+      "ta": "ஒரு சதுர வடிவ நிலத்தின் மூலைவிட்டம் 20 மீ. அதன் பரப்பளவு",
+      "en": "A square field has a diagonal of 20 m. Its area is"
      },
      "o": [
       {
-       "ta": "a^m"
+       "ta": "400 மீ²",
+       "en": "400 m²"
       },
       {
-       "ta": "a^(–m)"
+       "ta": "100 மீ²",
+       "en": "100 m²"
       },
       {
-       "ta": "a^n"
+       "ta": "40 மீ²",
+       "en": "40 m²"
       },
       {
-       "ta": "a^(–n)"
+       "ta": "200 மீ²",
+       "en": "200 m²"
       }
      ],
-     "a": 2,
+     "a": 3,
      "x": {
-      "ta": "TNPSC குரூப் 4, 2019. a^m ÷ a^(m−n) = a^n.",
-      "en": "TNPSC Group 4, 2019. a^m ÷ a^(m−n) = a^n."
+      "ta": "பரப்பு = d² ÷ 2 = 400 ÷ 2 = 200 மீ². 400 என்பது d² மட்டும்; 100 என்பது d² ÷ 4.",
+      "en": "Area = d² ÷ 2 = 400 ÷ 2 = 200 m². 400 is only d²; 100 is d² ÷ 4."
      }
     },
     {
@@ -1331,27 +1331,27 @@
      "id": "d025-daily-047",
      "subject": "apt",
      "q": {
-      "ta": "₹ 5,000-க்கு ஆண்டுக்கு 8% வட்டி, அரையாண்டுக்கு ஒருமுறை கணக்கிடப்பட்டால் 1 ஆண்டுக்கான கூட்டுவட்டி",
-      "en": "The compound interest on ₹ 5,000 at 8% a year, compounded half-yearly, for 1 year is"
+      "ta": "இரண்டு எண்களின் கூடுதல் 17; அவற்றின் வர்க்கங்களின் வேறுபாடு 51. அவ்வெண்கள்",
+      "en": "The sum of two numbers is 17 and the difference of their squares is 51. The numbers are"
      },
      "o": [
       {
-       "ta": "₹ 5,408"
+       "ta": "9, 8"
       },
       {
-       "ta": "₹ 400"
+       "ta": "11, 6"
       },
       {
-       "ta": "₹ 408"
+       "ta": "10, 7"
       },
       {
-       "ta": "₹ 416"
+       "ta": "12, 5"
       }
      ],
      "a": 2,
      "x": {
-      "ta": "அரையாண்டுக்கு 4%, இருமுறை: 5000 × 1.04² = 5,408 (தொகை). கூட்டுவட்டி = 5,408 − 5,000 = ₹ 408. ₹ 400 தனிவட்டி.",
-      "en": "4% per half-year, twice: 5000 × 1.04² = 5,408 (the amount). CI = 5,408 − 5,000 = ₹ 408. ₹ 400 is simple interest."
+      "ta": "a² − b² = (a + b)(a − b) ⇒ 51 = 17 × (a − b) ⇒ a − b = 3; a = 10, b = 7. சோதனை: 100 − 49 = 51.",
+      "en": "a² − b² = (a + b)(a − b) ⇒ 51 = 17 × (a − b) ⇒ a − b = 3, so 10 and 7. Check: 100 − 49 = 51."
      }
     },
     {
