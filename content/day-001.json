@@ -3807,6 +3807,126 @@
      "x": {
       "ta": "மரம் – ம, ர, ம் மூன்றும் குறில் அல்லது மெய். பா, வீ, கோ ஆகியவை நெடில்கள்."
      }
+    },
+    {
+     "id": "d001-daily-p089",
+     "subject": "gs",
+     "q": {
+      "ta": "சரியான கூற்றுகள் எவை?\n(i) அத்திக்கும்பா கல்வெட்டை வெளியிட்டவர் கலிங்க மன்னன் காரவேலன்.\n(ii) அது தமிழ் அரசுகளின் கூட்டமைப்பைக் குறிப்பிடுகிறது.\n(iii) அசோகரின் இரண்டாம், பதின்மூன்றாம் பாறைக் கல்வெட்டுகள் சோழர், பாண்டியரைக் குறிப்பிடுகின்றன.\n(iv) உத்திரமேரூர்க் கல்வெட்டு சங்க காலச் சான்று.",
+      "en": "Which of these statements are correct?\n(i) The Hathigumpha inscription was issued by Kharavela, king of Kalinga.\n(ii) It mentions a confederacy of Tamil kingdoms.\n(iii) Ashoka's Rock Edicts II and XIII mention the Cholas and Pandyas.\n(iv) The Uthiramerur inscription is a source for the Sangam age."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iv) மட்டும்",
+       "en": "(i), (ii) and (iv) only"
+      },
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "நான்கும்",
+       "en": "All four"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "உத்திரமேரூர்க் கல்வெட்டுகள் முதலாம் பராந்தக சோழன் காலம் (கி.பி. 919, 921); சங்க காலத்தவை அல்ல. மற்ற மூன்றும் சரி.",
+      "en": "The Uthiramerur inscriptions are of the Chola Parantaka I (919 and 921 CE), not of the Sangam age. The other three are correct."
+     }
+    },
+    {
+     "id": "d001-daily-p090",
+     "subject": "gs",
+     "q": {
+      "ta": "தமிழ் அரசுகளின் கூட்டமைப்பைக் குறிப்பிடும் அத்திக்கும்பா கல்வெட்டை வெளியிட்ட காரவேலன் எந்நாட்டு மன்னன்?",
+      "en": "Kharavela, whose Hathigumpha inscription mentions the confederacy of Tamil kingdoms, was king of"
+     },
+     "o": [
+      {
+       "ta": "மகதம்",
+       "en": "Magadha"
+      },
+      {
+       "ta": "வேங்கி",
+       "en": "Vengi"
+      },
+      {
+       "ta": "கலிங்கம்",
+       "en": "Kalinga"
+      },
+      {
+       "ta": "அவந்தி",
+       "en": "Avanti"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "காரவேலன் கலிங்க (இன்றைய ஒடிசா) மன்னன்; கல்வெட்டு புவனேசுவரம் அருகே உதயகிரியில் உள்ளது.",
+      "en": "Kharavela was king of Kalinga (present-day Odisha); the inscription is at Udayagiri near Bhubaneswar."
+     }
+    },
+    {
+     "id": "d001-daily-p091",
+     "subject": "gs",
+     "q": {
+      "ta": "சான்றையும் அது தரும் செய்தியையும் பொருத்துக.\n(a) அத்திக்கும்பா கல்வெட்டு\n(b) அரிக்கமேடு அகழாய்வு\n(c) அசோகரின் 13-ஆம் பாறைக் கல்வெட்டு\n(d) இண்டிகா\n1. மெகஸ்தனிஸ்\n2. ரோமானியருடன் கடல் வணிகம்\n3. தமிழ் அரசுகளின் கூட்டமைப்பு\n4. சோழர், பாண்டியர் பெயர்கள்",
+      "en": "Match the source with what it tells us.\n(a) Hathigumpha inscription\n(b) Arikamedu excavation\n(c) Ashoka's Rock Edict XIII\n(d) Indica\n1. Megasthenes\n2. Sea trade with the Romans\n3. A confederacy of Tamil kingdoms\n4. The Cholas and Pandyas named"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 2, (c) 4, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 2, (c) 3, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 2, (b) 3, (c) 4, (d) 1"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "அத்திக்கும்பா – தமிழ்க் கூட்டமைப்பு; அரிக்கமேடு – ரோமானிய வணிகம்; அசோகர் கல்வெட்டு – சோழர், பாண்டியர்; இண்டிகா – மெகஸ்தனிஸ்.",
+      "en": "Hathigumpha – the Tamil confederacy; Arikamedu – Roman trade; Ashoka's edict – the Cholas and Pandyas; Indica – Megasthenes."
+     }
+    },
+    {
+     "id": "d001-daily-p092",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: அத்திக்கும்பா கல்வெட்டு சங்க காலத்துக்கான ஒரு சான்று.\nகாரணம்: அதை வெளியிட்டவர் சோழ மன்னன் கரிகாலன்.",
+      "en": "Assertion: The Hathigumpha inscription is a source for the Sangam age.\nReason: It was issued by the Chola king Karikalan."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு",
+       "en": "Both are false"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "கூற்று சரி: அது தமிழ் அரசுகளின் கூட்டமைப்பைக் குறிப்பிடுகிறது. காரணம் தவறு: வெளியிட்டவர் கலிங்க மன்னன் காரவேலன்.",
+      "en": "The assertion is true: it mentions the Tamil confederacy. The reason is false: it was issued by Kharavela of Kalinga."
+     }
     }
    ]
   }
