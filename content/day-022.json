@@ -1842,6 +1842,130 @@
       "ta": "(√3 ÷ 4) × a² = (√3 ÷ 4) × 36 = 9√3. 36√3 என்பது 4-ஆல் வகுக்காதது.",
       "en": "(√3 ÷ 4) × a² = (√3 ÷ 4) × 36 = 9√3. 36√3 forgets to divide by 4."
      }
+    },
+    {
+     "id": "d022-daily-p015",
+     "subject": "gs",
+     "q": {
+      "ta": "மாநில ஆளுநர் தம் பதவி விலகல் கடிதத்தை அனுப்புவது",
+      "en": "The Governor of a state sends the letter of resignation to"
+     },
+     "o": [
+      {
+       "ta": "சட்டப்பேரவைத் தலைவர்",
+       "en": "the Speaker of the Assembly"
+      },
+      {
+       "ta": "முதலமைச்சர்",
+       "en": "the Chief Minister"
+      },
+      {
+       "ta": "உயர் நீதிமன்றத் தலைமை நீதிபதி",
+       "en": "the Chief Justice of the High Court"
+      },
+      {
+       "ta": "குடியரசுத் தலைவர்",
+       "en": "the President"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "ஆளுநரை நியமிப்பவர் குடியரசுத் தலைவர் (உறுப்பு 155); விலகலும் அவருக்கே. பதவிப் பிரமாணம் மட்டும் உயர் நீதிமன்றத் தலைமை நீதிபதி.",
+      "en": "The President appoints the Governor (Article 155), so the resignation goes to the President. Only the oath is given by the Chief Justice of the High Court."
+     }
+    },
+    {
+     "id": "d022-daily-p016",
+     "subject": "gs",
+     "q": {
+      "ta": "மாநில அமைச்சரவை சட்டப்பேரவைக்குக் கூட்டாகப் பொறுப்புடையது எனக் கூறும் உறுப்பு",
+      "en": "The article that makes the state Council of Ministers collectively responsible to the Legislative Assembly is"
+     },
+     "o": [
+      {
+       "ta": "உறுப்பு 75",
+       "en": "Article 75"
+      },
+      {
+       "ta": "உறுப்பு 163",
+       "en": "Article 163"
+      },
+      {
+       "ta": "உறுப்பு 164",
+       "en": "Article 164"
+      },
+      {
+       "ta": "உறுப்பு 167",
+       "en": "Article 167"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "உறுப்பு 164(2). 163 – அமைச்சரவை ஆளுநருக்கு அறிவுரை; 75 – ஒன்றிய அமைச்சரவை; 167 – முதலமைச்சரின் கடமை.",
+      "en": "Article 164(2). 163 – the Council aids and advises the Governor; 75 – the Union Council of Ministers; 167 – the Chief Minister's duty."
+     }
+    },
+    {
+     "id": "d022-daily-p017",
+     "subject": "gs",
+     "q": {
+      "ta": "ஆளுநரின் அதிகாரங்கள் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) பண மசோதாவை மறுபரிசீலனைக்குத் திருப்பி அனுப்பலாம்.\n(ii) ஒரு மசோதாவைக் குடியரசுத் தலைவரின் பரிசீலனைக்கு ஒதுக்கி வைக்கலாம் (உறுப்பு 200).\n(iii) மாநிலத் தலைமை வழக்குரைஞரை நியமிக்கிறார் (உறுப்பு 165).",
+      "en": "Which of these statements about the Governor's powers are correct?\n(i) The Governor can return a Money Bill for reconsideration.\n(ii) The Governor can reserve a Bill for the President's consideration (Article 200).\n(iii) The Governor appoints the Advocate General of the state (Article 165)."
+     },
+     "o": [
+      {
+       "ta": "(ii), (iii) மட்டும்",
+       "en": "(ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii)",
+       "en": "(i), (ii) and (iii)"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "(i) தவறு: பண மசோதா அல்லாதவற்றை மட்டுமே திருப்பி அனுப்ப முடியும் (உறுப்பு 200).",
+      "en": "(i) is wrong: only a Bill that is not a Money Bill can be returned (Article 200)."
+     }
+    },
+    {
+     "id": "d022-daily-p018",
+     "subject": "gs",
+     "q": {
+      "ta": "'அமைச்சரவையின் முடிவுகளை ஆளுநருக்குத் தெரிவிப்பது முதலமைச்சரின் கடமை' எனக் கூறும் உறுப்பு",
+      "en": "The article that makes it the Chief Minister's duty to communicate the Council's decisions to the Governor is"
+     },
+     "o": [
+      {
+       "ta": "உறுப்பு 164",
+       "en": "Article 164"
+      },
+      {
+       "ta": "உறுப்பு 167",
+       "en": "Article 167"
+      },
+      {
+       "ta": "உறுப்பு 163",
+       "en": "Article 163"
+      },
+      {
+       "ta": "உறுப்பு 78",
+       "en": "Article 78"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "உறுப்பு 167. ஒன்றியத்தில் அதற்கு இணையானது உறுப்பு 78 (பிரதமரின் கடமை).",
+      "en": "Article 167. Its Union counterpart is Article 78 (the Prime Minister's duty)."
+     }
     }
    ]
   }
