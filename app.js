@@ -32,17 +32,51 @@
   }
   // A retake draws a new paper from the test's questions plus its spare pool: same number per subject,
   // questions she has never seen first, then ones she last got wrong, then the rest.
+  // Per-question history from every saved attempt: times seen, last result, run of correct answers, when last seen.
+  function qStats() {
+    var s = {};
+    allAttempts().forEach(function (a) {
+      (a.answers || []).forEach(function (x) {
+        var o = s[x.id] || (s[x.id] = { n: 0, streak: 0, ok: false, last: '' });
+        o.n++; o.ok = !!x.ok; o.streak = x.ok ? o.streak + 1 : 0; o.last = a.submittedAt;
+      });
+    });
+    return s;
+  }
+  // Priority tiers for building a paper (lower comes first):
+  // 0 never seen · 1 last answered wrong (not in the last 2 days) · 2 right once · 3 wrong in the last 2 days ·
+  // 4 right twice or more in a row ("mastered"): used only when nothing else is left.
+  var MASTERED = 2;
+  function tierOf(o) {
+    if (!o) return 0;
+    if (o.streak >= MASTERED) return 4;
+    if (o.ok) return 2;
+    return Date.now() - new Date(o.last).getTime() < 2 * 864e5 ? 3 : 1;
+  }
+  // Pick `need` items tier by tier; within a tier, take one per day in turn (oldest-seen first) so the paper spreads across days.
+  function pickSpread(items, need) {
+    var out = [];
+    for (var tier = 0; tier <= 4 && out.length < need; tier++) {
+      var byDay = {}, days = [];
+      items.forEach(function (x) { if (x.tier !== tier) return; if (!byDay[x.day]) { byDay[x.day] = []; days.push(x.day); } byDay[x.day].push(x); });
+      days.forEach(function (d) { byDay[d].forEach(function (x) { x.r = Math.random(); }); byDay[d].sort(function (a, b) { return a.last < b.last ? -1 : a.last > b.last ? 1 : a.r - b.r; }); });
+      for (var k = days.length - 1; k > 0; k--) { var r = Math.floor(Math.random() * (k + 1)), tmp = days[k]; days[k] = days[r]; days[r] = tmp; }
+      var more = true;
+      while (out.length < need && more) {
+        more = false;
+        for (var i = 0; i < days.length && out.length < need; i++) { var x = byDay[days[i]].shift(); if (x) { out.push(x.q); more = true; } }
+      }
+    }
+    return out;
+  }
+  function rankItem(q, day, st) { var o = st[q.id]; return { q: q, day: day, tier: tierOf(o), last: o ? o.last : '' }; }
   function freshPaper(ts) {
-    var last = {};
-    allAttempts().forEach(function (a) { (a.answers || []).forEach(function (x) { last[x.id] = x.ok; }); });
-    var all = ts.questions.concat(ts.pool), order = [], need = {};
+    var st = qStats(), all = ts.questions.concat(ts.pool), order = [], need = {};
     ts.questions.forEach(function (q) { if (!need[q.subject]) { need[q.subject] = 0; order.push(q.subject); } need[q.subject]++; });
     var out = [];
     order.forEach(function (sub) {
-      var c = all.filter(function (q) { return q.subject === sub; }).map(function (q) { return { q: q, r: (last[q.id] === undefined ? 0 : last[q.id] ? 2 : 1) + Math.random() }; });
-      c.sort(function (a, b) { return a.r - b.r; });
-      var pick = c.slice(0, need[sub]).map(function (x) { return x.q; });
-      out = out.concat(shuffleSections(pick));
+      var c = all.filter(function (q) { return q.subject === sub; }).map(function (q) { return rankItem(q, 0, st); });
+      out = out.concat(shuffleSections(pickSpread(c, need[sub])));
     });
     return out;
   }
@@ -68,22 +102,26 @@
   function tryNo(a) {
     return allAttempts().filter(function (b) { return b.test === a.test && b.day === a.day && (b.through || 0) === (a.through || 0) && b.submittedAt <= a.submittedAt; }).length;
   }
-  async function sofarPaper(through) {
-    var last = {}, bySub = { tamil: [], gs: [], apt: [] };
-    allAttempts().forEach(function (a) { (a.answers || []).forEach(function (x) { last[x.id] = x.ok; }); });
-    for (var n = 1; n <= through; n++) {
+  // Cumulative papers (days 1–N, and the rolling last-7-days test): unseen questions first, then ones she got wrong,
+  // then ones right only once; questions right twice in a row come back only if a subject has nothing else left.
+  async function cumPaper(from, through) {
+    var st = qStats(), bySub = { tamil: [], gs: [], apt: [] };
+    for (var n = from; n <= through; n++) {
       var d = await loadDay(n); if (!d) continue;
-      d.tests.forEach(function (ts) { ts.questions.concat(ts.pool || []).forEach(function (q) { if (bySub[q.subject]) bySub[q.subject].push({ q: q, day: n, r: (last[q.id] === undefined ? 0 : last[q.id] ? 2 : 1) + Math.random() * 0.9 }); }); });
+      d.tests.forEach(function (ts) { ts.questions.concat(ts.pool || []).forEach(function (q) { if (bySub[q.subject]) bySub[q.subject].push(rankItem(q, n, st)); }); });
     }
     var out = [];
-    SUBJECTS.forEach(function (sub) {
-      var c = bySub[sub].sort(function (a, b) { return a.r - b.r; }), need = Math.min(SOFAR[sub], c.length);
-      var cap = Math.ceil(need / through) + 1, per = {}, pick = [], rest = [];
-      c.forEach(function (x) { if (pick.length < need && (per[x.day] || 0) < cap) { per[x.day] = (per[x.day] || 0) + 1; pick.push(x.q); } else rest.push(x.q); });
-      while (pick.length < need) pick.push(rest.shift());
-      out = out.concat(shuffleSections(pick));
-    });
+    SUBJECTS.forEach(function (sub) { out = out.concat(shuffleSections(pickSpread(bySub[sub], Math.min(SOFAR[sub], bySub[sub].length)))); });
     return out;
+  }
+  // Rolling weekly test: the last 7 finished days.
+  var WEEK_DAYS = 7, WEEK_FROM = 8;
+  function weekRange() { var to = daysDone(); return { from: Math.max(1, to - WEEK_DAYS + 1), to: to }; }
+  function weekOf(through) { return allAttempts().filter(function (a) { return a.test === 'week' && a.through === through; }); }
+  function weekStep() {
+    var w = weekRange(), at = weekOf(w.to);
+    return '<button class="step sofar ' + (at.length ? 'done' : '') + '" data-act="wk7" data-day="' + w.to + '"><span class="n">' + (at.length ? '✓' : '7') + '</span><span class="t"><b>' + t('wkTitle', w.from, w.to) + '</b><span>' +
+      esc(at.length ? scoreText(at) : t('wkSub', SOFAR_N, SOFAR.minutes)) + '</span></span><span class="go">›</span></button>';
   }
   function passage(q) { return q.p ? '<div class="pas">' + esc(tx(q.p)) + '</div>' : ''; }
   function clock(sec) { sec = Math.max(0, Math.round(sec)); return pad(Math.floor(sec / 60), 2) + ':' + pad(sec % 60, 2); }
@@ -134,7 +172,10 @@
     sofarTitle: ['இதுவரை படித்தவை அனைத்தும்', 'Everything so far'],
     sofarSub: ['நாள் 1 முதல் {0} வரை · {1} வினாக்கள் · {2} நிமிடம்', 'Days 1 to {0} · {1} questions · {2} minutes'],
     sofarWhat: ['நீங்கள் முடித்த எல்லா நாள்களின் பாடங்களிலிருந்தும் கலந்து வரும் தேர்வு. எப்போது வேண்டுமானாலும், எத்தனை முறை வேண்டுமானாலும் எழுதலாம்.', 'A test that mixes questions from every day you have finished. Take it whenever you like, as often as you like.'],
-    sofarNew: ['ஒவ்வொரு முறையும் வேறு வினாத்தாள்: இதுவரை பார்க்காத வினாக்கள் முதலில், பின் முன்பு தவறானவை.', 'A different paper every time: questions you have not seen come first, then ones you got wrong before.'],
+    sofarNew: ['ஒவ்வொரு முறையும் வேறு வினாத்தாள்: இதுவரை பார்க்காத வினாக்கள் முதலில், பின் முன்பு தவறானவை. தொடர்ந்து இரண்டு முறை சரியாக விடையளித்த வினா மீண்டும் வருவது மிக அரிது.', 'A different paper every time: questions you have not seen come first, then ones you got wrong before. A question you have answered correctly twice in a row will hardly ever come back.'],
+    wkTitle: ['கடந்த 7 நாள் தொகுப்பு · நாள் {0}–{1}', 'Last 7 days · Days {0}–{1}'],
+    wkSub: ['கடைசி 7 நாள் பாடங்கள் · {0} வினாக்கள் · {1} நிமிடம்', 'The last 7 days of lessons · {0} questions · {1} minutes'],
+    wkWhat: ['நீங்கள் கடைசியாக முடித்த 7 நாள்களின் பாடங்களிலிருந்து மட்டும் கலந்து வரும் தேர்வு. ஒவ்வொரு நாளை முடிக்கும்போதும் இதுவும் ஒரு நாள் முன்னே நகரும். எப்போது வேண்டுமானாலும், எத்தனை முறை வேண்டுமானாலும் எழுதலாம்.', 'A test that mixes questions from only the last 7 days you finished. It moves forward by a day each time you finish a day. Take it whenever you like, as often as you like.'],
     sofarLabel: ['இதுவரை படித்தவை (நாள் 1–{0})', 'Everything so far (days 1–{0})'],
     resumeBtn: ['தேர்வைத் தொடர', 'Continue the test'],
     result: ['தேர்வு முடிவு', 'Test result'],
@@ -511,6 +552,7 @@
     }
     if (due.length) h += '<div class="card"><h3>' + t('revTitle') + '</h3><p class="sub">' + t('revCard', due.length) + '</p><button class="btn primary" data-act="revision">' + t('revBtn') + '</button></div>';
     if (daysDone() >= 2) h += cumStep(daysDone());
+    if (daysDone() >= WEEK_FROM) h += weekStep();
     h += timetable ? timetableHtml(cur) : olderHtml(cur);
     return h + nav('home');
   }
@@ -525,17 +567,18 @@
       '<div class="sticky"><button class="btn primary" data-act="read">' + t('readDone') + '</button></div>' + nav('');
   }
   function sofarScreen() {
-    var done = daysDone(), n = route.through || done;
-    if (done < 2 || n < 2 || n > done) { route = { r: 'home' }; return homeScreen(); }
-    var at = sofarOf(n), title = n === done ? t('sofarTitle') : t('cumTitle', n);
-    var h = top(title, true) + '<div class="card"><h2>' + title + '</h2><p class="sub">' + t('sofarSub', n, SOFAR_N, SOFAR.minutes) + '</p>' +
-      '<ul><li>' + (n === done ? t('sofarWhat') : t('cumWhat', n)) + '</li><li>' + t('sofarNew') + '</li><li>' + t('rules3') + '</li><li>' + t('rules4') + '</li></ul></div>';
+    var done = daysDone(), n = route.through || done, wk = route.r === 'week';
+    if (wk) n = done;
+    if (done < (wk ? WEEK_FROM : 2) || n < 2 || n > done) { route = { r: 'home' }; return homeScreen(); }
+    var w = weekRange(), at = wk ? weekOf(n) : sofarOf(n), title = wk ? t('wkTitle', w.from, w.to) : n === done ? t('sofarTitle') : t('cumTitle', n);
+    var h = top(title, true) + '<div class="card"><h2>' + title + '</h2><p class="sub">' + (wk ? t('wkSub', SOFAR_N, SOFAR.minutes) : t('sofarSub', n, SOFAR_N, SOFAR.minutes)) + '</p>' +
+      '<ul><li>' + (wk ? t('wkWhat') : n === done ? t('sofarWhat') : t('cumWhat', n)) + '</li><li>' + t('sofarNew') + '</li><li>' + t('rules3') + '</li><li>' + t('rules4') + '</li></ul></div>';
     if (at.length) {
       h += '<div class="card"><h3>' + t('history') + '</h3>';
       at.forEach(function (a, i) { h += '<button class="item" data-act="result" data-name="' + esc(a._name) + '"><span class="t"><b>' + nice(a.submittedAt) + ' · ' + hhmm(a.submittedAt) + '</b><span>' + t('attemptN', i + 1) + (at.length > 1 && a === bestOf(at) ? ' · ' + t('best') : '') + '</span></span><span class="s">' + a.correct + ' / ' + a.total + ' ›</span></button>'; });
       h += '</div>';
     }
-    return h + '<button class="btn primary" data-act="sofarstart">' + (at.length ? t('again') : t('start')) + '</button>' + nav('');
+    return h + '<button class="btn primary" data-act="' + (wk ? 'wk7start' : 'sofarstart') + '">' + (at.length ? t('again') : t('start')) + '</button>' + nav('');
   }
   async function introScreen() {
     var d = await loadDay(route.day), ts = d.tests.filter(function (x) { return x.id === route.id; })[0], at = attemptsOf(d.n, ts.id);
@@ -553,19 +596,21 @@
 
   /* ---------- running a test ---------- */
   var run = null; // {day, tid, kind, minutes, questions, ans, active, startedAt, idx, list}
-  function persistRun() { if (!run || VIEW) return; LS.set('inprog', { day: run.day, tid: run.tid, through: run.through, order: run.questions.map(function (q) { return q.id; }), ans: run.ans, active: run.active, startedAt: run.startedAt, idx: run.idx }); }
-  async function beginSofar(saved, want) {
-    var done = daysDone(), through = saved && saved.through ? saved.through : (want || done), qs = null;
+  function persistRun() { if (!run || VIEW) return; LS.set('inprog', { day: run.day, tid: run.tid, from: run.from, through: run.through, order: run.questions.map(function (q) { return q.id; }), ans: run.ans, active: run.active, startedAt: run.startedAt, idx: run.idx }); }
+  async function beginSofar(saved, want, tid) {
+    tid = tid || (saved && saved.tid) || 'sofar';
+    var wk = tid === 'week', done = daysDone(), through = saved && saved.through ? saved.through : (want || done), qs = null;
     if (through > done || through < 1) through = done;
+    var from = wk ? (saved && saved.from ? saved.from : Math.max(1, through - WEEK_DAYS + 1)) : 1;
     if (saved) { qs = await questionsFor(saved.order || []); if (!qs.length || qs.length !== saved.ans.length) { saved = null; qs = null; } }
-    if (!qs) qs = await sofarPaper(through);
-    run = { day: 0, tid: 'sofar', kind: 'cumulative', through: through, minutes: Math.max(5, Math.round(SOFAR.minutes * qs.length / 50)), questions: qs, list: false, attemptNo: sofarOf(through).length + 1,
+    if (!qs) qs = await cumPaper(from, through);
+    run = { day: 0, tid: tid, kind: wk ? 'weekly' : 'cumulative', from: wk ? from : undefined, through: through, minutes: Math.max(5, Math.round(SOFAR.minutes * qs.length / 50)), questions: qs, list: false, attemptNo: (wk ? weekOf(through) : sofarOf(through)).length + 1,
       ans: saved ? saved.ans : qs.map(function () { return null; }), active: saved ? saved.active : 0,
       startedAt: saved ? saved.startedAt : new Date().toISOString(), idx: saved ? saved.idx : 0 };
     persistRun();
   }
   async function beginRun(dayN, tid, saved) {
-    if (tid === 'sofar') return beginSofar(saved);
+    if (tid === 'sofar' || tid === 'week') return beginSofar(saved, null, tid);
     var d = await loadDay(dayN), ts = d.tests.filter(function (x) { return x.id === tid; })[0];
     var prior = attemptsOf(dayN, tid).length, qs = null;
     if (saved) {
@@ -622,8 +667,8 @@
   }
   function submitRun() {
     var g = grade(run.questions, run.ans);
-    var a = Object.assign({ schema: 1, day: run.day, test: run.tid, kind: run.kind, attemptNo: run.attemptNo, date: istDate(), startedAt: run.startedAt, submittedAt: new Date().toISOString(), activeSeconds: run.active, allowedSeconds: run.minutes * 60 }, run.through ? { through: run.through } : {}, g);
-    var name = store(a, run.tid === 'sofar' ? 'sofar_d' + pad(run.through, 3) : 'd' + pad(run.day, 3) + '_' + run.tid);
+    var a = Object.assign({ schema: 1, day: run.day, test: run.tid, kind: run.kind, attemptNo: run.attemptNo, date: istDate(), startedAt: run.startedAt, submittedAt: new Date().toISOString(), activeSeconds: run.active, allowedSeconds: run.minutes * 60 }, run.from ? { from: run.from } : {}, run.through ? { through: run.through } : {}, g);
+    var name = store(a, run.tid === 'sofar' || run.tid === 'week' ? run.tid + '_d' + pad(run.through, 3) : 'd' + pad(run.day, 3) + '_' + run.tid);
     run = null; LS.del('inprog');
     go({ r: 'result', name: name, filter: 'wrong' }, true);
   }
@@ -727,7 +772,7 @@
     h += '<div class="card"><h3>' + t('history') + '</h3><p class="sub">' + t('histHelp') + ' ' + t('attemptsCount', all.length) + '</p>';
     var lastDate = '';
     all.slice().reverse().forEach(function (a) {
-      var label = a.test === 'rev' ? t('rev') : a.test === 'sofar' ? t('cumTitle', a.through) : t('day', a.day) + ' · ' + (a.test === 'daily' ? t('testToday') : t('extraTest'));
+      var label = a.test === 'rev' ? t('rev') : a.test === 'sofar' ? t('cumTitle', a.through) : a.test === 'week' ? t('wkTitle', a.from || Math.max(1, a.through - WEEK_DAYS + 1), a.through) : t('day', a.day) + ' · ' + (a.test === 'daily' ? t('testToday') : t('extraTest'));
       var date = nice(a.submittedAt);
       if (date !== lastDate) { h += '<p class="dh">' + date + '</p>'; lastDate = date; }
       var meta = hhmm(a.submittedAt) + (a.test === 'rev' ? (a.partial ? ' · ' + t('partial') : '') : ' · ' + t('attemptN', tryNo(a))) + (a.activeSeconds ? ' · ⏱ ' + clock(a.activeSeconds) : '');
@@ -737,7 +782,7 @@
   }
 
   /* ---------- render + events ---------- */
-  var SCREENS = { sofar: sofarScreen, home: homeScreen, day: dayScreen, notes: notesScreen, intro: introScreen, run: runScreen, result: resultScreen, revision: revisionScreen, progress: progressScreen };
+  var SCREENS = { sofar: sofarScreen, week: sofarScreen, home: homeScreen, day: dayScreen, notes: notesScreen, intro: introScreen, run: runScreen, result: resultScreen, revision: revisionScreen, progress: progressScreen };
   var renderSeq = 0;
   async function render(keepScroll) {
     var seq = ++renderSeq;
@@ -772,6 +817,8 @@
       case 'start': await beginRun(route.day, route.id, null); go({ r: 'run' }, true); break;
       case 'sofar': go({ r: 'sofar', through: day || daysDone() }); break;
       case 'sofarstart': await beginSofar(null, route.through); go({ r: 'run' }, true); break;
+      case 'wk7': go({ r: 'week' }); break;
+      case 'wk7start': await beginSofar(null, null, 'week'); go({ r: 'run' }, true); break;
       case 'resume': var ip = LS.get('inprog', null); if (ip) { await beginRun(ip.day, ip.tid, ip); go({ r: 'run' }); } break;
       case 'pick': run.ans[run.idx] = run.ans[run.idx] === i ? null : i; persistRun(); render(true); break;
       case 'prev': if (run.idx) { run.idx--; persistRun(); render(); } break;
