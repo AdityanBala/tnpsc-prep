@@ -1710,6 +1710,130 @@
       "ta": "24² − 20² = 576 − 400 = 176 ச.மீ.",
       "en": "24² − 20² = 576 − 400 = 176 sq m."
      }
+    },
+    {
+     "id": "d024-daily-p011",
+     "subject": "gs",
+     "q": {
+      "ta": "73-ஆம் திருத்தம் சேர்த்த அட்டவணையும் அதில் உள்ள பொருள்களின் எண்ணிக்கையும்",
+      "en": "The Schedule added by the 73rd Amendment and the number of subjects in it are"
+     },
+     "o": [
+      {
+       "ta": "12-ஆம் அட்டவணை, 18 பொருள்கள்",
+       "en": "Twelfth Schedule, 18 subjects"
+      },
+      {
+       "ta": "11-ஆம் அட்டவணை, 29 பொருள்கள்",
+       "en": "Eleventh Schedule, 29 subjects"
+      },
+      {
+       "ta": "11-ஆம் அட்டவணை, 18 பொருள்கள்",
+       "en": "Eleventh Schedule, 18 subjects"
+      },
+      {
+       "ta": "12-ஆம் அட்டவணை, 29 பொருள்கள்",
+       "en": "Twelfth Schedule, 29 subjects"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "73 – ஊராட்சி, 11-ஆம் அட்டவணை, 29 பொருள்கள்; 74 – நகராட்சி, 12-ஆம் அட்டவணை, 18 பொருள்கள்.",
+      "en": "73rd – panchayats, Eleventh Schedule, 29 subjects; 74th – municipalities, Twelfth Schedule, 18 subjects."
+     }
+    },
+    {
+     "id": "d024-daily-p012",
+     "subject": "gs",
+     "q": {
+      "ta": "ஓர் ஊராட்சி அதன் பதவிக்காலம் முடியும் முன் கலைக்கப்பட்டால் புதிய தேர்தல் நடத்தப்பட வேண்டிய காலம்",
+      "en": "If a panchayat is dissolved before its term ends, a fresh election must be held within"
+     },
+     "o": [
+      {
+       "ta": "3 மாதம்",
+       "en": "3 months"
+      },
+      {
+       "ta": "1 ஆண்டு",
+       "en": "1 year"
+      },
+      {
+       "ta": "45 நாள்",
+       "en": "45 days"
+      },
+      {
+       "ta": "6 மாதம்",
+       "en": "6 months"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "உறுப்பு 243E: பதவிக்காலம் 5 ஆண்டுகள்; கலைக்கப்பட்டால் 6 மாதத்துக்குள் தேர்தல்.",
+      "en": "Article 243E: the term is 5 years; if dissolved, an election within 6 months."
+     }
+    },
+    {
+     "id": "d024-daily-p013",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: மாநிலத் தேர்தல் ஆணையரை ஆளுநர் நியமிக்கிறார்.\nகாரணம்: மாநிலத் தேர்தல் ஆணையம் உள்ளாட்சித் தேர்தல்களை நடத்துகிறது (உறுப்பு 243K).",
+      "en": "Assertion: The State Election Commissioner is appointed by the Governor.\nReason: The State Election Commission conducts local body elections (Article 243K)."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "இரண்டும் சரி. ஆனால் தேர்தல் நடத்தும் பணி, ஆளுநர் நியமிப்பதற்கான காரணம் அல்ல; இரண்டும் 243K-இன் தனிச் செய்திகள்.",
+      "en": "Both are true, but conducting elections is not why the Governor appoints; they are separate provisions of 243K."
+     }
+    },
+    {
+     "id": "d024-daily-p014",
+     "subject": "gs",
+     "q": {
+      "ta": "தமிழ்நாட்டு உள்ளாட்சி அமைப்புகள் குறித்த கூற்றுகளில் சரியானவை எவை?\n(i) தமிழ்நாடு ஊராட்சிகள் சட்டம் 1994-இல் இயற்றப்பட்டது.\n(ii) ஊரக அமைப்புகள்: கிராம ஊராட்சி, ஊராட்சி ஒன்றியம், மாவட்ட ஊராட்சி.\n(iii) பேரூராட்சி ஓர் ஊரக உள்ளாட்சி அமைப்பு.\n(iv) 2016-இல் உள்ளாட்சிகளில் பெண்களுக்கான இடஒதுக்கீடு 50% ஆக உயர்த்தப்பட்டது.",
+      "en": "Which of these statements on local bodies in Tamil Nadu are correct?\n(i) The Tamil Nadu Panchayats Act was passed in 1994.\n(ii) The rural bodies are the village panchayat, the panchayat union and the district panchayat.\n(iii) A town panchayat is a rural local body.\n(iv) In 2016 the reservation for women in local bodies was raised to 50%."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iv) மட்டும்",
+       "en": "(i), (ii) and (iv) only"
+      },
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iii), (iv) மட்டும்",
+       "en": "(ii), (iii) and (iv) only"
+      },
+      {
+       "ta": "நான்கும்",
+       "en": "All four"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "பேரூராட்சி நகர்ப்புற அமைப்பு (மாநகராட்சி, நகராட்சி, பேரூராட்சி); எனவே (iii) தவறு.",
+      "en": "A town panchayat is an urban body (corporation, municipality, town panchayat), so (iii) is wrong."
+     }
     }
    ]
   }

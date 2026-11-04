@@ -1930,6 +1930,157 @@
       "ta": "இரண்டும் சரி; அனுமதி மறுக்கப்பட்டதே அவர் விலகக் காரணம் (மாநாட்டுத் தலைவர் திரு.வி.க.).",
       "en": "Both are true; the refusal is why he left (the conference was presided over by Thiru. Vi. Ka.)."
      }
+    },
+    {
+     "id": "d011-daily-p019",
+     "subject": "gs",
+     "q": {
+      "ta": "பெரியார் பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) அவர் 17 செப்டம்பர் 1879 அன்று ஈரோட்டில் பிறந்தார்.\n(ii) அவர் ஈரோடு நகராட்சித் தலைவராக இருந்தார்.\n(iii) அவரது மனைவி நாகம்மை.\n(iv) அவர் 1975-இல் மறைந்தார்.",
+      "en": "Which of these statements on Periyar are correct?\n(i) He was born at Erode on 17 September 1879.\n(ii) He was chairman of the Erode municipality.\n(iii) His wife was Nagammai.\n(iv) He died in 1975."
+     },
+     "o": [
+      {
+       "ta": "(i), (iii), (iv) மட்டும்",
+       "en": "(i), (iii) and (iv) only"
+      },
+      {
+       "ta": "(ii), (iii), (iv) மட்டும்",
+       "en": "(ii), (iii) and (iv) only"
+      },
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "நான்கும்",
+       "en": "All four"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "பெரியார் மறைந்தது 24 டிசம்பர் 1973; எனவே (iv) தவறு. மற்ற மூன்றும் பாடக் குறிப்பில் உள்ளவை.",
+      "en": "Periyar died on 24 December 1973, so (iv) is wrong. The other three are in the notes."
+     }
+    },
+    {
+     "id": "d011-daily-p020",
+     "subject": "gs",
+     "q": {
+      "ta": "செங்கல்பட்டில் 1929-இல் நடந்த முதல் சுயமரியாதை மாகாண மாநாட்டின் தலைவர்",
+      "en": "Who presided over the first provincial Self-Respect Conference at Chengalpattu in 1929?"
+     },
+     "o": [
+      {
+       "ta": "டபிள்யூ.பி.ஏ. சௌந்தரபாண்டியன்",
+       "en": "W. P. A. Soundarapandian"
+      },
+      {
+       "ta": "திரு.வி.க.",
+       "en": "Thiru. Vi. Ka."
+      },
+      {
+       "ta": "சி.என். அண்ணாதுரை",
+       "en": "C. N. Annadurai"
+      },
+      {
+       "ta": "டி.எம். நாயர்",
+       "en": "T. M. Nair"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "செங்கல்பட்டு மாநாடு, பிப்ரவரி 1929: தலைவர் சௌந்தரபாண்டியன்; சாதிப் பட்டங்களைக் கைவிட அழைத்தது. திரு.வி.க. 1925 காஞ்சிபுரம் மாநாட்டுத் தலைவர்.",
+      "en": "Chengalpattu conference, February 1929: presided by Soundarapandian; it called for dropping caste titles. Thiru. Vi. Ka. presided at Kanchipuram in 1925."
+     }
+    },
+    {
+     "id": "d011-daily-p021",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: 1944 சேலம் மாநாட்டில் நீதிக்கட்சி 'திராவிடர் கழகம்' என்று பெயர் மாற்றம் பெற்றது.\nகாரணம்: திராவிடர் கழகம் தேர்தல்களில் போட்டியிடுவது என முடிவு செய்தது.",
+      "en": "Assertion: At the 1944 Salem conference the Justice Party was renamed the Dravidar Kazhagam.\nReason: The Dravidar Kazhagam decided to contest elections."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "கூற்று சரி (27 ஆகஸ்ட் 1944). திராவிடர் கழகம் தேர்தலில் போட்டியிடுவதில்லை என்றே முடிவு செய்தது; எனவே காரணம் தவறு.",
+      "en": "The assertion is true (27 August 1944). The DK decided not to contest elections, so the reason is false."
+     }
+    },
+    {
+     "id": "d011-daily-p022",
+     "subject": "gs",
+     "q": {
+      "ta": "'பெண் ஏன் அடிமையானாள்?' என்னும் நூலை எழுதியவர்",
+      "en": "Who wrote the book 'Pen En Adimaiyanal?' (Why did woman become a slave?)"
+     },
+     "o": [
+      {
+       "ta": "மூவலூர் ராமாமிர்தம்",
+       "en": "Moovalur Ramamirtham"
+      },
+      {
+       "ta": "முத்துலட்சுமி ரெட்டி",
+       "en": "Muthulakshmi Reddy"
+      },
+      {
+       "ta": "அண்ணா",
+       "en": "Anna"
+      },
+      {
+       "ta": "பெரியார்",
+       "en": "Periyar"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "பெண்ணடிமைத்தனத்தை எதிர்த்துப் பெரியார் எழுதிய நூல்; அவர் பெண்களின் கல்வி, சொத்துரிமை, மறுமணம், மணவிலக்கு உரிமைகளுக்காகப் பாடுபட்டார்.",
+      "en": "Periyar wrote it against the subjection of women; he worked for women's education, property rights, remarriage and divorce."
+     }
+    },
+    {
+     "id": "d011-daily-p023",
+     "subject": "gs",
+     "q": {
+      "ta": "பொருத்துக.\n(a) வைக்கம் போராட்டத் தொடக்கம்\n(b) சுயமரியாதை இயக்கத் தொடக்கம்\n(c) திராவிட முன்னேற்றக் கழகம் தொடக்கம்\n(d) முதல் அரசியலமைப்புத் திருத்தம்\n1. 1951\n2. 1949\n3. 1924\n4. 1925",
+      "en": "Match the following.\n(a) Start of the Vaikom struggle\n(b) Start of the Self-Respect Movement\n(c) Founding of the DMK\n(d) First Constitutional Amendment\n1. 1951\n2. 1949\n3. 1924\n4. 1925"
+     },
+     "o": [
+      {
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 2, (c) 4, (d) 1"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "வைக்கம் 1924; சுயமரியாதை இயக்கம் 1925; அண்ணா தி.மு.க.வைத் தொடங்கியது 1949; இடஒதுக்கீட்டைக் காத்த முதல் திருத்தம் 1951.",
+      "en": "Vaikom 1924; Self-Respect Movement 1925; Anna founded the DMK in 1949; the First Amendment protecting reservation came in 1951."
+     }
     }
    ]
   }

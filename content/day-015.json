@@ -1902,6 +1902,118 @@
       "ta": "வீத வேறுபாடு = வட்டி வேறுபாடு × 100 ÷ (அசல் × ஆண்டு) = 80 × 100 ÷ 8000 = 1%.",
       "en": "Rate difference = interest difference × 100 ÷ (principal × years) = 80 × 100 ÷ 8000 = 1%."
      }
+    },
+    {
+     "id": "d015-daily-p019",
+     "subject": "apt",
+     "q": {
+      "ta": "தனிவட்டியில் ஒரு தொகை 15 ஆண்டுகளில் 4 மடங்காக வேண்டுமெனில் ஆண்டு வட்டி வீதம்",
+      "en": "At what rate of simple interest will a sum become 4 times in 15 years?"
+     },
+     "o": [
+      {
+       "ta": "20%"
+      },
+      {
+       "ta": "25%"
+      },
+      {
+       "ta": "15%"
+      },
+      {
+       "ta": "26.67%"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "4 மடங்கு ⇒ வட்டி = அசலின் 3 மடங்கு = 300%. 300 ÷ 15 = 20%. (26.67% = 400 ÷ 15, தொகையை வட்டியாகக் கொண்ட தவறு.)",
+      "en": "4 times ⇒ interest = 3 × principal = 300%. 300 ÷ 15 = 20%. (26.67% = 400 ÷ 15, the mistake of taking the amount as interest.)"
+     }
+    },
+    {
+     "id": "d015-daily-p020",
+     "subject": "apt",
+     "q": {
+      "ta": "தனிவட்டியில் ஒரு தொகை 6 ஆண்டுகளில் இருமடங்காகிறது. அதே வீதத்தில் அது 5 மடங்காக ஆகும் காலம்",
+      "en": "At simple interest a sum doubles in 6 years. At the same rate it becomes 5 times in"
+     },
+     "o": [
+      {
+       "ta": "30 ஆண்டுகள்",
+       "en": "30 years"
+      },
+      {
+       "ta": "18 ஆண்டுகள்",
+       "en": "18 years"
+      },
+      {
+       "ta": "24 ஆண்டுகள்",
+       "en": "24 years"
+      },
+      {
+       "ta": "12 ஆண்டுகள்",
+       "en": "12 years"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "இருமடங்கு ⇒ வட்டி = அசல், 6 ஆண்டில். 5 மடங்கு ⇒ வட்டி = 4 × அசல் ⇒ 4 × 6 = 24 ஆண்டுகள்.",
+      "en": "Doubling ⇒ interest = principal in 6 years. 5 times ⇒ interest = 4 × principal ⇒ 4 × 6 = 24 years."
+     }
+    },
+    {
+     "id": "d015-daily-p021",
+     "subject": "apt",
+     "q": {
+      "ta": "ஒரு தொகை தனிவட்டியில் 3 ஆண்டுகளில் ₹ 9,800 ஆகவும் 5 ஆண்டுகளில் ₹ 11,200 ஆகவும் ஆகிறது எனில் அசல்",
+      "en": "At simple interest a sum amounts to ₹ 9,800 in 3 years and ₹ 11,200 in 5 years. The principal is"
+     },
+     "o": [
+      {
+       "ta": "₹ 8,400"
+      },
+      {
+       "ta": "₹ 7,000"
+      },
+      {
+       "ta": "₹ 8,100"
+      },
+      {
+       "ta": "₹ 7,700"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "2 ஆண்டு வட்டி = 11200 − 9800 = 1400 ⇒ ஓராண்டு 700. அசல் = 9800 − 3 × 700 = ₹ 7,700.",
+      "en": "2 years' interest = 11200 − 9800 = 1400 ⇒ 700 a year. Principal = 9800 − 3 × 700 = ₹ 7,700."
+     }
+    },
+    {
+     "id": "d015-daily-p022",
+     "subject": "apt",
+     "q": {
+      "ta": "4 ஆண்டுகளுக்கான தனிவட்டி அசலின் 2/5 பங்கு எனில் ஆண்டு வட்டி வீதம்",
+      "en": "If the simple interest for 4 years is 2/5 of the principal, the rate per year is"
+     },
+     "o": [
+      {
+       "ta": "40%"
+      },
+      {
+       "ta": "10%"
+      },
+      {
+       "ta": "16%"
+      },
+      {
+       "ta": "8%"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "2/5 = 40%; 40 ÷ 4 = 10% ஆண்டுக்கு.",
+      "en": "2/5 = 40%; 40 ÷ 4 = 10% a year."
+     }
     }
    ]
   }
