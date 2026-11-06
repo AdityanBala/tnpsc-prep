@@ -288,6 +288,14 @@
     "ta": "பத்தி: செய்தித்தாள் · மனித வளர்ச்சி, சமூக நீதி, இடஒதுக்கீடு · பகடை",
     "en": "Passages: newspapers · Human development, social justice, reservation · Dice"
    }
+  },
+  {
+   "n": 37,
+   "file": "day-037.json",
+   "title": {
+    "ta": "பத்தி: தலையங்கம், கட்டுரை · தமிழ்நாட்டுப் பொருளாதாரம் · குறியீடு",
+    "en": "Passages: editorials, essays · Economy of Tamil Nadu · Coding and decoding"
+   }
   }
  ]
 }
