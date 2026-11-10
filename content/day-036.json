@@ -895,31 +895,31 @@
      "id": "d036-daily-031",
      "subject": "gs",
      "q": {
-      "ta": "தமிழ்நாடு மனித வளர்ச்சி அறிக்கை 2017-இன்படி மனித வளர்ச்சிக் குறியீட்டில் முதலிடம் பெற்ற மாவட்டம்",
-      "en": "According to the Tamil Nadu Human Development Report 2017, the district that ranked first in the human development index is"
+      "ta": "கீழ்க்காணும் கூற்றுகளில் சரியானவை எவை?\n(i) வருவாய்ப் பற்றாக்குறை = வருவாய்ச் செலவு − வருவாய் வரவுகள்.\n(ii) ரிசர்வ் வங்கியின் பணவீக்க இலக்கு நுகர்வோர் விலைக் குறியீட்டின் (CPI) அடிப்படையில் நிர்ணயிக்கப்படுகிறது.\n(iii) நிதி ஆயோக்கின் ஆளும் குழுவில் எல்லா மாநில முதலமைச்சர்களும் இடம்பெறுகின்றனர்.\n(iv) நிதி ஆயோக்கின் துணைத் தலைவரை ஒன்றிய நிதியமைச்சர் நியமிக்கிறார்.",
+      "en": "Which of the following statements are correct?\n(i) Revenue deficit = revenue expenditure − revenue receipts.\n(ii) The RBI's inflation target is set in terms of the Consumer Price Index (CPI).\n(iii) The Governing Council of NITI Aayog includes the Chief Ministers of all states.\n(iv) The Union Finance Minister appoints the Vice-Chairperson of NITI Aayog."
      },
      "o": [
       {
-       "ta": "சென்னை",
-       "en": "Chennai"
+       "ta": "நான்கும்",
+       "en": "All four"
       },
       {
-       "ta": "கன்னியாகுமரி",
-       "en": "Kanyakumari"
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
       },
       {
-       "ta": "விருதுநகர்",
-       "en": "Virudhunagar"
+       "ta": "(ii), (iii), (iv) மட்டும்",
+       "en": "(ii), (iii) and (iv) only"
       },
       {
-       "ta": "கோயம்புத்தூர்",
-       "en": "Coimbatore"
+       "ta": "(i), (iv) மட்டும்",
+       "en": "(i) and (iv) only"
       }
      ],
      "a": 1,
      "x": {
-      "ta": "2017 அறிக்கை: கன்னியாகுமரி 1, விருதுநகர் 2, தூத்துக்குடி 3, சென்னை 4 (2003-இல் சென்னை முதலிடம்); கடைசி அரியலூர்.",
-      "en": "2017 report: Kanyakumari 1, Virudhunagar 2, Thoothukudi 3, Chennai 4 (Chennai was first in 2003); Ariyalur last."
+      "ta": "(iv) தவறு: துணைத் தலைவரை நியமிப்பவர் பிரதமர். (iv) உள்ள விடைகளை (A, C, D) அடித்தால் B மட்டும் மிஞ்சும்.",
+      "en": "(iv) is false: the Prime Minister appoints the Vice-Chairperson. Strike the options with (iv) (A, C, D) and only B is left."
      }
     },
     {
@@ -957,27 +957,31 @@
      "id": "d036-daily-033",
      "subject": "gs",
      "q": {
-      "ta": "ஆதிதிராவிடருக்கான 18% இடஒதுக்கீட்டுக்குள் அருந்ததியருக்கு 3% முன்னுரிமை இடஒதுக்கீடு வழங்கும் தமிழ்நாட்டுச் சட்டம் இயற்றப்பட்ட ஆண்டு",
-      "en": "The year in which the Tamil Nadu Act giving Arunthathiyars 3% preferential reservation within the 18% for Scheduled Castes was made"
+      "ta": "காலவரிசைப்படி அமைக்கவும்.\n(i) இந்திய உணவுக் கழகம் (FCI) அமைக்கப்படுதல்\n(ii) நார்மன் போர்லாக்குக்கு நோபல் அமைதிப் பரிசு\n(iii) பூதான் இயக்கம் தொடங்குதல்\n(iv) இந்திய வேளாண் ஆராய்ச்சிக் கழகம் (ICAR) அமைக்கப்படுதல்",
+      "en": "Arrange in chronological order.\n(i) Setting up of the Food Corporation of India (FCI)\n(ii) Nobel Peace Prize to Norman Borlaug\n(iii) Start of the Bhoodan movement\n(iv) Setting up of the Indian Council of Agricultural Research (ICAR)"
      },
      "o": [
       {
-       "ta": "1994"
+       "ta": "(iii), (iv), (i), (ii)",
+       "en": "(iii), (iv), (i), (ii)"
       },
       {
-       "ta": "2009"
+       "ta": "(iv), (iii), (ii), (i)",
+       "en": "(iv), (iii), (ii), (i)"
       },
       {
-       "ta": "2021"
+       "ta": "(iv), (iii), (i), (ii)",
+       "en": "(iv), (iii), (i), (ii)"
       },
       {
-       "ta": "1989"
+       "ta": "(iii), (i), (iv), (ii)",
+       "en": "(iii), (i), (iv), (ii)"
       }
      ],
-     "a": 1,
+     "a": 2,
      "x": {
-      "ta": "தமிழ்நாடு அருந்ததியர் சட்டம், 2009. 1989 – MBC 20% தனிப் பிரிவு; 1994 – 69% சட்டம்; 2021 – வன்னியர் 10.5% சட்டம் (ரத்து).",
-      "en": "Tamil Nadu Arunthathiyars Act, 2009. 1989 – separate 20% for MBC; 1994 – the 69% Act; 2021 – the Vanniyar 10.5% Act (struck down)."
+      "ta": "ICAR 1929 ⇒ பூதான் 1951 (போச்சம்பள்ளி) ⇒ FCI 1965 ⇒ போர்லாக்கின் நோபல் 1970.",
+      "en": "ICAR 1929 ⇒ Bhoodan 1951 (Pochampally) ⇒ FCI 1965 ⇒ Borlaug's Nobel 1970."
      }
     },
     {
@@ -1289,27 +1293,31 @@
      "id": "d036-daily-045",
      "subject": "apt",
      "q": {
-      "ta": "இரண்டு பகடைகள் ஒரே நேரத்தில் உருட்டப்படுகின்றன. இரண்டிலும் ஒரே எண் (இரட்டை) விழ நிகழ்தகவு",
-      "en": "Two dice are rolled together. What is the probability of a doublet (the same number on both)?"
+      "ta": "3 ஆண்கள் அல்லது 4 பெண்கள் ஒரு வேலையை 28 நாளில் முடிப்பர். 6 ஆண்களும் 6 பெண்களும் சேர்ந்து அவ்வேலையை எத்தனை நாளில் முடிப்பர்?",
+      "en": "3 men or 4 women can finish a job in 28 days. In how many days will 6 men and 6 women together finish it?"
      },
      "o": [
       {
-       "ta": "1/6"
+       "ta": "8 நாள்",
+       "en": "8 days"
       },
       {
-       "ta": "1/3"
+       "ta": "14 நாள்",
+       "en": "14 days"
       },
       {
-       "ta": "1/36"
+       "ta": "7 நாள்",
+       "en": "7 days"
       },
       {
-       "ta": "1/12"
+       "ta": "10 நாள்",
+       "en": "10 days"
       }
      ],
      "a": 0,
      "x": {
-      "ta": "இரட்டைகள் (1,1) முதல் (6,6) வரை 6 ⇒ 6/36 = 1/6.",
-      "en": "Doublets (1,1) to (6,6): 6 ⇒ 6/36 = 1/6."
+      "ta": "3 ஆண் = 4 பெண் ⇒ 6 ஆண் = 8 பெண்; மொத்தம் 8 + 6 = 14 பெண். வேலை = 4 × 28 = 112 பெண்-நாள் ⇒ 112 ÷ 14 = 8 நாள். 14 என்பது பெண்களை விட்டுவிட்டது.",
+      "en": "3 men = 4 women ⇒ 6 men = 8 women; in all 8 + 6 = 14 women. Work = 4 × 28 = 112 woman-days ⇒ 112 ÷ 14 = 8 days. 14 leaves out the women."
      }
     },
     {
