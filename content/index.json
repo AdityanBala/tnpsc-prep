@@ -336,6 +336,14 @@
     "ta": "முழுத் தேர்வு 2: 2024 வினாத்தாளின் பொது அறிவு, திறனறிவு + புதிய தமிழ்ப் பகுதி",
     "en": "Full test 2: General Studies and aptitude of the 2024 paper plus a new Tamil part"
    }
+  },
+  {
+   "n": 43,
+   "file": "day-043.json",
+   "title": {
+    "ta": "கலைச்சொற்கள்: அறிவியல், மருத்துவம் · சிந்துவெளி, வேத காலம், சமணம், பௌத்தம் · சுருக்குதல், மீ.பொ.வ., மீ.சி.ம.",
+    "en": "Technical terms: science, medicine · Indus Valley, Vedic age, Jainism, Buddhism · Simplification, HCF, LCM"
+   }
   }
  ]
 }
