@@ -344,6 +344,14 @@
     "ta": "கலைச்சொற்கள்: அறிவியல், மருத்துவம் · சிந்துவெளி, வேத காலம், சமணம், பௌத்தம் · சுருக்குதல், மீ.பொ.வ., மீ.சி.ம.",
     "en": "Technical terms: science, medicine · Indus Valley, Vedic age, Jainism, Buddhism · Simplification, HCF, LCM"
    }
+  },
+  {
+   "n": 44,
+   "file": "day-044.json",
+   "title": {
+    "ta": "கலைச்சொற்கள்: கல்வி, மேலாண்மை, சட்டம் · மௌரியர், குப்தர், சாளுக்கியர், இராஷ்டிரகூடர் · விழுக்காடு, விகிதம்",
+    "en": "Technical terms: education, management, law · Mauryas, Guptas, Chalukyas, Rashtrakutas · Percentage, ratio"
+   }
   }
  ]
 }
