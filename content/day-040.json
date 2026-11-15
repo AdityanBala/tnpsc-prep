@@ -38,8 +38,8 @@
     "en": "Alphanumeric reasoning, ranking, puzzles"
    },
    "md": {
-    "ta": "திறனறிவு, காரணவியல்: எண்–எழுத்துக் காரணவியல், வரிசை (இடம்), புதிர்கள். 2025 வினாத்தாளில் எண்–எழுத்து மூன்று, அமர்வு வரிசை ஒன்று வந்தன. எல்லாம் ஒரு நிமிடக் கணக்குகள்; முறை தெரிந்தால் போதும்.\n\n### முந்தைய பாடங்களிலிருந்து நினைவூட்டல் (ஒவ்வொரு தேர்விலும் ஒன்று)\n\n- **ஆண்–பெண் சமன்:** 6 ஆண் = 10 பெண் ⇒ எல்லாரையும் பெண்களாக மாற்று. மொத்த வேலை (பெண்-நாள்) ÷ மொத்தப் பெண்கள் = நாள்.\n- **தனிவட்டி மடங்கு:** n மடங்கு ⇒ வட்டி = (n − 1) × அசல். 8 ஆண்டில் இருமடங்கு ⇒ 5 மடங்குக்கு 4 × 8 = 32 ஆண்டு.\n- **வட்டியா, தொகையா?** கூட்டுவட்டி கேட்டால் தொகை − அசல்.\n\n### எழுத்துகளின் இட எண்கள்\n\n| எழுத்து | இடம் | எழுத்து | இடம் |\n| --- | --- | --- | --- |\n| E | 5 | J | 10 |\n| O | 15 | T | 20 |\n| Y | 25 | M / N | 13 / 14 |\n\n- நினைவுச் சொல்: **EJOTY** (5, 10, 15, 20, 25).\n- **வலமிருந்து k-ஆவது = இடமிருந்து (27 − k)-ஆவது.** வலமிருந்து 7 ⇒ 20 ⇒ T.\n- **தலைகீழ் வரிசை** (Z முதல் A): அதில் இடமிருந்து k-ஆவது = நேர் வரிசையில் (27 − k)-ஆவது.\n- 'k-ஆவது எழுத்துக்கு இடப்புறம் m' ⇒ k − m; 'வலப்புறம் m' ⇒ k + m.\n\n### வரிசையில் எண்ணுதல்\n\n- **மொத்தம் = இடமிருந்து + வலமிருந்து − 1.** (அந்த ஆள் இருமுறை எண்ணப்படுகிறார்.)\n- **கீழிருந்து இடம் = மொத்தம் − மேலிருந்து + 1.**\n- **இருவருக்கு இடையே:** இருவரையும் ஒரே பக்கத்திலிருந்து எண்ணு; இடையே = பெரியது − சிறியது − 1.\n- **இடம் மாறினால்:** A, B-யின் இடத்துக்குப் போனால், A-யின் புதிய இடம் = B-யின் பழைய இடம். 'புதிய இடமிருந்து + B-யின் வலமிருந்து − 1' = மொத்தம்.\n- **எண் சரத்தில் எண்ணுதல்:** '3 5 7' போன்ற தொகுதியை விரலால் ஒவ்வொன்றாகக் கடந்து எண்ணு; முன்னும் பின்னும் இரண்டு நிபந்தனையையும் பார்.\n\n### புதிர்கள்\n\n- **கிழமை:** நாள்களை 7-ஆல் வகு; மீதி மட்டும் முக்கியம். முன்னே என்றால் முன்னோக்கி, முன்பு என்றால் பின்னோக்கி எண்ணு. 75 = 7 × 10 + 5.\n- **அமர்வு வரிசை:** முதலில் முனைகளில் உள்ளவர்களை வை; பிறகு 'உடனடியாக' என்ற நிபந்தனைகள். வடக்கு நோக்கி அமர்ந்தால் அவர்களின் இடம், வலம் உன் இடம், வலமே.\n- **உயரம், வயது வரிசை:** ஒவ்வொரு கூற்றையும் '>' குறியாக எழுது: D > A > B > C.\n- **எழுத்துக் குறியீடு:** ஒவ்வொரு எழுத்தும் எத்தனை இடம் நகர்ந்தது என்று பார் (PEN ⇒ RGP: +2); அல்லது இட எண்களின் கூடுதல் (CAT = 3 + 1 + 20 = 24).\n\n### தேர்வுக்கு முன்\n\n- EJOTY-ஐயும் 27 − k விதியையும் தேர்வுக்கு முன் ஒருமுறை சொல்லிப் பார்.\n- வரிசைக் கணக்கில் '− 1' மறக்க வேண்டாம்; விடைகள் பெரும்பாலும் ±1 வேறுபாட்டில் இருக்கும்.\n- எந்த வினாவையும் காலியாக விடாதே.",
-    "en": "Aptitude, reasoning: alphanumeric reasoning, ranking, puzzles. The 2025 paper had three alphanumeric questions and one seating row. All are one-minute sums once the method is known.\n\n### Reminders from earlier lessons (one in every test)\n\n- **Men = women:** 6 men = 10 women ⇒ turn everyone into women. Total work (woman-days) ÷ number of women = days.\n- **Multiples at simple interest:** n times ⇒ interest = (n − 1) × principal. Doubles in 8 years ⇒ 5 times takes 4 × 8 = 32 years.\n- **Interest or amount?** If compound interest is asked, it is amount − principal.\n\n### Letter positions\n\n| Letter | Position | Letter | Position |\n| --- | --- | --- | --- |\n| E | 5 | J | 10 |\n| O | 15 | T | 20 |\n| Y | 25 | M / N | 13 / 14 |\n\n- Memory word: **EJOTY** (5, 10, 15, 20, 25).\n- **k-th from the right = (27 − k)-th from the left.** 7th from the right ⇒ 20 ⇒ T.\n- **Reverse order** (Z to A): k-th from the left there = (27 − k)-th in normal order.\n- 'm to the left of the k-th letter' ⇒ k − m; 'm to the right' ⇒ k + m.\n\n### Ranking in a row\n\n- **Total = from left + from right − 1.** (The person is counted twice.)\n- **Rank from the bottom = total − rank from the top + 1.**\n- **Between two people:** count both from the same end; between = larger − smaller − 1.\n- **After a swap:** if A moves to B's place, A's new position is B's old one. 'A's new position from the left + B's position from the right − 1' = total.\n- **Counting in a string:** pass a finger over the string one block at a time ('3 5 7') and check both the 'before' and the 'after' condition.\n\n### Puzzles\n\n- **Days of the week:** divide the number of days by 7; only the remainder matters. 'After' counts forward, 'ago' counts back. 75 = 7 × 10 + 5.\n- **Seating in a row:** place the people at the ends first, then the 'immediately' conditions. People facing north have the same left and right as you.\n- **Height or age order:** write each statement with '>': D > A > B > C.\n- **Letter codes:** see how many places each letter moved (PEN ⇒ RGP: +2), or add the positions (CAT = 3 + 1 + 20 = 24).\n\n### Before the test\n\n- Say EJOTY and the 27 − k rule once before you start.\n- Do not forget the '− 1' in ranking sums; the options usually differ by one.\n- Do not leave any question blank."
+    "ta": "திறனறிவு, காரணவியல்: எண்–எழுத்துக் காரணவியல், வரிசை (இடம்), புதிர்கள். 2025 வினாத்தாளில் எண்–எழுத்து மூன்று, அமர்வு வரிசை ஒன்று வந்தன. எல்லாம் ஒரு நிமிடக் கணக்குகள்; முறை தெரிந்தால் போதும்.\n\n### முந்தைய பாடங்களிலிருந்து நினைவூட்டல் (ஒவ்வொரு தேர்விலும் ஒன்று)\n\n- **கூட்டுவட்டியில் பங்கிடுதல்:** A-இன் பங்கு n ஆண்டில் = B-இன் பங்கு m ஆண்டில் ⇒ A = B × (1 + r/100)^(m − n). காலம் குறைவானவருக்குப் பெரிய பங்கு. இரு பங்குகளும் விடைகளில் இருக்கும்; கேட்டது யாருடையது என்று பார்.\n- **'மேலும் எத்தனை நாள்':** மீதி வேலை ÷ தனியே செய்பவரின் ஒரு நாள் வேலை; சேர்ந்து செய்த நாள்களைக் கூட்டினால் அது மொத்த நாள்கள்.\n- **ஆண்–பெண் சமன்:** 6 ஆண் = 10 பெண் ⇒ எல்லாரையும் பெண்களாக மாற்று. மொத்த வேலை (பெண்-நாள்) ÷ மொத்தப் பெண்கள் = நாள்.\n- **தனிவட்டி மடங்கு:** n மடங்கு ⇒ வட்டி = (n − 1) × அசல். 8 ஆண்டில் இருமடங்கு ⇒ 5 மடங்குக்கு 4 × 8 = 32 ஆண்டு.\n- **வட்டியா, தொகையா?** கூட்டுவட்டி கேட்டால் தொகை − அசல்.\n\n### எழுத்துகளின் இட எண்கள்\n\n| எழுத்து | இடம் | எழுத்து | இடம் |\n| --- | --- | --- | --- |\n| E | 5 | J | 10 |\n| O | 15 | T | 20 |\n| Y | 25 | M / N | 13 / 14 |\n\n- நினைவுச் சொல்: **EJOTY** (5, 10, 15, 20, 25).\n- **வலமிருந்து k-ஆவது = இடமிருந்து (27 − k)-ஆவது.** வலமிருந்து 7 ⇒ 20 ⇒ T.\n- **தலைகீழ் வரிசை** (Z முதல் A): அதில் இடமிருந்து k-ஆவது = நேர் வரிசையில் (27 − k)-ஆவது.\n- 'k-ஆவது எழுத்துக்கு இடப்புறம் m' ⇒ k − m; 'வலப்புறம் m' ⇒ k + m.\n\n### வரிசையில் எண்ணுதல்\n\n- **மொத்தம் = இடமிருந்து + வலமிருந்து − 1.** (அந்த ஆள் இருமுறை எண்ணப்படுகிறார்.)\n- **கீழிருந்து இடம் = மொத்தம் − மேலிருந்து + 1.**\n- **இருவருக்கு இடையே:** இருவரையும் ஒரே பக்கத்திலிருந்து எண்ணு; இடையே = பெரியது − சிறியது − 1.\n- **இடம் மாறினால்:** A, B-யின் இடத்துக்குப் போனால், A-யின் புதிய இடம் = B-யின் பழைய இடம். 'புதிய இடமிருந்து + B-யின் வலமிருந்து − 1' = மொத்தம்.\n- **எண் சரத்தில் எண்ணுதல்:** '3 5 7' போன்ற தொகுதியை விரலால் ஒவ்வொன்றாகக் கடந்து எண்ணு; முன்னும் பின்னும் இரண்டு நிபந்தனையையும் பார்.\n\n### புதிர்கள்\n\n- **கிழமை:** நாள்களை 7-ஆல் வகு; மீதி மட்டும் முக்கியம். முன்னே என்றால் முன்னோக்கி, முன்பு என்றால் பின்னோக்கி எண்ணு. 75 = 7 × 10 + 5.\n- **அமர்வு வரிசை:** முதலில் முனைகளில் உள்ளவர்களை வை; பிறகு 'உடனடியாக' என்ற நிபந்தனைகள். வடக்கு நோக்கி அமர்ந்தால் அவர்களின் இடம், வலம் உன் இடம், வலமே.\n- **உயரம், வயது வரிசை:** ஒவ்வொரு கூற்றையும் '>' குறியாக எழுது: D > A > B > C.\n- **எழுத்துக் குறியீடு:** ஒவ்வொரு எழுத்தும் எத்தனை இடம் நகர்ந்தது என்று பார் (PEN ⇒ RGP: +2); அல்லது இட எண்களின் கூடுதல் (CAT = 3 + 1 + 20 = 24).\n\n### தேர்வுக்கு முன்\n\n- EJOTY-ஐயும் 27 − k விதியையும் தேர்வுக்கு முன் ஒருமுறை சொல்லிப் பார்.\n- வரிசைக் கணக்கில் '− 1' மறக்க வேண்டாம்; விடைகள் பெரும்பாலும் ±1 வேறுபாட்டில் இருக்கும்.\n- எந்த வினாவையும் காலியாக விடாதே.",
+    "en": "Aptitude, reasoning: alphanumeric reasoning, ranking, puzzles. The 2025 paper had three alphanumeric questions and one seating row. All are one-minute sums once the method is known.\n\n### Reminders from earlier lessons (one in every test)\n\n- **Dividing a sum at compound interest:** A's share after n years = B's share after m years ⇒ A = B × (1 + r/100)^(m − n). The shorter time gets the larger share. Both shares are among the options; check whose is asked.\n- **'How many more days':** remaining work ÷ the one-day work of the person left; adding the days worked together gives the total instead.\n- **Men = women:** 6 men = 10 women ⇒ turn everyone into women. Total work (woman-days) ÷ number of women = days.\n- **Multiples at simple interest:** n times ⇒ interest = (n − 1) × principal. Doubles in 8 years ⇒ 5 times takes 4 × 8 = 32 years.\n- **Interest or amount?** If compound interest is asked, it is amount − principal.\n\n### Letter positions\n\n| Letter | Position | Letter | Position |\n| --- | --- | --- | --- |\n| E | 5 | J | 10 |\n| O | 15 | T | 20 |\n| Y | 25 | M / N | 13 / 14 |\n\n- Memory word: **EJOTY** (5, 10, 15, 20, 25).\n- **k-th from the right = (27 − k)-th from the left.** 7th from the right ⇒ 20 ⇒ T.\n- **Reverse order** (Z to A): k-th from the left there = (27 − k)-th in normal order.\n- 'm to the left of the k-th letter' ⇒ k − m; 'm to the right' ⇒ k + m.\n\n### Ranking in a row\n\n- **Total = from left + from right − 1.** (The person is counted twice.)\n- **Rank from the bottom = total − rank from the top + 1.**\n- **Between two people:** count both from the same end; between = larger − smaller − 1.\n- **After a swap:** if A moves to B's place, A's new position is B's old one. 'A's new position from the left + B's position from the right − 1' = total.\n- **Counting in a string:** pass a finger over the string one block at a time ('3 5 7') and check both the 'before' and the 'after' condition.\n\n### Puzzles\n\n- **Days of the week:** divide the number of days by 7; only the remainder matters. 'After' counts forward, 'ago' counts back. 75 = 7 × 10 + 5.\n- **Seating in a row:** place the people at the ends first, then the 'immediately' conditions. People facing north have the same left and right as you.\n- **Height or age order:** write each statement with '>': D > A > B > C.\n- **Letter codes:** see how many places each letter moved (PEN ⇒ RGP: +2), or add the positions (CAT = 3 + 1 + 20 = 24).\n\n### Before the test\n\n- Say EJOTY and the 27 − k rule once before you start.\n- Do not forget the '− 1' in ranking sums; the options usually differ by one.\n- Do not leave any question blank."
    }
   }
  ],
@@ -956,27 +956,31 @@
      "id": "d040-daily-034",
      "subject": "gs",
      "q": {
-      "ta": "காவிரி டெல்டாவைப் பாதுகாக்கப்பட்ட வேளாண் மண்டலமாக அறிவிக்கும் தமிழ்நாட்டுச் சட்டம் சட்டமன்றத்தில் நிறைவேற்றப்பட்ட ஆண்டு",
-      "en": "The year in which the Tamil Nadu Assembly passed the Act declaring the Cauvery delta a protected agricultural zone"
+      "ta": "கூற்று: நெய்வேலியில் அனல் மின்சாரம் பெருமளவில் உற்பத்தி செய்யப்படுகிறது.\nகாரணம்: நெய்வேலியில் பழுப்பு நிலக்கரி பெருமளவில் கிடைக்கிறது.",
+      "en": "Assertion: Thermal power is produced on a large scale at Neyveli.\nReason: Large deposits of lignite are found at Neyveli."
      },
      "o": [
       {
-       "ta": "2016"
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
       },
       {
-       "ta": "2018"
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
       },
       {
-       "ta": "2020"
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
       },
       {
-       "ta": "2022"
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
       }
      ],
      "a": 2,
      "x": {
-      "ta": "தமிழ்நாடு பாதுகாக்கப்பட்ட வேளாண் மண்டல மேம்பாட்டுச் சட்டம், 2020 (20 பிப்ரவரி 2020): டெல்டாவில் புதிய ஹைட்ரோகார்பன் போன்ற திட்டங்களுக்குத் தடை.",
-      "en": "The Tamil Nadu Protected Agricultural Zone Development Act, 2020 (passed 20 February 2020) bars new projects such as hydrocarbon extraction in the delta."
+      "ta": "இரண்டும் சரி (NLC 1956). 'அனல் மின்சாரம் உற்பத்தியாகிறது, ஏனெனில் எரிபொருளான பழுப்பு நிலக்கரி அங்கேயே கிடைக்கிறது' ⇒ விளக்குகிறது.",
+      "en": "Both are true (NLC 1956). 'Thermal power is produced there because its fuel, lignite, is found there' makes sense ⇒ the reason explains the assertion."
      }
     },
     {
@@ -1292,27 +1296,31 @@
      "id": "d040-daily-046",
      "subject": "apt",
      "q": {
-      "ta": "A, B-யைவிட உயரம்; C, B-யைவிடக் குள்ளம்; D, A-யைவிட உயரம். உயரத்தில் இரண்டாமவர் யார்?",
-      "en": "A is taller than B, C is shorter than B, and D is taller than A. Who is the second tallest?"
+      "ta": "A ஒரு வேலையை 18 நாளிலும் B 27 நாளிலும் முடிப்பர். இருவரும் சேர்ந்து 6 நாள் வேலை செய்த பின் A விலகுகிறார். மீதி வேலையை B மேலும் எத்தனை நாளில் முடிப்பார்?",
+      "en": "A can finish a job in 18 days and B in 27 days. They work together for 6 days, then A leaves. In how many more days will B finish the rest?"
      },
      "o": [
       {
-       "ta": "D"
+       "ta": "18 நாள்",
+       "en": "18 days"
       },
       {
-       "ta": "A"
+       "ta": "12 நாள்",
+       "en": "12 days"
       },
       {
-       "ta": "B"
+       "ta": "6 நாள்",
+       "en": "6 days"
       },
       {
-       "ta": "C"
+       "ta": "15 நாள்",
+       "en": "15 days"
       }
      ],
      "a": 1,
      "x": {
-      "ta": "D > A > B > C. உயரத்தில் இரண்டாமவர் A; மிகக் குள்ளம் C.",
-      "en": "D > A > B > C. The second tallest is A; the shortest is C."
+      "ta": "ஒரு நாள்: 1/18 + 1/27 = 5/54; 6 நாளில் 30/54 = 5/9. மீதி 4/9 × 27 = 12 நாள். 18 என்பது மொத்த நாள்கள் (6 + 12).",
+      "en": "One day: 1/18 + 1/27 = 5/54; in 6 days 30/54 = 5/9. Rest 4/9 × 27 = 12 days. 18 is the total (6 + 12)."
      }
     },
     {
@@ -1346,27 +1354,27 @@
      "id": "d040-daily-048",
      "subject": "apt",
      "q": {
-      "ta": "தனிவட்டியில் ஒரு தொகை 8 ஆண்டுகளில் இருமடங்காகிறது. அது 5 மடங்காக ஆகும் ஆண்டுகள்",
-      "en": "At simple interest a sum doubles in 8 years. In how many years will it become 5 times itself?"
+      "ta": "₹3,364-ஐ A, B இருவருக்கும், A-இன் பங்கு 2 ஆண்டில் அடையும் தொகையும் B-இன் பங்கு 4 ஆண்டில் அடையும் தொகையும் சமமாகுமாறு, ஆண்டுக்கு 5% கூட்டுவட்டியில் பிரித்தால் A-இன் பங்கு",
+      "en": "₹3,364 is divided between A and B so that A's share after 2 years equals B's share after 4 years, at 5% a year compound interest. A's share is"
      },
      "o": [
       {
-       "ta": "40"
+       "ta": "₹1,600"
       },
       {
-       "ta": "24"
+       "ta": "₹1,682"
       },
       {
-       "ta": "32"
+       "ta": "₹1,764"
       },
       {
-       "ta": "20"
+       "ta": "₹1,800"
       }
      ],
      "a": 2,
      "x": {
-      "ta": "இருமடங்கு ⇒ வட்டி = 1 × அசல், 8 ஆண்டு. 5 மடங்கு ⇒ வட்டி = 4 × அசல் ⇒ 4 × 8 = 32 ஆண்டு. 40 என்பது 5 × 8 என்ற தவறு.",
-      "en": "Double ⇒ interest = 1 × principal in 8 years. 5 times ⇒ interest = 4 × principal ⇒ 4 × 8 = 32 years. 40 is the slip 5 × 8."
+      "ta": "A × 1.05² = B × 1.05⁴ ⇒ A = 1.1025B; 2.1025B = 3364 ⇒ B = 1600, A = 1764. ₹1,600 என்பது B-இன் பங்கு; ₹1,682 சரிபாதி.",
+      "en": "A × 1.05² = B × 1.05⁴ ⇒ A = 1.1025B; 2.1025B = 3364 ⇒ B = 1600, A = 1764. ₹1,600 is B's share; ₹1,682 is half."
      }
     },
     {
