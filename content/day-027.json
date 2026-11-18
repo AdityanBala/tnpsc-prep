@@ -1726,6 +1726,157 @@
       "ta": "20000 × 1.1² = 24,200 (தொகை); வட்டி = 24,200 − 20,000 = ₹ 4,200. 4,000 தனிவட்டி.",
       "en": "20000 × 1.1² = 24,200 (the amount); interest = 24,200 − 20,000 = ₹ 4,200. 4,000 is the simple interest."
      }
+    },
+    {
+     "id": "d027-daily-p011",
+     "subject": "gs",
+     "q": {
+      "ta": "தகவல் அறியும் உரிமைச் சட்டம், 2005 பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) அது 12 அக்டோபர் 2005 முதல் முழுமையாக நடைமுறைக்கு வந்தது.\n(ii) பொதுவாக 30 நாளில் தகவல் தர வேண்டும்.\n(iii) ஒருவரின் உயிர் அல்லது சுதந்திரம் தொடர்பான தகவல் 48 மணி நேரத்தில் தரப்பட வேண்டும்.\n(iv) இரண்டாம் மேல்முறையீடு தகவல் ஆணையத்திடம் செய்யப்படும்.",
+      "en": "Which of these statements about the Right to Information Act, 2005 are correct?\n(i) It came fully into force on 12 October 2005.\n(ii) Information must normally be given within 30 days.\n(iii) Information about a person's life or liberty must be given within 48 hours.\n(iv) The second appeal lies with the Information Commission."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iii), (iv) மட்டும்",
+       "en": "(ii), (iii) and (iv) only"
+      },
+      {
+       "ta": "அனைத்தும்",
+       "en": "All four"
+      },
+      {
+       "ta": "(i), (iv) மட்டும்",
+       "en": "(i) and (iv) only"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "நான்கும் சரி. முதல் மேல்முறையீடு அதே அலுவலகத்தின் மேல்முறையீட்டு அலுவலரிடம்; இரண்டாவது தகவல் ஆணையத்திடம்.",
+      "en": "All four are true. The first appeal goes to the appellate officer in the same office; the second to the Information Commission."
+     }
+    },
+    {
+     "id": "d027-daily-p012",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: லோக்பால் தலைவரைக் குடியரசுத் தலைவர் நியமிக்கிறார்.\nகாரணம்: லோக்பால் தேர்வுக்குழுவின் தலைவர் இந்தியத் தலைமை நீதிபதி.",
+      "en": "Assertion: The Lokpal chairperson is appointed by the President.\nReason: The Lokpal selection committee is headed by the Chief Justice of India."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "கூற்று சரி. காரணம் தவறு: தேர்வுக்குழுவின் தலைவர் பிரதமர்; தலைமை நீதிபதி (அல்லது அவர் பரிந்துரைக்கும் நீதிபதி) ஓர் உறுப்பினர் மட்டும்.",
+      "en": "The assertion is true. The reason is false: the committee is headed by the Prime Minister; the Chief Justice (or a judge he nominates) is only a member."
+     }
+    },
+    {
+     "id": "d027-daily-p013",
+     "subject": "gs",
+     "q": {
+      "ta": "சரியாகப் பொருந்தியுள்ள இணை எது?",
+      "en": "Which pair is correctly matched?"
+     },
+     "o": [
+      {
+       "ta": "தேசிய நுகர்வோர் நாள் – 15 மார்ச்",
+       "en": "National Consumer Day – 15 March"
+      },
+      {
+       "ta": "உலக நுகர்வோர் உரிமைகள் நாள் – 24 டிசம்பர்",
+       "en": "World Consumer Rights Day – 24 December"
+      },
+      {
+       "ta": "நுகர்வோர் ஆணையங்கள் – மூன்றடுக்கு",
+       "en": "Consumer commissions – three tiers"
+      },
+      {
+       "ta": "இப்போது நடைமுறையில் உள்ள நுகர்வோர் பாதுகாப்புச் சட்டம் – 1986",
+       "en": "Consumer Protection Act now in force – 1986"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "மூன்றடுக்கு: மாவட்டம், மாநிலம், தேசியம். தேசிய நுகர்வோர் நாள் 24 டிசம்பர்; உலக நுகர்வோர் உரிமைகள் நாள் 15 மார்ச்; 1986 சட்டத்தை 2019 சட்டம் மாற்றியது.",
+      "en": "Three tiers: district, state, national. National Consumer Day is 24 December and World Consumer Rights Day 15 March; the 2019 Act replaced the 1986 Act."
+     }
+    },
+    {
+     "id": "d027-daily-p014",
+     "subject": "gs",
+     "q": {
+      "ta": "காலவரிசைப்படுத்துக.\n1. ஊழல் கண்காணிப்பு ஆணையம் அமைக்கப்பட்டது\n2. லோக்பால் சட்டம் நடைமுறைக்கு வந்தது\n3. தகவல் அறியும் உரிமைச் சட்டம் முழுமையாக நடைமுறைக்கு வந்தது\n4. முதல் லோக்பால் தலைவர் பதவியேற்றார்",
+      "en": "Arrange in chronological order.\n1. The Central Vigilance Commission was set up\n2. The Lokpal Act came into force\n3. The Right to Information Act came fully into force\n4. The first Lokpal chairperson was sworn in"
+     },
+     "o": [
+      {
+       "ta": "1, 3, 2, 4"
+      },
+      {
+       "ta": "3, 1, 2, 4"
+      },
+      {
+       "ta": "1, 2, 3, 4"
+      },
+      {
+       "ta": "1, 3, 4, 2"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "ஊழல் கண்காணிப்பு ஆணையம் 1964 → தகவல் அறியும் உரிமை 2005 → லோக்பால் சட்டம் 2014 → முதல் லோக்பால் 2019.",
+      "en": "Central Vigilance Commission 1964 → RTI 2005 → Lokpal Act 2014 → first Lokpal 2019."
+     }
+    },
+    {
+     "id": "d027-daily-p015",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்றுகளில் சரியானவை எவை?\n(i) பிரிவு 249-இன் கீழ் மாநிலங்களவை மூன்றில் இரண்டு பெரும்பான்மைத் தீர்மானம் நிறைவேற்றினால், மாநிலப் பட்டியல் பொருளில் நாடாளுமன்றம் சட்டம் இயற்றலாம்.\n(ii) அத்தீர்மானம் ஓராண்டு வரை செல்லும்.\n(iii) எஞ்சிய அதிகாரம் பிரிவு 248-இன்படி நாடாளுமன்றத்துக்கு உரியது.\n(iv) எஞ்சிய அதிகாரம் ஆஸ்திரேலிய அரசியலமைப்பிலிருந்து பெறப்பட்டது.",
+      "en": "Which of these statements are correct?\n(i) If the Rajya Sabha passes a two-thirds resolution under Article 249, Parliament may make laws on a State List subject.\n(ii) Such a resolution lasts up to one year.\n(iii) Under Article 248 the residuary power belongs to Parliament.\n(iv) The residuary power was borrowed from the Australian Constitution."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iii), (iv) மட்டும்",
+       "en": "(ii), (iii) and (iv) only"
+      },
+      {
+       "ta": "அனைத்தும்",
+       "en": "All four"
+      },
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "(iv) தவறு: எஞ்சிய அதிகாரம் கனடாவிலிருந்து பெறப்பட்டது; பொதுப் பட்டியல் ஆஸ்திரேலியாவிலிருந்து.",
+      "en": "(iv) is false: the residuary power was borrowed from Canada; the Concurrent List from Australia."
+     }
     }
    ]
   }

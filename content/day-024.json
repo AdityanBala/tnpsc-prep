@@ -1834,6 +1834,126 @@
       "ta": "பேரூராட்சி நகர்ப்புற அமைப்பு (மாநகராட்சி, நகராட்சி, பேரூராட்சி); எனவே (iii) தவறு.",
       "en": "A town panchayat is an urban body (corporation, municipality, town panchayat), so (iii) is wrong."
      }
+    },
+    {
+     "id": "d024-daily-p015",
+     "subject": "gs",
+     "q": {
+      "ta": "பொருத்துக.\n(a) பல்வந்த்ராய் மேத்தா குழு\n(b) அசோக் மேத்தா குழு\n(c) எல்.எம். சிங்வி குழு\n(d) ரிப்பன் பிரபுவின் தீர்மானம்\n1. 1882\n2. 1957\n3. 1977\n4. 1986",
+      "en": "Match the following.\n(a) Balwant Rai Mehta Committee\n(b) Ashok Mehta Committee\n(c) L.M. Singhvi Committee\n(d) Lord Ripon's resolution\n1. 1882\n2. 1957\n3. 1977\n4. 1986"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 2, (c) 4, (d) 1"
+      },
+      {
+       "ta": "(a) 2, (b) 3, (c) 1, (d) 4"
+      },
+      {
+       "ta": "(a) 2, (b) 4, (c) 3, (d) 1"
+      },
+      {
+       "ta": "(a) 2, (b) 3, (c) 4, (d) 1"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "பல்வந்த்ராய் மேத்தா 1957 (மூன்றடுக்கு); அசோக் மேத்தா 1977 (ஈரடுக்கு); எல்.எம். சிங்வி 1986 (அரசியலமைப்பு அங்கீகாரம்); ரிப்பன் 1882.",
+      "en": "Balwant Rai Mehta 1957 (three tiers); Ashok Mehta 1977 (two tiers); L.M. Singhvi 1986 (constitutional recognition); Ripon 1882."
+     }
+    },
+    {
+     "id": "d024-daily-p016",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: 74-ஆவது திருத்தம் 18 பொருள்களைக் கொண்ட பன்னிரண்டாம் அட்டவணையைச் சேர்த்தது.\nகாரணம்: 73-ஆவது திருத்தம் 29 பொருள்களைக் கொண்ட பதினொன்றாம் அட்டவணையைச் சேர்த்தது.",
+      "en": "Assertion: The 74th Amendment added the Twelfth Schedule with 18 subjects.\nReason: The 73rd Amendment added the Eleventh Schedule with 29 subjects."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "இரண்டும் சரி; ஆனால் 73-ஆவது திருத்தம் பற்றிய செய்தி 74-ஆவது திருத்தத்தை விளக்கவில்லை – இரண்டும் தனிச் செய்திகள்.",
+      "en": "Both are true, but the fact about the 73rd Amendment does not explain the 74th – they are separate facts."
+     }
+    },
+    {
+     "id": "d024-daily-p017",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்றுகளில் சரியானவை எவை?\n(i) 73-ஆவது திருத்தம் நடைமுறைக்கு வந்த 24 ஏப்ரல் தேசிய ஊராட்சி நாளாகக் கடைப்பிடிக்கப்படுகிறது.\n(ii) கலைக்கப்பட்ட ஊராட்சிக்கு 6 மாதங்களுக்குள் தேர்தல் நடத்த வேண்டும்.\n(iii) மாநிலத் தேர்தல் ஆணையரை இந்தியத் தேர்தல் ஆணையம் நியமிக்கிறது.\n(iv) ஊராட்சித் தேர்தலில் போட்டியிடக் குறைந்தபட்ச வயது 21.",
+      "en": "Which of these statements are correct?\n(i) 24 April, when the 73rd Amendment came into force, is observed as National Panchayat Raj Day.\n(ii) An election must be held within 6 months for a dissolved panchayat.\n(iii) The State Election Commissioner is appointed by the Election Commission of India.\n(iv) The minimum age to contest a panchayat election is 21."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iv) மட்டும்",
+       "en": "(i), (ii) and (iv) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iii), (iv) மட்டும்",
+       "en": "(ii), (iii) and (iv) only"
+      },
+      {
+       "ta": "அனைத்தும்",
+       "en": "All four"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "(iii) தவறு: மாநிலத் தேர்தல் ஆணையரை நியமிப்பவர் ஆளுநர் (பிரிவு 243K).",
+      "en": "(iii) is false: the State Election Commissioner is appointed by the Governor (Article 243K)."
+     }
+    },
+    {
+     "id": "d024-daily-p018",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: தமிழ்நாட்டில் ஊராட்சி ஒன்றியம் ஊரக உள்ளாட்சியின் இடைநிலை அமைப்பு.\nகாரணம்: மக்கள்தொகை எவ்வளவாக இருந்தாலும் எல்லா மாநிலங்களும் இடைநிலை ஊராட்சியை அமைக்க வேண்டும் என்று 73-ஆவது திருத்தம் கூறுகிறது.",
+      "en": "Assertion: In Tamil Nadu the panchayat union is the intermediate tier of rural local government.\nReason: The 73rd Amendment requires every state, whatever its population, to set up the intermediate tier."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "கூற்று சரி: கிராம ஊராட்சி → ஊராட்சி ஒன்றியம் → மாவட்ட ஊராட்சி. காரணம் தவறு: 20 லட்சத்துக்குக் குறைவான மக்கள்தொகை கொண்ட மாநிலங்களுக்கு விலக்கு (பிரிவு 243B).",
+      "en": "The assertion is true: village panchayat → panchayat union → district panchayat. The reason is false: states with a population under 20 lakh are exempt (Article 243B)."
+     }
     }
    ]
   }
