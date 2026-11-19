@@ -1742,6 +1742,161 @@
       "ta": "திறன் விகிதம் 1/15 : 1/10 = 2 : 3 ⇒ B = 1500 × 3/5 = ₹ 900. 600 என்பது A-இன் பங்கு.",
       "en": "Rates 1/15 : 1/10 = 2 : 3 ⇒ B gets 1500 × 3/5 = ₹ 900. 600 is A's share."
      }
+    },
+    {
+     "id": "d030-daily-p011",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று (A): இரண்டாம் ஐந்தாண்டுத் திட்டம் மகலனோபிஸ் மாதிரியை அடிப்படையாகக் கொண்டது.\nகாரணம் (R): முதல் ஐந்தாண்டுத் திட்டம் ஹாரோட்–டோமர் மாதிரியை அடிப்படையாகக் கொண்டது.",
+      "en": "Assertion (A): The Second Five-Year Plan was based on the Mahalanobis model.\nReason (R): The First Five-Year Plan was based on the Harrod–Domar model."
+     },
+     "o": [
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "A is true, R is false"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but R does not explain A"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "A is false, R is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and R explains A"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "இரண்டும் சரி, ஆனால் தனித்தனிச் செய்திகள்: முதல் திட்டம் ஹாரோட்–டோமர் (வேளாண்மை), இரண்டாம் திட்டம் மகலனோபிஸ் (கனரகத் தொழில்).",
+      "en": "Both are true but separate facts: the First Plan used Harrod–Domar (agriculture), the Second Mahalanobis (heavy industry)."
+     }
+    },
+    {
+     "id": "d030-daily-p012",
+     "subject": "gs",
+     "q": {
+      "ta": "கீழ்க்கண்ட கூற்றுகளில் சரியானவை எவை?\n(i) திட்டக் குழு 15 மார்ச் 1950 அன்று அமைக்கப்பட்டது.\n(ii) தேசிய வளர்ச்சிக் குழு 1952-இல் அமைக்கப்பட்டது.\n(iii) திட்ட விடுமுறை 1969–72.\n(iv) ஐந்தாம் திட்டம் 1978-இல் முன்கூட்டியே முடிக்கப்பட்டது.",
+      "en": "Which of the following statements are correct?\n(i) The Planning Commission was set up on 15 March 1950.\n(ii) The National Development Council was set up in 1952.\n(iii) The plan holiday was 1969–72.\n(iv) The Fifth Plan was ended early in 1978."
+     },
+     "o": [
+      {
+       "ta": "நான்கும்",
+       "en": "All four"
+      },
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iv) மட்டும்",
+       "en": "(ii) and (iv) only"
+      },
+      {
+       "ta": "(i), (ii), (iv) மட்டும்",
+       "en": "(i), (ii) and (iv) only"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "(iii) தவறு: திட்ட விடுமுறை 1966–69; அதன் பின் நான்காம் திட்டம் (1969–74).",
+      "en": "(iii) is false: the plan holiday was 1966–69, followed by the Fourth Plan (1969–74)."
+     }
+    },
+    {
+     "id": "d030-daily-p013",
+     "subject": "gs",
+     "q": {
+      "ta": "பன்னிரண்டாம் ஐந்தாண்டுத் திட்டம் பற்றிய சரியான கூற்று",
+      "en": "Which statement about the Twelfth Five-Year Plan is correct?"
+     },
+     "o": [
+      {
+       "ta": "அதுவே இந்தியாவின் கடைசி ஐந்தாண்டுத் திட்டம்",
+       "en": "It was India's last five-year plan"
+      },
+      {
+       "ta": "அது 1978-இல் முன்கூட்டியே முடிக்கப்பட்டது",
+       "en": "It was ended early in 1978"
+      },
+      {
+       "ta": "அதன் நோக்கம் 'சமூக நீதியுடன் வளர்ச்சி'",
+       "en": "Its aim was 'growth with social justice and equity'"
+      },
+      {
+       "ta": "அது மகலனோபிஸ் மாதிரியை அடிப்படையாகக் கொண்டது",
+       "en": "It was based on the Mahalanobis model"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "பன்னிரண்டாம் திட்டம் (2012–17) கடைசித் திட்டம். 1978-இல் முடிந்தது ஐந்தாம் திட்டம்; சமூக நீதி – ஒன்பதாம்; மகலனோபிஸ் – இரண்டாம்.",
+      "en": "The Twelfth Plan (2012–17) was the last. The Fifth ended in 1978; social justice and equity was the Ninth; Mahalanobis was the Second."
+     }
+    },
+    {
+     "id": "d030-daily-p014",
+     "subject": "apt",
+     "q": {
+      "ta": "குழாய் A ஒரு தொட்டியை 6 மணி நேரத்தில் நிரப்பும்; குழாய் B நிரம்பிய தொட்டியை 9 மணி நேரத்தில் காலியாக்கும். பாதி நிரம்பிய தொட்டியில் இரண்டையும் திறந்தால், தொட்டி முழுதும் நிரம்ப ஆகும் நேரம்",
+      "en": "Pipe A fills a tank in 6 hours and pipe B empties the full tank in 9 hours. If both are opened when the tank is half full, it becomes full in"
+     },
+     "o": [
+      {
+       "ta": "18 மணி",
+       "en": "18 hours"
+      },
+      {
+       "ta": "1.8 மணி",
+       "en": "1.8 hours"
+      },
+      {
+       "ta": "9 மணி",
+       "en": "9 hours"
+      },
+      {
+       "ta": "3.6 மணி",
+       "en": "3.6 hours"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "நிகர வீதம் 1/6 − 1/9 = 1/18. மீதிப் பாதி ⇒ ½ × 18 = 9 மணி. 18 என்பது முழுத் தொட்டிக்கு; 1.8, 3.6 – காலியாக்கும் குழாயைக் கூட்டியது.",
+      "en": "Net rate 1/6 − 1/9 = 1/18. The remaining half ⇒ ½ × 18 = 9 hours. 18 is for a full tank; 1.8 and 3.6 come from adding the emptying pipe."
+     }
+    },
+    {
+     "id": "d030-daily-p015",
+     "subject": "apt",
+     "q": {
+      "ta": "A, B இருவரும் சேர்ந்து ஒரு வேலையை 12 நாளில் முடிப்பர். A தனியே 20 நாளில் முடிப்பார். B தனியே முடிக்க ஆகும் நாள்கள்",
+      "en": "A and B together finish a job in 12 days. A alone takes 20 days. B alone takes"
+     },
+     "o": [
+      {
+       "ta": "8 நாள்",
+       "en": "8 days"
+      },
+      {
+       "ta": "32 நாள்",
+       "en": "32 days"
+      },
+      {
+       "ta": "7.5 நாள்",
+       "en": "7.5 days"
+      },
+      {
+       "ta": "30 நாள்",
+       "en": "30 days"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "B-யின் வீதம் = 1/12 − 1/20 = (5 − 3)/60 = 1/30 ⇒ 30 நாள். 8 = 20 − 12 என்னும் தவறான கழித்தல்.",
+      "en": "B's rate = 1/12 − 1/20 = (5 − 3)/60 = 1/30 ⇒ 30 days. 8 = 20 − 12 is the wrong subtraction."
+     }
     }
    ]
   }
