@@ -987,8 +987,8 @@
      "id": "d043-daily-035",
      "subject": "gs",
      "q": {
-      "ta": "கூற்று: இல்லம் தேடிக் கல்வித் திட்டம் 2021-இல் தொடங்கப்பட்டது.\nகாரணம்: கொரோனாவால் பள்ளிகள் மூடப்பட்டபோது 1–8 வகுப்பு மாணவர்கள் இழந்த கற்றலைச் சரிசெய்வதே அதன் நோக்கம்.",
-      "en": "Assertion: The Illam Thedi Kalvi scheme was started in 2021.\nReason: Its aim is to make up the learning that pupils of classes 1–8 lost while schools were closed during COVID."
+      "ta": "கூற்று: இல்லம் தேடிக் கல்வித் திட்டம் 2021-இல் தொடங்கப்பட்டது.\nகாரணம்: கொரோனாவால் 2020–21-இல் பள்ளிகள் நீண்ட காலம் மூடப்பட்டதால் 1–8 வகுப்பு மாணவர்களுக்குக் கற்றல் இழப்பு ஏற்பட்டது.",
+      "en": "Assertion: The Illam Thedi Kalvi scheme was started in 2021.\nReason: Because schools were closed for a long time in 2020–21 due to COVID, pupils of classes 1–8 suffered a loss of learning."
      },
      "o": [
       {
@@ -1010,8 +1010,8 @@
      ],
      "a": 0,
      "x": {
-      "ta": "இரண்டும் சரி (27 அக்டோபர் 2021, விழுப்புரம் மாவட்டம்). கொரோனாக் கற்றல் இழப்பே அது அப்போது தொடங்கப்பட்டதற்குக் காரணம் ⇒ விளக்குகிறது.",
-      "en": "Both are true (27 October 2021, Villupuram district). The COVID learning loss is why it was started then ⇒ the reason explains."
+      "ta": "இரண்டும் சரி (27 அக்டோபர் 2021, விழுப்புரம் மாவட்டம்). அந்தக் கற்றல் இழப்பைச் சரிசெய்யவே திட்டம் தொடங்கப்பட்டது; காரணம் கூற்றுக்கு முன் நடந்து அதை உண்டாக்கியது ⇒ விளக்குகிறது.",
+      "en": "Both are true (27 October 2021, Villupuram district). The scheme was started to make up that learning loss; the reason came first and caused the assertion ⇒ explains."
      }
     },
     {
