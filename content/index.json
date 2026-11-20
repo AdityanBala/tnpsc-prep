@@ -392,6 +392,14 @@
     "ta": "முழுத் தேர்வு 3: புதிய தமிழ்ப் பகுதி + பழைய வினாத்தாள்களின் பொது அறிவு, திறனறிவு",
     "en": "Full test 3: a new Tamil part plus General Studies and aptitude from past papers and your lessons"
    }
+  },
+  {
+   "n": 50,
+   "file": "day-050.json",
+   "title": {
+    "ta": "திருப்புதல்: இலக்கணம் – எழுத்து · இயற்பியல்: அளவீடுகள், விசை, வெப்பம், ஒளி, ஒலி, மின்சாரம் · கலப்புப் பயிற்சி 1",
+    "en": "Revision: grammar – letters · Physics: measurement, force, heat, light, sound, electricity · Mixed practice 1"
+   }
   }
  ]
 }
