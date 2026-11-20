@@ -1886,6 +1886,149 @@
       "ta": "இருமடங்கு ⇒ வட்டி = 100%. 100 ÷ 12.5 = 8 ஆண்டு.",
       "en": "Double ⇒ interest = 100%. 100 ÷ 12.5 = 8 years."
      }
+    },
+    {
+     "id": "d037-daily-p016",
+     "subject": "gs",
+     "q": {
+      "ta": "தமிழ்நாட்டுப் பொருளாதாரம் (2024–25) பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) மதிப்புக் கூட்டலில் சேவைத் துறையின் பங்கு 53.6%; அதுவே மிகப் பெரியது.\n(ii) முதன்மைத் துறையின் பங்கு 13.4%; அதுவே மிகக் குறைவு.\n(iii) உற்பத்தி மதிப்புக் கூட்டலில் தமிழ்நாடு மூன்றாம் இடம்.\n(iv) நெல் உற்பத்தியில் தமிழ்நாடு நாட்டில் முதலிடம்.",
+      "en": "Which of these statements about Tamil Nadu's economy (2024–25) are correct?\n(i) Services have a 53.6% share of value added, the largest.\n(ii) The primary sector's share is 13.4%, the smallest.\n(iii) Tamil Nadu is third in manufacturing value added.\n(iv) Tamil Nadu is first in the country in paddy production."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "நான்கும்",
+       "en": "All four"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iii), (iv) மட்டும்",
+       "en": "(ii), (iii) and (iv) only"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "(iv) தவறு: நெல் உற்பத்தியில் தமிழ்நாடு 10-ஆம் இடம் (விளைச்சலில் 5-ஆம்); கரும்பு, கேழ்வரகு விளைச்சலில்தான் முதலிடம்.",
+      "en": "(iv) is false: Tamil Nadu is 10th in paddy production (5th in yield); it is first in sugarcane and ragi yield."
+     }
+    },
+    {
+     "id": "d037-daily-p017",
+     "subject": "gs",
+     "q": {
+      "ta": "தொழில் நகரத்தை அதன் சிறப்புடன் பொருத்துக.\n(a) சென்னை\n(b) கோயம்புத்தூர்\n(c) திருப்பூர்\n(d) சிவகாசி\n1. பின்னலாடை\n2. ஆசியாவின் டெட்ராய்ட்\n3. பட்டாசு, தீப்பெட்டி, அச்சகம்\n4. தென்னிந்தியாவின் மான்செஸ்டர்",
+      "en": "Match each industrial town with what it is known for.\n(a) Chennai\n(b) Coimbatore\n(c) Tiruppur\n(d) Sivakasi\n1. Knitwear\n2. Detroit of Asia\n3. Fireworks, matches, printing\n4. Manchester of South India"
+     },
+     "o": [
+      {
+       "ta": "(a) 2, (b) 1, (c) 4, (d) 3"
+      },
+      {
+       "ta": "(a) 4, (b) 2, (c) 1, (d) 3"
+      },
+      {
+       "ta": "(a) 2, (b) 4, (c) 3, (d) 1"
+      },
+      {
+       "ta": "(a) 2, (b) 4, (c) 1, (d) 3"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "சென்னை – மகிழுந்துகள், ஆசியாவின் டெட்ராய்ட்; கோயம்புத்தூர் – பஞ்சாலைகள், தென்னிந்தியாவின் மான்செஸ்டர்; திருப்பூர் – பின்னலாடை; சிவகாசி – பட்டாசு, தீப்பெட்டி, அச்சகம்.",
+      "en": "Chennai – cars, Detroit of Asia; Coimbatore – cotton mills, Manchester of South India; Tiruppur – knitwear; Sivakasi – fireworks, matches, printing."
+     }
+    },
+    {
+     "id": "d037-daily-p018",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: தமிழ்நாட்டின் முதல் தனி வேளாண் நிதிநிலை அறிக்கை 14 ஆகஸ்ட் 2021 அன்று தாக்கல் செய்யப்பட்டது.\nகாரணம்: 2026–27 வேளாண் நிதிநிலை அறிக்கையைத் தங்கம் தென்னரசு தாக்கல் செய்தார்.",
+      "en": "Assertion: Tamil Nadu's first separate agriculture budget was presented on 14 August 2021.\nReason: The 2026–27 agriculture budget was presented by Thangam Thennarasu."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "கூற்று சரி. காரணம் தவறு: 2026–27 வேளாண் அறிக்கை (6 ஆகஸ்ட் 2026) – வேளாண் அமைச்சர் ஆர். வினோத்; தங்கம் தென்னரசு தாக்கல் செய்தது இடைக்கால அறிக்கை (17 பிப்ரவரி 2026).",
+      "en": "The assertion is true. The reason is false: the 2026–27 agriculture budget (6 August 2026) was presented by Agriculture Minister R. Vinoth; Thangam Thennarasu presented the interim budget (17 February 2026)."
+     }
+    },
+    {
+     "id": "d037-daily-p019",
+     "subject": "gs",
+     "q": {
+      "ta": "2024–25-இல் தமிழ்நாட்டின் உண்மை (real) பொருளாதார வளர்ச்சி வீதம்",
+      "en": "Tamil Nadu's real economic growth rate in 2024–25 was"
+     },
+     "o": [
+      {
+       "ta": "8.19%"
+      },
+      {
+       "ta": "10.83%"
+      },
+      {
+       "ta": "11.19%"
+      },
+      {
+       "ta": "9.4%"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "2024–25 – 11.19%, பெரிய மாநிலங்களில் அதிகம்; 2025–26 – 10.83%. 9.4% என்பது இந்திய GDP-யில் தமிழ்நாட்டின் பங்கு.",
+      "en": "2024–25 – 11.19%, the highest among major states; 2025–26 – 10.83%. 9.4% is Tamil Nadu's share of India's GDP."
+     }
+    },
+    {
+     "id": "d037-daily-p020",
+     "subject": "gs",
+     "q": {
+      "ta": "2024–25-இல் இந்தியாவின் மின்னணுப் பொருள் ஏற்றுமதியில் தமிழ்நாட்டின் பங்கு ஏறத்தாழ",
+      "en": "Tamil Nadu's share of India's electronics exports in 2024–25 was about"
+     },
+     "o": [
+      {
+       "ta": "15%"
+      },
+      {
+       "ta": "41%"
+      },
+      {
+       "ta": "9%"
+      },
+      {
+       "ta": "26%"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "US$ 14.65 பில்லியன், நாட்டின் 41.23% – முதலிடம். 15.44% என்பது தொழிற்சாலை எண்ணிக்கையில் பங்கு.",
+      "en": "US$ 14.65 billion, 41.23% of India's – first. 15.44% is the share of factories."
+     }
     }
    ]
   }
