@@ -2029,6 +2029,153 @@
       "ta": "US$ 14.65 பில்லியன், நாட்டின் 41.23% – முதலிடம். 15.44% என்பது தொழிற்சாலை எண்ணிக்கையில் பங்கு.",
       "en": "US$ 14.65 billion, 41.23% of India's – first. 15.44% is the share of factories."
      }
+    },
+    {
+     "id": "d037-daily-p021",
+     "subject": "gs",
+     "q": {
+      "ta": "நிறுவனத்தையும் அது தொடங்கிய ஆண்டையும் பொருத்துக.\n(a) TIIC\n(b) TIDCO\n(c) SIPCOT\n(d) ELCOT\n1. 1971\n2. 1949\n3. 1977\n4. 1965",
+      "en": "Match each corporation with the year it was set up.\n(a) TIIC\n(b) TIDCO\n(c) SIPCOT\n(d) ELCOT\n1. 1971\n2. 1949\n3. 1977\n4. 1965"
+     },
+     "o": [
+      {
+       "ta": "(a) 4, (b) 2, (c) 1, (d) 3"
+      },
+      {
+       "ta": "(a) 2, (b) 4, (c) 3, (d) 1"
+      },
+      {
+       "ta": "(a) 2, (b) 1, (c) 4, (d) 3"
+      },
+      {
+       "ta": "(a) 2, (b) 4, (c) 1, (d) 3"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "TIIC 1949; TIDCO 1965; SIPCOT 1971; ELCOT 1977.",
+      "en": "TIIC 1949; TIDCO 1965; SIPCOT 1971; ELCOT 1977."
+     }
+    },
+    {
+     "id": "d037-daily-p022",
+     "subject": "gs",
+     "q": {
+      "ta": "தமிழ்நாட்டு வேளாண்மை பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) ஈரோடு மஞ்சளுக்குப் புவிசார் குறியீடு (GI) உண்டு.\n(ii) தனி வேளாண் நிதிநிலை அறிக்கை முதன்முதலில் 14 ஆகஸ்ட் 2021 அன்று தாக்கல் செய்யப்பட்டது.\n(iii) 2024–25-இல் நெல் உற்பத்தியில் தமிழ்நாடு 10-ஆம் இடம்.\n(iv) தமிழ்நாடு பாதுகாக்கப்பட்ட வேளாண் மண்டல வளர்ச்சிச் சட்டம், 2020 காவிரி டெல்டாவில் ஹைட்ரோகார்பன் திட்டங்களைத் தடை செய்கிறது.",
+      "en": "Which of these statements about agriculture in Tamil Nadu are correct?\n(i) Erode turmeric has a Geographical Indication (GI) tag.\n(ii) The first separate agriculture budget was presented on 14 August 2021.\n(iii) Tamil Nadu was 10th in paddy production in 2024–25.\n(iv) The Tamil Nadu Protected Agricultural Zone Development Act, 2020 bans hydrocarbon projects in the Cauvery delta."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iv) மட்டும்",
+       "en": "(i), (ii) and (iv) only"
+      },
+      {
+       "ta": "நான்கும்",
+       "en": "All four"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iii), (iv) மட்டும்",
+       "en": "(ii), (iii) and (iv) only"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "நான்கும் சரி (நாள் 37). '10-ஆம் இடம்' என்பது சரியான செய்தி; 'முதலிடம்' இல்லை என்பதற்காகக் கூற்று தவறாகிவிடாது.",
+      "en": "All four are true (day 37). '10th' is the correct fact; a statement is not false just because it does not say 'first'."
+     }
+    },
+    {
+     "id": "d037-daily-p023",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: கோயம்புத்தூர் 'தென்னிந்தியாவின் மான்செஸ்டர்' என்று அழைக்கப்படுகிறது.\nகாரணம்: கோயம்புத்தூரில் பருத்தி நூற்பாலைகள் மிகுதியாக உள்ளன.",
+      "en": "Assertion: Coimbatore is called the 'Manchester of South India'.\nReason: Coimbatore has a large number of cotton mills."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "இரண்டும் சரி. 'ஏன் மான்செஸ்டர்? ஏனெனில் பருத்தி ஆலைகள் மிகுதி' (மான்செஸ்டர் பருத்தித் தொழிலுக்குப் புகழ்பெற்ற நகரம்) ⇒ காரணம் கூற்றை விளக்குகிறது.",
+      "en": "Both are true. 'Why Manchester? Because of its many cotton mills' (Manchester was famous for cotton) ⇒ the reason explains the assertion."
+     }
+    },
+    {
+     "id": "d037-daily-p024",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: சென்னை டைடல் பூங்கா 2000-இல் திறக்கப்பட்டது.\nகாரணம்: டைடல் பூங்காவைக் கட்டியவை SIPCOT, TANGEDCO ஆகியவை.",
+      "en": "Assertion: TIDEL Park in Chennai was opened in 2000.\nReason: TIDEL Park was built by SIPCOT and TANGEDCO."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "கூற்று சரி (4 ஜூலை 2000). காரணம் தவறு: டைடல் பூங்காவைக் கட்டியவை TIDCO, ELCOT.",
+      "en": "The assertion is true (4 July 2000). The reason is false: TIDEL Park was built by TIDCO and ELCOT."
+     }
+    },
+    {
+     "id": "d037-daily-p025",
+     "subject": "gs",
+     "q": {
+      "ta": "தமிழ்நாடு மின்சார வாரியம் TANGEDCO, TANTRANSCO என இரண்டாகப் பிரிக்கப்பட்ட ஆண்டு",
+      "en": "The year the Tamil Nadu Electricity Board was split into TANGEDCO and TANTRANSCO"
+     },
+     "o": [
+      {
+       "ta": "2000"
+      },
+      {
+       "ta": "2005"
+      },
+      {
+       "ta": "2010"
+      },
+      {
+       "ta": "2015"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "தமிழ்நாடு மின்சார வாரியம் 1 ஜூலை 1957-இல் அமைந்தது; 2010-இல் TANGEDCO, TANTRANSCO எனப் பிரிக்கப்பட்டது.",
+      "en": "The Tamil Nadu Electricity Board was set up on 1 July 1957 and split into TANGEDCO and TANTRANSCO in 2010."
+     }
     }
    ]
   }

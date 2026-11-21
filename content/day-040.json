@@ -1849,6 +1849,278 @@
       "ta": "I + 2 = K, N + 2 = P, K + 2 = M ⇒ KPM.",
       "en": "I + 2 = K, N + 2 = P, K + 2 = M ⇒ KPM."
      }
+    },
+    {
+     "id": "d040-daily-p016",
+     "subject": "tamil",
+     "q": {
+      "ta": "'காலை வாருதல்' என்னும் மரபுத் தொடரின் பொருள்"
+     },
+     "o": [
+      {
+       "ta": "உதவுதல்"
+      },
+      {
+       "ta": "நம்பவைத்துக் கவிழ்த்தல்"
+      },
+      {
+       "ta": "விரைந்து நடத்தல்"
+      },
+      {
+       "ta": "காலம் தாழ்த்துதல்"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "காலை வாருதல் – நம்பவைத்துக் கவிழ்த்தல். காலம் தாழ்த்துதல் – ஆறப்போடுதல்; உதவுதல் – கை கொடுத்தல்."
+     }
+    },
+    {
+     "id": "d040-daily-p017",
+     "subject": "tamil",
+     "q": {
+      "ta": "மரபுத் தொடரை அதன் பொருளோடு பொருத்துக.\n(a) ஆகாயத் தாமரை\n(b) கானல் நீர்\n(c) எட்டாக்கனி\n(d) பகல் கனவு\n1. நிறைவேறாத ஆசை\n2. அடைய முடியாதது\n3. இல்லாத ஒன்று\n4. தோன்றினாலும் கிடைக்காதது"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 2, (c) 4, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "ஆகாயத் தாமரை – இல்லவே இல்லாதது; கானல் நீர் – தோன்றும், கிடைக்காது; எட்டாக்கனி – இருக்கிறது, எட்டாது; பகல் கனவு – நிறைவேறாத ஆசை."
+     }
+    },
+    {
+     "id": "d040-daily-p018",
+     "subject": "tamil",
+     "q": {
+      "ta": "கூற்று: 'கல்லில் நார் உரித்தல்' என்பது உவமைத் தொடர்.\nகாரணம்: 'கல்லில் நார் உரித்தல்' இயலாத செயலைக் குறிக்கும்."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் தவறு"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "கூற்று தவறு: 'போல' இல்லை; இது மரபுத் தொடர். காரணம் சரி: கல்லிலிருந்து நார் உரிக்க முடியாது ⇒ இயலாத செயல்."
+     }
+    },
+    {
+     "id": "d040-daily-p019",
+     "subject": "tamil",
+     "q": {
+      "ta": "இரண்டும் மரபுத் தொடர்களாக உள்ள இணை எது?"
+     },
+     "o": [
+      {
+       "ta": "கானல் நீர், நகமும் சதையும் போல"
+      },
+      {
+       "ta": "பாலும் நீரும் போல, முதலைக் கண்ணீர்"
+      },
+      {
+       "ta": "கானல் நீர், முதலைக் கண்ணீர்"
+      },
+      {
+       "ta": "இலவு காத்த கிளி போல, கிணற்றுத் தவளை"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "கானல் நீர், முதலைக் கண்ணீர் – இரண்டிலும் 'போல' இல்லை ⇒ மரபுத் தொடர்கள். பிற இணைகளில் ஒவ்வொன்றிலும் 'போல' உள்ள உவமைத் தொடர் ஒன்று உள்ளது."
+     }
+    },
+    {
+     "id": "d040-daily-p020",
+     "subject": "tamil",
+     "q": {
+      "ta": "'கை கழுவுதல்' என்னும் மரபுத் தொடரின் பொருள்"
+     },
+     "o": [
+      {
+       "ta": "உதவுதல்"
+      },
+      {
+       "ta": "துணை நிற்றல்"
+      },
+      {
+       "ta": "முடியாது என்று கைவிடுதல்"
+      },
+      {
+       "ta": "பொறுப்பிலிருந்து விலகுதல்"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "கை கழுவுதல் – பொறுப்பிலிருந்து விலகுதல். கை கொடுத்தல் – உதவுதல்; தோள் கொடுத்தல் – துணை நிற்றல்; கை விரித்தல் – முடியாது என்று கைவிடுதல்."
+     }
+    },
+    {
+     "id": "d040-daily-p021",
+     "subject": "gs",
+     "q": {
+      "ta": "மின்னாளுகை பற்றிய கூற்றுகளில் சரியானவை எவை?\n(i) தகவல் தொழில்நுட்பச் சட்டம் 17 அக்டோபர் 2000 அன்று நடைமுறைக்கு வந்தது.\n(ii) தேசிய மின்னாளுகைத் திட்டம் 2006-இல் 27 இயக்க முறைத் திட்டங்களுடன் தொடங்கியது.\n(iii) UMANG செயலி 2015-இல் தொடங்கப்பட்டது.\n(iv) தமிழ்நாடு மின்னாளுகை முகமை (TNeGA) 2010-இல் அமைக்கப்பட்டது.",
+      "en": "Which of these statements on e-governance are correct?\n(i) The Information Technology Act came into force on 17 October 2000.\n(ii) The National e-Governance Plan began in 2006 with 27 Mission Mode Projects.\n(iii) The UMANG app was launched in 2015.\n(iv) The Tamil Nadu e-Governance Agency (TNeGA) was set up in 2010."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iv) மட்டும்",
+       "en": "(ii) and (iv) only"
+      },
+      {
+       "ta": "நான்கும்",
+       "en": "All four"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "இரண்டு கூற்றுகள் தவறு. (iii): UMANG 23 நவம்பர் 2017. (iv): TNeGA 2007.",
+      "en": "Two statements are false. (iii): UMANG was launched on 23 November 2017. (iv): TNeGA was set up in 2007."
+     }
+    },
+    {
+     "id": "d040-daily-p022",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: பொதுச் சேவை உரிமைச் சட்டத்தை முதன்முதலில் இயற்றிய மாநிலம் மத்தியப் பிரதேசம்.\nகாரணம்: தமிழ்நாடு 2010-இல் பொதுச் சேவை உரிமைச் சட்டத்தை இயற்றியது.",
+      "en": "Assertion: Madhya Pradesh was the first state to enact a right to public services law.\nReason: Tamil Nadu enacted a right to public services law in 2010."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "கூற்று சரி (மத்தியப் பிரதேசம், 2010). காரணம் தவறு: தமிழ்நாடு இன்னும் அத்தகைய சட்டத்தை இயற்றவில்லை (நாள் 40).",
+      "en": "The assertion is true (Madhya Pradesh, 2010). The reason is false: Tamil Nadu has not yet enacted such a law (day 40)."
+     }
+    },
+    {
+     "id": "d040-daily-p023",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: காமராஜர் துறைமுகம் 2001-இல் செயல்படத் தொடங்கியது.\nகாரணம்: சென்னைத் துறைமுகத்தின் முறையான செயல்பாடு 1881-இல் தொடங்கியது.",
+      "en": "Assertion: Kamarajar Port was commissioned in 2001.\nReason: Chennai Port's formal operations began in 1881."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "இரண்டும் சரி; ஆனால் இரண்டு தனித்தனிச் செய்திகள்: சென்னைத் துறைமுகம் 1881-இல் தொடங்கியது காமராஜர் துறைமுகம் 2001-இல் தொடங்கியதற்குக் காரணம் அல்ல ⇒ விளக்கவில்லை.",
+      "en": "Both are true but they are separate facts: Chennai Port starting in 1881 is not why Kamarajar Port opened in 2001 ⇒ the reason does not explain the assertion."
+     }
+    },
+    {
+     "id": "d040-daily-p024",
+     "subject": "gs",
+     "q": {
+      "ta": "பொருத்துக.\n(a) யு.எல். கோஸ்வாமி\n(b) எம். வீரப்ப மொய்லி\n(c) ஜான் மேஜர்\n(d) மத்தியப் பிரதேசம்\n1. குடிமக்கள் சாசனம், 1991\n2. பொதுச் சேவை உரிமைச் சட்டம், 2010\n3. 'வளர்ச்சி நிர்வாகம்' என்னும் சொல், 1955\n4. இரண்டாம் நிர்வாகச் சீர்திருத்த ஆணையம்",
+      "en": "Match the following.\n(a) U. L. Goswami\n(b) M. Veerappa Moily\n(c) John Major\n(d) Madhya Pradesh\n1. Citizen's Charter, 1991\n2. Right to public services law, 2010\n3. The term 'development administration', 1955\n4. Second Administrative Reforms Commission"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 4, (b) 3, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 2, (d) 1"
+      },
+      {
+       "ta": "(a) 3, (b) 1, (c) 4, (d) 2"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "கோஸ்வாமி – 'வளர்ச்சி நிர்வாகம்' 1955; மொய்லி – இரண்டாம் நிர்வாகச் சீர்திருத்த ஆணையம் (2005); ஜான் மேஜர் – குடிமக்கள் சாசனம், பிரிட்டன் 1991; மத்தியப் பிரதேசம் – சேவை உரிமைச் சட்டம் 2010.",
+      "en": "Goswami – 'development administration', 1955; Moily – Second Administrative Reforms Commission (2005); John Major – Citizen's Charter, UK 1991; Madhya Pradesh – right to services law, 2010."
+     }
+    },
+    {
+     "id": "d040-daily-p025",
+     "subject": "gs",
+     "q": {
+      "ta": "காலவரிசைப்படுத்துக.\n1. UMANG செயலி\n2. பிரிட்டனில் குடிமக்கள் சாசனம்\n3. சேவோத்தம் (Sevottam) மாதிரி\n4. தகவல் தொழில்நுட்பச் சட்டம்",
+      "en": "Arrange in chronological order.\n1. The UMANG app\n2. The Citizen's Charter in the United Kingdom\n3. The Sevottam model\n4. The Information Technology Act"
+     },
+     "o": [
+      {
+       "ta": "2, 3, 4, 1"
+      },
+      {
+       "ta": "2, 4, 3, 1"
+      },
+      {
+       "ta": "4, 2, 3, 1"
+      },
+      {
+       "ta": "2, 4, 1, 3"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "குடிமக்கள் சாசனம் 1991 → தகவல் தொழில்நுட்பச் சட்டம் 2000 → சேவோத்தம் 2006 → UMANG 2017.",
+      "en": "Citizen's Charter 1991 → IT Act 2000 → Sevottam 2006 → UMANG 2017."
+     }
     }
    ]
   }

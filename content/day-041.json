@@ -1849,6 +1849,300 @@
       "ta": "தொகை = 10,000 × 1.1 × 1.1 = 12,100; வட்டி = 12,100 − 10,000 = ₹ 2,100. 12,100 தொகை; 2,000 தனிவட்டி.",
       "en": "Amount = 10,000 × 1.1 × 1.1 = 12,100; interest = 12,100 − 10,000 = ₹ 2,100. 12,100 is the amount; 2,000 is simple interest."
      }
+    },
+    {
+     "id": "d041-daily-p016",
+     "subject": "gs",
+     "q": {
+      "ta": "கீழ்க்காணும் கூற்றுகளில் சரியானவை எவை?\n(i) சரக்கு மற்றும் சேவை வரி (GST) 1 ஜூலை 2017 முதல் நடைமுறையில் உள்ளது.\n(ii) GST மன்றம் பற்றிக் கூறுவது பிரிவு 279A.\n(iii) நிதி ஆணையம் பற்றிக் கூறுவது பிரிவு 280.\n(iv) 15-ஆவது நிதி ஆணையத்தின் தலைவர் என்.கே. சிங்.",
+      "en": "Which of these statements are correct?\n(i) GST has been in force since 1 July 2017.\n(ii) Article 279A deals with the GST Council.\n(iii) Article 280 deals with the Finance Commission.\n(iv) The 15th Finance Commission was chaired by N. K. Singh."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(ii), (iii), (iv) மட்டும்",
+       "en": "(ii), (iii) and (iv) only"
+      },
+      {
+       "ta": "நான்கும்",
+       "en": "All four"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "நான்கும் சரி (நாள் 41). எல்லாக் கூற்றுகளும் சரியாக இருக்கலாம்; ஒவ்வொன்றையும் சோதித்த பின் 'நான்கும்' என்று குறி.",
+      "en": "All four are true (day 41). Every statement can be true; check each one, then choose 'All four'."
+     }
+    },
+    {
+     "id": "d041-daily-p017",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: மக்கள்தொகை உணவு உற்பத்தியைவிட வேகமாகப் பெருகும் என்று மால்தஸ் கூறினார்.\nகாரணம்: உணவு உற்பத்தி பெருக்கல் விகிதத்தில் பெருகும் என்று மால்தஸ் கூறினார்.",
+      "en": "Assertion: Malthus said that population grows faster than food supply.\nReason: Malthus said that food supply grows in a geometric ratio."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "கூற்று சரி. காரணம் தவறு: மால்தஸின்படி மக்கள்தொகை பெருக்கல் விகிதத்திலும் உணவு கூட்டல் விகிதத்திலும் பெருகும்.",
+      "en": "The assertion is true. The reason is false: for Malthus population grows in a geometric ratio and food in an arithmetic ratio."
+     }
+    },
+    {
+     "id": "d041-daily-p018",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: SLR என்பது ஒரு வங்கி ரொக்கம், தங்கம், அரசுப் பத்திரங்களாகத் தன்னிடமே வைத்திருக்க வேண்டிய பங்கு.\nகாரணம்: CRR என்பது வைப்புகளில் ரிசர்வ் வங்கியிடம் வைக்க வேண்டிய பங்கு.",
+      "en": "Assertion: The SLR is the share a bank must keep with itself as cash, gold and government securities.\nReason: The CRR is the share of deposits that must be kept with the RBI."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "இரண்டும் சரி; ஆனால் CRR என்ன என்பது SLR என்ன என்பதை விளக்காது; இரண்டு தனி வரையறைகள் ⇒ விளக்கவில்லை.",
+      "en": "Both are true, but what the CRR is does not explain what the SLR is; they are two separate definitions ⇒ the reason does not explain the assertion."
+     }
+    },
+    {
+     "id": "d041-daily-p019",
+     "subject": "gs",
+     "q": {
+      "ta": "நிறுவனத்தையும் அது தொடங்கிய ஆண்டையும் பொருத்துக.\n(a) இந்திய ரிசர்வ் வங்கி\n(b) பாரத ஸ்டேட் வங்கி\n(c) நபார்டு (NABARD)\n(d) நிதி ஆயோக்\n1. 1955\n2. 2015\n3. 1935\n4. 1982",
+      "en": "Match each institution with the year it began.\n(a) Reserve Bank of India\n(b) State Bank of India\n(c) NABARD\n(d) NITI Aayog\n1. 1955\n2. 2015\n3. 1935\n4. 1982"
+     },
+     "o": [
+      {
+       "ta": "(a) 3, (b) 1, (c) 4, (d) 2"
+      },
+      {
+       "ta": "(a) 1, (b) 3, (c) 4, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 1, (c) 2, (d) 4"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "ரிசர்வ் வங்கி 1 ஏப்ரல் 1935; ஸ்டேட் வங்கி 1 ஜூலை 1955; நபார்டு 12 ஜூலை 1982; நிதி ஆயோக் 1 ஜனவரி 2015.",
+      "en": "RBI 1 April 1935; SBI 1 July 1955; NABARD 12 July 1982; NITI Aayog 1 January 2015."
+     }
+    },
+    {
+     "id": "d041-daily-p020",
+     "subject": "gs",
+     "q": {
+      "ta": "கீழ்க்காணும் கூற்றுகளில் சரியானவை எவை?\n(i) இரண்டாம் ஐந்தாண்டுத் திட்டம் மகலனோபிஸ் மாதிரியைப் பின்பற்றியது.\n(ii) 1966–69 'திட்ட விடுமுறை' காலம்.\n(iii) காற்றாலை மின் நிறுவுதிறனில் தமிழ்நாடு நாட்டில் முதலிடம்.\n(iv) உள்நாட்டுச் சுற்றுலாப் பயணிகள் வருகையில் 2024-இல் தமிழ்நாடு முதலிடம்.",
+      "en": "Which of these statements are correct?\n(i) The Second Five-Year Plan followed the Mahalanobis model.\n(ii) 1966–69 was the 'plan holiday'.\n(iii) Tamil Nadu is first in the country in installed wind power capacity.\n(iv) Tamil Nadu was first in domestic tourist visits in 2024."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii) மட்டும்",
+       "en": "(i) and (ii) only"
+      },
+      {
+       "ta": "(ii), (iv) மட்டும்",
+       "en": "(ii) and (iv) only"
+      },
+      {
+       "ta": "நான்கும்",
+       "en": "All four"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "இரண்டு கூற்றுகள் தவறு. (iii): காற்றாலையில் தமிழ்நாடு இரண்டாம் இடம் (குஜராத் முதல்). (iv): சுற்றுலாவிலும் இரண்டாம் இடம் (உத்தரப் பிரதேசம் முதல்).",
+      "en": "Two statements are false. (iii): Tamil Nadu is second in wind power (Gujarat first). (iv): it is also second in tourist visits (Uttar Pradesh first)."
+     }
+    },
+    {
+     "id": "d041-daily-p021",
+     "subject": "apt",
+     "q": {
+      "ta": "ஒரு கணக்கெடுப்பில் 55% பேர் தமிழ் நாளிதழையும், 40% பேர் ஆங்கில நாளிதழையும், 15% பேர் இரண்டையும் படிக்கின்றனர். இரண்டையும் படிக்காதவர் எத்தனை விழுக்காடு?",
+      "en": "In a survey, 55% read a Tamil daily, 40% read an English daily and 15% read both. What percentage read neither?"
+     },
+     "o": [
+      {
+       "ta": "5%"
+      },
+      {
+       "ta": "20%"
+      },
+      {
+       "ta": "35%"
+      },
+      {
+       "ta": "15%"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "குறைந்தது ஒன்று = 55 + 40 − 15 = 80%. இரண்டும் இல்லை = 100 − 80 = 20%. 'இரண்டும்' கழிக்காமல் விட்டால் வரும் 5% பொறி.",
+      "en": "At least one = 55 + 40 − 15 = 80%. Neither = 100 − 80 = 20%. Forgetting to take off 'both' gives 5%, the trap."
+     }
+    },
+    {
+     "id": "d041-daily-p022",
+     "subject": "apt",
+     "q": {
+      "ta": "கூற்றுகள்: சில பெட்டிகள் தகரங்கள். எல்லாத் தகரங்களும் டப்பாக்கள்.\nமுடிவுகள்: I. சில பெட்டிகள் டப்பாக்கள். II. எல்லா டப்பாக்களும் தகரங்கள்.",
+      "en": "Statements: Some boxes are tins. All tins are cans.\nConclusions: I. Some boxes are cans. II. All cans are tins."
+     },
+     "o": [
+      {
+       "ta": "I மட்டும் பொருந்தும்",
+       "en": "Only I follows"
+      },
+      {
+       "ta": "II மட்டும் பொருந்தும்",
+       "en": "Only II follows"
+      },
+      {
+       "ta": "இரண்டும் பொருந்தும்",
+       "en": "Both follow"
+      },
+      {
+       "ta": "இரண்டும் பொருந்தாது",
+       "en": "Neither follows"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "தகரங்களாக உள்ள பெட்டிகள் டப்பாக்களும் ஆகும் ⇒ I உறுதி. 'எல்லாத் தகரங்களும் டப்பாக்கள்' என்பதைத் திருப்பினால் 'சில டப்பாக்கள் தகரங்கள்' மட்டுமே ⇒ II பொருந்தாது.",
+      "en": "The boxes that are tins are also cans ⇒ I is certain. 'All tins are cans' turned round gives only 'some cans are tins' ⇒ II does not follow."
+     }
+    },
+    {
+     "id": "d041-daily-p023",
+     "subject": "apt",
+     "q": {
+      "ta": "90 மாணவர்களில் 50 பேர் கிரிக்கெட்டும் 45 பேர் கால்பந்தும் விளையாடுகின்றனர். ஒவ்வொருவரும் குறைந்தது ஒன்றை விளையாடுகின்றனர். கிரிக்கெட் மட்டும் விளையாடுபவர் எத்தனை பேர்?",
+      "en": "Of 90 students, 50 play cricket and 45 play football. Everyone plays at least one. How many play only cricket?"
+     },
+     "o": [
+      {
+       "ta": "50"
+      },
+      {
+       "ta": "5"
+      },
+      {
+       "ta": "45"
+      },
+      {
+       "ta": "40"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "இரண்டும் = 50 + 45 − 90 = 5. கிரிக்கெட் மட்டும் = 50 − 5 = 45.",
+      "en": "Both = 50 + 45 − 90 = 5. Only cricket = 50 − 5 = 45."
+     }
+    },
+    {
+     "id": "d041-daily-p024",
+     "subject": "apt",
+     "q": {
+      "ta": "குழாய்கள் A, B ஒரு தொட்டியை முறையே 20 நிமிடம், 30 நிமிடத்தில் நிரப்பும். இரண்டையும் சேர்த்துத் திறந்து, 6 நிமிடத்துக்குப் பின் A மூடப்படுகிறது. மீதியை B நிரப்ப ஆகும் நேரம்",
+      "en": "Pipes A and B fill a tank in 20 minutes and 30 minutes. Both are opened together, and A is closed after 6 minutes. The time B takes to fill the rest is"
+     },
+     "o": [
+      {
+       "ta": "12 நிமிடம்",
+       "en": "12 minutes"
+      },
+      {
+       "ta": "24 நிமிடம்",
+       "en": "24 minutes"
+      },
+      {
+       "ta": "18 நிமிடம்",
+       "en": "18 minutes"
+      },
+      {
+       "ta": "15 நிமிடம்",
+       "en": "15 minutes"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "6 நிமிடத்தில் 6 × (1/20 + 1/30) = 6 × 1/12 = 1/2 நிரம்பும். மீதி 1/2 × 30 = 15 நிமிடம்.",
+      "en": "In 6 minutes 6 × (1/20 + 1/30) = 6 × 1/12 = 1/2 is filled. The rest: 1/2 × 30 = 15 minutes."
+     }
+    },
+    {
+     "id": "d041-daily-p025",
+     "subject": "apt",
+     "q": {
+      "ta": "ஒரு தொகைக்கு 2 ஆண்டுகளுக்கான தனிவட்டி ₹ 2,000; அதே காலத்துக்கு அதே வீதத்தில் கூட்டுவட்டி ₹ 2,100. ஆண்டு வட்டி வீதம்",
+      "en": "The simple interest on a sum for 2 years is ₹ 2,000 and the compound interest for the same time at the same rate is ₹ 2,100. The rate per annum is"
+     },
+     "o": [
+      {
+       "ta": "5%"
+      },
+      {
+       "ta": "10%"
+      },
+      {
+       "ta": "20%"
+      },
+      {
+       "ta": "2.5%"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "ஓராண்டுத் தனிவட்டி 1,000. கூடுதல் 100 என்பது 1,000-க்கு ஓராண்டு வட்டி: 100 ÷ 1,000 × 100 = 10%. (அசல் ₹ 10,000.)",
+      "en": "One year's simple interest is 1,000. The extra 100 is a year's interest on 1,000: 100 ÷ 1,000 × 100 = 10%. (Principal ₹ 10,000.)"
+     }
     }
    ]
   }
