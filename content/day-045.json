@@ -1072,27 +1072,27 @@
      "id": "d045-daily-038",
      "subject": "apt",
      "q": {
-      "ta": "ஒரு தொகைக்கு 2 ஆண்டுகளுக்கான தனிவட்டி ₹ 1,600; அதே வீதத்தில் அதே காலத்துக்கான கூட்டுவட்டி ₹ 1,664. ஆண்டு வட்டி வீதம்",
-      "en": "The simple interest on a sum for 2 years is ₹ 1,600 and the compound interest for the same time at the same rate is ₹ 1,664. The rate per annum is"
+      "ta": "ஒரு தொகைக்கு 2 ஆண்டுகளுக்கான தனிவட்டி ₹ 2,400; அதே வீதத்தில் அதே காலத்துக்கான கூட்டுவட்டி ₹ 2,472. ஆண்டு வட்டி வீதம்",
+      "en": "The simple interest on a sum for 2 years is ₹ 2,400 and the compound interest for the same time at the same rate is ₹ 2,472. The rate per annum is"
      },
      "o": [
       {
-       "ta": "4%"
-      },
-      {
-       "ta": "8%"
-      },
-      {
-       "ta": "16%"
+       "ta": "3%"
       },
       {
        "ta": "6%"
+      },
+      {
+       "ta": "12%"
+      },
+      {
+       "ta": "7.2%"
       }
      ],
      "a": 1,
      "x": {
-      "ta": "ஓராண்டுத் தனிவட்டி 800. கூடுதல் 64 என்பது 800-க்கு ஓராண்டு வட்டி: 64 ÷ 800 × 100 = 8%. (அசல் ₹ 10,000.)",
-      "en": "One year's simple interest is 800. The extra 64 is a year's interest on 800: 64 ÷ 800 × 100 = 8%. (Principal ₹ 10,000.)"
+      "ta": "ஓராண்டுத் தனிவட்டி 1,200. கூடுதல் 72 என்பது 1,200-க்கு ஓராண்டு வட்டி: 72 ÷ 1,200 × 100 = 6%. (அசல் ₹ 20,000.)",
+      "en": "One year's simple interest is 1,200. The extra 72 is a year's interest on 1,200: 72 ÷ 1,200 × 100 = 6%. (Principal ₹ 20,000.)"
      }
     },
     {
