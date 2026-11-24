@@ -1849,6 +1849,296 @@
       "ta": "6-உடன் சேர்ந்து தெரிந்தவை 2, 3, 4, 5 – நான்கும் ஒட்டியவை. மீதமுள்ள 1 எதிர்.",
       "en": "6 is seen with 2, 3, 4 and 5 – all four touch it. The one left, 1, is opposite."
      }
+    },
+    {
+     "id": "d043-daily-p016",
+     "subject": "gs",
+     "q": {
+      "ta": "இந்தியாவில் உள்ள மிகப் பெரிய சிந்துவெளி நாகரிக இடம்",
+      "en": "The largest Indus Valley site in India is"
+     },
+     "o": [
+      {
+       "ta": "லோத்தல்",
+       "en": "Lothal"
+      },
+      {
+       "ta": "காளிபங்கன்",
+       "en": "Kalibangan"
+      },
+      {
+       "ta": "ராகிகர்கி",
+       "en": "Rakhigarhi"
+      },
+      {
+       "ta": "தோலாவிரா",
+       "en": "Dholavira"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "ராகிகர்கி (ஹரியானா). லோத்தல் – கப்பல் துறை; காளிபங்கன் – உழுத வயல்; தோலாவிரா – நீர் மேலாண்மை.",
+      "en": "Rakhigarhi (Haryana). Lothal – dockyard; Kalibangan – ploughed field; Dholavira – water management."
+     }
+    },
+    {
+     "id": "d043-daily-p017",
+     "subject": "gs",
+     "q": {
+      "ta": "சிந்துவெளி நாகரிகம் குறித்த கூற்றுகளில் சரியானவை எவை?\n(i) சிந்துவெளி மக்கள் இரும்பை அறியவில்லை.\n(ii) சிந்துவெளி எழுத்துகள் படித்தறியப்பட்டுவிட்டன.\n(iii) முத்திரைகள் பெரும்பாலும் சுட்ட மாக்கல்லால் ஆனவை.\n(iv) முத்திரைகளில் மிகுதியாகக் காணப்படும் உருவம் யானை.",
+      "en": "Which of these statements about the Indus Valley Civilisation are correct?\n(i) The Indus people did not know iron.\n(ii) The Indus script has been deciphered.\n(iii) Most seals are made of steatite.\n(iv) The animal seen most often on the seals is the elephant."
+     },
+     "o": [
+      {
+       "ta": "(i), (iii) மட்டும்",
+       "en": "(i) and (iii) only"
+      },
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "(iii), (iv) மட்டும்",
+       "en": "(iii) and (iv) only"
+      },
+      {
+       "ta": "நான்கும்",
+       "en": "All four"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "இரண்டு தவறு. (ii): எழுத்து இன்னும் படித்தறியப்படவில்லை. (iv): மிகுதியான உருவம் ஒற்றைக் கொம்பு விலங்கு.",
+      "en": "Two are false. (ii): the script is still undeciphered. (iv): the commonest figure is the unicorn."
+     }
+    },
+    {
+     "id": "d043-daily-p018",
+     "subject": "gs",
+     "q": {
+      "ta": "கூற்று: தோலாவிரா 2021-இல் யுனெஸ்கோ உலகப் பாரம்பரியச் சின்னம் ஆனது.\nகாரணம்: தோலாவிரா ராஜஸ்தானில் உள்ளது.",
+      "en": "Assertion: Dholavira became a UNESCO World Heritage Site in 2021.\nReason: Dholavira is in Rajasthan."
+     },
+     "o": [
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; காரணம் கூற்றை விளக்குகிறது",
+       "en": "Both are true and the reason explains the assertion"
+      },
+      {
+       "ta": "கூற்று தவறு, காரணம் சரி",
+       "en": "The assertion is false, the reason is true"
+      },
+      {
+       "ta": "கூற்று, காரணம் இரண்டும் சரி; ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+       "en": "Both are true but the reason does not explain the assertion"
+      },
+      {
+       "ta": "கூற்று சரி, காரணம் தவறு",
+       "en": "The assertion is true, the reason is false"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "கூற்று சரி. காரணம் தவறு: தோலாவிரா குஜராத்தில் உள்ளது; ராஜஸ்தானில் உள்ளது காளிபங்கன்.",
+      "en": "The assertion is true. The reason is false: Dholavira is in Gujarat; Kalibangan is the site in Rajasthan."
+     }
+    },
+    {
+     "id": "d043-daily-p019",
+     "subject": "gs",
+     "q": {
+      "ta": "பௌத்த மாநாடுகளை அவை நடந்த இடத்தோடு பொருத்துக.\n(a) முதல் மாநாடு\n(b) இரண்டாம் மாநாடு\n(c) மூன்றாம் மாநாடு\n(d) நான்காம் மாநாடு\n1. வைசாலி\n2. காஷ்மீர்\n3. ராஜகிருகம்\n4. பாடலிபுத்திரம்",
+      "en": "Match the Buddhist councils with where they were held.\n(a) First council\n(b) Second council\n(c) Third council\n(d) Fourth council\n1. Vaishali\n2. Kashmir\n3. Rajagriha\n4. Pataliputra"
+     },
+     "o": [
+      {
+       "ta": "(a) 1, (b) 3, (c) 4, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 1, (c) 4, (d) 2"
+      },
+      {
+       "ta": "(a) 3, (b) 1, (c) 2, (d) 4"
+      },
+      {
+       "ta": "(a) 3, (b) 4, (c) 1, (d) 2"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "முதல் – ராஜகிருகம் (அஜாதசத்ரு); இரண்டாம் – வைசாலி (காலாசோகர்); மூன்றாம் – பாடலிபுத்திரம் (அசோகர்); நான்காம் – காஷ்மீர் (கனிஷ்கர்).",
+      "en": "First – Rajagriha (Ajatashatru); second – Vaishali (Kalasoka); third – Pataliputra (Ashoka); fourth – Kashmir (Kanishka)."
+     }
+    },
+    {
+     "id": "d043-daily-p020",
+     "subject": "gs",
+     "q": {
+      "ta": "வேத காலம் குறித்த கூற்றுகளில் சரியானவை எவை?\n(i) நான்கு வேதங்களுள் ரிக் வேதம் மிகப் பழமையானது.\n(ii) சாம வேதம் இசைக்கு அடிப்படை.\n(iii) ஆயுர்வேதம் மருத்துவத்துக்கான உபவேதம்.\n(iv) முற்கால வேத காலத்தில் சபை, சமிதி என்னும் மக்கள் அவைகள் இருந்தன.",
+      "en": "Which of these statements about the Vedic age are correct?\n(i) The Rig Veda is the oldest of the four Vedas.\n(ii) The Sama Veda is the basis of music.\n(iii) Ayurveda is the Upaveda of medicine.\n(iv) In the early Vedic period there were assemblies called the Sabha and the Samiti."
+     },
+     "o": [
+      {
+       "ta": "(i), (ii), (iii) மட்டும்",
+       "en": "(i), (ii) and (iii) only"
+      },
+      {
+       "ta": "(i), (iii), (iv) மட்டும்",
+       "en": "(i), (iii) and (iv) only"
+      },
+      {
+       "ta": "(ii), (iv) மட்டும்",
+       "en": "(ii) and (iv) only"
+      },
+      {
+       "ta": "நான்கும்",
+       "en": "All four"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "நான்கும் சரி (நாள் 43). ஒவ்வொன்றையும் தனியே சோதி; 'நான்கும்' என்பதும் விடையாகலாம்.",
+      "en": "All four are true (day 43). Check each one on its own; 'all four' can be the answer."
+     }
+    },
+    {
+     "id": "d043-daily-p021",
+     "subject": "apt",
+     "q": {
+      "ta": "24 ÷ 4 × 3 − 2 × (5 − 2) = ?",
+      "en": "24 ÷ 4 × 3 − 2 × (5 − 2) = ?"
+     },
+     "o": [
+      {
+       "ta": "12"
+      },
+      {
+       "ta": "0"
+      },
+      {
+       "ta": "16"
+      },
+      {
+       "ta": "6"
+      }
+     ],
+     "a": 0,
+     "x": {
+      "ta": "அடைப்பு முதலில்: 5 − 2 = 3. பின் இடமிருந்து வலமாக வகுத்தல், பெருக்கல்: 24 ÷ 4 = 6, 6 × 3 = 18; 2 × 3 = 6. 18 − 6 = 12.",
+      "en": "Brackets first: 5 − 2 = 3. Then division and multiplication left to right: 24 ÷ 4 = 6, 6 × 3 = 18; 2 × 3 = 6. 18 − 6 = 12."
+     }
+    },
+    {
+     "id": "d043-daily-p022",
+     "subject": "apt",
+     "q": {
+      "ta": "இரு எண்களின் மீ.பொ.வ. 4, மீ.சி.ம. 240. ஓர் எண் 48 எனில் மற்றொரு எண்",
+      "en": "The HCF of two numbers is 4 and their LCM is 240. If one number is 48, the other is"
+     },
+     "o": [
+      {
+       "ta": "60"
+      },
+      {
+       "ta": "40"
+      },
+      {
+       "ta": "20"
+      },
+      {
+       "ta": "80"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "மற்றொரு எண் = 4 × 240 ÷ 48 = 20. சரிபார்: மீ.பொ.வ.(48, 20) = 4, மீ.சி.ம. = 240.",
+      "en": "Other number = 4 × 240 ÷ 48 = 20. Check: HCF(48, 20) = 4 and LCM = 240."
+     }
+    },
+    {
+     "id": "d043-daily-p023",
+     "subject": "apt",
+     "q": {
+      "ta": "12, 15, 20 ஆகிய மூன்றாலும் சரியாக வகுபடும் மிகப் பெரிய நான்கிலக்க எண்",
+      "en": "The greatest four-digit number exactly divisible by 12, 15 and 20 is"
+     },
+     "o": [
+      {
+       "ta": "9900"
+      },
+      {
+       "ta": "9960"
+      },
+      {
+       "ta": "9999"
+      },
+      {
+       "ta": "9980"
+      }
+     ],
+     "a": 1,
+     "x": {
+      "ta": "மீ.சி.ம. = 60. 9999 ÷ 60 = 166, மீதி 39 ⇒ 9999 − 39 = 9960.",
+      "en": "LCM = 60. 9999 ÷ 60 = 166 remainder 39 ⇒ 9999 − 39 = 9960."
+     }
+    },
+    {
+     "id": "d043-daily-p024",
+     "subject": "apt",
+     "q": {
+      "ta": "84 மீ., 126 மீ. நீளமுள்ள இரண்டு கயிறுகளை, மீதியின்றி, சம நீளமுள்ள மிக நீண்ட துண்டுகளாக வெட்ட வேண்டும். ஒவ்வொரு துண்டின் நீளம்",
+      "en": "Two ropes 84 m and 126 m long are to be cut into pieces of equal length, as long as possible, with nothing left over. The length of each piece is"
+     },
+     "o": [
+      {
+       "ta": "21 மீ.",
+       "en": "21 m"
+      },
+      {
+       "ta": "14 மீ.",
+       "en": "14 m"
+      },
+      {
+       "ta": "63 மீ.",
+       "en": "63 m"
+      },
+      {
+       "ta": "42 மீ.",
+       "en": "42 m"
+      }
+     ],
+     "a": 3,
+     "x": {
+      "ta": "சம அளவில் மிகப் பெரியது ⇒ மீ.பொ.வ.(84, 126) = 42. 63, 84-ஐ வகுக்காது.",
+      "en": "Largest equal length ⇒ HCF(84, 126) = 42. 63 does not divide 84."
+     }
+    },
+    {
+     "id": "d043-daily-p025",
+     "subject": "apt",
+     "q": {
+      "ta": "√0.0225 = ?",
+      "en": "√0.0225 = ?"
+     },
+     "o": [
+      {
+       "ta": "0.015"
+      },
+      {
+       "ta": "1.5"
+      },
+      {
+       "ta": "0.15"
+      },
+      {
+       "ta": "0.0015"
+      }
+     ],
+     "a": 2,
+     "x": {
+      "ta": "15² = 225; நான்கு தசம இடங்கள் ⇒ வர்க்கமூலத்தில் இரண்டு ⇒ 0.15. சரிபார்: 0.15 × 0.15 = 0.0225.",
+      "en": "15² = 225; four decimal places ⇒ two in the root ⇒ 0.15. Check: 0.15 × 0.15 = 0.0225."
+     }
     }
    ]
   }
