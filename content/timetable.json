@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "learningDays": 70,
+ "learningDays": 69,
  "weeks": [
   {
    "n": 1,
@@ -1076,7 +1076,7 @@
   {
    "n": 10,
    "from": 64,
-   "to": 70,
+   "to": 69,
    "title": {
     "ta": "பலவீனமான அலகுகள், விடுபட்டவை",
     "en": "Weak units and anything left over"
@@ -1154,36 +1154,20 @@
      "n": 68,
      "kind": "lesson",
      "tamil": {
-      "ta": "உங்கள் முடிவுகளின்படி: எழுதும் திறன், வாசித்தல்",
-      "en": "From your results: writing skills, comprehension"
+      "ta": "உங்கள் முடிவுகளின்படி: எழுதும் திறன், வாசித்தல்; தமிழ் விரைவுத் திருப்புதல்",
+      "en": "From your results: writing skills, comprehension; fast Tamil revision"
      },
      "gs": {
-      "ta": "உங்கள் முடிவுகளின்படி: அறிவியல், புவியியல்",
-      "en": "From your results: science, geography"
+      "ta": "உங்கள் முடிவுகளின்படி: அறிவியல், புவியியல், நடப்பு நிகழ்வுகள்",
+      "en": "From your results: science, geography, current affairs"
      },
      "apt": {
-      "ta": "கலப்பு நேரப் பயிற்சி",
-      "en": "Mixed timed practice"
+      "ta": "சூத்திரத் தாள், கலப்பு நேரப் பயிற்சி",
+      "en": "Formula sheet, mixed timed practice"
      }
     },
     {
      "n": 69,
-     "kind": "lesson",
-     "tamil": {
-      "ta": "தமிழ்: முழு விரைவுத் திருப்புதல்",
-      "en": "Tamil: fast revision of everything"
-     },
-     "gs": {
-      "ta": "நடப்பு நிகழ்வுகள், விடுபட்ட பகுதிகள்",
-      "en": "Current affairs, anything left over"
-     },
-     "apt": {
-      "ta": "சூத்திரத் தாள்: முழுமையாக",
-      "en": "Formula sheet: all of it"
-     }
-    },
-    {
-     "n": 70,
      "kind": "test",
      "note": {
       "ta": "முழுத் தேர்வு 6: 200 வினாக்கள், 3 மணி நேரம்",
@@ -1194,14 +1178,14 @@
   }
  ],
  "revision": {
-  "from": 71,
+  "from": 70,
   "title": {
    "ta": "திருப்புதல் கட்டம்",
    "en": "Revision phase"
   },
   "summary": {
-   "ta": "நாள் 71 முதல் தேர்வு வரை: ஒவ்வொரு நாளும் சுருக்கத் திருப்புதல் தாள்களும் ஒரு முழு மாதிரித் தேர்வும்",
-   "en": "From day 71 to the exam: short revision sheets and one full mock test every day"
+   "ta": "நாள் 70 முதல் தேர்வு வரை: ஒவ்வொரு நாளும் சுருக்கத் திருப்புதல் தாள்களும் ஒரு முழு மாதிரித் தேர்வும்",
+   "en": "From day 70 to the exam: short revision sheets and one full mock test every day"
   },
   "points": [
    {
